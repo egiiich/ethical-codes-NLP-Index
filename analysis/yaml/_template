@@ -1,15 +1,15 @@
 document_id: ""
+topic_id: ""
 company_name: ""
 country: ""
 industry: ""
 source_path: ""
 source_language: ""
 document_type: ""
-competitor_relations_status: ""
+topic_status: ""
 evidence_quality: ""
 review_status: ""
 relevant_section_titles: []
-relevance_categories: []
 key_excerpts:
   - original: ""
     translated_ru: ""

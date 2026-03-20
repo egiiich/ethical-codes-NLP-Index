@@ -1,69 +1,42 @@
-# Instruction 03 — Synthesis of the Ideal Section
+# Instruction 03 — Synthesis of the Ideal Section (Topic-Aware)
 
 ## Task
-На основании завершённых YAML-карточек синтезировать унифицированный набор положений для идеального раздела кодекса этики «Отношения с конкурентами».
+На основании завершённых YAML-карточек синтезировать унифицированный набор положений для выбранной темы (`topic_id`).
+
+## Required input
+- `topic_id` (из `docs/topic_registry.md`)
 
 ## Source
-- `analysis/yaml/*.yaml`
-- `registry/codes_status.csv`
+- `analysis/yaml/<topic_id>/*.yaml`
+- `registry/topic_analysis_status.csv`
 
 ## Use only
 Используй только карточки, для которых одновременно верно:
 - `review_status = completed`
-- `competitor_relations_status != unclear`
+- `topic_status != unclear`
 - `synthesis_ready = yes`
 
-Документы со слабой доказательной базой не должны быть основой для сильных выводов.
-
 ## Goal
-1. Собрать `principle_codes_detected`.
+1. Собрать `principle_codes_detected` по теме.
 2. Оценить распространённость и устойчивость подтверждений.
-3. Сформировать идеальную модель раздела.
-4. Обновить:
-   - `synthesis/competitor_relations_principles.md`
-   - `synthesis/ideal_section_outline.md`
+3. Сформировать идеальную модель раздела по теме.
+4. Обновить файлы в `synthesis/<topic_id>/`.
 
 ## Synthesis levels
-
-### `basic`
-Положение относится сюда, если без него раздел не выполняет регуляторную и поведенческую функцию.
-
-### `strengthening`
-Положение относится сюда, если оно повышает практическую применимость и помогает сотруднику действовать правильно в реальных ситуациях.
-
-### `advanced`
-Положение относится сюда, если оно повышает зрелость и детализацию регулирования, но не образует минимально необходимое ядро.
+- `basic`
+- `strengthening`
+- `advanced`
 
 ## Prevalence
-Частоту фиксируй отдельно:
 - `prevalence_high`
 - `prevalence_medium`
 - `prevalence_low`
 
-Частота не определяет уровень автоматически.
-
-## Required fields for each synthesized principle
-- `principle_code`
-- `short_title`
-- `level`
-- `rule_summary_ru`
-- `why_it_matters_ru`
-- `typical_corpus_patterns_ru`
-- `prevalence`
-- `confidence_of_synthesis`
-
 ## Additional rules
 1. Не выводи новые принципы «из головы».
 2. Редкий, но критичный принцип может попасть в `basic`, если это объяснено.
-3. Часто встречающееся, но чисто декларативное положение не должно автоматически становиться `basic`.
-4. Отдельно объясни различие между формальным упоминанием темы и полноценным регулирующим разделом.
-
-## Handling P99_other
-1. Собери все записи с `P99_other` из карточек.
-2. Сгруппируй по `other_principle_label`.
-3. Если одна и та же тема `P99` встречается в 3+ карточках с независимыми цитатами, предложи промотировать её в основной реестр (`docs/principle_registry.md`) с новым кодом `P13+`.
-4. В ответе перечисли кандидатов на промотирование с обоснованием.
-5. До явного утверждения человеком новый код не добавляется в реестр; в синтезе такие принципы фиксируются как `P99` с пометкой `promotion_candidate: true`.
+3. Частота не определяет уровень автоматически.
+4. Для `P99_other` фиксируй кандидатов на промотирование только с обоснованием.
 
 ## Required response
 Кратко сообщи:
