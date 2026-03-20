@@ -5,21 +5,22 @@ industry: ""
 source_path: ""
 source_language: ""
 document_type: ""
-competitor_relations_status: ""
-evidence_quality: ""
 review_status: ""
-relevant_section_titles: []
-relevance_categories: []
-key_excerpts:
-  - original: ""
-    translated_ru: ""
-    section_title: ""
-    relevance_comment: ""
-    supports_principles: []
-principle_codes_detected: []
-other_principles:
-  - other_principle_label: ""
-    other_principle_explanation: ""
+topic_analyses:
+  - topic_id: ""
+    principles:
+      - principle_code: ""
+        principle_status: "" # explicit_section | implicit_scattered | brief_mention | absent | unclear
+        evidence_excerpt_ids: []
+    key_excerpts:
+      - excerpt_id: ""
+        original: ""
+        translated_ru: ""
+        section_title: ""
+        relevance_comment: ""
+    other_principles:
+      - other_principle_label: ""
+        other_principle_explanation: ""
 notes: []
 limitations: []
 analyst_summary_ru: ""
