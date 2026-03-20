@@ -39,8 +39,7 @@
 - `completed`
 - `needs_human_review`
 
-## Source of categories and principles
-- `relevance_categories` бери из соответствующего блока `topic_id` в `docs/topic_registry.md`.
+## Source of principles
 - `principle_code` бери из `docs/principles/<topic_id>.md`.
 
 ## Required procedure

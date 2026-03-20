@@ -28,22 +28,11 @@
 - Нормализация и выводы фиксируются на русском.
 - Нельзя подменять отсутствие текста догадками.
 
-## 5. Категории релевантности
+## 5. Нормализация только в принципы
 
-Категории релевантности задаются **на уровне конкретной темы** в `docs/topic_registry.md`.
+Для каждой темы анализ выполняется через прямую привязку цитат к каноническим `principle_code` из соответствующего файла `docs/principles/<topic_id>.md`.
 
-Для темы `competitor_relations` используются категории:
-
-1. `competition_law_compliance`
-2. `anti_collusion`
-3. `information_exchange_controls`
-4. `competitor_contacts_protocol`
-5. `competitor_information_integrity`
-6. `fair_competition_and_non_disparagement`
-7. `escalation_and_reporting`
-8. `other_competitor_related`
-
-Категории используются для типизации фрагментов и не заменяют канонические `principle_code`.
+Промежуточная типизация через отдельные категории релевантности **не используется**.
 
 ## 6. Порядок анализа одной темы в одном документе
 
