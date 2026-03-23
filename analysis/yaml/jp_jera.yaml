@@ -1,0 +1,62 @@
+document_id: "jp_jera"
+company_name: "JERA"
+country: "Japan"
+industry: "energy"
+source_path: "Japan_Ethics_Codes_txt_files/Энергетика - JERA.md"
+source_language: "en"
+document_type: "code_of_conduct_or_ethics"
+review_status: "completed"
+topic_analyses:
+  - topic_id: "competitor_relations"
+    principles:
+      - principle_code: "COMP01"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "COMP02"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "COMP03"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids: ["COMP03_explicit_section"]
+      - principle_code: "COMP04"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "COMP05"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids: ["COMP05_explicit_section"]
+      - principle_code: "COMP06"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "COMP07"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids: ["COMP07_explicit_section"]
+      - principle_code: "COMP08"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "COMP09"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "COMP10"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+    key_excerpts:
+      - excerpt_id: "COMP03_explicit_section"
+        original: "We uphold free trade and market competition and conduct fair business in accordance with the Antimonopoly Act and relevant domestic and international laws and regulations."
+        translated_ru: "«Мы поддерживаем свободную торговлю и рыночную конкуренцию и ведем честный бизнес в соответствии с Antimonopoly Act и соответствующими национальными и международными нормами»."
+        section_title: "Fairness and justice in trading and business activities"
+        relevance_comment: "Явное антимонопольное и конкурентное обязательство (COMP03)."
+      - excerpt_id: "COMP05_explicit_section"
+        original: "We will go beyond merely complying with the law, acting to ensure fairness and justice in the pursuit of our trading and business activities."
+        translated_ru: "«Мы будем выходить за рамки простого соблюдения закона, обеспечивая справедливость и добросовестность в нашей торговой и бизнес-деятельности»."
+        section_title: "Fairness and justice"
+        relevance_comment: "Явный принцип fair business conduct (COMP05)."
+      - excerpt_id: "COMP07_explicit_section"
+        original: "We obtain external information by appropriate means and use it properly so as not to infringe the intellectual property right of others."
+        translated_ru: "«Мы получаем внешнюю информацию надлежащими способами и используем ее должным образом, чтобы не нарушать права интеллектуальной собственности других лиц»."
+        section_title: "Management of confidential information and assets"
+        relevance_comment: "Прямое требование не нарушать ИС-права третьих лиц (COMP07)."
+    other_principles: []
+notes:
+  - "Первичный полный анализ по инструкции 02 выполнен 23.03.2026."
+limitations: []
+analyst_summary_ru: "JERA фиксирует явные нормы free/market competition и antimonopoly compliance, а также обязанность не нарушать права ИС других сторон (COMP03, COMP05, COMP07)."

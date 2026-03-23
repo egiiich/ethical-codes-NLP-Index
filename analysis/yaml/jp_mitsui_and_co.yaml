@@ -1,0 +1,63 @@
+document_id: "jp_mitsui_and_co"
+company_name: "Mitsui & Co"
+country: "Japan"
+industry: "trading"
+source_path: "Japan_Ethics_Codes_txt_files/Тороговые дома - Mitsui & Co..txt"
+source_language: "en"
+document_type: "code_of_conduct_or_ethics"
+review_status: "completed"
+topic_analyses:
+  - topic_id: "competitor_relations"
+    principles:
+      - principle_code: "COMP01"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "COMP02"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "COMP03"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids: ["COMP03_explicit_section"]
+      - principle_code: "COMP04"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "COMP05"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids: ["COMP05_explicit_section"]
+      - principle_code: "COMP06"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "COMP07"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids: ["COMP07_explicit_section"]
+      - principle_code: "COMP08"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "COMP09"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "COMP10"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+    key_excerpts:
+      - excerpt_id: "COMP03_explicit_section"
+        original: "Compliance with Antitrust and Competition Laws — We will comply with all laws and regulations concerning antitrust and fair competition ... We will always compete fairly and freely."
+        translated_ru: "«Соблюдение антимонопольного и конкурентного законодательства — мы будем соблюдать все соответствующие законы ... всегда конкурировать честно и свободно»."
+        section_title: "Part 3 Fair Business Practices"
+        relevance_comment: "Явная норма антимонопольного и конкурентного соблюдения (COMP03)."
+      - excerpt_id: "COMP05_explicit_section"
+        original: "We will engage in fair business practices ... maintain our commitment to fairness and honesty in our business activities."
+        translated_ru: "«Мы будем вести честные деловые практики ... сохранять приверженность честности и добросовестности в деловой деятельности»."
+        section_title: "Key Principle — Fair Business Practices"
+        relevance_comment: "Явно сформулирован принцип fair competition/fair conduct (COMP05)."
+      - excerpt_id: "COMP07_explicit_section"
+        original: "We will respect the confidential information and intellectual property rights of third parties."
+        translated_ru: "«Мы будем уважать конфиденциальную информацию и права интеллектуальной собственности третьих лиц»."
+        section_title: "Information and Intellectual Property"
+        relevance_comment: "Прямая обязанность уважать ИС и конфиденциальные права третьих лиц (COMP07)."
+    other_principles: []
+notes:
+  - "Первичный полный анализ по инструкции 02 выполнен 23.03.2026."
+limitations:
+  - "Документ агрегированный (group-level guidelines) и содержит преимущественно рамочные формулировки без детальных процедур по каждому типу конкурентных нарушений."
+analyst_summary_ru: "Mitsui & Co задает явный стандарт fair business practices и отдельный antitrust/competition блок, а также уважение IP/конфиденциальной информации третьих лиц (COMP03, COMP05, COMP07)."

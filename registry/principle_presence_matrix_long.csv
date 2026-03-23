@@ -1,1 +1,401 @@
 Страна,Отрасль,Компания,document_id,Principle_code,Principle_text,Presence,Evidence,Date of analysis,Analysis model
+Japan,automotive,Honda Motor,jp_honda_motor,COMP01,Не пытаться узнать конфиденциальную информацию конкурента,absent,,23.03.2026,GPT 5.4
+Japan,automotive,Honda Motor,jp_honda_motor,COMP02,Не переманивать ключевых работников конкурента с целью ослабить его позиции,absent,,23.03.2026,GPT 5.4
+Japan,automotive,Honda Motor,jp_honda_motor,COMP03,"Не вступать в сговор с конкурентами о ценах, объемах или разделе рынка",explicit_section,COMP03_explicit_section,23.03.2026,GPT 5.4
+Japan,automotive,Honda Motor,jp_honda_motor,COMP04,Сотрудничать с конкурентами с целью повышения эффективности рынка,absent,,23.03.2026,GPT 5.4
+Japan,automotive,Honda Motor,jp_honda_motor,COMP05,Поддерживать уважение к конкурентам и подчеркивать важность деятельности,brief_mention,COMP05_brief_mention,23.03.2026,GPT 5.4
+Japan,automotive,Honda Motor,jp_honda_motor,COMP06,Не пытаться ослабить конкурентов путем ограничения их доступа к каким-либо ресурсам,absent,,23.03.2026,GPT 5.4
+Japan,automotive,Honda Motor,jp_honda_motor,COMP07,Соблюдать права интеллектуальные собственности конкурентов,absent,,23.03.2026,GPT 5.4
+Japan,automotive,Honda Motor,jp_honda_motor,COMP08,Не распространять ложную и порочащую информацию о конкурентах,absent,,23.03.2026,GPT 5.4
+Japan,automotive,Honda Motor,jp_honda_motor,COMP09,Предостерегать конкурентов от нарушения данных принципов с их стороны,absent,,23.03.2026,GPT 5.4
+Japan,automotive,Honda Motor,jp_honda_motor,COMP10,Сообщать регулятору о замеченных неэтичных действиях конкурентов,absent,,23.03.2026,GPT 5.4
+Japan,automotive,Mitsubishi Motors,jp_mitsubishi_motors,COMP01,Не пытаться узнать конфиденциальную информацию конкурента,absent,,23.03.2026,GPT 5.4
+Japan,automotive,Mitsubishi Motors,jp_mitsubishi_motors,COMP02,Не переманивать ключевых работников конкурента с целью ослабить его позиции,absent,,23.03.2026,GPT 5.4
+Japan,automotive,Mitsubishi Motors,jp_mitsubishi_motors,COMP03,"Не вступать в сговор с конкурентами о ценах, объемах или разделе рынка",brief_mention,COMP03_brief_mention,23.03.2026,GPT 5.4
+Japan,automotive,Mitsubishi Motors,jp_mitsubishi_motors,COMP04,Сотрудничать с конкурентами с целью повышения эффективности рынка,absent,,23.03.2026,GPT 5.4
+Japan,automotive,Mitsubishi Motors,jp_mitsubishi_motors,COMP05,Поддерживать уважение к конкурентам и подчеркивать важность деятельности,absent,,23.03.2026,GPT 5.4
+Japan,automotive,Mitsubishi Motors,jp_mitsubishi_motors,COMP06,Не пытаться ослабить конкурентов путем ограничения их доступа к каким-либо ресурсам,absent,,23.03.2026,GPT 5.4
+Japan,automotive,Mitsubishi Motors,jp_mitsubishi_motors,COMP07,Соблюдать права интеллектуальные собственности конкурентов,absent,,23.03.2026,GPT 5.4
+Japan,automotive,Mitsubishi Motors,jp_mitsubishi_motors,COMP08,Не распространять ложную и порочащую информацию о конкурентах,absent,,23.03.2026,GPT 5.4
+Japan,automotive,Mitsubishi Motors,jp_mitsubishi_motors,COMP09,Предостерегать конкурентов от нарушения данных принципов с их стороны,absent,,23.03.2026,GPT 5.4
+Japan,automotive,Mitsubishi Motors,jp_mitsubishi_motors,COMP10,Сообщать регулятору о замеченных неэтичных действиях конкурентов,absent,,23.03.2026,GPT 5.4
+Japan,automotive,Nissan Motor,jp_nissan_motor,COMP01,Не пытаться узнать конфиденциальную информацию конкурента,absent,,23.03.2026,GPT 5.4
+Japan,automotive,Nissan Motor,jp_nissan_motor,COMP02,Не переманивать ключевых работников конкурента с целью ослабить его позиции,absent,,23.03.2026,GPT 5.4
+Japan,automotive,Nissan Motor,jp_nissan_motor,COMP03,"Не вступать в сговор с конкурентами о ценах, объемах или разделе рынка",explicit_section,COMP03_explicit_section,23.03.2026,GPT 5.4
+Japan,automotive,Nissan Motor,jp_nissan_motor,COMP04,Сотрудничать с конкурентами с целью повышения эффективности рынка,absent,,23.03.2026,GPT 5.4
+Japan,automotive,Nissan Motor,jp_nissan_motor,COMP05,Поддерживать уважение к конкурентам и подчеркивать важность деятельности,brief_mention,COMP05_brief_mention,23.03.2026,GPT 5.4
+Japan,automotive,Nissan Motor,jp_nissan_motor,COMP06,Не пытаться ослабить конкурентов путем ограничения их доступа к каким-либо ресурсам,absent,,23.03.2026,GPT 5.4
+Japan,automotive,Nissan Motor,jp_nissan_motor,COMP07,Соблюдать права интеллектуальные собственности конкурентов,absent,,23.03.2026,GPT 5.4
+Japan,automotive,Nissan Motor,jp_nissan_motor,COMP08,Не распространять ложную и порочащую информацию о конкурентах,absent,,23.03.2026,GPT 5.4
+Japan,automotive,Nissan Motor,jp_nissan_motor,COMP09,Предостерегать конкурентов от нарушения данных принципов с их стороны,absent,,23.03.2026,GPT 5.4
+Japan,automotive,Nissan Motor,jp_nissan_motor,COMP10,Сообщать регулятору о замеченных неэтичных действиях конкурентов,absent,,23.03.2026,GPT 5.4
+Japan,automotive,Suzuki Motor,jp_suzuki_motor,COMP01,Не пытаться узнать конфиденциальную информацию конкурента,explicit_section,COMP01_explicit_section,23.03.2026,GPT 5.4
+Japan,automotive,Suzuki Motor,jp_suzuki_motor,COMP02,Не переманивать ключевых работников конкурента с целью ослабить его позиции,absent,,23.03.2026,GPT 5.4
+Japan,automotive,Suzuki Motor,jp_suzuki_motor,COMP03,"Не вступать в сговор с конкурентами о ценах, объемах или разделе рынка",brief_mention,COMP03_brief_mention,23.03.2026,GPT 5.4
+Japan,automotive,Suzuki Motor,jp_suzuki_motor,COMP04,Сотрудничать с конкурентами с целью повышения эффективности рынка,absent,,23.03.2026,GPT 5.4
+Japan,automotive,Suzuki Motor,jp_suzuki_motor,COMP05,Поддерживать уважение к конкурентам и подчеркивать важность деятельности,absent,,23.03.2026,GPT 5.4
+Japan,automotive,Suzuki Motor,jp_suzuki_motor,COMP06,Не пытаться ослабить конкурентов путем ограничения их доступа к каким-либо ресурсам,absent,,23.03.2026,GPT 5.4
+Japan,automotive,Suzuki Motor,jp_suzuki_motor,COMP07,Соблюдать права интеллектуальные собственности конкурентов,explicit_section,COMP07_explicit_section,23.03.2026,GPT 5.4
+Japan,automotive,Suzuki Motor,jp_suzuki_motor,COMP08,Не распространять ложную и порочащую информацию о конкурентах,absent,,23.03.2026,GPT 5.4
+Japan,automotive,Suzuki Motor,jp_suzuki_motor,COMP09,Предостерегать конкурентов от нарушения данных принципов с их стороны,absent,,23.03.2026,GPT 5.4
+Japan,automotive,Suzuki Motor,jp_suzuki_motor,COMP10,Сообщать регулятору о замеченных неэтичных действиях конкурентов,absent,,23.03.2026,GPT 5.4
+Japan,automotive,Toyota Motor,jp_toyota_motor,COMP01,Не пытаться узнать конфиденциальную информацию конкурента,explicit_section,COMP01_explicit_section,23.03.2026,GPT 5.4
+Japan,automotive,Toyota Motor,jp_toyota_motor,COMP02,Не переманивать ключевых работников конкурента с целью ослабить его позиции,absent,,23.03.2026,GPT 5.4
+Japan,automotive,Toyota Motor,jp_toyota_motor,COMP03,"Не вступать в сговор с конкурентами о ценах, объемах или разделе рынка",explicit_section,COMP03_explicit_section,23.03.2026,GPT 5.4
+Japan,automotive,Toyota Motor,jp_toyota_motor,COMP04,Сотрудничать с конкурентами с целью повышения эффективности рынка,absent,,23.03.2026,GPT 5.4
+Japan,automotive,Toyota Motor,jp_toyota_motor,COMP05,Поддерживать уважение к конкурентам и подчеркивать важность деятельности,absent,,23.03.2026,GPT 5.4
+Japan,automotive,Toyota Motor,jp_toyota_motor,COMP06,Не пытаться ослабить конкурентов путем ограничения их доступа к каким-либо ресурсам,absent,,23.03.2026,GPT 5.4
+Japan,automotive,Toyota Motor,jp_toyota_motor,COMP07,Соблюдать права интеллектуальные собственности конкурентов,explicit_section,COMP07_explicit_section,23.03.2026,GPT 5.4
+Japan,automotive,Toyota Motor,jp_toyota_motor,COMP08,Не распространять ложную и порочащую информацию о конкурентах,absent,,23.03.2026,GPT 5.4
+Japan,automotive,Toyota Motor,jp_toyota_motor,COMP09,Предостерегать конкурентов от нарушения данных принципов с их стороны,absent,,23.03.2026,GPT 5.4
+Japan,automotive,Toyota Motor,jp_toyota_motor,COMP10,Сообщать регулятору о замеченных неэтичных действиях конкурентов,absent,,23.03.2026,GPT 5.4
+Japan,banking,MUFG Group,jp_mufg_group,COMP01,Не пытаться узнать конфиденциальную информацию конкурента,absent,,23.03.2026,GPT 5.4
+Japan,banking,MUFG Group,jp_mufg_group,COMP02,Не переманивать ключевых работников конкурента с целью ослабить его позиции,absent,,23.03.2026,GPT 5.4
+Japan,banking,MUFG Group,jp_mufg_group,COMP03,"Не вступать в сговор с конкурентами о ценах, объемах или разделе рынка",explicit_section,COMP03_explicit_section,23.03.2026,GPT 5.4
+Japan,banking,MUFG Group,jp_mufg_group,COMP04,Сотрудничать с конкурентами с целью повышения эффективности рынка,absent,,23.03.2026,GPT 5.4
+Japan,banking,MUFG Group,jp_mufg_group,COMP05,Поддерживать уважение к конкурентам и подчеркивать важность деятельности,brief_mention,COMP05_brief_mention,23.03.2026,GPT 5.4
+Japan,banking,MUFG Group,jp_mufg_group,COMP06,Не пытаться ослабить конкурентов путем ограничения их доступа к каким-либо ресурсам,absent,,23.03.2026,GPT 5.4
+Japan,banking,MUFG Group,jp_mufg_group,COMP07,Соблюдать права интеллектуальные собственности конкурентов,absent,,23.03.2026,GPT 5.4
+Japan,banking,MUFG Group,jp_mufg_group,COMP08,Не распространять ложную и порочащую информацию о конкурентах,absent,,23.03.2026,GPT 5.4
+Japan,banking,MUFG Group,jp_mufg_group,COMP09,Предостерегать конкурентов от нарушения данных принципов с их стороны,absent,,23.03.2026,GPT 5.4
+Japan,banking,MUFG Group,jp_mufg_group,COMP10,Сообщать регулятору о замеченных неэтичных действиях конкурентов,absent,,23.03.2026,GPT 5.4
+Japan,banking,Resona Holdings,jp_resona_holdings,COMP01,Не пытаться узнать конфиденциальную информацию конкурента,absent,,23.03.2026,GPT 5.4
+Japan,banking,Resona Holdings,jp_resona_holdings,COMP02,Не переманивать ключевых работников конкурента с целью ослабить его позиции,absent,,23.03.2026,GPT 5.4
+Japan,banking,Resona Holdings,jp_resona_holdings,COMP03,"Не вступать в сговор с конкурентами о ценах, объемах или разделе рынка",brief_mention,COMP03_brief_mention,23.03.2026,GPT 5.4
+Japan,banking,Resona Holdings,jp_resona_holdings,COMP04,Сотрудничать с конкурентами с целью повышения эффективности рынка,absent,,23.03.2026,GPT 5.4
+Japan,banking,Resona Holdings,jp_resona_holdings,COMP05,Поддерживать уважение к конкурентам и подчеркивать важность деятельности,absent,,23.03.2026,GPT 5.4
+Japan,banking,Resona Holdings,jp_resona_holdings,COMP06,Не пытаться ослабить конкурентов путем ограничения их доступа к каким-либо ресурсам,absent,,23.03.2026,GPT 5.4
+Japan,banking,Resona Holdings,jp_resona_holdings,COMP07,Соблюдать права интеллектуальные собственности конкурентов,absent,,23.03.2026,GPT 5.4
+Japan,banking,Resona Holdings,jp_resona_holdings,COMP08,Не распространять ложную и порочащую информацию о конкурентах,absent,,23.03.2026,GPT 5.4
+Japan,banking,Resona Holdings,jp_resona_holdings,COMP09,Предостерегать конкурентов от нарушения данных принципов с их стороны,absent,,23.03.2026,GPT 5.4
+Japan,banking,Resona Holdings,jp_resona_holdings,COMP10,Сообщать регулятору о замеченных неэтичных действиях конкурентов,absent,,23.03.2026,GPT 5.4
+Japan,banking,Sumitomo Mitsui Financial Group,jp_sumitomo_mitsui_financial_group,COMP01,Не пытаться узнать конфиденциальную информацию конкурента,absent,,23.03.2026,GPT 5.4
+Japan,banking,Sumitomo Mitsui Financial Group,jp_sumitomo_mitsui_financial_group,COMP02,Не переманивать ключевых работников конкурента с целью ослабить его позиции,absent,,23.03.2026,GPT 5.4
+Japan,banking,Sumitomo Mitsui Financial Group,jp_sumitomo_mitsui_financial_group,COMP03,"Не вступать в сговор с конкурентами о ценах, объемах или разделе рынка",explicit_section,COMP03_explicit_section,23.03.2026,GPT 5.4
+Japan,banking,Sumitomo Mitsui Financial Group,jp_sumitomo_mitsui_financial_group,COMP04,Сотрудничать с конкурентами с целью повышения эффективности рынка,absent,,23.03.2026,GPT 5.4
+Japan,banking,Sumitomo Mitsui Financial Group,jp_sumitomo_mitsui_financial_group,COMP05,Поддерживать уважение к конкурентам и подчеркивать важность деятельности,brief_mention,COMP05_brief_mention,23.03.2026,GPT 5.4
+Japan,banking,Sumitomo Mitsui Financial Group,jp_sumitomo_mitsui_financial_group,COMP06,Не пытаться ослабить конкурентов путем ограничения их доступа к каким-либо ресурсам,absent,,23.03.2026,GPT 5.4
+Japan,banking,Sumitomo Mitsui Financial Group,jp_sumitomo_mitsui_financial_group,COMP07,Соблюдать права интеллектуальные собственности конкурентов,absent,,23.03.2026,GPT 5.4
+Japan,banking,Sumitomo Mitsui Financial Group,jp_sumitomo_mitsui_financial_group,COMP08,Не распространять ложную и порочащую информацию о конкурентах,absent,,23.03.2026,GPT 5.4
+Japan,banking,Sumitomo Mitsui Financial Group,jp_sumitomo_mitsui_financial_group,COMP09,Предостерегать конкурентов от нарушения данных принципов с их стороны,absent,,23.03.2026,GPT 5.4
+Japan,banking,Sumitomo Mitsui Financial Group,jp_sumitomo_mitsui_financial_group,COMP10,Сообщать регулятору о замеченных неэтичных действиях конкурентов,absent,,23.03.2026,GPT 5.4
+Japan,banking,Sumitomo Mitsui Trust Group,jp_sumitomo_mitsui_trust_group,COMP01,Не пытаться узнать конфиденциальную информацию конкурента,absent,,23.03.2026,GPT 5.4
+Japan,banking,Sumitomo Mitsui Trust Group,jp_sumitomo_mitsui_trust_group,COMP02,Не переманивать ключевых работников конкурента с целью ослабить его позиции,absent,,23.03.2026,GPT 5.4
+Japan,banking,Sumitomo Mitsui Trust Group,jp_sumitomo_mitsui_trust_group,COMP03,"Не вступать в сговор с конкурентами о ценах, объемах или разделе рынка",brief_mention,COMP03_brief_mention,23.03.2026,GPT 5.4
+Japan,banking,Sumitomo Mitsui Trust Group,jp_sumitomo_mitsui_trust_group,COMP04,Сотрудничать с конкурентами с целью повышения эффективности рынка,absent,,23.03.2026,GPT 5.4
+Japan,banking,Sumitomo Mitsui Trust Group,jp_sumitomo_mitsui_trust_group,COMP05,Поддерживать уважение к конкурентам и подчеркивать важность деятельности,absent,,23.03.2026,GPT 5.4
+Japan,banking,Sumitomo Mitsui Trust Group,jp_sumitomo_mitsui_trust_group,COMP06,Не пытаться ослабить конкурентов путем ограничения их доступа к каким-либо ресурсам,absent,,23.03.2026,GPT 5.4
+Japan,banking,Sumitomo Mitsui Trust Group,jp_sumitomo_mitsui_trust_group,COMP07,Соблюдать права интеллектуальные собственности конкурентов,absent,,23.03.2026,GPT 5.4
+Japan,banking,Sumitomo Mitsui Trust Group,jp_sumitomo_mitsui_trust_group,COMP08,Не распространять ложную и порочащую информацию о конкурентах,absent,,23.03.2026,GPT 5.4
+Japan,banking,Sumitomo Mitsui Trust Group,jp_sumitomo_mitsui_trust_group,COMP09,Предостерегать конкурентов от нарушения данных принципов с их стороны,absent,,23.03.2026,GPT 5.4
+Japan,banking,Sumitomo Mitsui Trust Group,jp_sumitomo_mitsui_trust_group,COMP10,Сообщать регулятору о замеченных неэтичных действиях конкурентов,absent,,23.03.2026,GPT 5.4
+Japan,insurance,Dai-ichi Life Holdings,jp_dai_ichi_life_holdings,COMP01,Не пытаться узнать конфиденциальную информацию конкурента,absent,,23.03.2026,GPT 5.4
+Japan,insurance,Dai-ichi Life Holdings,jp_dai_ichi_life_holdings,COMP02,Не переманивать ключевых работников конкурента с целью ослабить его позиции,absent,,23.03.2026,GPT 5.4
+Japan,insurance,Dai-ichi Life Holdings,jp_dai_ichi_life_holdings,COMP03,"Не вступать в сговор с конкурентами о ценах, объемах или разделе рынка",explicit_section,COMP03_explicit_section,23.03.2026,GPT 5.4
+Japan,insurance,Dai-ichi Life Holdings,jp_dai_ichi_life_holdings,COMP04,Сотрудничать с конкурентами с целью повышения эффективности рынка,absent,,23.03.2026,GPT 5.4
+Japan,insurance,Dai-ichi Life Holdings,jp_dai_ichi_life_holdings,COMP05,Поддерживать уважение к конкурентам и подчеркивать важность деятельности,brief_mention,COMP05_brief_mention,23.03.2026,GPT 5.4
+Japan,insurance,Dai-ichi Life Holdings,jp_dai_ichi_life_holdings,COMP06,Не пытаться ослабить конкурентов путем ограничения их доступа к каким-либо ресурсам,absent,,23.03.2026,GPT 5.4
+Japan,insurance,Dai-ichi Life Holdings,jp_dai_ichi_life_holdings,COMP07,Соблюдать права интеллектуальные собственности конкурентов,absent,,23.03.2026,GPT 5.4
+Japan,insurance,Dai-ichi Life Holdings,jp_dai_ichi_life_holdings,COMP08,Не распространять ложную и порочащую информацию о конкурентах,absent,,23.03.2026,GPT 5.4
+Japan,insurance,Dai-ichi Life Holdings,jp_dai_ichi_life_holdings,COMP09,Предостерегать конкурентов от нарушения данных принципов с их стороны,absent,,23.03.2026,GPT 5.4
+Japan,insurance,Dai-ichi Life Holdings,jp_dai_ichi_life_holdings,COMP10,Сообщать регулятору о замеченных неэтичных действиях конкурентов,absent,,23.03.2026,GPT 5.4
+Japan,insurance,Sumitomo Life Insurance,jp_sumitomo_life_insurance,COMP01,Не пытаться узнать конфиденциальную информацию конкурента,absent,,23.03.2026,GPT 5.4
+Japan,insurance,Sumitomo Life Insurance,jp_sumitomo_life_insurance,COMP02,Не переманивать ключевых работников конкурента с целью ослабить его позиции,absent,,23.03.2026,GPT 5.4
+Japan,insurance,Sumitomo Life Insurance,jp_sumitomo_life_insurance,COMP03,"Не вступать в сговор с конкурентами о ценах, объемах или разделе рынка",brief_mention,COMP03_brief_mention,23.03.2026,GPT 5.4
+Japan,insurance,Sumitomo Life Insurance,jp_sumitomo_life_insurance,COMP04,Сотрудничать с конкурентами с целью повышения эффективности рынка,absent,,23.03.2026,GPT 5.4
+Japan,insurance,Sumitomo Life Insurance,jp_sumitomo_life_insurance,COMP05,Поддерживать уважение к конкурентам и подчеркивать важность деятельности,absent,,23.03.2026,GPT 5.4
+Japan,insurance,Sumitomo Life Insurance,jp_sumitomo_life_insurance,COMP06,Не пытаться ослабить конкурентов путем ограничения их доступа к каким-либо ресурсам,absent,,23.03.2026,GPT 5.4
+Japan,insurance,Sumitomo Life Insurance,jp_sumitomo_life_insurance,COMP07,Соблюдать права интеллектуальные собственности конкурентов,absent,,23.03.2026,GPT 5.4
+Japan,insurance,Sumitomo Life Insurance,jp_sumitomo_life_insurance,COMP08,Не распространять ложную и порочащую информацию о конкурентах,absent,,23.03.2026,GPT 5.4
+Japan,insurance,Sumitomo Life Insurance,jp_sumitomo_life_insurance,COMP09,Предостерегать конкурентов от нарушения данных принципов с их стороны,absent,,23.03.2026,GPT 5.4
+Japan,insurance,Sumitomo Life Insurance,jp_sumitomo_life_insurance,COMP10,Сообщать регулятору о замеченных неэтичных действиях конкурентов,absent,,23.03.2026,GPT 5.4
+Japan,insurance,Tokio Marine,jp_tokio_marine,COMP01,Не пытаться узнать конфиденциальную информацию конкурента,absent,,23.03.2026,GPT 5.4
+Japan,insurance,Tokio Marine,jp_tokio_marine,COMP02,Не переманивать ключевых работников конкурента с целью ослабить его позиции,absent,,23.03.2026,GPT 5.4
+Japan,insurance,Tokio Marine,jp_tokio_marine,COMP03,"Не вступать в сговор с конкурентами о ценах, объемах или разделе рынка",explicit_section,COMP03_explicit_section,23.03.2026,GPT 5.4
+Japan,insurance,Tokio Marine,jp_tokio_marine,COMP04,Сотрудничать с конкурентами с целью повышения эффективности рынка,absent,,23.03.2026,GPT 5.4
+Japan,insurance,Tokio Marine,jp_tokio_marine,COMP05,Поддерживать уважение к конкурентам и подчеркивать важность деятельности,explicit_section,COMP05_explicit_section,23.03.2026,GPT 5.4
+Japan,insurance,Tokio Marine,jp_tokio_marine,COMP06,Не пытаться ослабить конкурентов путем ограничения их доступа к каким-либо ресурсам,absent,,23.03.2026,GPT 5.4
+Japan,insurance,Tokio Marine,jp_tokio_marine,COMP07,Соблюдать права интеллектуальные собственности конкурентов,explicit_section,COMP07_explicit_section,23.03.2026,GPT 5.4
+Japan,insurance,Tokio Marine,jp_tokio_marine,COMP08,Не распространять ложную и порочащую информацию о конкурентах,absent,,23.03.2026,GPT 5.4
+Japan,insurance,Tokio Marine,jp_tokio_marine,COMP09,Предостерегать конкурентов от нарушения данных принципов с их стороны,absent,,23.03.2026,GPT 5.4
+Japan,insurance,Tokio Marine,jp_tokio_marine,COMP10,Сообщать регулятору о замеченных неэтичных действиях конкурентов,absent,,23.03.2026,GPT 5.4
+Japan,construction,JGC Holdings,jp_jgc_holdings,COMP01,Не пытаться узнать конфиденциальную информацию конкурента,absent,,23.03.2026,GPT 5.4
+Japan,construction,JGC Holdings,jp_jgc_holdings,COMP02,Не переманивать ключевых работников конкурента с целью ослабить его позиции,absent,,23.03.2026,GPT 5.4
+Japan,construction,JGC Holdings,jp_jgc_holdings,COMP03,"Не вступать в сговор с конкурентами о ценах, объемах или разделе рынка",explicit_section,COMP03_explicit_section,23.03.2026,GPT 5.4
+Japan,construction,JGC Holdings,jp_jgc_holdings,COMP04,Сотрудничать с конкурентами с целью повышения эффективности рынка,absent,,23.03.2026,GPT 5.4
+Japan,construction,JGC Holdings,jp_jgc_holdings,COMP05,Поддерживать уважение к конкурентам и подчеркивать важность деятельности,explicit_section,COMP05_explicit_section,23.03.2026,GPT 5.4
+Japan,construction,JGC Holdings,jp_jgc_holdings,COMP06,Не пытаться ослабить конкурентов путем ограничения их доступа к каким-либо ресурсам,explicit_section,COMP06_explicit_section,23.03.2026,GPT 5.4
+Japan,construction,JGC Holdings,jp_jgc_holdings,COMP07,Соблюдать права интеллектуальные собственности конкурентов,explicit_section,COMP07_explicit_section,23.03.2026,GPT 5.4
+Japan,construction,JGC Holdings,jp_jgc_holdings,COMP08,Не распространять ложную и порочащую информацию о конкурентах,absent,,23.03.2026,GPT 5.4
+Japan,construction,JGC Holdings,jp_jgc_holdings,COMP09,Предостерегать конкурентов от нарушения данных принципов с их стороны,absent,,23.03.2026,GPT 5.4
+Japan,construction,JGC Holdings,jp_jgc_holdings,COMP10,Сообщать регулятору о замеченных неэтичных действиях конкурентов,absent,,23.03.2026,GPT 5.4
+Japan,construction,Kajima Corporation,jp_kajima_corporation,COMP01,Не пытаться узнать конфиденциальную информацию конкурента,explicit_section,COMP01_explicit_section,23.03.2026,GPT 5.4
+Japan,construction,Kajima Corporation,jp_kajima_corporation,COMP02,Не переманивать ключевых работников конкурента с целью ослабить его позиции,absent,,23.03.2026,GPT 5.4
+Japan,construction,Kajima Corporation,jp_kajima_corporation,COMP03,"Не вступать в сговор с конкурентами о ценах, объемах или разделе рынка",explicit_section,COMP03_explicit_section,23.03.2026,GPT 5.4
+Japan,construction,Kajima Corporation,jp_kajima_corporation,COMP04,Сотрудничать с конкурентами с целью повышения эффективности рынка,absent,,23.03.2026,GPT 5.4
+Japan,construction,Kajima Corporation,jp_kajima_corporation,COMP05,Поддерживать уважение к конкурентам и подчеркивать важность деятельности,explicit_section,COMP05_explicit_section,23.03.2026,GPT 5.4
+Japan,construction,Kajima Corporation,jp_kajima_corporation,COMP06,Не пытаться ослабить конкурентов путем ограничения их доступа к каким-либо ресурсам,absent,,23.03.2026,GPT 5.4
+Japan,construction,Kajima Corporation,jp_kajima_corporation,COMP07,Соблюдать права интеллектуальные собственности конкурентов,explicit_section,COMP07_explicit_section,23.03.2026,GPT 5.4
+Japan,construction,Kajima Corporation,jp_kajima_corporation,COMP08,Не распространять ложную и порочащую информацию о конкурентах,absent,,23.03.2026,GPT 5.4
+Japan,construction,Kajima Corporation,jp_kajima_corporation,COMP09,Предостерегать конкурентов от нарушения данных принципов с их стороны,absent,,23.03.2026,GPT 5.4
+Japan,construction,Kajima Corporation,jp_kajima_corporation,COMP10,Сообщать регулятору о замеченных неэтичных действиях конкурентов,absent,,23.03.2026,GPT 5.4
+Japan,construction,Penta-Ocean Construction,jp_penta_ocean_construction,COMP01,Не пытаться узнать конфиденциальную информацию конкурента,absent,,23.03.2026,GPT 5.4
+Japan,construction,Penta-Ocean Construction,jp_penta_ocean_construction,COMP02,Не переманивать ключевых работников конкурента с целью ослабить его позиции,absent,,23.03.2026,GPT 5.4
+Japan,construction,Penta-Ocean Construction,jp_penta_ocean_construction,COMP03,"Не вступать в сговор с конкурентами о ценах, объемах или разделе рынка",brief_mention,COMP03_brief_mention,23.03.2026,GPT 5.4
+Japan,construction,Penta-Ocean Construction,jp_penta_ocean_construction,COMP04,Сотрудничать с конкурентами с целью повышения эффективности рынка,absent,,23.03.2026,GPT 5.4
+Japan,construction,Penta-Ocean Construction,jp_penta_ocean_construction,COMP05,Поддерживать уважение к конкурентам и подчеркивать важность деятельности,explicit_section,COMP05_explicit_section,23.03.2026,GPT 5.4
+Japan,construction,Penta-Ocean Construction,jp_penta_ocean_construction,COMP06,Не пытаться ослабить конкурентов путем ограничения их доступа к каким-либо ресурсам,absent,,23.03.2026,GPT 5.4
+Japan,construction,Penta-Ocean Construction,jp_penta_ocean_construction,COMP07,Соблюдать права интеллектуальные собственности конкурентов,explicit_section,COMP07_explicit_section,23.03.2026,GPT 5.4
+Japan,construction,Penta-Ocean Construction,jp_penta_ocean_construction,COMP08,Не распространять ложную и порочащую информацию о конкурентах,absent,,23.03.2026,GPT 5.4
+Japan,construction,Penta-Ocean Construction,jp_penta_ocean_construction,COMP09,Предостерегать конкурентов от нарушения данных принципов с их стороны,absent,,23.03.2026,GPT 5.4
+Japan,construction,Penta-Ocean Construction,jp_penta_ocean_construction,COMP10,Сообщать регулятору о замеченных неэтичных действиях конкурентов,absent,,23.03.2026,GPT 5.4
+Japan,construction,Shimizu Corporation,jp_shimizu_corporation,COMP01,Не пытаться узнать конфиденциальную информацию конкурента,absent,,23.03.2026,GPT 5.4
+Japan,construction,Shimizu Corporation,jp_shimizu_corporation,COMP02,Не переманивать ключевых работников конкурента с целью ослабить его позиции,absent,,23.03.2026,GPT 5.4
+Japan,construction,Shimizu Corporation,jp_shimizu_corporation,COMP03,"Не вступать в сговор с конкурентами о ценах, объемах или разделе рынка",explicit_section,COMP03_explicit_section,23.03.2026,GPT 5.4
+Japan,construction,Shimizu Corporation,jp_shimizu_corporation,COMP04,Сотрудничать с конкурентами с целью повышения эффективности рынка,absent,,23.03.2026,GPT 5.4
+Japan,construction,Shimizu Corporation,jp_shimizu_corporation,COMP05,Поддерживать уважение к конкурентам и подчеркивать важность деятельности,explicit_section,COMP05_explicit_section,23.03.2026,GPT 5.4
+Japan,construction,Shimizu Corporation,jp_shimizu_corporation,COMP06,Не пытаться ослабить конкурентов путем ограничения их доступа к каким-либо ресурсам,absent,,23.03.2026,GPT 5.4
+Japan,construction,Shimizu Corporation,jp_shimizu_corporation,COMP07,Соблюдать права интеллектуальные собственности конкурентов,absent,,23.03.2026,GPT 5.4
+Japan,construction,Shimizu Corporation,jp_shimizu_corporation,COMP08,Не распространять ложную и порочащую информацию о конкурентах,absent,,23.03.2026,GPT 5.4
+Japan,construction,Shimizu Corporation,jp_shimizu_corporation,COMP09,Предостерегать конкурентов от нарушения данных принципов с их стороны,absent,,23.03.2026,GPT 5.4
+Japan,construction,Shimizu Corporation,jp_shimizu_corporation,COMP10,Сообщать регулятору о замеченных неэтичных действиях конкурентов,absent,,23.03.2026,GPT 5.4
+Japan,construction,Takenaka Corporation,jp_takenaka_corporation,COMP01,Не пытаться узнать конфиденциальную информацию конкурента,absent,,23.03.2026,GPT 5.4
+Japan,construction,Takenaka Corporation,jp_takenaka_corporation,COMP02,Не переманивать ключевых работников конкурента с целью ослабить его позиции,absent,,23.03.2026,GPT 5.4
+Japan,construction,Takenaka Corporation,jp_takenaka_corporation,COMP03,"Не вступать в сговор с конкурентами о ценах, объемах или разделе рынка",brief_mention,COMP03_brief_mention,23.03.2026,GPT 5.4
+Japan,construction,Takenaka Corporation,jp_takenaka_corporation,COMP04,Сотрудничать с конкурентами с целью повышения эффективности рынка,absent,,23.03.2026,GPT 5.4
+Japan,construction,Takenaka Corporation,jp_takenaka_corporation,COMP05,Поддерживать уважение к конкурентам и подчеркивать важность деятельности,explicit_section,COMP05_explicit_section,23.03.2026,GPT 5.4
+Japan,construction,Takenaka Corporation,jp_takenaka_corporation,COMP06,Не пытаться ослабить конкурентов путем ограничения их доступа к каким-либо ресурсам,absent,,23.03.2026,GPT 5.4
+Japan,construction,Takenaka Corporation,jp_takenaka_corporation,COMP07,Соблюдать права интеллектуальные собственности конкурентов,explicit_section,COMP07_explicit_section,23.03.2026,GPT 5.4
+Japan,construction,Takenaka Corporation,jp_takenaka_corporation,COMP08,Не распространять ложную и порочащую информацию о конкурентах,absent,,23.03.2026,GPT 5.4
+Japan,construction,Takenaka Corporation,jp_takenaka_corporation,COMP09,Предостерегать конкурентов от нарушения данных принципов с их стороны,absent,,23.03.2026,GPT 5.4
+Japan,construction,Takenaka Corporation,jp_takenaka_corporation,COMP10,Сообщать регулятору о замеченных неэтичных действиях конкурентов,absent,,23.03.2026,GPT 5.4
+Japan,telecom,Internet Initiative Japan,jp_internet_initiative_japan,COMP01,Не пытаться узнать конфиденциальную информацию конкурента,absent,,23.03.2026,GPT 5.4
+Japan,telecom,Internet Initiative Japan,jp_internet_initiative_japan,COMP02,Не переманивать ключевых работников конкурента с целью ослабить его позиции,absent,,23.03.2026,GPT 5.4
+Japan,telecom,Internet Initiative Japan,jp_internet_initiative_japan,COMP03,"Не вступать в сговор с конкурентами о ценах, объемах или разделе рынка",brief_mention,COMP03_brief_mention,23.03.2026,GPT 5.4
+Japan,telecom,Internet Initiative Japan,jp_internet_initiative_japan,COMP04,Сотрудничать с конкурентами с целью повышения эффективности рынка,absent,,23.03.2026,GPT 5.4
+Japan,telecom,Internet Initiative Japan,jp_internet_initiative_japan,COMP05,Поддерживать уважение к конкурентам и подчеркивать важность деятельности,explicit_section,COMP05_explicit_section,23.03.2026,GPT 5.4
+Japan,telecom,Internet Initiative Japan,jp_internet_initiative_japan,COMP06,Не пытаться ослабить конкурентов путем ограничения их доступа к каким-либо ресурсам,absent,,23.03.2026,GPT 5.4
+Japan,telecom,Internet Initiative Japan,jp_internet_initiative_japan,COMP07,Соблюдать права интеллектуальные собственности конкурентов,absent,,23.03.2026,GPT 5.4
+Japan,telecom,Internet Initiative Japan,jp_internet_initiative_japan,COMP08,Не распространять ложную и порочащую информацию о конкурентах,absent,,23.03.2026,GPT 5.4
+Japan,telecom,Internet Initiative Japan,jp_internet_initiative_japan,COMP09,Предостерегать конкурентов от нарушения данных принципов с их стороны,absent,,23.03.2026,GPT 5.4
+Japan,telecom,Internet Initiative Japan,jp_internet_initiative_japan,COMP10,Сообщать регулятору о замеченных неэтичных действиях конкурентов,absent,,23.03.2026,GPT 5.4
+Japan,telecom,LY Corporation,jp_ly_corporation,COMP01,Не пытаться узнать конфиденциальную информацию конкурента,absent,,23.03.2026,GPT 5.4
+Japan,telecom,LY Corporation,jp_ly_corporation,COMP02,Не переманивать ключевых работников конкурента с целью ослабить его позиции,absent,,23.03.2026,GPT 5.4
+Japan,telecom,LY Corporation,jp_ly_corporation,COMP03,"Не вступать в сговор с конкурентами о ценах, объемах или разделе рынка",brief_mention,COMP03_brief_mention,23.03.2026,GPT 5.4
+Japan,telecom,LY Corporation,jp_ly_corporation,COMP04,Сотрудничать с конкурентами с целью повышения эффективности рынка,absent,,23.03.2026,GPT 5.4
+Japan,telecom,LY Corporation,jp_ly_corporation,COMP05,Поддерживать уважение к конкурентам и подчеркивать важность деятельности,absent,,23.03.2026,GPT 5.4
+Japan,telecom,LY Corporation,jp_ly_corporation,COMP06,Не пытаться ослабить конкурентов путем ограничения их доступа к каким-либо ресурсам,absent,,23.03.2026,GPT 5.4
+Japan,telecom,LY Corporation,jp_ly_corporation,COMP07,Соблюдать права интеллектуальные собственности конкурентов,absent,,23.03.2026,GPT 5.4
+Japan,telecom,LY Corporation,jp_ly_corporation,COMP08,Не распространять ложную и порочащую информацию о конкурентах,absent,,23.03.2026,GPT 5.4
+Japan,telecom,LY Corporation,jp_ly_corporation,COMP09,Предостерегать конкурентов от нарушения данных принципов с их стороны,absent,,23.03.2026,GPT 5.4
+Japan,telecom,LY Corporation,jp_ly_corporation,COMP10,Сообщать регулятору о замеченных неэтичных действиях конкурентов,absent,,23.03.2026,GPT 5.4
+Japan,telecom,NTT DOCOMO,jp_ntt_docomo,COMP01,Не пытаться узнать конфиденциальную информацию конкурента,absent,,23.03.2026,GPT 5.4
+Japan,telecom,NTT DOCOMO,jp_ntt_docomo,COMP02,Не переманивать ключевых работников конкурента с целью ослабить его позиции,absent,,23.03.2026,GPT 5.4
+Japan,telecom,NTT DOCOMO,jp_ntt_docomo,COMP03,"Не вступать в сговор с конкурентами о ценах, объемах или разделе рынка",explicit_section,COMP03_explicit_section,23.03.2026,GPT 5.4
+Japan,telecom,NTT DOCOMO,jp_ntt_docomo,COMP04,Сотрудничать с конкурентами с целью повышения эффективности рынка,absent,,23.03.2026,GPT 5.4
+Japan,telecom,NTT DOCOMO,jp_ntt_docomo,COMP05,Поддерживать уважение к конкурентам и подчеркивать важность деятельности,explicit_section,COMP05_explicit_section,23.03.2026,GPT 5.4
+Japan,telecom,NTT DOCOMO,jp_ntt_docomo,COMP06,Не пытаться ослабить конкурентов путем ограничения их доступа к каким-либо ресурсам,absent,,23.03.2026,GPT 5.4
+Japan,telecom,NTT DOCOMO,jp_ntt_docomo,COMP07,Соблюдать права интеллектуальные собственности конкурентов,absent,,23.03.2026,GPT 5.4
+Japan,telecom,NTT DOCOMO,jp_ntt_docomo,COMP08,Не распространять ложную и порочащую информацию о конкурентах,absent,,23.03.2026,GPT 5.4
+Japan,telecom,NTT DOCOMO,jp_ntt_docomo,COMP09,Предостерегать конкурентов от нарушения данных принципов с их стороны,absent,,23.03.2026,GPT 5.4
+Japan,telecom,NTT DOCOMO,jp_ntt_docomo,COMP10,Сообщать регулятору о замеченных неэтичных действиях конкурентов,absent,,23.03.2026,GPT 5.4
+Japan,trading,ITOCHU,jp_itochu,COMP01,Не пытаться узнать конфиденциальную информацию конкурента,absent,,23.03.2026,GPT 5.4
+Japan,trading,ITOCHU,jp_itochu,COMP02,Не переманивать ключевых работников конкурента с целью ослабить его позиции,absent,,23.03.2026,GPT 5.4
+Japan,trading,ITOCHU,jp_itochu,COMP03,"Не вступать в сговор с конкурентами о ценах, объемах или разделе рынка",brief_mention,COMP03_brief_mention,23.03.2026,GPT 5.4
+Japan,trading,ITOCHU,jp_itochu,COMP04,Сотрудничать с конкурентами с целью повышения эффективности рынка,absent,,23.03.2026,GPT 5.4
+Japan,trading,ITOCHU,jp_itochu,COMP05,Поддерживать уважение к конкурентам и подчеркивать важность деятельности,explicit_section,COMP05_explicit_section,23.03.2026,GPT 5.4
+Japan,trading,ITOCHU,jp_itochu,COMP06,Не пытаться ослабить конкурентов путем ограничения их доступа к каким-либо ресурсам,absent,,23.03.2026,GPT 5.4
+Japan,trading,ITOCHU,jp_itochu,COMP07,Соблюдать права интеллектуальные собственности конкурентов,explicit_section,COMP07_explicit_section,23.03.2026,GPT 5.4
+Japan,trading,ITOCHU,jp_itochu,COMP08,Не распространять ложную и порочащую информацию о конкурентах,absent,,23.03.2026,GPT 5.4
+Japan,trading,ITOCHU,jp_itochu,COMP09,Предостерегать конкурентов от нарушения данных принципов с их стороны,absent,,23.03.2026,GPT 5.4
+Japan,trading,ITOCHU,jp_itochu,COMP10,Сообщать регулятору о замеченных неэтичных действиях конкурентов,absent,,23.03.2026,GPT 5.4
+Japan,trading,Marubeni Corporation,jp_marubeni_corporation,COMP01,Не пытаться узнать конфиденциальную информацию конкурента,explicit_section,COMP01_explicit_section,23.03.2026,GPT 5.4
+Japan,trading,Marubeni Corporation,jp_marubeni_corporation,COMP02,Не переманивать ключевых работников конкурента с целью ослабить его позиции,absent,,23.03.2026,GPT 5.4
+Japan,trading,Marubeni Corporation,jp_marubeni_corporation,COMP03,"Не вступать в сговор с конкурентами о ценах, объемах или разделе рынка",explicit_section,COMP03_explicit_section,23.03.2026,GPT 5.4
+Japan,trading,Marubeni Corporation,jp_marubeni_corporation,COMP04,Сотрудничать с конкурентами с целью повышения эффективности рынка,absent,,23.03.2026,GPT 5.4
+Japan,trading,Marubeni Corporation,jp_marubeni_corporation,COMP05,Поддерживать уважение к конкурентам и подчеркивать важность деятельности,explicit_section,COMP05_explicit_section,23.03.2026,GPT 5.4
+Japan,trading,Marubeni Corporation,jp_marubeni_corporation,COMP06,Не пытаться ослабить конкурентов путем ограничения их доступа к каким-либо ресурсам,absent,,23.03.2026,GPT 5.4
+Japan,trading,Marubeni Corporation,jp_marubeni_corporation,COMP07,Соблюдать права интеллектуальные собственности конкурентов,explicit_section,COMP07_explicit_section,23.03.2026,GPT 5.4
+Japan,trading,Marubeni Corporation,jp_marubeni_corporation,COMP08,Не распространять ложную и порочащую информацию о конкурентах,absent,,23.03.2026,GPT 5.4
+Japan,trading,Marubeni Corporation,jp_marubeni_corporation,COMP09,Предостерегать конкурентов от нарушения данных принципов с их стороны,absent,,23.03.2026,GPT 5.4
+Japan,trading,Marubeni Corporation,jp_marubeni_corporation,COMP10,Сообщать регулятору о замеченных неэтичных действиях конкурентов,absent,,23.03.2026,GPT 5.4
+Japan,trading,Sumitomo Corporation,jp_sumitomo_corporation,COMP01,Не пытаться узнать конфиденциальную информацию конкурента,explicit_section,COMP01_explicit_section,23.03.2026,GPT 5.4
+Japan,trading,Sumitomo Corporation,jp_sumitomo_corporation,COMP02,Не переманивать ключевых работников конкурента с целью ослабить его позиции,absent,,23.03.2026,GPT 5.4
+Japan,trading,Sumitomo Corporation,jp_sumitomo_corporation,COMP03,"Не вступать в сговор с конкурентами о ценах, объемах или разделе рынка",explicit_section,COMP03_explicit_section,23.03.2026,GPT 5.4
+Japan,trading,Sumitomo Corporation,jp_sumitomo_corporation,COMP04,Сотрудничать с конкурентами с целью повышения эффективности рынка,absent,,23.03.2026,GPT 5.4
+Japan,trading,Sumitomo Corporation,jp_sumitomo_corporation,COMP05,Поддерживать уважение к конкурентам и подчеркивать важность деятельности,explicit_section,COMP05_explicit_section,23.03.2026,GPT 5.4
+Japan,trading,Sumitomo Corporation,jp_sumitomo_corporation,COMP06,Не пытаться ослабить конкурентов путем ограничения их доступа к каким-либо ресурсам,absent,,23.03.2026,GPT 5.4
+Japan,trading,Sumitomo Corporation,jp_sumitomo_corporation,COMP07,Соблюдать права интеллектуальные собственности конкурентов,explicit_section,COMP07_explicit_section,23.03.2026,GPT 5.4
+Japan,trading,Sumitomo Corporation,jp_sumitomo_corporation,COMP08,Не распространять ложную и порочащую информацию о конкурентах,absent,,23.03.2026,GPT 5.4
+Japan,trading,Sumitomo Corporation,jp_sumitomo_corporation,COMP09,Предостерегать конкурентов от нарушения данных принципов с их стороны,absent,,23.03.2026,GPT 5.4
+Japan,trading,Sumitomo Corporation,jp_sumitomo_corporation,COMP10,Сообщать регулятору о замеченных неэтичных действиях конкурентов,absent,,23.03.2026,GPT 5.4
+Japan,trading,Mitsui & Co,jp_mitsui_and_co,COMP01,Не пытаться узнать конфиденциальную информацию конкурента,absent,,23.03.2026,GPT 5.4
+Japan,trading,Mitsui & Co,jp_mitsui_and_co,COMP02,Не переманивать ключевых работников конкурента с целью ослабить его позиции,absent,,23.03.2026,GPT 5.4
+Japan,trading,Mitsui & Co,jp_mitsui_and_co,COMP03,"Не вступать в сговор с конкурентами о ценах, объемах или разделе рынка",explicit_section,COMP03_explicit_section,23.03.2026,GPT 5.4
+Japan,trading,Mitsui & Co,jp_mitsui_and_co,COMP04,Сотрудничать с конкурентами с целью повышения эффективности рынка,absent,,23.03.2026,GPT 5.4
+Japan,trading,Mitsui & Co,jp_mitsui_and_co,COMP05,Поддерживать уважение к конкурентам и подчеркивать важность деятельности,explicit_section,COMP05_explicit_section,23.03.2026,GPT 5.4
+Japan,trading,Mitsui & Co,jp_mitsui_and_co,COMP06,Не пытаться ослабить конкурентов путем ограничения их доступа к каким-либо ресурсам,absent,,23.03.2026,GPT 5.4
+Japan,trading,Mitsui & Co,jp_mitsui_and_co,COMP07,Соблюдать права интеллектуальные собственности конкурентов,explicit_section,COMP07_explicit_section,23.03.2026,GPT 5.4
+Japan,trading,Mitsui & Co,jp_mitsui_and_co,COMP08,Не распространять ложную и порочащую информацию о конкурентах,absent,,23.03.2026,GPT 5.4
+Japan,trading,Mitsui & Co,jp_mitsui_and_co,COMP09,Предостерегать конкурентов от нарушения данных принципов с их стороны,absent,,23.03.2026,GPT 5.4
+Japan,trading,Mitsui & Co,jp_mitsui_and_co,COMP10,Сообщать регулятору о замеченных неэтичных действиях конкурентов,absent,,23.03.2026,GPT 5.4
+Japan,transport,Japan Airlines,jp_japan_airlines,COMP01,Не пытаться узнать конфиденциальную информацию конкурента,absent,,23.03.2026,GPT 5.4
+Japan,transport,Japan Airlines,jp_japan_airlines,COMP02,Не переманивать ключевых работников конкурента с целью ослабить его позиции,absent,,23.03.2026,GPT 5.4
+Japan,transport,Japan Airlines,jp_japan_airlines,COMP03,"Не вступать в сговор с конкурентами о ценах, объемах или разделе рынка",explicit_section,COMP03_explicit_section,23.03.2026,GPT 5.4
+Japan,transport,Japan Airlines,jp_japan_airlines,COMP04,Сотрудничать с конкурентами с целью повышения эффективности рынка,absent,,23.03.2026,GPT 5.4
+Japan,transport,Japan Airlines,jp_japan_airlines,COMP05,Поддерживать уважение к конкурентам и подчеркивать важность деятельности,explicit_section,COMP05_explicit_section,23.03.2026,GPT 5.4
+Japan,transport,Japan Airlines,jp_japan_airlines,COMP06,Не пытаться ослабить конкурентов путем ограничения их доступа к каким-либо ресурсам,absent,,23.03.2026,GPT 5.4
+Japan,transport,Japan Airlines,jp_japan_airlines,COMP07,Соблюдать права интеллектуальные собственности конкурентов,explicit_section,COMP07_explicit_section,23.03.2026,GPT 5.4
+Japan,transport,Japan Airlines,jp_japan_airlines,COMP08,Не распространять ложную и порочащую информацию о конкурентах,absent,,23.03.2026,GPT 5.4
+Japan,transport,Japan Airlines,jp_japan_airlines,COMP09,Предостерегать конкурентов от нарушения данных принципов с их стороны,absent,,23.03.2026,GPT 5.4
+Japan,transport,Japan Airlines,jp_japan_airlines,COMP10,Сообщать регулятору о замеченных неэтичных действиях конкурентов,absent,,23.03.2026,GPT 5.4
+Japan,transport,Kawasaki Kisen Kaisha,jp_kawasaki_kisen_kaisha,COMP01,Не пытаться узнать конфиденциальную информацию конкурента,absent,,23.03.2026,GPT 5.4
+Japan,transport,Kawasaki Kisen Kaisha,jp_kawasaki_kisen_kaisha,COMP02,Не переманивать ключевых работников конкурента с целью ослабить его позиции,absent,,23.03.2026,GPT 5.4
+Japan,transport,Kawasaki Kisen Kaisha,jp_kawasaki_kisen_kaisha,COMP03,"Не вступать в сговор с конкурентами о ценах, объемах или разделе рынка",explicit_section,COMP03_explicit_section,23.03.2026,GPT 5.4
+Japan,transport,Kawasaki Kisen Kaisha,jp_kawasaki_kisen_kaisha,COMP04,Сотрудничать с конкурентами с целью повышения эффективности рынка,absent,,23.03.2026,GPT 5.4
+Japan,transport,Kawasaki Kisen Kaisha,jp_kawasaki_kisen_kaisha,COMP05,Поддерживать уважение к конкурентам и подчеркивать важность деятельности,explicit_section,COMP05_explicit_section,23.03.2026,GPT 5.4
+Japan,transport,Kawasaki Kisen Kaisha,jp_kawasaki_kisen_kaisha,COMP06,Не пытаться ослабить конкурентов путем ограничения их доступа к каким-либо ресурсам,absent,,23.03.2026,GPT 5.4
+Japan,transport,Kawasaki Kisen Kaisha,jp_kawasaki_kisen_kaisha,COMP07,Соблюдать права интеллектуальные собственности конкурентов,explicit_section,COMP07_explicit_section,23.03.2026,GPT 5.4
+Japan,transport,Kawasaki Kisen Kaisha,jp_kawasaki_kisen_kaisha,COMP08,Не распространять ложную и порочащую информацию о конкурентах,absent,,23.03.2026,GPT 5.4
+Japan,transport,Kawasaki Kisen Kaisha,jp_kawasaki_kisen_kaisha,COMP09,Предостерегать конкурентов от нарушения данных принципов с их стороны,absent,,23.03.2026,GPT 5.4
+Japan,transport,Kawasaki Kisen Kaisha,jp_kawasaki_kisen_kaisha,COMP10,Сообщать регулятору о замеченных неэтичных действиях конкурентов,absent,,23.03.2026,GPT 5.4
+Japan,transport,Mitsui O.S.K. Lines,jp_mitsui_osk_lines,COMP01,Не пытаться узнать конфиденциальную информацию конкурента,explicit_section,COMP01_explicit_section,23.03.2026,GPT 5.4
+Japan,transport,Mitsui O.S.K. Lines,jp_mitsui_osk_lines,COMP02,Не переманивать ключевых работников конкурента с целью ослабить его позиции,absent,,23.03.2026,GPT 5.4
+Japan,transport,Mitsui O.S.K. Lines,jp_mitsui_osk_lines,COMP03,"Не вступать в сговор с конкурентами о ценах, объемах или разделе рынка",explicit_section,COMP03_explicit_section,23.03.2026,GPT 5.4
+Japan,transport,Mitsui O.S.K. Lines,jp_mitsui_osk_lines,COMP04,Сотрудничать с конкурентами с целью повышения эффективности рынка,absent,,23.03.2026,GPT 5.4
+Japan,transport,Mitsui O.S.K. Lines,jp_mitsui_osk_lines,COMP05,Поддерживать уважение к конкурентам и подчеркивать важность деятельности,explicit_section,COMP05_explicit_section,23.03.2026,GPT 5.4
+Japan,transport,Mitsui O.S.K. Lines,jp_mitsui_osk_lines,COMP06,Не пытаться ослабить конкурентов путем ограничения их доступа к каким-либо ресурсам,absent,,23.03.2026,GPT 5.4
+Japan,transport,Mitsui O.S.K. Lines,jp_mitsui_osk_lines,COMP07,Соблюдать права интеллектуальные собственности конкурентов,explicit_section,COMP07_explicit_section,23.03.2026,GPT 5.4
+Japan,transport,Mitsui O.S.K. Lines,jp_mitsui_osk_lines,COMP08,Не распространять ложную и порочащую информацию о конкурентах,absent,,23.03.2026,GPT 5.4
+Japan,transport,Mitsui O.S.K. Lines,jp_mitsui_osk_lines,COMP09,Предостерегать конкурентов от нарушения данных принципов с их стороны,absent,,23.03.2026,GPT 5.4
+Japan,transport,Mitsui O.S.K. Lines,jp_mitsui_osk_lines,COMP10,Сообщать регулятору о замеченных неэтичных действиях конкурентов,absent,,23.03.2026,GPT 5.4
+Japan,transport,Yamato Holdings,jp_yamato_holdings,COMP01,Не пытаться узнать конфиденциальную информацию конкурента,absent,,23.03.2026,GPT 5.4
+Japan,transport,Yamato Holdings,jp_yamato_holdings,COMP02,Не переманивать ключевых работников конкурента с целью ослабить его позиции,absent,,23.03.2026,GPT 5.4
+Japan,transport,Yamato Holdings,jp_yamato_holdings,COMP03,"Не вступать в сговор с конкурентами о ценах, объемах или разделе рынка",explicit_section,COMP03_explicit_section,23.03.2026,GPT 5.4
+Japan,transport,Yamato Holdings,jp_yamato_holdings,COMP04,Сотрудничать с конкурентами с целью повышения эффективности рынка,absent,,23.03.2026,GPT 5.4
+Japan,transport,Yamato Holdings,jp_yamato_holdings,COMP05,Поддерживать уважение к конкурентам и подчеркивать важность деятельности,explicit_section,COMP05_explicit_section,23.03.2026,GPT 5.4
+Japan,transport,Yamato Holdings,jp_yamato_holdings,COMP06,Не пытаться ослабить конкурентов путем ограничения их доступа к каким-либо ресурсам,absent,,23.03.2026,GPT 5.4
+Japan,transport,Yamato Holdings,jp_yamato_holdings,COMP07,Соблюдать права интеллектуальные собственности конкурентов,explicit_section,COMP07_explicit_section,23.03.2026,GPT 5.4
+Japan,transport,Yamato Holdings,jp_yamato_holdings,COMP08,Не распространять ложную и порочащую информацию о конкурентах,absent,,23.03.2026,GPT 5.4
+Japan,transport,Yamato Holdings,jp_yamato_holdings,COMP09,Предостерегать конкурентов от нарушения данных принципов с их стороны,absent,,23.03.2026,GPT 5.4
+Japan,transport,Yamato Holdings,jp_yamato_holdings,COMP10,Сообщать регулятору о замеченных неэтичных действиях конкурентов,absent,,23.03.2026,GPT 5.4
+Japan,pharma,Astellas Pharma Inc,jp_astellas_pharma_inc,COMP01,Не пытаться узнать конфиденциальную информацию конкурента,absent,,23.03.2026,GPT 5.4
+Japan,pharma,Astellas Pharma Inc,jp_astellas_pharma_inc,COMP02,Не переманивать ключевых работников конкурента с целью ослабить его позиции,absent,,23.03.2026,GPT 5.4
+Japan,pharma,Astellas Pharma Inc,jp_astellas_pharma_inc,COMP03,"Не вступать в сговор с конкурентами о ценах, объемах или разделе рынка",absent,,23.03.2026,GPT 5.4
+Japan,pharma,Astellas Pharma Inc,jp_astellas_pharma_inc,COMP04,Сотрудничать с конкурентами с целью повышения эффективности рынка,absent,,23.03.2026,GPT 5.4
+Japan,pharma,Astellas Pharma Inc,jp_astellas_pharma_inc,COMP05,Поддерживать уважение к конкурентам и подчеркивать важность деятельности,explicit_section,COMP05_explicit_section,23.03.2026,GPT 5.4
+Japan,pharma,Astellas Pharma Inc,jp_astellas_pharma_inc,COMP06,Не пытаться ослабить конкурентов путем ограничения их доступа к каким-либо ресурсам,absent,,23.03.2026,GPT 5.4
+Japan,pharma,Astellas Pharma Inc,jp_astellas_pharma_inc,COMP07,Соблюдать права интеллектуальные собственности конкурентов,explicit_section,COMP07_explicit_section,23.03.2026,GPT 5.4
+Japan,pharma,Astellas Pharma Inc,jp_astellas_pharma_inc,COMP08,Не распространять ложную и порочащую информацию о конкурентах,absent,,23.03.2026,GPT 5.4
+Japan,pharma,Astellas Pharma Inc,jp_astellas_pharma_inc,COMP09,Предостерегать конкурентов от нарушения данных принципов с их стороны,absent,,23.03.2026,GPT 5.4
+Japan,pharma,Astellas Pharma Inc,jp_astellas_pharma_inc,COMP10,Сообщать регулятору о замеченных неэтичных действиях конкурентов,absent,,23.03.2026,GPT 5.4
+Japan,pharma,Daiichi Sankyo Co,jp_daiichi_sankyo_co,COMP01,Не пытаться узнать конфиденциальную информацию конкурента,explicit_section,COMP01_explicit_section,23.03.2026,GPT 5.4
+Japan,pharma,Daiichi Sankyo Co,jp_daiichi_sankyo_co,COMP02,Не переманивать ключевых работников конкурента с целью ослабить его позиции,absent,,23.03.2026,GPT 5.4
+Japan,pharma,Daiichi Sankyo Co,jp_daiichi_sankyo_co,COMP03,"Не вступать в сговор с конкурентами о ценах, объемах или разделе рынка",explicit_section,COMP03_explicit_section,23.03.2026,GPT 5.4
+Japan,pharma,Daiichi Sankyo Co,jp_daiichi_sankyo_co,COMP04,Сотрудничать с конкурентами с целью повышения эффективности рынка,absent,,23.03.2026,GPT 5.4
+Japan,pharma,Daiichi Sankyo Co,jp_daiichi_sankyo_co,COMP05,Поддерживать уважение к конкурентам и подчеркивать важность деятельности,explicit_section,COMP05_explicit_section,23.03.2026,GPT 5.4
+Japan,pharma,Daiichi Sankyo Co,jp_daiichi_sankyo_co,COMP06,Не пытаться ослабить конкурентов путем ограничения их доступа к каким-либо ресурсам,absent,,23.03.2026,GPT 5.4
+Japan,pharma,Daiichi Sankyo Co,jp_daiichi_sankyo_co,COMP07,Соблюдать права интеллектуальные собственности конкурентов,absent,,23.03.2026,GPT 5.4
+Japan,pharma,Daiichi Sankyo Co,jp_daiichi_sankyo_co,COMP08,Не распространять ложную и порочащую информацию о конкурентах,explicit_section,COMP08_explicit_section,23.03.2026,GPT 5.4
+Japan,pharma,Daiichi Sankyo Co,jp_daiichi_sankyo_co,COMP09,Предостерегать конкурентов от нарушения данных принципов с их стороны,absent,,23.03.2026,GPT 5.4
+Japan,pharma,Daiichi Sankyo Co,jp_daiichi_sankyo_co,COMP10,Сообщать регулятору о замеченных неэтичных действиях конкурентов,absent,,23.03.2026,GPT 5.4
+Japan,pharma,Eisai Co,jp_eisai_co,COMP01,Не пытаться узнать конфиденциальную информацию конкурента,explicit_section,COMP01_explicit_section,23.03.2026,GPT 5.4
+Japan,pharma,Eisai Co,jp_eisai_co,COMP02,Не переманивать ключевых работников конкурента с целью ослабить его позиции,absent,,23.03.2026,GPT 5.4
+Japan,pharma,Eisai Co,jp_eisai_co,COMP03,"Не вступать в сговор с конкурентами о ценах, объемах или разделе рынка",explicit_section,COMP03_explicit_section,23.03.2026,GPT 5.4
+Japan,pharma,Eisai Co,jp_eisai_co,COMP04,Сотрудничать с конкурентами с целью повышения эффективности рынка,absent,,23.03.2026,GPT 5.4
+Japan,pharma,Eisai Co,jp_eisai_co,COMP05,Поддерживать уважение к конкурентам и подчеркивать важность деятельности,explicit_section,COMP05_explicit_section,23.03.2026,GPT 5.4
+Japan,pharma,Eisai Co,jp_eisai_co,COMP06,Не пытаться ослабить конкурентов путем ограничения их доступа к каким-либо ресурсам,absent,,23.03.2026,GPT 5.4
+Japan,pharma,Eisai Co,jp_eisai_co,COMP07,Соблюдать права интеллектуальные собственности конкурентов,explicit_section,COMP07_explicit_section,23.03.2026,GPT 5.4
+Japan,pharma,Eisai Co,jp_eisai_co,COMP08,Не распространять ложную и порочащую информацию о конкурентах,absent,,23.03.2026,GPT 5.4
+Japan,pharma,Eisai Co,jp_eisai_co,COMP09,Предостерегать конкурентов от нарушения данных принципов с их стороны,absent,,23.03.2026,GPT 5.4
+Japan,pharma,Eisai Co,jp_eisai_co,COMP10,Сообщать регулятору о замеченных неэтичных действиях конкурентов,absent,,23.03.2026,GPT 5.4
+Japan,pharma,Otsuka Holdings Co,jp_otsuka_holdings_co,COMP01,Не пытаться узнать конфиденциальную информацию конкурента,explicit_section,COMP01_explicit_section,23.03.2026,GPT 5.4
+Japan,pharma,Otsuka Holdings Co,jp_otsuka_holdings_co,COMP02,Не переманивать ключевых работников конкурента с целью ослабить его позиции,absent,,23.03.2026,GPT 5.4
+Japan,pharma,Otsuka Holdings Co,jp_otsuka_holdings_co,COMP03,"Не вступать в сговор с конкурентами о ценах, объемах или разделе рынка",explicit_section,COMP03_explicit_section,23.03.2026,GPT 5.4
+Japan,pharma,Otsuka Holdings Co,jp_otsuka_holdings_co,COMP04,Сотрудничать с конкурентами с целью повышения эффективности рынка,absent,,23.03.2026,GPT 5.4
+Japan,pharma,Otsuka Holdings Co,jp_otsuka_holdings_co,COMP05,Поддерживать уважение к конкурентам и подчеркивать важность деятельности,explicit_section,COMP05_explicit_section,23.03.2026,GPT 5.4
+Japan,pharma,Otsuka Holdings Co,jp_otsuka_holdings_co,COMP06,Не пытаться ослабить конкурентов путем ограничения их доступа к каким-либо ресурсам,absent,,23.03.2026,GPT 5.4
+Japan,pharma,Otsuka Holdings Co,jp_otsuka_holdings_co,COMP07,Соблюдать права интеллектуальные собственности конкурентов,explicit_section,COMP07_explicit_section,23.03.2026,GPT 5.4
+Japan,pharma,Otsuka Holdings Co,jp_otsuka_holdings_co,COMP08,Не распространять ложную и порочащую информацию о конкурентах,absent,,23.03.2026,GPT 5.4
+Japan,pharma,Otsuka Holdings Co,jp_otsuka_holdings_co,COMP09,Предостерегать конкурентов от нарушения данных принципов с их стороны,absent,,23.03.2026,GPT 5.4
+Japan,pharma,Otsuka Holdings Co,jp_otsuka_holdings_co,COMP10,Сообщать регулятору о замеченных неэтичных действиях конкурентов,absent,,23.03.2026,GPT 5.4
+Japan,electronics,"Hitachi, Ltd",jp_hitachi_ltd,COMP01,Не пытаться узнать конфиденциальную информацию конкурента,explicit_section,COMP01_explicit_section,23.03.2026,GPT 5.4
+Japan,electronics,"Hitachi, Ltd",jp_hitachi_ltd,COMP02,Не переманивать ключевых работников конкурента с целью ослабить его позиции,absent,,23.03.2026,GPT 5.4
+Japan,electronics,"Hitachi, Ltd",jp_hitachi_ltd,COMP03,"Не вступать в сговор с конкурентами о ценах, объемах или разделе рынка",explicit_section,COMP03_explicit_section,23.03.2026,GPT 5.4
+Japan,electronics,"Hitachi, Ltd",jp_hitachi_ltd,COMP04,Сотрудничать с конкурентами с целью повышения эффективности рынка,absent,,23.03.2026,GPT 5.4
+Japan,electronics,"Hitachi, Ltd",jp_hitachi_ltd,COMP05,Поддерживать уважение к конкурентам и подчеркивать важность деятельности,explicit_section,COMP05_explicit_section,23.03.2026,GPT 5.4
+Japan,electronics,"Hitachi, Ltd",jp_hitachi_ltd,COMP06,Не пытаться ослабить конкурентов путем ограничения их доступа к каким-либо ресурсам,absent,,23.03.2026,GPT 5.4
+Japan,electronics,"Hitachi, Ltd",jp_hitachi_ltd,COMP07,Соблюдать права интеллектуальные собственности конкурентов,absent,,23.03.2026,GPT 5.4
+Japan,electronics,"Hitachi, Ltd",jp_hitachi_ltd,COMP08,Не распространять ложную и порочащую информацию о конкурентах,absent,,23.03.2026,GPT 5.4
+Japan,electronics,"Hitachi, Ltd",jp_hitachi_ltd,COMP09,Предостерегать конкурентов от нарушения данных принципов с их стороны,absent,,23.03.2026,GPT 5.4
+Japan,electronics,"Hitachi, Ltd",jp_hitachi_ltd,COMP10,Сообщать регулятору о замеченных неэтичных действиях конкурентов,absent,,23.03.2026,GPT 5.4
+Japan,electronics,NEC Corporation,jp_nec_corporation,COMP01,Не пытаться узнать конфиденциальную информацию конкурента,absent,,23.03.2026,GPT 5.4
+Japan,electronics,NEC Corporation,jp_nec_corporation,COMP02,Не переманивать ключевых работников конкурента с целью ослабить его позиции,absent,,23.03.2026,GPT 5.4
+Japan,electronics,NEC Corporation,jp_nec_corporation,COMP03,"Не вступать в сговор с конкурентами о ценах, объемах или разделе рынка",explicit_section,COMP03_explicit_section,23.03.2026,GPT 5.4
+Japan,electronics,NEC Corporation,jp_nec_corporation,COMP04,Сотрудничать с конкурентами с целью повышения эффективности рынка,absent,,23.03.2026,GPT 5.4
+Japan,electronics,NEC Corporation,jp_nec_corporation,COMP05,Поддерживать уважение к конкурентам и подчеркивать важность деятельности,explicit_section,COMP05_explicit_section,23.03.2026,GPT 5.4
+Japan,electronics,NEC Corporation,jp_nec_corporation,COMP06,Не пытаться ослабить конкурентов путем ограничения их доступа к каким-либо ресурсам,absent,,23.03.2026,GPT 5.4
+Japan,electronics,NEC Corporation,jp_nec_corporation,COMP07,Соблюдать права интеллектуальные собственности конкурентов,explicit_section,COMP07_explicit_section,23.03.2026,GPT 5.4
+Japan,electronics,NEC Corporation,jp_nec_corporation,COMP08,Не распространять ложную и порочащую информацию о конкурентах,explicit_section,COMP08_explicit_section,23.03.2026,GPT 5.4
+Japan,electronics,NEC Corporation,jp_nec_corporation,COMP09,Предостерегать конкурентов от нарушения данных принципов с их стороны,absent,,23.03.2026,GPT 5.4
+Japan,electronics,NEC Corporation,jp_nec_corporation,COMP10,Сообщать регулятору о замеченных неэтичных действиях конкурентов,absent,,23.03.2026,GPT 5.4
+Japan,electronics,Panasonic,jp_panasonic,COMP01,Не пытаться узнать конфиденциальную информацию конкурента,absent,,23.03.2026,GPT 5.4
+Japan,electronics,Panasonic,jp_panasonic,COMP02,Не переманивать ключевых работников конкурента с целью ослабить его позиции,absent,,23.03.2026,GPT 5.4
+Japan,electronics,Panasonic,jp_panasonic,COMP03,"Не вступать в сговор с конкурентами о ценах, объемах или разделе рынка",explicit_section,COMP03_explicit_section,23.03.2026,GPT 5.4
+Japan,electronics,Panasonic,jp_panasonic,COMP04,Сотрудничать с конкурентами с целью повышения эффективности рынка,absent,,23.03.2026,GPT 5.4
+Japan,electronics,Panasonic,jp_panasonic,COMP05,Поддерживать уважение к конкурентам и подчеркивать важность деятельности,explicit_section,COMP05_explicit_section,23.03.2026,GPT 5.4
+Japan,electronics,Panasonic,jp_panasonic,COMP06,Не пытаться ослабить конкурентов путем ограничения их доступа к каким-либо ресурсам,absent,,23.03.2026,GPT 5.4
+Japan,electronics,Panasonic,jp_panasonic,COMP07,Соблюдать права интеллектуальные собственности конкурентов,absent,,23.03.2026,GPT 5.4
+Japan,electronics,Panasonic,jp_panasonic,COMP08,Не распространять ложную и порочащую информацию о конкурентах,absent,,23.03.2026,GPT 5.4
+Japan,electronics,Panasonic,jp_panasonic,COMP09,Предостерегать конкурентов от нарушения данных принципов с их стороны,absent,,23.03.2026,GPT 5.4
+Japan,electronics,Panasonic,jp_panasonic,COMP10,Сообщать регулятору о замеченных неэтичных действиях конкурентов,absent,,23.03.2026,GPT 5.4
+Japan,electronics,Sony Group,jp_sony_group,COMP01,Не пытаться узнать конфиденциальную информацию конкурента,absent,,23.03.2026,GPT 5.4
+Japan,electronics,Sony Group,jp_sony_group,COMP02,Не переманивать ключевых работников конкурента с целью ослабить его позиции,absent,,23.03.2026,GPT 5.4
+Japan,electronics,Sony Group,jp_sony_group,COMP03,"Не вступать в сговор с конкурентами о ценах, объемах или разделе рынка",explicit_section,COMP03_explicit_section,23.03.2026,GPT 5.4
+Japan,electronics,Sony Group,jp_sony_group,COMP04,Сотрудничать с конкурентами с целью повышения эффективности рынка,absent,,23.03.2026,GPT 5.4
+Japan,electronics,Sony Group,jp_sony_group,COMP05,Поддерживать уважение к конкурентам и подчеркивать важность деятельности,explicit_section,COMP05_explicit_section,23.03.2026,GPT 5.4
+Japan,electronics,Sony Group,jp_sony_group,COMP06,Не пытаться ослабить конкурентов путем ограничения их доступа к каким-либо ресурсам,absent,,23.03.2026,GPT 5.4
+Japan,electronics,Sony Group,jp_sony_group,COMP07,Соблюдать права интеллектуальные собственности конкурентов,explicit_section,COMP07_explicit_section,23.03.2026,GPT 5.4
+Japan,electronics,Sony Group,jp_sony_group,COMP08,Не распространять ложную и порочащую информацию о конкурентах,absent,,23.03.2026,GPT 5.4
+Japan,electronics,Sony Group,jp_sony_group,COMP09,Предостерегать конкурентов от нарушения данных принципов с их стороны,absent,,23.03.2026,GPT 5.4
+Japan,electronics,Sony Group,jp_sony_group,COMP10,Сообщать регулятору о замеченных неэтичных действиях конкурентов,absent,,23.03.2026,GPT 5.4
+Japan,energy,Daigas Group,jp_daigas_group,COMP01,Не пытаться узнать конфиденциальную информацию конкурента,absent,,23.03.2026,GPT 5.4
+Japan,energy,Daigas Group,jp_daigas_group,COMP02,Не переманивать ключевых работников конкурента с целью ослабить его позиции,absent,,23.03.2026,GPT 5.4
+Japan,energy,Daigas Group,jp_daigas_group,COMP03,"Не вступать в сговор с конкурентами о ценах, объемах или разделе рынка",explicit_section,COMP03_explicit_section,23.03.2026,GPT 5.4
+Japan,energy,Daigas Group,jp_daigas_group,COMP04,Сотрудничать с конкурентами с целью повышения эффективности рынка,absent,,23.03.2026,GPT 5.4
+Japan,energy,Daigas Group,jp_daigas_group,COMP05,Поддерживать уважение к конкурентам и подчеркивать важность деятельности,explicit_section,COMP05_explicit_section,23.03.2026,GPT 5.4
+Japan,energy,Daigas Group,jp_daigas_group,COMP06,Не пытаться ослабить конкурентов путем ограничения их доступа к каким-либо ресурсам,absent,,23.03.2026,GPT 5.4
+Japan,energy,Daigas Group,jp_daigas_group,COMP07,Соблюдать права интеллектуальные собственности конкурентов,explicit_section,COMP07_explicit_section,23.03.2026,GPT 5.4
+Japan,energy,Daigas Group,jp_daigas_group,COMP08,Не распространять ложную и порочащую информацию о конкурентах,absent,,23.03.2026,GPT 5.4
+Japan,energy,Daigas Group,jp_daigas_group,COMP09,Предостерегать конкурентов от нарушения данных принципов с их стороны,absent,,23.03.2026,GPT 5.4
+Japan,energy,Daigas Group,jp_daigas_group,COMP10,Сообщать регулятору о замеченных неэтичных действиях конкурентов,absent,,23.03.2026,GPT 5.4
+Japan,energy,JERA,jp_jera,COMP01,Не пытаться узнать конфиденциальную информацию конкурента,absent,,23.03.2026,GPT 5.4
+Japan,energy,JERA,jp_jera,COMP02,Не переманивать ключевых работников конкурента с целью ослабить его позиции,absent,,23.03.2026,GPT 5.4
+Japan,energy,JERA,jp_jera,COMP03,"Не вступать в сговор с конкурентами о ценах, объемах или разделе рынка",explicit_section,COMP03_explicit_section,23.03.2026,GPT 5.4
+Japan,energy,JERA,jp_jera,COMP04,Сотрудничать с конкурентами с целью повышения эффективности рынка,absent,,23.03.2026,GPT 5.4
+Japan,energy,JERA,jp_jera,COMP05,Поддерживать уважение к конкурентам и подчеркивать важность деятельности,explicit_section,COMP05_explicit_section,23.03.2026,GPT 5.4
+Japan,energy,JERA,jp_jera,COMP06,Не пытаться ослабить конкурентов путем ограничения их доступа к каким-либо ресурсам,absent,,23.03.2026,GPT 5.4
+Japan,energy,JERA,jp_jera,COMP07,Соблюдать права интеллектуальные собственности конкурентов,explicit_section,COMP07_explicit_section,23.03.2026,GPT 5.4
+Japan,energy,JERA,jp_jera,COMP08,Не распространять ложную и порочащую информацию о конкурентах,absent,,23.03.2026,GPT 5.4
+Japan,energy,JERA,jp_jera,COMP09,Предостерегать конкурентов от нарушения данных принципов с их стороны,absent,,23.03.2026,GPT 5.4
+Japan,energy,JERA,jp_jera,COMP10,Сообщать регулятору о замеченных неэтичных действиях конкурентов,absent,,23.03.2026,GPT 5.4
+Japan,energy,Kansai Electric Power,jp_kansai_electric_power,COMP01,Не пытаться узнать конфиденциальную информацию конкурента,absent,,23.03.2026,GPT 5.4
+Japan,energy,Kansai Electric Power,jp_kansai_electric_power,COMP02,Не переманивать ключевых работников конкурента с целью ослабить его позиции,absent,,23.03.2026,GPT 5.4
+Japan,energy,Kansai Electric Power,jp_kansai_electric_power,COMP03,"Не вступать в сговор с конкурентами о ценах, объемах или разделе рынка",explicit_section,COMP03_explicit_section,23.03.2026,GPT 5.4
+Japan,energy,Kansai Electric Power,jp_kansai_electric_power,COMP04,Сотрудничать с конкурентами с целью повышения эффективности рынка,absent,,23.03.2026,GPT 5.4
+Japan,energy,Kansai Electric Power,jp_kansai_electric_power,COMP05,Поддерживать уважение к конкурентам и подчеркивать важность деятельности,explicit_section,COMP05_explicit_section,23.03.2026,GPT 5.4
+Japan,energy,Kansai Electric Power,jp_kansai_electric_power,COMP06,Не пытаться ослабить конкурентов путем ограничения их доступа к каким-либо ресурсам,absent,,23.03.2026,GPT 5.4
+Japan,energy,Kansai Electric Power,jp_kansai_electric_power,COMP07,Соблюдать права интеллектуальные собственности конкурентов,absent,,23.03.2026,GPT 5.4
+Japan,energy,Kansai Electric Power,jp_kansai_electric_power,COMP08,Не распространять ложную и порочащую информацию о конкурентах,absent,,23.03.2026,GPT 5.4
+Japan,energy,Kansai Electric Power,jp_kansai_electric_power,COMP09,Предостерегать конкурентов от нарушения данных принципов с их стороны,absent,,23.03.2026,GPT 5.4
+Japan,energy,Kansai Electric Power,jp_kansai_electric_power,COMP10,Сообщать регулятору о замеченных неэтичных действиях конкурентов,absent,,23.03.2026,GPT 5.4
+Japan,energy,Tohoku Electric Power,jp_tohoku_electric_power,COMP01,Не пытаться узнать конфиденциальную информацию конкурента,absent,,23.03.2026,GPT 5.4
+Japan,energy,Tohoku Electric Power,jp_tohoku_electric_power,COMP02,Не переманивать ключевых работников конкурента с целью ослабить его позиции,absent,,23.03.2026,GPT 5.4
+Japan,energy,Tohoku Electric Power,jp_tohoku_electric_power,COMP03,"Не вступать в сговор с конкурентами о ценах, объемах или разделе рынка",explicit_section,COMP03_explicit_section,23.03.2026,GPT 5.4
+Japan,energy,Tohoku Electric Power,jp_tohoku_electric_power,COMP04,Сотрудничать с конкурентами с целью повышения эффективности рынка,absent,,23.03.2026,GPT 5.4
+Japan,energy,Tohoku Electric Power,jp_tohoku_electric_power,COMP05,Поддерживать уважение к конкурентам и подчеркивать важность деятельности,explicit_section,COMP05_explicit_section,23.03.2026,GPT 5.4
+Japan,energy,Tohoku Electric Power,jp_tohoku_electric_power,COMP06,Не пытаться ослабить конкурентов путем ограничения их доступа к каким-либо ресурсам,absent,,23.03.2026,GPT 5.4
+Japan,energy,Tohoku Electric Power,jp_tohoku_electric_power,COMP07,Соблюдать права интеллектуальные собственности конкурентов,explicit_section,COMP07_explicit_section,23.03.2026,GPT 5.4
+Japan,energy,Tohoku Electric Power,jp_tohoku_electric_power,COMP08,Не распространять ложную и порочащую информацию о конкурентах,absent,,23.03.2026,GPT 5.4
+Japan,energy,Tohoku Electric Power,jp_tohoku_electric_power,COMP09,Предостерегать конкурентов от нарушения данных принципов с их стороны,absent,,23.03.2026,GPT 5.4
+Japan,energy,Tohoku Electric Power,jp_tohoku_electric_power,COMP10,Сообщать регулятору о замеченных неэтичных действиях конкурентов,absent,,23.03.2026,GPT 5.4

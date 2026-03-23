@@ -1,0 +1,62 @@
+document_id: "jp_tokio_marine"
+company_name: "Tokio Marine"
+country: "Japan"
+industry: "insurance"
+source_path: "Japan_Ethics_Codes_txt_files/Страхование - Tokio Marine.md"
+source_language: "en"
+document_type: "code_of_conduct_or_ethics"
+review_status: "completed"
+topic_analyses:
+  - topic_id: "competitor_relations"
+    principles:
+      - principle_code: "COMP01"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "COMP02"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "COMP03"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids: ["COMP03_explicit_section"]
+      - principle_code: "COMP04"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "COMP05"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids: ["COMP05_explicit_section"]
+      - principle_code: "COMP06"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "COMP07"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids: ["COMP07_explicit_section"]
+      - principle_code: "COMP08"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "COMP09"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "COMP10"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+    key_excerpts:
+      - excerpt_id: "COMP03_explicit_section"
+        original: "We shall not undertake any action that hampers free and fair competition, including collusion and cartel formation."
+        translated_ru: "«Мы не должны предпринимать никаких действий, препятствующих свободной и честной конкуренции, включая сговор и создание картелей»."
+        section_title: "1-3 Free and Fair Competition"
+        relevance_comment: "Прямой запрет сговора и картелей (COMP03)."
+      - excerpt_id: "COMP05_explicit_section"
+        original: "We shall comply with applicable laws, rules and regulations and internal rules, engage in free and fair competition and conduct fair and equitable business activities in conformity with social norms."
+        translated_ru: "«Мы обязаны соблюдать применимые законы, правила и внутренние нормы, вести свободную и честную конкуренцию и осуществлять справедливую деловую деятельность в соответствии с социальными нормами»."
+        section_title: "1. Compliance"
+        relevance_comment: "Явно закреплен принцип честной и справедливой конкуренции (COMP05)."
+      - excerpt_id: "COMP07_explicit_section"
+        original: "We shall respect and not infringe upon intellectual property rights of third parties, including copyrights, trademarks and patents."
+        translated_ru: "«Мы обязаны уважать и не нарушать права интеллектуальной собственности третьих лиц, включая авторские права, товарные знаки и патенты»."
+        section_title: "1-6 Intellectual Properties"
+        relevance_comment: "Явное требование уважать права ИС третьих лиц, включая конкурентов (COMP07)."
+    other_principles: []
+notes:
+  - "Первичный полный анализ по инструкции 02 выполнен 23.03.2026."
+limitations: []
+analyst_summary_ru: "Tokio Marine содержит явный блок о свободной и честной конкуренции с прямым запретом картелей/сговоров (COMP03), явным принципом fair competition (COMP05) и отдельным требованием уважать права ИС третьих лиц (COMP07)."

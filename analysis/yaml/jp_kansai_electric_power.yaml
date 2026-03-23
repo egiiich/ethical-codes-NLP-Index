@@ -1,0 +1,58 @@
+document_id: "jp_kansai_electric_power"
+company_name: "Kansai Electric Power"
+country: "Japan"
+industry: "energy"
+source_path: "Japan_Ethics_Codes_txt_files/Энергетика - Kansai Electric Power.md"
+source_language: "en"
+document_type: "code_of_conduct_or_ethics"
+review_status: "completed"
+topic_analyses:
+  - topic_id: "competitor_relations"
+    principles:
+      - principle_code: "COMP01"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "COMP02"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "COMP03"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids: ["COMP03_explicit_section"]
+      - principle_code: "COMP04"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "COMP05"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids: ["COMP05_explicit_section"]
+      - principle_code: "COMP06"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "COMP07"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "COMP08"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "COMP09"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "COMP10"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+    key_excerpts:
+      - excerpt_id: "COMP03_explicit_section"
+        original: "At the Kansai Electric Power Group, we practice fair and free competition ... We do not participate in bribery or other corrupt conduct with the goal of obtaining profits unfairly ... Comply with the Antimonopoly Act ... regarding fair business activities."
+        translated_ru: "«В группе Kansai Electric Power мы практикуем честную и свободную конкуренцию ... не участвуем во взяточничестве и иной коррупции ради несправедливой прибыли ... соблюдаем Antimonopoly Act ... в части честной деловой деятельности»."
+        section_title: "Compliance and fair competition"
+        relevance_comment: "Явный конкурентный/антимонопольный блок (COMP03)."
+      - excerpt_id: "COMP05_explicit_section"
+        original: "Provide services of higher value through fair competition."
+        translated_ru: "«Предоставлять более ценные услуги через честную конкуренцию»."
+        section_title: "Code of Conduct"
+        relevance_comment: "Явное закрепление fair competition как бизнес-принципа (COMP05)."
+    other_principles: []
+notes:
+  - "Первичный полный анализ по инструкции 02 выполнен 23.03.2026."
+limitations:
+  - "Текст дает ограниченную детализацию по отдельным видам антиконкурентного поведения; классификация опирается на прямые fair competition и antimonopoly формулировки."
+analyst_summary_ru: "Kansai Electric Power закрепляет fair/free competition и соблюдение антимонопольных норм как обязательный стандарт ведения бизнеса (COMP03, COMP05)."
