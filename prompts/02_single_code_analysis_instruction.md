@@ -42,7 +42,8 @@
 4. Для статусов `explicit_section`, `implicit_scattered` и `brief_mention` добавить цитаты в `key_excerpts` и связать их через `evidence_excerpt_ids`.
 5. Если принцип не классифицируется надёжно, использовать `unclear`.
 6. Сохранить один YAML на кодекс по `analysis/yaml/_template`.
-7. Обновить строку кодекса в `registry/principle_presence_matrix.csv`.
+7. Для каждого `excerpt_id` использовать формат `"<principle_code>_<principle_status>"` (например: `"P01_follow_competition_laws_explicit_section"`).
+8. Обновить строку кодекса в `registry/principle_presence_matrix.csv`.
 
 ## Required response
 Кратко сообщи:
