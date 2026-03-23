@@ -1,10 +1,1 @@
 Страна,Отрасль,Компания,document_id,COMP1,COMP2,COMP3,COMP4,COMP5,COMP6,COMP7,COMP8,COMP9,COMP10
-Japan,Автопром,Honda Motor,jp_honda_motor,absent,absent,explicit_section,absent,brief_mention,absent,absent,absent,absent,absent
-Japan,Автопром,Mitsubishi Motors,jp_mitsubishi_motors,absent,absent,brief_mention,absent,absent,absent,absent,absent,absent,absent
-Japan,Автопром,Nissan Motor,jp_nissan_motor,absent,absent,explicit_section,absent,brief_mention,absent,absent,absent,absent,absent
-Japan,Автопром,Suzuki Motor,jp_suzuki_motor,explicit_section,absent,brief_mention,absent,absent,absent,explicit_section,absent,absent,absent
-Japan,Автопром,Toyota Motor,jp_toyota_motor,explicit_section,absent,explicit_section,absent,absent,absent,explicit_section,absent,absent,absent
-Japan,Банкинг,MUFG Group,jp_mufg_group,absent,absent,explicit_section,absent,brief_mention,absent,absent,absent,absent,absent
-Japan,Банкинг,Resona Holdings,jp_resona_holdings,absent,absent,brief_mention,absent,absent,absent,absent,absent,absent,absent
-Japan,Банкинг,Sumitomo Mitsui Financial Group,jp_sumitomo_mitsui_financial_group,absent,absent,explicit_section,absent,brief_mention,absent,absent,absent,absent,absent
-Japan,Банкинг,Sumitomo Mitsui Trust Group,jp_sumitomo_mitsui_trust_group,absent,absent,brief_mention,absent,absent,absent,absent,absent,absent,absent
