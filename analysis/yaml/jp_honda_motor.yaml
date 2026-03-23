@@ -1,0 +1,82 @@
+document_id: "jp_honda_motor"
+company_name: "Honda Motor"
+country: "Japan"
+industry: "automotive"
+source_path: "Japan_Ethics_Codes_txt_files/Автопром - Honda Motor"
+source_language: "en"
+document_type: "code_of_conduct_or_ethics"
+review_status: "completed"
+topic_analyses:
+  - topic_id: "competitor_relations"
+    principles:
+      - principle_code: "P01_follow_competition_laws"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids: ["honda_comp_01"]
+      - principle_code: "P02_no_price_fixing"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "P03_no_market_allocation"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "P04_no_bid_rigging"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "P05_no_sensitive_info_exchange"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "P06_control_competitor_contacts"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "P07_no_improper_competitor_intelligence"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "P08_respect_confidential_info_of_competitors"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "P09_compete_fairly_no_disparagement"
+        principle_status: "brief_mention"
+        evidence_excerpt_ids: ["honda_comp_02"]
+      - principle_code: "P10_escalate_to_legal_or_compliance"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids: ["honda_comp_03"]
+      - principle_code: "P11_report_violations_or_concerns"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids: ["honda_comp_03", "honda_comp_04"]
+      - principle_code: "P12_keep_records_or_follow_internal_controls"
+        principle_status: "implicit_scattered"
+        evidence_excerpt_ids: ["honda_comp_05"]
+      - principle_code: "P99_other"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+    key_excerpts:
+      - excerpt_id: "honda_comp_01"
+        original: "Required conduct I will comply with competition laws (antitrust laws)."
+        translated_ru: "Требуемое поведение: я буду соблюдать законы о конкуренции (антимонопольные законы)."
+        section_title: "Compliance with Competition Laws"
+        relevance_comment: "Прямое и недвусмысленное требование соблюдения антимонопольного законодательства."
+      - excerpt_id: "honda_comp_02"
+        original: "Honda will engage in free and open competition with competitors to maintain its stance as a company trusted by customers and society."
+        translated_ru: "Honda будет вести свободную и открытую конкуренцию с конкурентами, чтобы сохранять репутацию компании, которой доверяют клиенты и общество."
+        section_title: "Compliance with Competition Laws"
+        relevance_comment: "Фиксирует принцип добросовестной конкуренции, но без конкретных запретов на дискредитацию/ложные заявления."
+      - excerpt_id: "honda_comp_03"
+        original: "If I become aware of any violation or possible violation of laws, regulations or company policies ... consult as necessary with my manager, the legal department, or the compliance & ethics contact line*."
+        translated_ru: "Если мне станет известно о любом нарушении или возможном нарушении законов, правил или политик компании ... я при необходимости обращусь к руководителю, в юридический отдел или на линию compliance & ethics*."
+        section_title: "Reporting Non-compliance Incidents"
+        relevance_comment: "Одновременно покрывает обязанность эскалации в legal/compliance и обязанность сообщать о нарушениях."
+      - excerpt_id: "honda_comp_04"
+        original: "In cases where violations or possible violations of the Code are found ... taking actions such as reporting to the legal department or compliance & ethics contact line."
+        translated_ru: "Когда выявлены нарушения или возможные нарушения Кодекса ... необходимо предпринимать действия, включая сообщение в юридический отдел или на линию compliance & ethics."
+        section_title: "Responsibilities of the Management"
+        relevance_comment: "Подтверждает обязательность сообщения/эскалации на уровне управленцев."
+      - excerpt_id: "honda_comp_05"
+        original: "I will carry out appropriate procedures in accordance with company policies in selecting business partners, and will comply with laws, regulations, and company policies related to business transactions."
+        translated_ru: "Я буду выполнять надлежащие процедуры в соответствии с политиками компании при выборе бизнес-партнёров и соблюдать законы, правила и политики компании, связанные с деловыми операциями."
+        section_title: "Sound Business Practices"
+        relevance_comment: "Косвенно закрепляет внутренние процедуры и контроль в контексте деловых взаимодействий."
+    other_principles: []
+notes:
+  - "Документ содержит явный раздел по антимонопольному комплаенсу, но без детализированных картельных сценариев (цены, рынки, тендеры, обмен чувствительными данными)."
+limitations:
+  - "Исходный текст автоматически распознан и может содержать опечатки; анализ выполнен по восстановленному смыслу."
+analyst_summary_ru: "По теме отношений с конкурентами у Honda зафиксированы сильные базовые требования: соблюдение антимонопольного законодательства, добросовестная конкуренция, эскалация в legal/compliance и обязанность репортинга. Специфические анти-картельные запреты (price-fixing, market allocation, bid-rigging, sensitive info exchange) в явном виде не обнаружены."
