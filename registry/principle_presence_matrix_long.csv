@@ -1,0 +1,91 @@
+Страна,Отрасль,Компания,document_id,Principle_code,Principle_text,Presence,Evidence,Date of analysis,Analysis model
+Japan,Автопром,Honda Motor,jp_honda_motor,COMP01,Не пытаться узнать конфиденциальную информацию конкурента,absent,,unknown,unknown
+Japan,Автопром,Honda Motor,jp_honda_motor,COMP02,Не переманивать ключевых работников конкурента с целью ослабить его позиции,absent,,unknown,unknown
+Japan,Автопром,Honda Motor,jp_honda_motor,COMP03,"Не вступать в сговор с конкурентами о ценах, объемах или разделе рынка",explicit_section,I will comply with competition laws (antitrust laws).,unknown,unknown
+Japan,Автопром,Honda Motor,jp_honda_motor,COMP04,Сотрудничать с конкурентами с целью повышения эффективности рынка,absent,,unknown,unknown
+Japan,Автопром,Honda Motor,jp_honda_motor,COMP05,Поддерживать уважение к конкурентам и подчеркивать важность деятельности,brief_mention,Honda will engage in free and open competition with competitors to maintain its stance as a company trusted by customers and society.,unknown,unknown
+Japan,Автопром,Honda Motor,jp_honda_motor,COMP06,Не пытаться ослабить конкурентов путем ограничения их доступа к каким-либо ресурсам,absent,,unknown,unknown
+Japan,Автопром,Honda Motor,jp_honda_motor,COMP07,Соблюдать права интеллектуальные собственности конкурентов,absent,,unknown,unknown
+Japan,Автопром,Honda Motor,jp_honda_motor,COMP08,Не распространять ложную и порочащую информацию о конкурентах,absent,,unknown,unknown
+Japan,Автопром,Honda Motor,jp_honda_motor,COMP09,Предостерегать конкурентов от нарушения данных принципов с их стороны.,absent,,unknown,unknown
+Japan,Автопром,Honda Motor,jp_honda_motor,COMP10,Сообщать регулятору о замеченных неэтичных действиях конкурентов.,absent,,unknown,unknown
+Japan,Автопром,Mitsubishi Motors,jp_mitsubishi_motors,COMP01,Не пытаться узнать конфиденциальную информацию конкурента,absent,,unknown,unknown
+Japan,Автопром,Mitsubishi Motors,jp_mitsubishi_motors,COMP02,Не переманивать ключевых работников конкурента с целью ослабить его позиции,absent,,unknown,unknown
+Japan,Автопром,Mitsubishi Motors,jp_mitsubishi_motors,COMP03,"Не вступать в сговор с конкурентами о ценах, объемах или разделе рынка",brief_mention,We shall comply with all applicable laws and regulations of the country where the Company conducts business as well as all Company policies and rules.,unknown,unknown
+Japan,Автопром,Mitsubishi Motors,jp_mitsubishi_motors,COMP04,Сотрудничать с конкурентами с целью повышения эффективности рынка,absent,,unknown,unknown
+Japan,Автопром,Mitsubishi Motors,jp_mitsubishi_motors,COMP05,Поддерживать уважение к конкурентам и подчеркивать важность деятельности,absent,,unknown,unknown
+Japan,Автопром,Mitsubishi Motors,jp_mitsubishi_motors,COMP06,Не пытаться ослабить конкурентов путем ограничения их доступа к каким-либо ресурсам,absent,,unknown,unknown
+Japan,Автопром,Mitsubishi Motors,jp_mitsubishi_motors,COMP07,Соблюдать права интеллектуальные собственности конкурентов,absent,,unknown,unknown
+Japan,Автопром,Mitsubishi Motors,jp_mitsubishi_motors,COMP08,Не распространять ложную и порочащую информацию о конкурентах,absent,,unknown,unknown
+Japan,Автопром,Mitsubishi Motors,jp_mitsubishi_motors,COMP09,Предостерегать конкурентов от нарушения данных принципов с их стороны.,absent,,unknown,unknown
+Japan,Автопром,Mitsubishi Motors,jp_mitsubishi_motors,COMP10,Сообщать регулятору о замеченных неэтичных действиях конкурентов.,absent,,unknown,unknown
+Japan,Автопром,Nissan Motor,jp_nissan_motor,COMP01,Не пытаться узнать конфиденциальную информацию конкурента,absent,,unknown,unknown
+Japan,Автопром,Nissan Motor,jp_nissan_motor,COMP02,Не переманивать ключевых работников конкурента с целью ослабить его позиции,absent,,unknown,unknown
+Japan,Автопром,Nissan Motor,jp_nissan_motor,COMP03,"Не вступать в сговор с конкурентами о ценах, объемах или разделе рынка",explicit_section,Never engage in any activities with competitors that could appear to harm fair competition.,unknown,unknown
+Japan,Автопром,Nissan Motor,jp_nissan_motor,COMP04,Сотрудничать с конкурентами с целью повышения эффективности рынка,absent,,unknown,unknown
+Japan,Автопром,Nissan Motor,jp_nissan_motor,COMP05,Поддерживать уважение к конкурентам и подчеркивать важность деятельности,brief_mention,"Compete honestly and transparently, following all antitrust, competition, and trade laws and regulations.",unknown,unknown
+Japan,Автопром,Nissan Motor,jp_nissan_motor,COMP06,Не пытаться ослабить конкурентов путем ограничения их доступа к каким-либо ресурсам,absent,,unknown,unknown
+Japan,Автопром,Nissan Motor,jp_nissan_motor,COMP07,Соблюдать права интеллектуальные собственности конкурентов,absent,,unknown,unknown
+Japan,Автопром,Nissan Motor,jp_nissan_motor,COMP08,Не распространять ложную и порочащую информацию о конкурентах,absent,,unknown,unknown
+Japan,Автопром,Nissan Motor,jp_nissan_motor,COMP09,Предостерегать конкурентов от нарушения данных принципов с их стороны.,absent,,unknown,unknown
+Japan,Автопром,Nissan Motor,jp_nissan_motor,COMP10,Сообщать регулятору о замеченных неэтичных действиях конкурентов.,absent,,unknown,unknown
+Japan,Автопром,Suzuki Motor,jp_suzuki_motor,COMP01,Не пытаться узнать конфиденциальную информацию конкурента,explicit_section,"Recognizing that obtaining trade secrets of any other persons without their consent constitutes an offence, you shall not do such a thing.",unknown,unknown
+Japan,Автопром,Suzuki Motor,jp_suzuki_motor,COMP02,Не переманивать ключевых работников конкурента с целью ослабить его позиции,absent,,unknown,unknown
+Japan,Автопром,Suzuki Motor,jp_suzuki_motor,COMP03,"Не вступать в сговор с конкурентами о ценах, объемах или разделе рынка",brief_mention,While Suzuki Group acknowledges the existence of difference in laws related to competition such as Antitrust Law ... Suzuki Group will grasp the difference and carry out training on employees to observe laws and societal norms...,unknown,unknown
+Japan,Автопром,Suzuki Motor,jp_suzuki_motor,COMP04,Сотрудничать с конкурентами с целью повышения эффективности рынка,absent,,unknown,unknown
+Japan,Автопром,Suzuki Motor,jp_suzuki_motor,COMP05,Поддерживать уважение к конкурентам и подчеркивать важность деятельности,absent,,unknown,unknown
+Japan,Автопром,Suzuki Motor,jp_suzuki_motor,COMP06,Не пытаться ослабить конкурентов путем ограничения их доступа к каким-либо ресурсам,absent,,unknown,unknown
+Japan,Автопром,Suzuki Motor,jp_suzuki_motor,COMP07,Соблюдать права интеллектуальные собственности конкурентов,explicit_section,"Recognizing that obtaining trade secrets of any other persons without their consent constitutes an offence, you shall not do such a thing.",unknown,unknown
+Japan,Автопром,Suzuki Motor,jp_suzuki_motor,COMP08,Не распространять ложную и порочащую информацию о конкурентах,absent,,unknown,unknown
+Japan,Автопром,Suzuki Motor,jp_suzuki_motor,COMP09,Предостерегать конкурентов от нарушения данных принципов с их стороны.,absent,,unknown,unknown
+Japan,Автопром,Suzuki Motor,jp_suzuki_motor,COMP10,Сообщать регулятору о замеченных неэтичных действиях конкурентов.,absent,,unknown,unknown
+Japan,Автопром,Toyota Motor,jp_toyota_motor,COMP01,Не пытаться узнать конфиденциальную информацию конкурента,explicit_section,Toyota also does not tolerate the illegal or unauthorized use of another party’s intellectual property or confidential information.,unknown,unknown
+Japan,Автопром,Toyota Motor,jp_toyota_motor,COMP02,Не переманивать ключевых работников конкурента с целью ослабить его позиции,absent,,unknown,unknown
+Japan,Автопром,Toyota Motor,jp_toyota_motor,COMP03,"Не вступать в сговор с конкурентами о ценах, объемах или разделе рынка",explicit_section,"Do not discuss or make agreements with competitors about pricing, costs, bids, markets, territories, customers, suppliers or contract terms and conditions.",unknown,unknown
+Japan,Автопром,Toyota Motor,jp_toyota_motor,COMP04,Сотрудничать с конкурентами с целью повышения эффективности рынка,absent,,unknown,unknown
+Japan,Автопром,Toyota Motor,jp_toyota_motor,COMP05,Поддерживать уважение к конкурентам и подчеркивать важность деятельности,absent,,unknown,unknown
+Japan,Автопром,Toyota Motor,jp_toyota_motor,COMP06,Не пытаться ослабить конкурентов путем ограничения их доступа к каким-либо ресурсам,absent,,unknown,unknown
+Japan,Автопром,Toyota Motor,jp_toyota_motor,COMP07,Соблюдать права интеллектуальные собственности конкурентов,explicit_section,Respect the intellectual property rights of others at all times...,unknown,unknown
+Japan,Автопром,Toyota Motor,jp_toyota_motor,COMP08,Не распространять ложную и порочащую информацию о конкурентах,absent,,unknown,unknown
+Japan,Автопром,Toyota Motor,jp_toyota_motor,COMP09,Предостерегать конкурентов от нарушения данных принципов с их стороны.,absent,,unknown,unknown
+Japan,Автопром,Toyota Motor,jp_toyota_motor,COMP10,Сообщать регулятору о замеченных неэтичных действиях конкурентов.,absent,,unknown,unknown
+Japan,Банкинг,MUFG Group,jp_mufg_group,COMP01,Не пытаться узнать конфиденциальную информацию конкурента,absent,,unknown,unknown
+Japan,Банкинг,MUFG Group,jp_mufg_group,COMP02,Не переманивать ключевых работников конкурента с целью ослабить его позиции,absent,,unknown,unknown
+Japan,Банкинг,MUFG Group,jp_mufg_group,COMP03,"Не вступать в сговор с конкурентами о ценах, объемах или разделе рынка",explicit_section,"As a participant in a fair, transparent, and free competitive market, we must not have involvement with unfair trading practices (including cartels, abuse of dominant position, and market manipulation).",unknown,unknown
+Japan,Банкинг,MUFG Group,jp_mufg_group,COMP04,Сотрудничать с конкурентами с целью повышения эффективности рынка,absent,,unknown,unknown
+Japan,Банкинг,MUFG Group,jp_mufg_group,COMP05,Поддерживать уважение к конкурентам и подчеркивать важность деятельности,brief_mention,"As a participant in a fair, transparent, and free competitive market...",unknown,unknown
+Japan,Банкинг,MUFG Group,jp_mufg_group,COMP06,Не пытаться ослабить конкурентов путем ограничения их доступа к каким-либо ресурсам,absent,,unknown,unknown
+Japan,Банкинг,MUFG Group,jp_mufg_group,COMP07,Соблюдать права интеллектуальные собственности конкурентов,absent,,unknown,unknown
+Japan,Банкинг,MUFG Group,jp_mufg_group,COMP08,Не распространять ложную и порочащую информацию о конкурентах,absent,,unknown,unknown
+Japan,Банкинг,MUFG Group,jp_mufg_group,COMP09,Предостерегать конкурентов от нарушения данных принципов с их стороны.,absent,,unknown,unknown
+Japan,Банкинг,MUFG Group,jp_mufg_group,COMP10,Сообщать регулятору о замеченных неэтичных действиях конкурентов.,absent,,unknown,unknown
+Japan,Банкинг,Resona Holdings,jp_resona_holdings,COMP01,Не пытаться узнать конфиденциальную информацию конкурента,absent,,unknown,unknown
+Japan,Банкинг,Resona Holdings,jp_resona_holdings,COMP02,Не переманивать ключевых работников конкурента с целью ослабить его позиции,absent,,unknown,unknown
+Japan,Банкинг,Resona Holdings,jp_resona_holdings,COMP03,"Не вступать в сговор с конкурентами о ценах, объемах или разделе рынка",brief_mention,"The Officers and Employees of the Resona Group shall comply with all applicable laws and regulations in the jurisdictions in which each Resona Group operates, as well as in-house rules and regulations established by each Group company, and applicable social norms.",unknown,unknown
+Japan,Банкинг,Resona Holdings,jp_resona_holdings,COMP04,Сотрудничать с конкурентами с целью повышения эффективности рынка,absent,,unknown,unknown
+Japan,Банкинг,Resona Holdings,jp_resona_holdings,COMP05,Поддерживать уважение к конкурентам и подчеркивать важность деятельности,absent,,unknown,unknown
+Japan,Банкинг,Resona Holdings,jp_resona_holdings,COMP06,Не пытаться ослабить конкурентов путем ограничения их доступа к каким-либо ресурсам,absent,,unknown,unknown
+Japan,Банкинг,Resona Holdings,jp_resona_holdings,COMP07,Соблюдать права интеллектуальные собственности конкурентов,absent,,unknown,unknown
+Japan,Банкинг,Resona Holdings,jp_resona_holdings,COMP08,Не распространять ложную и порочащую информацию о конкурентах,absent,,unknown,unknown
+Japan,Банкинг,Resona Holdings,jp_resona_holdings,COMP09,Предостерегать конкурентов от нарушения данных принципов с их стороны.,absent,,unknown,unknown
+Japan,Банкинг,Resona Holdings,jp_resona_holdings,COMP10,Сообщать регулятору о замеченных неэтичных действиях конкурентов.,absent,,unknown,unknown
+Japan,Банкинг,Sumitomo Mitsui Financial Group,jp_sumitomo_mitsui_financial_group,COMP01,Не пытаться узнать конфиденциальную информацию конкурента,absent,,unknown,unknown
+Japan,Банкинг,Sumitomo Mitsui Financial Group,jp_sumitomo_mitsui_financial_group,COMP02,Не переманивать ключевых работников конкурента с целью ослабить его позиции,absent,,unknown,unknown
+Japan,Банкинг,Sumitomo Mitsui Financial Group,jp_sumitomo_mitsui_financial_group,COMP03,"Не вступать в сговор с конкурентами о ценах, объемах или разделе рынка",explicit_section,Violation of the antitrust laws can include certain agreements or communications with competitors...,unknown,unknown
+Japan,Банкинг,Sumitomo Mitsui Financial Group,jp_sumitomo_mitsui_financial_group,COMP04,Сотрудничать с конкурентами с целью повышения эффективности рынка,absent,,unknown,unknown
+Japan,Банкинг,Sumitomo Mitsui Financial Group,jp_sumitomo_mitsui_financial_group,COMP05,Поддерживать уважение к конкурентам и подчеркивать важность деятельности,brief_mention,Antitrust law is designed to promote a competitive marketplace...,unknown,unknown
+Japan,Банкинг,Sumitomo Mitsui Financial Group,jp_sumitomo_mitsui_financial_group,COMP06,Не пытаться ослабить конкурентов путем ограничения их доступа к каким-либо ресурсам,absent,,unknown,unknown
+Japan,Банкинг,Sumitomo Mitsui Financial Group,jp_sumitomo_mitsui_financial_group,COMP07,Соблюдать права интеллектуальные собственности конкурентов,absent,,unknown,unknown
+Japan,Банкинг,Sumitomo Mitsui Financial Group,jp_sumitomo_mitsui_financial_group,COMP08,Не распространять ложную и порочащую информацию о конкурентах,absent,,unknown,unknown
+Japan,Банкинг,Sumitomo Mitsui Financial Group,jp_sumitomo_mitsui_financial_group,COMP09,Предостерегать конкурентов от нарушения данных принципов с их стороны.,absent,,unknown,unknown
+Japan,Банкинг,Sumitomo Mitsui Financial Group,jp_sumitomo_mitsui_financial_group,COMP10,Сообщать регулятору о замеченных неэтичных действиях конкурентов.,absent,,unknown,unknown
+Japan,Банкинг,Sumitomo Mitsui Trust Group,jp_sumitomo_mitsui_trust_group,COMP01,Не пытаться узнать конфиденциальную информацию конкурента,absent,,unknown,unknown
+Japan,Банкинг,Sumitomo Mitsui Trust Group,jp_sumitomo_mitsui_trust_group,COMP02,Не переманивать ключевых работников конкурента с целью ослабить его позиции,absent,,unknown,unknown
+Japan,Банкинг,Sumitomo Mitsui Trust Group,jp_sumitomo_mitsui_trust_group,COMP03,"Не вступать в сговор с конкурентами о ценах, объемах или разделе рынка",brief_mention,"...numerous other laws and regulations, such as ... anti-trust laws ... and unfair competition laws.",unknown,unknown
+Japan,Банкинг,Sumitomo Mitsui Trust Group,jp_sumitomo_mitsui_trust_group,COMP04,Сотрудничать с конкурентами с целью повышения эффективности рынка,absent,,unknown,unknown
+Japan,Банкинг,Sumitomo Mitsui Trust Group,jp_sumitomo_mitsui_trust_group,COMP05,Поддерживать уважение к конкурентам и подчеркивать важность деятельности,absent,,unknown,unknown
+Japan,Банкинг,Sumitomo Mitsui Trust Group,jp_sumitomo_mitsui_trust_group,COMP06,Не пытаться ослабить конкурентов путем ограничения их доступа к каким-либо ресурсам,absent,,unknown,unknown
+Japan,Банкинг,Sumitomo Mitsui Trust Group,jp_sumitomo_mitsui_trust_group,COMP07,Соблюдать права интеллектуальные собственности конкурентов,absent,,unknown,unknown
+Japan,Банкинг,Sumitomo Mitsui Trust Group,jp_sumitomo_mitsui_trust_group,COMP08,Не распространять ложную и порочащую информацию о конкурентах,absent,,unknown,unknown
+Japan,Банкинг,Sumitomo Mitsui Trust Group,jp_sumitomo_mitsui_trust_group,COMP09,Предостерегать конкурентов от нарушения данных принципов с их стороны.,absent,,unknown,unknown
+Japan,Банкинг,Sumitomo Mitsui Trust Group,jp_sumitomo_mitsui_trust_group,COMP10,Сообщать регулятору о замеченных неэтичных действиях конкурентов.,absent,,unknown,unknown

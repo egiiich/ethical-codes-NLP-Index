@@ -32,26 +32,34 @@
 2. Для каждой темы загрузить канонические принципы из `docs/principles/<topic_id>.md`.
 3. Для каждого принципа присвоить `principle_status`.
 4. Сохранить единый YAML `analysis/yaml/<document_id>.yaml`.
-5. Обновить `registry/principle_presence_matrix.csv`.
+5. Обновить `registry/principle_presence_matrix_wide.csv`.
+6. Обновить `registry/principle_presence_matrix_long.csv`.
 
-## 6. Матрица принципов
+## 6. Матрица принципов (wide)
 
-`registry/principle_presence_matrix.csv` хранит агрегированное представление:
+`registry/principle_presence_matrix_wide.csv` хранит агрегированное представление:
 - строка = `document_id`,
 - столбец = принцип (рекомендуется префикс `topic_id__`),
 - значение = `explicit_section|implicit_scattered|brief_mention|absent|unclear`.
 
-## 7. Синтез
+## 7. Матрица принципов (long)
+
+`registry/principle_presence_matrix_long.csv` хранит нормализованное представление:
+- первые 4 столбца: `Страна,Отрасль,Компания,document_id` (совпадают с wide),
+- далее: `Principle_code`, `Principle_text`, `Presence`, `Evidence`, `Date of analysis`, `Analysis model`,
+- каждая строка = один принцип для одного `document_id`.
+
+## 8. Синтез
 
 Синтез выполняется по теме на основе:
 - соответствующих блоков в `analysis/yaml/<document_id>.yaml`,
 - матрицы присутствия принципов.
 
-## 8. Индексная матрица тем
+## 9. Индексная матрица тем
 
 `registry/principle_index_matrix.csv` хранит агрегированный числовой индекс:
 - строка = `document_id`,
-- первые 4 столбца совпадают с `registry/principle_presence_matrix.csv`:
+- первые 4 столбца совпадают с `registry/principle_presence_matrix_wide.csv`:
   `Страна,Отрасль,Компания,document_id`,
 - далее по одному столбцу на каждый `topic_id` из `docs/topic_registry.md`,
 - значение в столбце `topic_id` = сумма весов статусов всех принципов этой темы.
@@ -64,5 +72,6 @@
 - `unclear = 0`
 
 Порядок обновления после анализа кодекса:
-1. Обновить `registry/principle_presence_matrix.csv`.
-2. Пересчитать `registry/principle_index_matrix.csv` по актуальной матрице присутствия и реестру тем.
+1. Обновить `registry/principle_presence_matrix_wide.csv`.
+2. Обновить `registry/principle_presence_matrix_long.csv`.
+3. Пересчитать `registry/principle_index_matrix.csv` по актуальной wide-матрице присутствия и реестру тем.

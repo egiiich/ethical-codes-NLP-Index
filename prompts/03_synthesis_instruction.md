@@ -8,7 +8,8 @@
 
 ## Source
 - `analysis/yaml/*.yaml`
-- `registry/principle_presence_matrix.csv`
+- `registry/principle_presence_matrix_wide.csv`
+- `registry/principle_presence_matrix_long.csv` (для проверки evidence по принципам при необходимости)
 - `registry/principle_index_matrix.csv`
 
 ## Use only
