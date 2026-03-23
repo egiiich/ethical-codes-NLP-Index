@@ -11,6 +11,7 @@
 2. Для каждого принципа присвоить `principle_status`.
 3. Сохранить единый файл `analysis/yaml/<document_id>.yaml`.
 4. Обновить `registry/principle_presence_matrix.csv`.
+5. Обновить `registry/principle_index_matrix.csv`.
 
 ## Language rule
 - Анализ ведётся по языку оригинала документа.
@@ -44,6 +45,11 @@
 6. Сохранить один YAML на кодекс по `analysis/yaml/_template`.
 7. Для каждого `excerpt_id` использовать формат `"<principle_code>_<principle_status>"` (например: `"COMP01_explicit_section"`).
 8. Обновить строку кодекса в `registry/principle_presence_matrix.csv`.
+9. Пересчитать строку кодекса в `registry/principle_index_matrix.csv`:
+   - взять первые 4 столбца из `registry/principle_presence_matrix.csv`;
+   - добавить по одному столбцу на каждый `topic_id` из `docs/topic_registry.md`;
+   - вычислить индекс темы как сумму весов по всем принципам темы:
+     `explicit_section=3`, `implicit_scattered=2`, `brief_mention=1`, `absent=0`, `unclear=0`.
 
 ## Required response
 Кратко сообщи:

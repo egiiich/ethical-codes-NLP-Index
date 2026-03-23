@@ -46,3 +46,23 @@
 Синтез выполняется по теме на основе:
 - соответствующих блоков в `analysis/yaml/<document_id>.yaml`,
 - матрицы присутствия принципов.
+
+## 8. Индексная матрица тем
+
+`registry/principle_index_matrix.csv` хранит агрегированный числовой индекс:
+- строка = `document_id`,
+- первые 4 столбца совпадают с `registry/principle_presence_matrix.csv`:
+  `Страна,Отрасль,Компания,document_id`,
+- далее по одному столбцу на каждый `topic_id` из `docs/topic_registry.md`,
+- значение в столбце `topic_id` = сумма весов статусов всех принципов этой темы.
+
+Шкала весов:
+- `explicit_section = 3`
+- `implicit_scattered = 2`
+- `brief_mention = 1`
+- `absent = 0`
+- `unclear = 0`
+
+Порядок обновления после анализа кодекса:
+1. Обновить `registry/principle_presence_matrix.csv`.
+2. Пересчитать `registry/principle_index_matrix.csv` по актуальной матрице присутствия и реестру тем.
