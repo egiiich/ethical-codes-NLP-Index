@@ -1,1 +1,6 @@
 Страна,Отрасль,Компания,document_id,competitor_relations
+Japan,Автопром,Honda Motor,jp_honda_motor,4
+Japan,Автопром,Mitsubishi Motors,jp_mitsubishi_motors,1
+Japan,Автопром,Nissan Motor,jp_nissan_motor,4
+Japan,Автопром,Suzuki Motor,jp_suzuki_motor,7
+Japan,Автопром,Toyota Motor,jp_toyota_motor,9

@@ -17,13 +17,13 @@ topic_analyses:
         evidence_excerpt_ids: []
       - principle_code: "COMP03"
         principle_status: "explicit_section"
-        evidence_excerpt_ids: ["ex2"]
+        evidence_excerpt_ids: ["COMP03_explicit_section"]
       - principle_code: "COMP04"
         principle_status: "absent"
         evidence_excerpt_ids: []
       - principle_code: "COMP05"
         principle_status: "brief_mention"
-        evidence_excerpt_ids: ["ex1"]
+        evidence_excerpt_ids: ["COMP05_brief_mention"]
       - principle_code: "COMP06"
         principle_status: "absent"
         evidence_excerpt_ids: []
@@ -40,12 +40,12 @@ topic_analyses:
         principle_status: "absent"
         evidence_excerpt_ids: []
     key_excerpts:
-      - excerpt_id: "ex1"
+      - excerpt_id: "COMP05_brief_mention"
         original: "Honda will engage in free and open competition with competitors to maintain its stance as a company trusted by customers and society."
         translated_ru: «Honda будет вести свободную и открытую конкуренцию с конкурентами, чтобы сохранять позицию компании, которой доверяют клиенты и общество».
         section_title: "Compliance with Competition Laws"
         relevance_comment: "Прямое упоминание конкуренции и конкурентов (COMP05)."
-      - excerpt_id: "ex2"
+      - excerpt_id: "COMP03_explicit_section"
         original: "I will comply with competition laws (antitrust laws)."
         translated_ru: «Я буду соблюдать законы о конкуренции (антимонопольные законы)».
         section_title: "Compliance with Competition Laws"

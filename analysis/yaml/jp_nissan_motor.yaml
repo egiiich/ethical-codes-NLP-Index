@@ -17,13 +17,13 @@ topic_analyses:
         evidence_excerpt_ids: []
       - principle_code: "COMP03"
         principle_status: "explicit_section"
-        evidence_excerpt_ids: ["ex1", "ex2"]
+        evidence_excerpt_ids: ["COMP03_explicit_section"]
       - principle_code: "COMP04"
         principle_status: "absent"
         evidence_excerpt_ids: []
       - principle_code: "COMP05"
         principle_status: "brief_mention"
-        evidence_excerpt_ids: ["ex1"]
+        evidence_excerpt_ids: ["COMP05_brief_mention"]
       - principle_code: "COMP06"
         principle_status: "absent"
         evidence_excerpt_ids: []
@@ -40,12 +40,12 @@ topic_analyses:
         principle_status: "absent"
         evidence_excerpt_ids: []
     key_excerpts:
-      - excerpt_id: "ex1"
+      - excerpt_id: "COMP05_brief_mention"
         original: "Compete honestly and transparently, following all antitrust, competition, and trade laws and regulations."
         translated_ru: «Конкурируйте честно и прозрачно, соблюдая все антимонопольные, конкурентные и торговые законы и нормы».
         section_title: "Be Impartial and Fair"
         relevance_comment: "Прямая норма о соблюдении антимонопольных требований (COMP03) и честной конкуренции (COMP05)."
-      - excerpt_id: "ex2"
+      - excerpt_id: "COMP03_explicit_section"
         original: "Never engage in any activities with competitors that could appear to harm fair competition."
         translated_ru: «Никогда не участвуйте в действиях с конкурентами, которые могут выглядеть как вредящие честной конкуренции».
         section_title: "Be Impartial and Fair"

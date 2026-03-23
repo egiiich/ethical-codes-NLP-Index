@@ -11,13 +11,13 @@ topic_analyses:
     principles:
       - principle_code: "COMP01"
         principle_status: "explicit_section"
-        evidence_excerpt_ids: ["ex2"]
+        evidence_excerpt_ids: ["COMP01_explicit_section"]
       - principle_code: "COMP02"
         principle_status: "absent"
         evidence_excerpt_ids: []
       - principle_code: "COMP03"
         principle_status: "brief_mention"
-        evidence_excerpt_ids: ["ex1"]
+        evidence_excerpt_ids: ["COMP03_brief_mention"]
       - principle_code: "COMP04"
         principle_status: "absent"
         evidence_excerpt_ids: []
@@ -29,7 +29,7 @@ topic_analyses:
         evidence_excerpt_ids: []
       - principle_code: "COMP07"
         principle_status: "explicit_section"
-        evidence_excerpt_ids: ["ex2"]
+        evidence_excerpt_ids: ["COMP07_explicit_section"]
       - principle_code: "COMP08"
         principle_status: "absent"
         evidence_excerpt_ids: []
@@ -40,12 +40,17 @@ topic_analyses:
         principle_status: "absent"
         evidence_excerpt_ids: []
     key_excerpts:
-      - excerpt_id: "ex1"
+      - excerpt_id: "COMP03_brief_mention"
         original: "While Suzuki Group acknowledges the existence of difference in laws related to competition such as Antitrust Law ... Suzuki Group will grasp the difference and carry out training on employees to observe laws and societal norms..."
         translated_ru: «Suzuki Group признаёт различия в законах о конкуренции, таких как антимонопольное право ... и проводит обучение, чтобы сотрудники соблюдали законы и социальные нормы...».
         section_title: "Compliance"
         relevance_comment: "Краткое, но прямое упоминание соблюдения антимонопольных требований (COMP03)."
-      - excerpt_id: "ex2"
+      - excerpt_id: "COMP01_explicit_section"
+        original: "Recognizing that obtaining trade secrets of any other persons without their consent constitutes an offence, you shall not do such a thing."
+        translated_ru: «Осознавая, что получение коммерческих тайн любых других лиц без их согласия является правонарушением, вы не должны так поступать».
+        section_title: "Compliance Practical Examples"
+        relevance_comment: "Запрет на получение чужих коммерческих тайн (COMP01) и уважение ИС/секретов других лиц (COMP07)."
+      - excerpt_id: "COMP07_explicit_section"
         original: "Recognizing that obtaining trade secrets of any other persons without their consent constitutes an offence, you shall not do such a thing."
         translated_ru: «Осознавая, что получение коммерческих тайн любых других лиц без их согласия является правонарушением, вы не должны так поступать».
         section_title: "Compliance Practical Examples"

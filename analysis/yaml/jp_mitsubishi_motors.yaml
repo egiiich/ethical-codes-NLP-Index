@@ -16,8 +16,8 @@ topic_analyses:
         principle_status: "absent"
         evidence_excerpt_ids: []
       - principle_code: "COMP03"
-        principle_status: "absent"
-        evidence_excerpt_ids: []
+        principle_status: "brief_mention"
+        evidence_excerpt_ids: ["COMP03_brief_mention"]
       - principle_code: "COMP04"
         principle_status: "absent"
         evidence_excerpt_ids: []
@@ -39,8 +39,13 @@ topic_analyses:
       - principle_code: "COMP10"
         principle_status: "absent"
         evidence_excerpt_ids: []
-    key_excerpts: []
+    key_excerpts:
+      - excerpt_id: "COMP03_brief_mention"
+        original: "We shall comply with all applicable laws and regulations of the country where the Company conducts business as well as all Company policies and rules."
+        translated_ru: "«Мы должны соблюдать все применимые законы и нормативные акты страны, где Компания ведет деятельность, а также все политики и правила Компании»."
+        section_title: "Comply with all Laws and Rules"
+        relevance_comment: "Косвенное и краткое покрытие антимонопольного поведения через общее требование соблюдать применимое законодательство (COMP03)."
     other_principles: []
 notes: []
 limitations: []
-analyst_summary_ru: "В доступном тексте Global Code of Conduct Mitsubishi Motors не найдено надёжных формулировок по каноническим принципам темы отношений с конкурентами."
+analyst_summary_ru: "В доступном тексте Mitsubishi Motors по теме конкурентов есть только краткое общее требование соблюдать применимые законы (интерпретировано как brief_mention для COMP03); остальные канонические принципы не подтверждены."
