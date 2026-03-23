@@ -1,6 +1,1 @@
 Страна,Отрасль,Компания,document_id,COMP1,COMP2,COMP3,COMP4,COMP5,COMP6,COMP7,COMP8,COMP9,COMP10
-Japan,automotive,Honda Motor,jp_honda_motor,absent,absent,explicit_section,absent,brief_mention,absent,absent,absent,absent,absent
-Japan,automotive,Mitsubishi Motors,jp_mitsubishi_motors,absent,absent,absent,absent,absent,absent,absent,absent,absent,absent
-Japan,automotive,Nissan Motor,jp_nissan_motor,absent,absent,explicit_section,absent,brief_mention,absent,absent,absent,absent,absent
-Japan,automotive,Suzuki Motor,jp_suzuki_motor,explicit_section,absent,brief_mention,absent,absent,absent,explicit_section,absent,absent,absent
-Japan,automotive,Toyota Motor,jp_toyota_motor,explicit_section,absent,explicit_section,absent,absent,absent,explicit_section,absent,absent,absent
