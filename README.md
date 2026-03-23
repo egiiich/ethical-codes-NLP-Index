@@ -1,36 +1,33 @@
-# Ethics Codes Multi-Topic Analysis Corpus
+# Ethics Codes Multi-Topic Principle Matrix Corpus
 
-Репозиторий для анализа корпоративных кодексов этики по **нескольким тематическим направлениям** (включая «Отношения с конкурентами»).
+Репозиторий для анализа корпоративных кодексов этики по нескольким темам в формате **матрицы присутствия принципов**:
+
+- строки: кодексы (`document_id`),
+- столбцы: канонические принципы,
+- значения: статус присутствия принципа в кодексе.
 
 ## Что внутри
 
 - `Japan_Ethics_Codes_txt_files/` — исходные тексты кодексов.
-- `registry/codes_index.csv` — инвентаризация документов (уровень «документ»).
-- `registry/topic_analysis_status.csv` — статус анализа на уровне «документ × тема».
-- `analysis/yaml/_template` — шаблон карточки анализа по теме.
-- `analysis/yaml/<topic_id>/` — карточки анализа по конкретной теме.
-- `synthesis/<topic_id>/` — синтез по конкретной теме.
-- `docs/` — методология, шкалы статусов, реестр тем и реестры принципов.
-- `prompts/` — модульные инструкции для инвентаризации, анализа и синтеза.
+- `registry/codes_index.csv` — инвентаризация документов.
+- `registry/principle_presence_matrix.csv` — матрица `кодекс × принцип`.
+- `analysis/yaml/_template` — шаблон единой карточки анализа кодекса.
+- `analysis/yaml/<document_id>.yaml` — единый YAML на кодекс (все темы сразу).
+- `docs/topic_registry.md` — реестр тем.
+- `docs/principles/<topic_id>.md` — канонические принципы тем.
+- `prompts/` — инструкции для инвентаризации, анализа и синтеза.
 
 ## Минимальный рабочий цикл
 
 1. Добавить/обновить документы в корпусе.
 2. Обновить `registry/codes_index.csv`.
-3. Выбрать тему (`topic_id`) из `docs/topic_registry.md`.
-4. Выполнить анализ каждого документа по выбранной теме и сохранить карточку в `analysis/yaml/<topic_id>/<document_id>.yaml`.
-5. Обновить `registry/topic_analysis_status.csv`.
-6. После накопления завершённых карточек выполнить синтез в `synthesis/<topic_id>/`.
+3. Для каждого `document_id` выполнить мультитематический анализ (все темы из `docs/topic_registry.md`).
+4. Сохранить результат в `analysis/yaml/<document_id>.yaml`.
+5. Обновить `registry/principle_presence_matrix.csv`.
+6. Выполнять синтез по теме из агрегированных YAML/матрицы.
 
 ## Базовые правила
 
 - Анализ ведётся по языку оригинала.
-- Статусы, нормализация и аналитические выводы фиксируются на русском.
-- Каждое существенное утверждение опирается на текст документа.
-- Синтез выполняется только на основе завершённых карточек.
-
-## Рекомендуемый порядок использования
-
-- `prompts/01_inventory_instruction.md`
-- `prompts/02_single_code_analysis_instruction.md`
-- `prompts/03_synthesis_instruction.md`
+- Для каждого принципа фиксируется отдельный статус присутствия.
+- Шкала `principle_status`: `explicit_section|implicit_scattered|brief_mention|absent|unclear`.
