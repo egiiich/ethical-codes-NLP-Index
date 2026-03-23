@@ -1,0 +1,57 @@
+document_id: "jp_ntt_docomo"
+company_name: "NTT DOCOMO"
+country: "Japan"
+industry: "telecom"
+source_path: "Japan_Ethics_Codes_txt_files/Телеком - NTT DOCOMO.md"
+source_language: "en"
+document_type: "code_of_conduct_or_ethics"
+review_status: "completed"
+topic_analyses:
+  - topic_id: "competitor_relations"
+    principles:
+      - principle_code: "COMP01"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "COMP02"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "COMP03"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids: ["COMP03_explicit_section"]
+      - principle_code: "COMP04"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "COMP05"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids: ["COMP05_explicit_section"]
+      - principle_code: "COMP06"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "COMP07"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "COMP08"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "COMP09"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "COMP10"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+    key_excerpts:
+      - excerpt_id: "COMP03_explicit_section"
+        original: "We operate within antitrust and unfair competition laws in Japan and overseas and always compete fairly in the market."
+        translated_ru: "«Мы действуем в рамках антимонопольного законодательства и законов о недобросовестной конкуренции в Японии и за рубежом и всегда конкурируем на рынке честно»."
+        section_title: "6. Fair, open and free competition and trade"
+        relevance_comment: "Явная антимонопольная норма и запрет антиконкурентного поведения (COMP03)."
+      - excerpt_id: "COMP05_explicit_section"
+        original: "6. Fair, open and free competition and trade — We always trade and compete fairly, openly and freely in Japan and overseas markets."
+        translated_ru: "«6. Честная, открытая и свободная конкуренция и торговля — мы всегда торгуем и конкурируем честно, открыто и свободно на рынках Японии и за рубежом»."
+        section_title: "6. Fair, open and free competition and trade"
+        relevance_comment: "Явно закрепленный принцип честной конкуренции (COMP05)."
+    other_principles: []
+notes:
+  - "Первичный полный анализ по инструкции 02 выполнен 23.03.2026."
+limitations: []
+analyst_summary_ru: "NTT DOCOMO содержит явный раздел о fair/open/free competition с прямым соблюдением antitrust и unfair competition laws (COMP03, COMP05). Остальные канонические принципы не подтверждены."

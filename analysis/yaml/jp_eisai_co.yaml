@@ -1,0 +1,67 @@
+document_id: "jp_eisai_co"
+company_name: "Eisai Co"
+country: "Japan"
+industry: "pharma"
+source_path: "Japan_Ethics_Codes_txt_files/Фармацевтика - Eisai Co..txt"
+source_language: "en"
+document_type: "code_of_conduct_or_ethics"
+review_status: "completed"
+topic_analyses:
+  - topic_id: "competitor_relations"
+    principles:
+      - principle_code: "COMP01"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids: ["COMP01_explicit_section"]
+      - principle_code: "COMP02"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "COMP03"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids: ["COMP03_explicit_section"]
+      - principle_code: "COMP04"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "COMP05"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids: ["COMP05_explicit_section"]
+      - principle_code: "COMP06"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "COMP07"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids: ["COMP07_explicit_section"]
+      - principle_code: "COMP08"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "COMP09"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "COMP10"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+    key_excerpts:
+      - excerpt_id: "COMP01_explicit_section"
+        original: "We should not obtain from someone who joins Eisai, trade secrets or other intellectual property of their previous company."
+        translated_ru: "«Мы не должны получать от новых сотрудников коммерческие тайны или иную интеллектуальную собственность их предыдущей компании»."
+        section_title: "5.2 Intellectual property"
+        relevance_comment: "Прямой запрет на получение чужих trade secrets (COMP01)."
+      - excerpt_id: "COMP03_explicit_section"
+        original: "Eisai’s policy is to compete fairly and legitimately and to comply with anti-trust or competition laws ... cartel, price fixing, etc. are prohibited."
+        translated_ru: "«Политика Eisai — конкурировать честно и законно и соблюдать antitrust/competition laws ... картели и фиксация цен запрещены»."
+        section_title: "4.2 Fair trade and competition practices"
+        relevance_comment: "Явный анти-картельный/антимонопольный блок (COMP03)."
+      - excerpt_id: "COMP05_explicit_section"
+        original: "We compete fairly."
+        translated_ru: "«Мы конкурируем честно»."
+        section_title: "Charter of Business Conduct"
+        relevance_comment: "Краткое, но явное закрепление fair competition (COMP05)."
+      - excerpt_id: "COMP07_explicit_section"
+        original: "We may not use intellectual property owned by a third party without the third party’s permission."
+        translated_ru: "«Мы не можем использовать интеллектуальную собственность третьих лиц без их разрешения»."
+        section_title: "5.2 Intellectual property"
+        relevance_comment: "Прямое требование уважать ИС права третьих сторон (COMP07)."
+    other_principles: []
+notes:
+  - "Первичный полный анализ по инструкции 02 выполнен 23.03.2026."
+limitations: []
+analyst_summary_ru: "Eisai содержит развернутый конкурентный блок: antitrust/competition compliance с запретом cartel/price-fixing, а также запрет на получение чужих trade secrets и уважение прав ИС третьих сторон (COMP01, COMP03, COMP05, COMP07)."

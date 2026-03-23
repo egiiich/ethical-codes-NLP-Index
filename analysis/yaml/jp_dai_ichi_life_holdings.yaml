@@ -1,0 +1,58 @@
+document_id: "jp_dai_ichi_life_holdings"
+company_name: "Dai-ichi Life Holdings"
+country: "Japan"
+industry: "insurance"
+source_path: "Japan_Ethics_Codes_txt_files/Страхование - Dai-ichi Life Holdings.txt"
+source_language: "en"
+document_type: "code_of_conduct_or_ethics"
+review_status: "completed"
+topic_analyses:
+  - topic_id: "competitor_relations"
+    principles:
+      - principle_code: "COMP01"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "COMP02"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "COMP03"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids: ["COMP03_explicit_section"]
+      - principle_code: "COMP04"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "COMP05"
+        principle_status: "brief_mention"
+        evidence_excerpt_ids: ["COMP05_brief_mention"]
+      - principle_code: "COMP06"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "COMP07"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "COMP08"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "COMP09"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "COMP10"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+    key_excerpts:
+      - excerpt_id: "COMP03_explicit_section"
+        original: "Do not engage in unfair practices (abuse of superior bargaining status, cartels, market manipulation, etc.)."
+        translated_ru: "«Не участвуйте в недобросовестных практиках (злоупотребление более сильной переговорной позицией, картели, манипулирование рынком и т. д.)»."
+        section_title: "Foundational Conduct — Compliance with laws and regulations"
+        relevance_comment: "Прямой запрет картельных и иных антиконкурентных практик (COMP03)."
+      - excerpt_id: "COMP05_brief_mention"
+        original: "Accurately record and store business information ... ensure fairness and transparency to market participants through timely and appropriate disclosure."
+        translated_ru: "«Точно фиксируйте и храните деловую информацию ... обеспечивайте справедливость и прозрачность для участников рынка через своевременное и надлежащее раскрытие»."
+        section_title: "For the trust of Society"
+        relevance_comment: "Краткое упоминание ориентации на справедливое поведение на рынке (COMP05)."
+    other_principles: []
+notes:
+  - "Первичный полный анализ по инструкции 02 выполнен 23.03.2026."
+limitations:
+  - "Источник является OCR-парсингом PDF; формулировки местами содержат типографические артефакты."
+analyst_summary_ru: "Кодекс Dai-ichi Life Holdings явно запрещает картели и манипулирование рынком (COMP03) и кратко подчеркивает справедливость/прозрачность для участников рынка (COMP05). Иные канонические принципы по отношениям с конкурентами в документе не подтверждены."

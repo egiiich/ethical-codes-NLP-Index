@@ -1,0 +1,62 @@
+document_id: "jp_penta_ocean_construction"
+company_name: "Penta-Ocean Construction"
+country: "Japan"
+industry: "construction"
+source_path: "Japan_Ethics_Codes_txt_files/Строительство - Penta-Ocean Construction.md"
+source_language: "en"
+document_type: "code_of_conduct_or_ethics"
+review_status: "completed"
+topic_analyses:
+  - topic_id: "competitor_relations"
+    principles:
+      - principle_code: "COMP01"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "COMP02"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "COMP03"
+        principle_status: "brief_mention"
+        evidence_excerpt_ids: ["COMP03_brief_mention"]
+      - principle_code: "COMP04"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "COMP05"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids: ["COMP05_explicit_section"]
+      - principle_code: "COMP06"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "COMP07"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids: ["COMP07_explicit_section"]
+      - principle_code: "COMP08"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "COMP09"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "COMP10"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+    key_excerpts:
+      - excerpt_id: "COMP03_brief_mention"
+        original: "We will promote fair, transparent and free competition as well as appropriate transactions in strict compliance with laws and regulations."
+        translated_ru: "«Мы будем продвигать честную, прозрачную и свободную конкуренцию, а также надлежащие сделки при строгом соблюдении законов и нормативных требований»."
+        section_title: "(2) Fair competition and appropriate transactions"
+        relevance_comment: "Краткое антимонопольное покрытие без конкретных запретов на виды сговора (COMP03 как brief_mention)."
+      - excerpt_id: "COMP05_explicit_section"
+        original: "(2) Fair competition and appropriate transactions"
+        translated_ru: "«(2) Честная конкуренция и надлежащие сделки»."
+        section_title: "1. Integrity in our corporate activities"
+        relevance_comment: "Явное закрепление принципа честной конкуренции (COMP05)."
+      - excerpt_id: "COMP07_explicit_section"
+        original: "We will appropriately manage or protect confidential information, personal information, and intellectual property rights of POC Group and others."
+        translated_ru: "«Мы будем надлежащим образом управлять и защищать конфиденциальную информацию, персональные данные и права интеллектуальной собственности POC Group и других лиц»."
+        section_title: "(5) Proper management and use of information and assets"
+        relevance_comment: "Прямое требование защищать права ИС других лиц (COMP07)."
+    other_principles: []
+notes:
+  - "Первичный полный анализ по инструкции 02 выполнен 23.03.2026."
+limitations: []
+analyst_summary_ru: "POC фиксирует принцип честной и свободной конкуренции (COMP05), но без детализации конкретных картельных сценариев (COMP03 как brief_mention), а также явно защищает права ИС других лиц (COMP07)."

@@ -1,0 +1,67 @@
+document_id: "jp_otsuka_holdings_co"
+company_name: "Otsuka Holdings Co"
+country: "Japan"
+industry: "pharma"
+source_path: "Japan_Ethics_Codes_txt_files/Фармацевтика - Otsuka Holdings Co..txt"
+source_language: "en"
+document_type: "code_of_conduct_or_ethics"
+review_status: "completed"
+topic_analyses:
+  - topic_id: "competitor_relations"
+    principles:
+      - principle_code: "COMP01"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids: ["COMP01_explicit_section"]
+      - principle_code: "COMP02"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "COMP03"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids: ["COMP03_explicit_section"]
+      - principle_code: "COMP04"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "COMP05"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids: ["COMP05_explicit_section"]
+      - principle_code: "COMP06"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "COMP07"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids: ["COMP07_explicit_section"]
+      - principle_code: "COMP08"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "COMP09"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "COMP10"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+    key_excerpts:
+      - excerpt_id: "COMP01_explicit_section"
+        original: "We must not acquire confidential and proprietary information related to other companies through improper means such as manipulation, misrepresentation, concealment, or breach of any non-disclosure agreement."
+        translated_ru: "«Мы не должны получать конфиденциальную и проприетарную информацию других компаний неправомерными способами (манипуляция, искажение, сокрытие, нарушение NDA)»."
+        section_title: "Privacy and Confidentiality"
+        relevance_comment: "Прямой запрет на добычу конфиденциальной информации конкурентов/третьих сторон (COMP01)."
+      - excerpt_id: "COMP03_explicit_section"
+        original: "Fair Competition ... we abide by antitrust laws ... preventing unfair practices such as agreements among competitors to fix prices, divide markets, allocate customers or limit quality/production."
+        translated_ru: "«Fair Competition ... мы соблюдаем антимонопольные законы ... предотвращая недобросовестные практики, такие как соглашения между конкурентами о фиксации цен, разделе рынков, распределении клиентов или ограничении качества/производства»."
+        section_title: "Fair Competition"
+        relevance_comment: "Явный анти-картельный и анти-сговорный блок (COMP03)."
+      - excerpt_id: "COMP05_explicit_section"
+        original: "We commit ourselves to fair and open competition on the merits of our products and services."
+        translated_ru: "«Мы привержены честной и открытой конкуренции на основе достоинств наших продуктов и услуг»."
+        section_title: "Fair Competition"
+        relevance_comment: "Явный принцип fair/open competition (COMP05)."
+      - excerpt_id: "COMP07_explicit_section"
+        original: "We all have a duty to respect and protect the intellectual property rights of third parties."
+        translated_ru: "«Мы все обязаны уважать и защищать права интеллектуальной собственности третьих лиц»."
+        section_title: "Intellectual Property"
+        relevance_comment: "Прямое требование по уважению ИС прав третьих сторон (COMP07)."
+    other_principles: []
+notes:
+  - "Первичный полный анализ по инструкции 02 выполнен 23.03.2026."
+limitations: []
+analyst_summary_ru: "Otsuka содержит детализированный блок fair competition/antitrust с явным запретом сговоров, а также нормы о недопустимости получения чужой конфиденциальной информации и о соблюдении IP-прав третьих сторон (COMP01, COMP03, COMP05, COMP07)."

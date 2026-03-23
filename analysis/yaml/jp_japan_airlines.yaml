@@ -1,0 +1,62 @@
+document_id: "jp_japan_airlines"
+company_name: "Japan Airlines"
+country: "Japan"
+industry: "transport"
+source_path: "Japan_Ethics_Codes_txt_files/Транспорт - Japan Airlines.md"
+source_language: "en"
+document_type: "code_of_conduct_or_ethics"
+review_status: "completed"
+topic_analyses:
+  - topic_id: "competitor_relations"
+    principles:
+      - principle_code: "COMP01"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "COMP02"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "COMP03"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids: ["COMP03_explicit_section"]
+      - principle_code: "COMP04"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "COMP05"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids: ["COMP05_explicit_section"]
+      - principle_code: "COMP06"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "COMP07"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids: ["COMP07_explicit_section"]
+      - principle_code: "COMP08"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "COMP09"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "COMP10"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+    key_excerpts:
+      - excerpt_id: "COMP03_explicit_section"
+        original: "The JAL Group conducts fair and transparent transactions ... in compliance with applicable laws and regulations such as antitrust laws based on the principle of free competition."
+        translated_ru: "«Группа JAL ведет честные и прозрачные сделки ... в соответствии с применимыми законами, включая антимонопольные, на основе принципа свободной конкуренции»."
+        section_title: "(4) Free and fair competition"
+        relevance_comment: "Явный блок о соблюдении antitrust и конкуренции (COMP03)."
+      - excerpt_id: "COMP05_explicit_section"
+        original: "(4) Free and fair competition"
+        translated_ru: "«(4) Свободная и честная конкуренция»."
+        section_title: "JAL Group Code of Conduct"
+        relevance_comment: "Прямое выделение принципа fair competition (COMP05)."
+      - excerpt_id: "COMP07_explicit_section"
+        original: "We ... respect and prohibit infringement of intellectual property of other companies."
+        translated_ru: "«Мы ... уважаем и запрещаем нарушение интеллектуальной собственности других компаний»."
+        section_title: "(5) Management of personal information and intellectual property"
+        relevance_comment: "Прямое обязательство по уважению ИС прав других компаний (COMP07)."
+    other_principles: []
+notes:
+  - "Первичный полный анализ по инструкции 02 выполнен 23.03.2026."
+limitations: []
+analyst_summary_ru: "В кодексе JAL явно закреплены free and fair competition с соблюдением antitrust laws, а также уважение ИС других компаний (COMP03, COMP05, COMP07)."

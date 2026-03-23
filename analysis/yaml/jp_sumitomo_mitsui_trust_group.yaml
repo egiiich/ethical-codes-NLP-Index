@@ -46,7 +46,8 @@ topic_analyses:
         section_title: "Compliance with laws and regulations"
         relevance_comment: "Краткое и общее упоминание необходимости соблюдения антимонопольных/конкурентных норм без конкретных поведенческих запретов (COMP03 как brief_mention)."
     other_principles: []
-notes: []
+notes:
+  - "Переоценка по инструкции 02 выполнена 23.03.2026; классификация подтверждена без изменения статусов."
 limitations:
   - "Источник является OCR-выгрузкой; структура и нумерация разделов местами искажены."
 analyst_summary_ru: "В Standards of Conduct Sumitomo Mitsui Trust Group зафиксировано общее требование соблюдать antitrust/unfair competition laws, что дает только краткое покрытие COMP03; прочие канонические принципы темы не подтверждены."

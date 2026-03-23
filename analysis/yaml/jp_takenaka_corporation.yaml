@@ -1,0 +1,63 @@
+document_id: "jp_takenaka_corporation"
+company_name: "Takenaka Corporation"
+country: "Japan"
+industry: "construction"
+source_path: "Japan_Ethics_Codes_txt_files/Строительство - Takenaka Corporation.md"
+source_language: "en"
+document_type: "code_of_conduct_or_ethics"
+review_status: "completed"
+topic_analyses:
+  - topic_id: "competitor_relations"
+    principles:
+      - principle_code: "COMP01"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "COMP02"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "COMP03"
+        principle_status: "brief_mention"
+        evidence_excerpt_ids: ["COMP03_brief_mention"]
+      - principle_code: "COMP04"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "COMP05"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids: ["COMP05_explicit_section"]
+      - principle_code: "COMP06"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "COMP07"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids: ["COMP07_explicit_section"]
+      - principle_code: "COMP08"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "COMP09"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "COMP10"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+    key_excerpts:
+      - excerpt_id: "COMP03_brief_mention"
+        original: "Comply with laws and other social norms; carry out fair, transparent and free competition, and proper trade; and conduct conscientious corporate activities."
+        translated_ru: "«Соблюдать законы и иные социальные нормы; осуществлять честную, прозрачную и свободную конкуренцию и надлежащую торговлю; и вести добросовестную корпоративную деятельность»."
+        section_title: "Code of Conduct"
+        relevance_comment: "Краткое антимонопольное покрытие без детализации конкретных запретов на сговор (COMP03 как brief_mention)."
+      - excerpt_id: "COMP05_explicit_section"
+        original: "Participate in fair and transparent market competition by demonstrating our planning, design and technological capabilities."
+        translated_ru: "«Участвовать в честной и прозрачной рыночной конкуренции, демонстрируя наши планировочные, проектные и технологические возможности»."
+        section_title: "Code of Conduct"
+        relevance_comment: "Явный принцип уважения и поддержания честной конкуренции (COMP05)."
+      - excerpt_id: "COMP07_explicit_section"
+        original: "Create and utilize intellectual property while respecting internal and external intellectual property rights."
+        translated_ru: "«Создавать и использовать интеллектуальную собственность при уважении внутренних и внешних прав интеллектуальной собственности»."
+        section_title: "Code of Conduct"
+        relevance_comment: "Прямое требование уважения прав ИС третьих лиц (COMP07)."
+    other_principles: []
+notes:
+  - "Первичный полный анализ по инструкции 02 выполнен 23.03.2026."
+limitations:
+  - "Источник представлен в markdown с частично сжатой структурой исходного документа."
+analyst_summary_ru: "Takenaka фиксирует общий антимонопольный комплаенс (COMP03 как brief_mention), явно закрепляет fair market competition (COMP05) и уважение прав ИС (COMP07)."

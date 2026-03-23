@@ -1,0 +1,58 @@
+document_id: "jp_shimizu_corporation"
+company_name: "Shimizu Corporation"
+country: "Japan"
+industry: "construction"
+source_path: "Japan_Ethics_Codes_txt_files/Строительство - Shimizu Corporation.txt"
+source_language: "en"
+document_type: "code_of_conduct_or_ethics"
+review_status: "completed"
+topic_analyses:
+  - topic_id: "competitor_relations"
+    principles:
+      - principle_code: "COMP01"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "COMP02"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "COMP03"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids: ["COMP03_explicit_section"]
+      - principle_code: "COMP04"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "COMP05"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids: ["COMP05_explicit_section"]
+      - principle_code: "COMP06"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "COMP07"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "COMP08"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "COMP09"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "COMP10"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+    key_excerpts:
+      - excerpt_id: "COMP03_explicit_section"
+        original: "When bidding on public or private construction projects, we refrain from any action that could inhibit a fair bidding process, including violations of criminal law, antitrust law, and other laws or regulations."
+        translated_ru: "«При участии в государственных и частных строительных тендерах мы воздерживаемся от любых действий, которые могут препятствовать справедливому процессу торгов, включая нарушения уголовного и антимонопольного законодательства, а также иных законов и норм»."
+        section_title: "II. Compliance with Laws, Regulations, and Standards — Fair Bidding Practices"
+        relevance_comment: "Прямой антимонопольный запрет антиконкурентного поведения в тендерах (COMP03)."
+      - excerpt_id: "COMP05_explicit_section"
+        original: "Promoting Fair Competition — We engage in fair and free competition and enhance corporate competitiveness..."
+        translated_ru: "«Продвижение честной конкуренции — мы ведем честную и свободную конкуренцию и повышаем корпоративную конкурентоспособность...»."
+        section_title: "I. Fulfilling Our Mission in Society"
+        relevance_comment: "Явная норма о fair and free competition (COMP05)."
+    other_principles: []
+notes:
+  - "Первичный полный анализ по инструкции 02 выполнен 23.03.2026."
+limitations:
+  - "Источник является OCR-парсингом PDF с укрупненными абзацами."
+analyst_summary_ru: "Shimizu прямо регулирует fair bidding и антимонопольное соблюдение (COMP03), а также закрепляет принцип честной и свободной конкуренции (COMP05). Остальные канонические принципы темы в документе не подтверждены."

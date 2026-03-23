@@ -1,1 +1,41 @@
 Страна,Отрасль,Компания,document_id,competitor_relations
+Japan,automotive,Honda Motor,jp_honda_motor,4
+Japan,automotive,Mitsubishi Motors,jp_mitsubishi_motors,1
+Japan,automotive,Nissan Motor,jp_nissan_motor,4
+Japan,automotive,Suzuki Motor,jp_suzuki_motor,7
+Japan,automotive,Toyota Motor,jp_toyota_motor,9
+Japan,banking,MUFG Group,jp_mufg_group,4
+Japan,banking,Resona Holdings,jp_resona_holdings,1
+Japan,banking,Sumitomo Mitsui Financial Group,jp_sumitomo_mitsui_financial_group,4
+Japan,banking,Sumitomo Mitsui Trust Group,jp_sumitomo_mitsui_trust_group,1
+Japan,insurance,Dai-ichi Life Holdings,jp_dai_ichi_life_holdings,4
+Japan,insurance,Sumitomo Life Insurance,jp_sumitomo_life_insurance,1
+Japan,insurance,Tokio Marine,jp_tokio_marine,9
+Japan,construction,JGC Holdings,jp_jgc_holdings,12
+Japan,construction,Kajima Corporation,jp_kajima_corporation,12
+Japan,construction,Penta-Ocean Construction,jp_penta_ocean_construction,7
+Japan,construction,Shimizu Corporation,jp_shimizu_corporation,6
+Japan,construction,Takenaka Corporation,jp_takenaka_corporation,7
+Japan,telecom,Internet Initiative Japan,jp_internet_initiative_japan,4
+Japan,telecom,LY Corporation,jp_ly_corporation,1
+Japan,telecom,NTT DOCOMO,jp_ntt_docomo,6
+Japan,trading,ITOCHU,jp_itochu,7
+Japan,trading,Marubeni Corporation,jp_marubeni_corporation,12
+Japan,trading,Sumitomo Corporation,jp_sumitomo_corporation,12
+Japan,trading,Mitsui & Co,jp_mitsui_and_co,9
+Japan,transport,Japan Airlines,jp_japan_airlines,9
+Japan,transport,Kawasaki Kisen Kaisha,jp_kawasaki_kisen_kaisha,9
+Japan,transport,Mitsui O.S.K. Lines,jp_mitsui_osk_lines,12
+Japan,transport,Yamato Holdings,jp_yamato_holdings,9
+Japan,pharma,Astellas Pharma Inc,jp_astellas_pharma_inc,6
+Japan,pharma,Daiichi Sankyo Co,jp_daiichi_sankyo_co,12
+Japan,pharma,Eisai Co,jp_eisai_co,12
+Japan,pharma,Otsuka Holdings Co,jp_otsuka_holdings_co,12
+Japan,electronics,"Hitachi, Ltd",jp_hitachi_ltd,9
+Japan,electronics,NEC Corporation,jp_nec_corporation,12
+Japan,electronics,Panasonic,jp_panasonic,6
+Japan,electronics,Sony Group,jp_sony_group,9
+Japan,energy,Daigas Group,jp_daigas_group,9
+Japan,energy,JERA,jp_jera,9
+Japan,energy,Kansai Electric Power,jp_kansai_electric_power,6
+Japan,energy,Tohoku Electric Power,jp_tohoku_electric_power,9

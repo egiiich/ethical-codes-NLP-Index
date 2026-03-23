@@ -1,0 +1,62 @@
+document_id: "jp_hitachi_ltd"
+company_name: "Hitachi, Ltd"
+country: "Japan"
+industry: "electronics"
+source_path: "Japan_Ethics_Codes_txt_files/Электроника - Hitachi, Ltd..txt"
+source_language: "en"
+document_type: "code_of_conduct_or_ethics"
+review_status: "completed"
+topic_analyses:
+  - topic_id: "competitor_relations"
+    principles:
+      - principle_code: "COMP01"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids: ["COMP01_explicit_section"]
+      - principle_code: "COMP02"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "COMP03"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids: ["COMP03_explicit_section"]
+      - principle_code: "COMP04"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "COMP05"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids: ["COMP05_explicit_section"]
+      - principle_code: "COMP06"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "COMP07"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "COMP08"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "COMP09"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "COMP10"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+    key_excerpts:
+      - excerpt_id: "COMP01_explicit_section"
+        original: "Gather competitive information fairly ... Do not encourage anyone to give you confidential information."
+        translated_ru: "«Собирайте конкурентную информацию честно ... не побуждайте никого передавать вам конфиденциальную информацию»."
+        section_title: "Compete Fairly"
+        relevance_comment: "Прямой запрет на добычу конфиденциальной информации конкурентов (COMP01)."
+      - excerpt_id: "COMP03_explicit_section"
+        original: "Never enter into an oral or written agreement with a competitor to divide markets/customers, fix prices, manipulate bids, or exchange sensitive information."
+        translated_ru: "«Никогда не вступайте в устные или письменные соглашения с конкурентом о разделе рынков/клиентов, фиксации цен, манипуляции тендерами или обмене чувствительной информацией»."
+        section_title: "Compete Fairly — In Your Daily Work"
+        relevance_comment: "Явный анти-картельный запрет (COMP03)."
+      - excerpt_id: "COMP05_explicit_section"
+        original: "Hitachi is committed to fair competition and abides by applicable competition laws. We compete fairly and comply with competition laws in all countries in which we do business."
+        translated_ru: "«Hitachi привержена честной конкуренции и соблюдению применимых competition laws. Мы конкурируем честно и соблюдаем конкурентное законодательство во всех странах присутствия»."
+        section_title: "Compete Fairly"
+        relevance_comment: "Явное закрепление принципа fair competition (COMP05)."
+    other_principles: []
+notes:
+  - "Первичный полный анализ по инструкции 02 выполнен 23.03.2026."
+limitations: []
+analyst_summary_ru: "Кодекс Hitachi содержит четкий конкурентный блок с запретом сговора и обмена чувствительной информацией с конкурентами, а также запретом на неправомерное получение конфиденциальных данных конкурентов (COMP01, COMP03, COMP05)."
