@@ -49,7 +49,7 @@
 9. Обновить строки кодекса в `registry/principle_presence_matrix_long.csv`:
    - взять первые 4 столбца из `registry/principle_presence_matrix_wide.csv`;
    - создать отдельную строку для каждого принципа;
-   - заполнить поля `Principle_code`, `Principle_text`, `Presence`, `Evidence`, `Date of analysis`, `Analysis model`.
+   - заполнить поля `Principle_code`, `Principle_text`, `Presence`, `Evidence`, `Date of analysis`, `Analysis model`. В поле `Evidence` нужно вностить соответствующую подтверждающую цитату, а не её номер.
 10. Пересчитать строку кодекса в `registry/principle_index_matrix.csv`:
    - взять первые 4 столбца из `registry/principle_presence_matrix_wide.csv`;
    - добавить по одному столбцу на каждый `topic_id` из `docs/topic_registry.md`;
