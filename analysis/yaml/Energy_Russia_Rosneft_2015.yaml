@@ -1,0 +1,480 @@
+{
+  "document_id": "Energy_Russia_Rosneft_2015",
+  "company_name": "Роснефть",
+  "country": "Россия",
+  "industry": "Энергетика",
+  "source_path": "Ethics_Codes_txt_files/Energy_Russia_Rosneft_2015.txt",
+  "source_language": "ru",
+  "document_type": "Кодекс деловой и корпоративной этики",
+  "review_status": "needs_human_review",
+  "topic_analyses": [
+    {
+      "topic_id": "competitor_relations",
+      "principles": [
+        {
+          "principle_code": "COMP01",
+          "principle_status": "absent",
+          "evidence_excerpt_ids": []
+        },
+        {
+          "principle_code": "COMP02",
+          "principle_status": "absent",
+          "evidence_excerpt_ids": []
+        },
+        {
+          "principle_code": "COMP03",
+          "principle_status": "implicit_scattered",
+          "evidence_excerpt_ids": [
+            "COMP03_implicit_scattered"
+          ]
+        },
+        {
+          "principle_code": "COMP04",
+          "principle_status": "brief_mention",
+          "evidence_excerpt_ids": [
+            "COMP04_brief_mention"
+          ]
+        },
+        {
+          "principle_code": "COMP05",
+          "principle_status": "explicit_section",
+          "evidence_excerpt_ids": [
+            "COMP05_explicit_section"
+          ]
+        },
+        {
+          "principle_code": "COMP06",
+          "principle_status": "absent",
+          "evidence_excerpt_ids": []
+        },
+        {
+          "principle_code": "COMP07",
+          "principle_status": "absent",
+          "evidence_excerpt_ids": []
+        },
+        {
+          "principle_code": "COMP08",
+          "principle_status": "absent",
+          "evidence_excerpt_ids": []
+        },
+        {
+          "principle_code": "COMP09",
+          "principle_status": "absent",
+          "evidence_excerpt_ids": []
+        },
+        {
+          "principle_code": "COMP10",
+          "principle_status": "absent",
+          "evidence_excerpt_ids": []
+        }
+      ],
+      "key_excerpts": [
+        {
+          "excerpt_id": "COMP03_implicit_scattered",
+          "original": "Компания строго соблюдает антимонопольное законодательство...",
+          "translated_ru": "Компания строго соблюдает антимонопольное законодательство...",
+          "section_title": "Кодекс (автопарсинг)",
+          "relevance_comment": "Антимонопольная норма косвенно покрывает запрет антиконкурентного сговора."
+        },
+        {
+          "excerpt_id": "COMP04_brief_mention",
+          "original": "Мы уверены, что свободная конкуренция служит эффективному удовлетворению растущих запросов...",
+          "translated_ru": "Мы уверены, что свободная конкуренция служит эффективному удовлетворению растущих запросов...",
+          "section_title": "Кодекс (автопарсинг)",
+          "relevance_comment": "Упоминается конструктивная роль конкуренции, без детального описания форм сотрудничества."
+        },
+        {
+          "excerpt_id": "COMP05_explicit_section",
+          "original": "Компания с уважением относится к конкурентам и взаимодействует с ними в соответствии с общепринятыми нормами деловой этики...",
+          "translated_ru": "Компания с уважением относится к конкурентам и взаимодействует с ними в соответствии с общепринятыми нормами деловой этики...",
+          "section_title": "Кодекс (автопарсинг)",
+          "relevance_comment": "Прямой принцип уважительного отношения к конкурентам."
+        }
+      ],
+      "other_principles": []
+    },
+    {
+      "topic_id": "company_to_investors",
+      "principles": [
+        {
+          "principle_code": "CtoI01",
+          "principle_status": "explicit_section",
+          "evidence_excerpt_ids": [
+            "CtoI01_explicit_section"
+          ]
+        },
+        {
+          "principle_code": "CtoI02",
+          "principle_status": "absent",
+          "evidence_excerpt_ids": []
+        },
+        {
+          "principle_code": "CtoI03",
+          "principle_status": "brief_mention",
+          "evidence_excerpt_ids": [
+            "CtoI03_brief_mention"
+          ]
+        },
+        {
+          "principle_code": "CtoI04",
+          "principle_status": "absent",
+          "evidence_excerpt_ids": []
+        },
+        {
+          "principle_code": "CtoI05",
+          "principle_status": "explicit_section",
+          "evidence_excerpt_ids": [
+            "CtoI05_explicit_section"
+          ]
+        },
+        {
+          "principle_code": "CtoI06",
+          "principle_status": "explicit_section",
+          "evidence_excerpt_ids": [
+            "CtoI06_explicit_section"
+          ]
+        },
+        {
+          "principle_code": "CtoI07",
+          "principle_status": "absent",
+          "evidence_excerpt_ids": []
+        },
+        {
+          "principle_code": "CtoI08",
+          "principle_status": "absent",
+          "evidence_excerpt_ids": []
+        }
+      ],
+      "key_excerpts": [
+        {
+          "excerpt_id": "CtoI01_explicit_section",
+          "original": "Компания уважает в равной степени права своих акционеров вне зависимости от количества принадлежащих им акций...",
+          "translated_ru": "Компания уважает в равной степени права своих акционеров вне зависимости от количества принадлежащих им акций...",
+          "section_title": "Кодекс (автопарсинг)",
+          "relevance_comment": "Зафиксировано равное отношение к акционерам."
+        },
+        {
+          "excerpt_id": "CtoI03_brief_mention",
+          "original": "...поддерживает с ними эффективный диалог...",
+          "translated_ru": "...поддерживает с ними эффективный диалог...",
+          "section_title": "Кодекс (автопарсинг)",
+          "relevance_comment": "Есть указание на коммуникацию с инвесторами, но без полного стандарта раскрытия существенной информации."
+        },
+        {
+          "excerpt_id": "CtoI05_explicit_section",
+          "original": "...не допускаем ... торговли ценными бумагами с использованием инсайдерской информации...",
+          "translated_ru": "...не допускаем ... торговли ценными бумагами с использованием инсайдерской информации...",
+          "section_title": "Кодекс (автопарсинг)",
+          "relevance_comment": "Прямой запрет инсайдерской торговли."
+        },
+        {
+          "excerpt_id": "CtoI06_explicit_section",
+          "original": "...выполняя заявленные обязательства по развитию и выплачивая дивиденды.",
+          "translated_ru": "...выполняя заявленные обязательства по развитию и выплачивая дивиденды.",
+          "section_title": "Кодекс (автопарсинг)",
+          "relevance_comment": "Прямое упоминание дивидендной практики."
+        }
+      ],
+      "other_principles": []
+    },
+    {
+      "topic_id": "company_to_supplier",
+      "principles": [
+        {
+          "principle_code": "CtoS01",
+          "principle_status": "explicit_section",
+          "evidence_excerpt_ids": [
+            "CtoS01_explicit_section"
+          ]
+        },
+        {
+          "principle_code": "CtoS02",
+          "principle_status": "explicit_section",
+          "evidence_excerpt_ids": [
+            "CtoS02_explicit_section"
+          ]
+        },
+        {
+          "principle_code": "CtoS03",
+          "principle_status": "brief_mention",
+          "evidence_excerpt_ids": [
+            "CtoS03_brief_mention"
+          ]
+        },
+        {
+          "principle_code": "CtoS04",
+          "principle_status": "absent",
+          "evidence_excerpt_ids": []
+        },
+        {
+          "principle_code": "CtoS05",
+          "principle_status": "absent",
+          "evidence_excerpt_ids": []
+        },
+        {
+          "principle_code": "CtoS06",
+          "principle_status": "brief_mention",
+          "evidence_excerpt_ids": [
+            "CtoS06_brief_mention"
+          ]
+        },
+        {
+          "principle_code": "CtoS07",
+          "principle_status": "absent",
+          "evidence_excerpt_ids": []
+        }
+      ],
+      "key_excerpts": [
+        {
+          "excerpt_id": "CtoS01_explicit_section",
+          "original": "...нацеливает их на формирование лучшего предложения по качеству и цене.",
+          "translated_ru": "...нацеливает их на формирование лучшего предложения по качеству и цене.",
+          "section_title": "Кодекс (автопарсинг)",
+          "relevance_comment": "Критерии эффективности закупки по качеству и цене."
+        },
+        {
+          "excerpt_id": "CtoS02_explicit_section",
+          "original": "...обеспечивает потенциальным деловым партнерам открытый и равный доступ к процедурам закупки товаров, работ и услуг...",
+          "translated_ru": "...обеспечивает потенциальным деловым партнерам открытый и равный доступ к процедурам закупки товаров, работ и услуг...",
+          "section_title": "Кодекс (автопарсинг)",
+          "relevance_comment": "Прямой принцип равного доступа поставщиков к закупкам."
+        },
+        {
+          "excerpt_id": "CtoS03_brief_mention",
+          "original": "Компания строго соблюдает антимонопольное законодательство...",
+          "translated_ru": "Компания строго соблюдает антимонопольное законодательство...",
+          "section_title": "Кодекс (автопарсинг)",
+          "relevance_comment": "Косвенное ограничение злоупотребления рыночной властью."
+        },
+        {
+          "excerpt_id": "CtoS06_brief_mention",
+          "original": "Подарки ... могут способствовать развитию долгосрочных деловых отношений.",
+          "translated_ru": "Подарки ... могут способствовать развитию долгосрочных деловых отношений.",
+          "section_title": "Кодекс (автопарсинг)",
+          "relevance_comment": "Упоминается ориентация на долгосрочность отношений с партнерами."
+        }
+      ],
+      "other_principles": []
+    },
+    {
+      "topic_id": "hotline_principles",
+      "principles": [
+        {
+          "principle_code": "HOT01",
+          "principle_status": "implicit_scattered",
+          "evidence_excerpt_ids": [
+            "HOT01_implicit_scattered"
+          ]
+        },
+        {
+          "principle_code": "HOT02",
+          "principle_status": "absent",
+          "evidence_excerpt_ids": []
+        },
+        {
+          "principle_code": "HOT03",
+          "principle_status": "absent",
+          "evidence_excerpt_ids": []
+        },
+        {
+          "principle_code": "HOT04",
+          "principle_status": "absent",
+          "evidence_excerpt_ids": []
+        },
+        {
+          "principle_code": "HOT05",
+          "principle_status": "absent",
+          "evidence_excerpt_ids": []
+        },
+        {
+          "principle_code": "HOT06",
+          "principle_status": "brief_mention",
+          "evidence_excerpt_ids": [
+            "HOT06_brief_mention"
+          ]
+        },
+        {
+          "principle_code": "HOT07",
+          "principle_status": "absent",
+          "evidence_excerpt_ids": []
+        },
+        {
+          "principle_code": "HOT08",
+          "principle_status": "absent",
+          "evidence_excerpt_ids": []
+        },
+        {
+          "principle_code": "HOT09",
+          "principle_status": "absent",
+          "evidence_excerpt_ids": []
+        },
+        {
+          "principle_code": "HOT10",
+          "principle_status": "absent",
+          "evidence_excerpt_ids": []
+        }
+      ],
+      "key_excerpts": [
+        {
+          "excerpt_id": "HOT01_implicit_scattered",
+          "original": "Каждый работник, а также любое заинтересованное лицо ... может обратиться по электронному адресу ...",
+          "translated_ru": "Каждый работник, а также любое заинтересованное лицо ... может обратиться по электронному адресу ...",
+          "section_title": "Кодекс (автопарсинг)",
+          "relevance_comment": "Каналы обращения открыты для работников и внешних лиц, но без процедуры равного рассмотрения."
+        },
+        {
+          "excerpt_id": "HOT06_brief_mention",
+          "original": "Если вы усомнились в законности действий ... следует отправить сообщение по адресу sec_hotline@rosneft.ru...",
+          "translated_ru": "Если вы усомнились в законности действий ... следует отправить сообщение по адресу sec_hotline@rosneft.ru...",
+          "section_title": "Кодекс (автопарсинг)",
+          "relevance_comment": "Есть призыв сообщать о нарушениях через hotline."
+        }
+      ],
+      "other_principles": []
+    },
+    {
+      "topic_id": "worker_to_company",
+      "principles": [
+        {
+          "principle_code": "WtoC01",
+          "principle_status": "explicit_section",
+          "evidence_excerpt_ids": [
+            "WtoC01_explicit_section"
+          ]
+        },
+        {
+          "principle_code": "WtoC02",
+          "principle_status": "explicit_section",
+          "evidence_excerpt_ids": [
+            "WtoC02_explicit_section"
+          ]
+        },
+        {
+          "principle_code": "WtoC03",
+          "principle_status": "explicit_section",
+          "evidence_excerpt_ids": [
+            "WtoC03_explicit_section"
+          ]
+        },
+        {
+          "principle_code": "WtoC04",
+          "principle_status": "explicit_section",
+          "evidence_excerpt_ids": [
+            "WtoC04_explicit_section"
+          ]
+        },
+        {
+          "principle_code": "WtoC05",
+          "principle_status": "explicit_section",
+          "evidence_excerpt_ids": [
+            "WtoC05_explicit_section"
+          ]
+        },
+        {
+          "principle_code": "WtoC06",
+          "principle_status": "absent",
+          "evidence_excerpt_ids": []
+        },
+        {
+          "principle_code": "WtoC07",
+          "principle_status": "brief_mention",
+          "evidence_excerpt_ids": [
+            "WtoC07_brief_mention"
+          ]
+        },
+        {
+          "principle_code": "WtoC08",
+          "principle_status": "explicit_section",
+          "evidence_excerpt_ids": [
+            "WtoC08_explicit_section"
+          ]
+        },
+        {
+          "principle_code": "WtoC09",
+          "principle_status": "explicit_section",
+          "evidence_excerpt_ids": [
+            "WtoC09_explicit_section"
+          ]
+        },
+        {
+          "principle_code": "WtoC10",
+          "principle_status": "explicit_section",
+          "evidence_excerpt_ids": [
+            "WtoC10_explicit_section"
+          ]
+        }
+      ],
+      "key_excerpts": [
+        {
+          "excerpt_id": "WtoC01_explicit_section",
+          "original": "Мы достигаем поставленных целей ... опираясь на профессионализм, дисциплину и взаимодействие...",
+          "translated_ru": "Мы достигаем поставленных целей ... опираясь на профессионализм, дисциплину и взаимодействие...",
+          "section_title": "Кодекс (автопарсинг)",
+          "relevance_comment": "Прямой стандарт качественного исполнения работы."
+        },
+        {
+          "excerpt_id": "WtoC02_explicit_section",
+          "original": "Мы бережно относимся к имуществу и активам Компании, обеспечиваем их эффективное использование...",
+          "translated_ru": "Мы бережно относимся к имуществу и активам Компании, обеспечиваем их эффективное использование...",
+          "section_title": "Кодекс (автопарсинг)",
+          "relevance_comment": "Прямой принцип сохранности и эффективности использования активов."
+        },
+        {
+          "excerpt_id": "WtoC03_explicit_section",
+          "original": "...обязанностью каждого из нас является защита таких сведений.",
+          "translated_ru": "...обязанностью каждого из нас является защита таких сведений.",
+          "section_title": "Кодекс (автопарсинг)",
+          "relevance_comment": "Прямая обязанность сохранять конфиденциальность."
+        },
+        {
+          "excerpt_id": "WtoC04_explicit_section",
+          "original": "Бережному и уважительному отношению подлежит не только корпоративная интеллектуальная собственность...",
+          "translated_ru": "Бережному и уважительному отношению подлежит не только корпоративная интеллектуальная собственность...",
+          "section_title": "Кодекс (автопарсинг)",
+          "relevance_comment": "Прямое требование защищать ИС компании."
+        },
+        {
+          "excerpt_id": "WtoC05_explicit_section",
+          "original": "Во всех регионах Компания работает исключительно в соответствии с требованиями законодательства.",
+          "translated_ru": "Во всех регионах Компания работает исключительно в соответствии с требованиями законодательства.",
+          "section_title": "Кодекс (автопарсинг)",
+          "relevance_comment": "Прямой акцент на соблюдении законов."
+        },
+        {
+          "excerpt_id": "WtoC07_brief_mention",
+          "original": "...требуют от каждого работника осознанной активности и инициативы.",
+          "translated_ru": "...требуют от каждого работника осознанной активности и инициативы.",
+          "section_title": "Кодекс (автопарсинг)",
+          "relevance_comment": "Есть частичное требование гибкости/инициативности."
+        },
+        {
+          "excerpt_id": "WtoC08_explicit_section",
+          "original": "РЕЗУЛЬТАТИВНОСТЬ. Мы достигаем поставленных целей...",
+          "translated_ru": "РЕЗУЛЬТАТИВНОСТЬ. Мы достигаем поставленных целей...",
+          "section_title": "Кодекс (автопарсинг)",
+          "relevance_comment": "Прямой принцип нацеленности на результат."
+        },
+        {
+          "excerpt_id": "WtoC09_explicit_section",
+          "original": "Главный актив Компании – ее сотрудники. Их высокий профессионализм является залогом успешной деятельности...",
+          "translated_ru": "Главный актив Компании – ее сотрудники. Их высокий профессионализм является залогом успешной деятельности...",
+          "section_title": "Кодекс (автопарсинг)",
+          "relevance_comment": "Прямой стандарт высокого профессионального уровня."
+        },
+        {
+          "excerpt_id": "WtoC10_explicit_section",
+          "original": "Репутация — один из наших самых ценных активов.",
+          "translated_ru": "Репутация — один из наших самых ценных активов.",
+          "section_title": "Кодекс (автопарсинг)",
+          "relevance_comment": "Прямой принцип сохранения репутации компании."
+        }
+      ],
+      "other_principles": []
+    }
+  ],
+  "notes": [],
+  "limitations": [
+    "Текст получен из автоматического парсинга PDF с возможными опечатками и разрывами строк."
+  ],
+  "analyst_summary_ru": "Проведен сквозной анализ по всем темам реестра; для ряда принципов применен статус absent из-за отсутствия прямых формулировок в тексте кодекса."
+}
