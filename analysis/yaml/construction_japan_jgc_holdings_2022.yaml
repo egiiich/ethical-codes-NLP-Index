@@ -1,0 +1,172 @@
+document_id: "construction_japan_jgc_holdings_2022"
+company_name: "JGC Holdings"
+country: "Japan"
+industry: "Construction"
+source_path: "Ethics_Codes_txt_files/Construction_Japan_JGC Holdings_2022.txt"
+source_language: "en"
+document_type: "Code of Business Conduct"
+review_status: "completed"
+topic_analyses:
+  - topic_id: "competitor_relations"
+    principles:
+      - {principle_code: "COMP01", principle_status: "absent", evidence_excerpt_ids: []}
+      - {principle_code: "COMP02", principle_status: "absent", evidence_excerpt_ids: []}
+      - {principle_code: "COMP03", principle_status: "explicit_section", evidence_excerpt_ids: ["COMP03_explicit_section"]}
+      - {principle_code: "COMP04", principle_status: "absent", evidence_excerpt_ids: []}
+      - {principle_code: "COMP05", principle_status: "brief_mention", evidence_excerpt_ids: ["COMP05_brief_mention"]}
+      - {principle_code: "COMP06", principle_status: "absent", evidence_excerpt_ids: []}
+      - {principle_code: "COMP07", principle_status: "brief_mention", evidence_excerpt_ids: ["COMP07_brief_mention"]}
+      - {principle_code: "COMP08", principle_status: "absent", evidence_excerpt_ids: []}
+      - {principle_code: "COMP09", principle_status: "absent", evidence_excerpt_ids: []}
+      - {principle_code: "COMP10", principle_status: "absent", evidence_excerpt_ids: []}
+    key_excerpts:
+      - excerpt_id: "COMP03_explicit_section"
+        original: "We do not participate in any concerted actions that wrongfully restrict trade, including discussing and agreeing with competitors about prices ..."
+        translated_ru: "Мы не участвуем в согласованных действиях, неправомерно ограничивающих торговлю, включая обсуждение и согласование цен с конкурентами."
+        section_title: "5-1 Fair and Transparent Transactions"
+        relevance_comment: "Прямой запрет картельных соглашений."
+      - excerpt_id: "COMP05_brief_mention"
+        original: "Fair Competition and International Trade"
+        translated_ru: "Справедливая конкуренция и международная торговля"
+        section_title: "Chapter 5"
+        relevance_comment: "Краткая фиксация принципа добросовестной конкуренции."
+      - excerpt_id: "COMP07_brief_mention"
+        original: "We prevent infringing on the intellectual property rights of others"
+        translated_ru: "Мы предотвращаем нарушение прав интеллектуальной собственности других лиц"
+        section_title: "6-2 Information Control"
+        relevance_comment: "Краткое уважение ИС конкурентов и третьих лиц."
+    other_principles: []
+  - topic_id: "company_to_investors"
+    principles:
+      - {principle_code: "CtoI01", principle_status: "absent", evidence_excerpt_ids: []}
+      - {principle_code: "CtoI02", principle_status: "absent", evidence_excerpt_ids: []}
+      - {principle_code: "CtoI03", principle_status: "explicit_section", evidence_excerpt_ids: ["CtoI03_explicit_section"]}
+      - {principle_code: "CtoI04", principle_status: "absent", evidence_excerpt_ids: []}
+      - {principle_code: "CtoI05", principle_status: "explicit_section", evidence_excerpt_ids: ["CtoI05_explicit_section"]}
+      - {principle_code: "CtoI06", principle_status: "absent", evidence_excerpt_ids: []}
+      - {principle_code: "CtoI07", principle_status: "absent", evidence_excerpt_ids: []}
+      - {principle_code: "CtoI08", principle_status: "absent", evidence_excerpt_ids: []}
+    key_excerpts:
+      - excerpt_id: "CtoI03_explicit_section"
+        original: "We make timely and appropriate disclosures. Through constructive communication with stakeholders, we secure public confidence"
+        translated_ru: "Мы осуществляем своевременное и надлежащее раскрытие информации и через конструктивную коммуникацию со стейкхолдерами обеспечиваем общественное доверие."
+        section_title: "6-5 Timely and Appropriate Disclosure"
+        relevance_comment: "Прямое требование своевременного раскрытия информации."
+      - excerpt_id: "CtoI05_explicit_section"
+        original: "While in possession of any JGC Group company’s material facts ... we are not allowed to sell or purchase JGC Corporation securities"
+        translated_ru: "При владении существенной непубличной информацией о JGC Group запрещено покупать или продавать ценные бумаги JGC."
+        section_title: "7-2 Insider Trading"
+        relevance_comment: "Прямой запрет инсайдерской торговли."
+    other_principles: []
+  - topic_id: "company_to_supplier"
+    principles:
+      - {principle_code: "CtoS01", principle_status: "explicit_section", evidence_excerpt_ids: ["CtoS01_explicit_section"]}
+      - {principle_code: "CtoS02", principle_status: "absent", evidence_excerpt_ids: []}
+      - {principle_code: "CtoS03", principle_status: "brief_mention", evidence_excerpt_ids: ["CtoS03_brief_mention"]}
+      - {principle_code: "CtoS04", principle_status: "absent", evidence_excerpt_ids: []}
+      - {principle_code: "CtoS05", principle_status: "absent", evidence_excerpt_ids: []}
+      - {principle_code: "CtoS06", principle_status: "explicit_section", evidence_excerpt_ids: ["CtoS06_explicit_section"]}
+      - {principle_code: "CtoS07", principle_status: "brief_mention", evidence_excerpt_ids: ["CtoS07_brief_mention"]}
+    key_excerpts:
+      - excerpt_id: "CtoS01_explicit_section"
+        original: "We select suppliers carefully and fairly."
+        translated_ru: "Мы тщательно и справедливо отбираем поставщиков."
+        section_title: "5-2 Supply Chain Management"
+        relevance_comment: "Прямой критерий выбора поставщиков."
+      - excerpt_id: "CtoS03_brief_mention"
+        original: "you must not abuse your dominant position as the buyer"
+        translated_ru: "нельзя злоупотреблять доминирующим положением покупателя"
+        section_title: "Selection of Suppliers"
+        relevance_comment: "Краткий запрет злоупотребления рыночной властью."
+      - excerpt_id: "CtoS06_explicit_section"
+        original: "We build strong partnerships with suppliers and maintain and improve long-term relationships of mutual understanding and trust."
+        translated_ru: "Мы строим прочные партнерства с поставщиками и поддерживаем долгосрочные отношения взаимопонимания и доверия."
+        section_title: "5-2 Supply Chain Management"
+        relevance_comment: "Прямой акцент на долгосрочном партнерстве."
+      - excerpt_id: "CtoS07_brief_mention"
+        original: "if, without a legitimate reason, you reduce the amount of or delay the payment... it may constitute a violation"
+        translated_ru: "без законного основания уменьшать или задерживать оплату нельзя, это может быть нарушением"
+        section_title: "Selection of Suppliers"
+        relevance_comment: "Краткий запрет манипуляций условиями сделки."
+    other_principles: []
+  - topic_id: "hotline_principles"
+    principles:
+      - {principle_code: "HOT01", principle_status: "absent", evidence_excerpt_ids: []}
+      - {principle_code: "HOT02", principle_status: "explicit_section", evidence_excerpt_ids: ["HOT02_explicit_section"]}
+      - {principle_code: "HOT03", principle_status: "explicit_section", evidence_excerpt_ids: ["HOT03_explicit_section"]}
+      - {principle_code: "HOT04", principle_status: "absent", evidence_excerpt_ids: []}
+      - {principle_code: "HOT05", principle_status: "absent", evidence_excerpt_ids: []}
+      - {principle_code: "HOT06", principle_status: "explicit_section", evidence_excerpt_ids: ["HOT06_explicit_section"]}
+      - {principle_code: "HOT07", principle_status: "absent", evidence_excerpt_ids: []}
+      - {principle_code: "HOT08", principle_status: "absent", evidence_excerpt_ids: []}
+      - {principle_code: "HOT09", principle_status: "absent", evidence_excerpt_ids: []}
+      - {principle_code: "HOT10", principle_status: "absent", evidence_excerpt_ids: []}
+    key_excerpts:
+      - excerpt_id: "HOT02_explicit_section"
+        original: "All concerned persons ... are obligated to keep confidentiality"
+        translated_ru: "Все вовлеченные лица обязаны сохранять конфиденциальность."
+        section_title: "Reporting and Consultation"
+        relevance_comment: "Прямая гарантия конфиденциальности сообщений."
+      - excerpt_id: "HOT03_explicit_section"
+        original: "The Company strictly prohibits retaliation against good faith whistleblowers."
+        translated_ru: "Компания строго запрещает репрессии против добросовестных информаторов."
+        section_title: "Reporting and Consultation"
+        relevance_comment: "Прямой запрет преследования заявителей."
+      - excerpt_id: "HOT06_explicit_section"
+        original: "If you become aware of a violation ... you can report to your company's compliance department or dedicated hotline."
+        translated_ru: "Если вам стало известно о нарушении, можно сообщить в комплаенс-подразделение или на специальную горячую линию."
+        section_title: "Reporting and Consultation"
+        relevance_comment: "Прямое требование/механизм сообщения о нарушениях."
+    other_principles: []
+  - topic_id: "worker_to_company"
+    principles:
+      - {principle_code: "WtoC01", principle_status: "brief_mention", evidence_excerpt_ids: ["WtoC01_brief_mention"]}
+      - {principle_code: "WtoC02", principle_status: "explicit_section", evidence_excerpt_ids: ["WtoC02_explicit_section"]}
+      - {principle_code: "WtoC03", principle_status: "explicit_section", evidence_excerpt_ids: ["WtoC03_explicit_section"]}
+      - {principle_code: "WtoC04", principle_status: "brief_mention", evidence_excerpt_ids: ["WtoC04_brief_mention"]}
+      - {principle_code: "WtoC05", principle_status: "explicit_section", evidence_excerpt_ids: ["WtoC05_explicit_section"]}
+      - {principle_code: "WtoC06", principle_status: "absent", evidence_excerpt_ids: []}
+      - {principle_code: "WtoC07", principle_status: "absent", evidence_excerpt_ids: []}
+      - {principle_code: "WtoC08", principle_status: "absent", evidence_excerpt_ids: []}
+      - {principle_code: "WtoC09", principle_status: "brief_mention", evidence_excerpt_ids: ["WtoC09_brief_mention"]}
+      - {principle_code: "WtoC10", principle_status: "brief_mention", evidence_excerpt_ids: ["WtoC10_brief_mention"]}
+    key_excerpts:
+      - excerpt_id: "WtoC01_brief_mention"
+        original: "Integrity: We pledge to maintain the highest ethical standards in everything we do."
+        translated_ru: "Integrity: Мы обязуемся поддерживать высочайшие этические стандарты во всем, что делаем."
+        section_title: "Professional Commitments"
+        relevance_comment: "Краткий стандарт качества и этики труда."
+      - excerpt_id: "WtoC02_explicit_section"
+        original: "We manage and use corporate assets solely for business purposes."
+        translated_ru: "Мы управляем и используем корпоративные активы исключительно в служебных целях."
+        section_title: "6-1 Use of Corporate Assets"
+        relevance_comment: "Прямой принцип сохранности/целевого использования активов."
+      - excerpt_id: "WtoC03_explicit_section"
+        original: "We manage confidential information strictly to prevent unauthorized disclosure"
+        translated_ru: "Мы строго управляем конфиденциальной информацией для предотвращения несанкционированного раскрытия."
+        section_title: "6-2 Information Control"
+        relevance_comment: "Прямая защита конфиденциальной информации."
+      - excerpt_id: "WtoC04_brief_mention"
+        original: "We prevent infringing on the intellectual property rights of others"
+        translated_ru: "Мы предотвращаем нарушение прав интеллектуальной собственности других"
+        section_title: "6-2"
+        relevance_comment: "Краткая защита прав ИС в деятельности работников."
+      - excerpt_id: "WtoC05_explicit_section"
+        original: "As a member of society, we comply with domestic and international laws and regulations"
+        translated_ru: "Как член общества, мы соблюдаем национальные и международные законы и нормы."
+        section_title: "1-1 Our Pride"
+        relevance_comment: "Прямой комплаенс с законами."
+      - excerpt_id: "WtoC09_brief_mention"
+        original: "We manage, guide and lead employees to realize their full potential"
+        translated_ru: "Мы развиваем и направляем сотрудников для полной реализации их потенциала."
+        section_title: "3-1 Motivating Work Environment"
+        relevance_comment: "Краткая поддержка профессионального развития."
+      - excerpt_id: "WtoC10_brief_mention"
+        original: "we strive to enhance our reputation"
+        translated_ru: "мы стремимся укреплять нашу репутацию"
+        section_title: "1-2 Fairness and Honesty in Business"
+        relevance_comment: "Краткая защита деловой репутации."
+    other_principles: []
+notes: []
+limitations: []
+analyst_summary_ru: "Обработаны все 5 тем. Статусы: explicit_section=10, implicit_scattered=0, brief_mention=10, absent=25, unclear=0."

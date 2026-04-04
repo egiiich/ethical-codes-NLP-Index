@@ -1,0 +1,182 @@
+document_id: "digital_russia_ozon_2020"
+company_name: "Ozon"
+country: "Russia"
+industry: "Digital"
+source_path: "Ethics_Codes_txt_files/Digital_Russia_Ozon_2020.txt"
+source_language: "ru"
+document_type: "Кодекс корпоративной этики и делового поведения"
+review_status: "completed"
+topic_analyses:
+  - topic_id: "competitor_relations"
+    principles:
+      - {principle_code: "COMP01", principle_status: "explicit_section", evidence_excerpt_ids: ["COMP01_explicit_section"]}
+      - {principle_code: "COMP02", principle_status: "absent", evidence_excerpt_ids: []}
+      - {principle_code: "COMP03", principle_status: "explicit_section", evidence_excerpt_ids: ["COMP03_explicit_section"]}
+      - {principle_code: "COMP04", principle_status: "absent", evidence_excerpt_ids: []}
+      - {principle_code: "COMP05", principle_status: "brief_mention", evidence_excerpt_ids: ["COMP05_brief_mention"]}
+      - {principle_code: "COMP06", principle_status: "absent", evidence_excerpt_ids: []}
+      - {principle_code: "COMP07", principle_status: "absent", evidence_excerpt_ids: []}
+      - {principle_code: "COMP08", principle_status: "explicit_section", evidence_excerpt_ids: ["COMP08_explicit_section"]}
+      - {principle_code: "COMP09", principle_status: "absent", evidence_excerpt_ids: []}
+      - {principle_code: "COMP10", principle_status: "absent", evidence_excerpt_ids: []}
+    key_excerpts:
+      - excerpt_id: "COMP01_explicit_section"
+        original: "Мы не просим и не получаем любую конфиденциальную информацию о наших конкурентах."
+        translated_ru: "Мы не запрашиваем и не получаем конфиденциальную информацию о конкурентах."
+        section_title: "Отношения с конкурентами"
+        relevance_comment: "Прямой запрет на получение конфиденциальной информации конкурентов."
+      - excerpt_id: "COMP03_explicit_section"
+        original: "Мы не вступаем в сговоры и предварительные договоренности с нашими конкурентами, в том числе, относительно ценовой политики или разделения рынков."
+        translated_ru: "Компания запрещает сговоры с конкурентами, включая договоренности о ценах и разделе рынков."
+        section_title: "Отношения с конкурентами"
+        relevance_comment: "Прямой антикартельный запрет."
+      - excerpt_id: "COMP05_brief_mention"
+        original: "Мы уважаем своих конкурентов и поддерживаем честное и открытое взаимодействие на свободном рынке."
+        translated_ru: "Компания уважает конкурентов и поддерживает честное взаимодействие на свободном рынке."
+        section_title: "Отношения с конкурентами"
+        relevance_comment: "Краткая ценностная установка на уважение к конкурентам."
+      - excerpt_id: "COMP08_explicit_section"
+        original: "Мы не даём недостоверные и оценочные комментарии о работе конкурентов."
+        translated_ru: "Компания не дает недостоверные и порочащие комментарии о конкурентах."
+        section_title: "Отношения с конкурентами"
+        relevance_comment: "Прямой запрет распространения недостоверной информации о конкурентах."
+    other_principles: []
+  - topic_id: "company_to_investors"
+    principles:
+      - {principle_code: "CtoI01", principle_status: "absent", evidence_excerpt_ids: []}
+      - {principle_code: "CtoI02", principle_status: "absent", evidence_excerpt_ids: []}
+      - {principle_code: "CtoI03", principle_status: "explicit_section", evidence_excerpt_ids: ["CtoI03_explicit_section"]}
+      - {principle_code: "CtoI04", principle_status: "brief_mention", evidence_excerpt_ids: ["CtoI04_brief_mention"]}
+      - {principle_code: "CtoI05", principle_status: "brief_mention", evidence_excerpt_ids: ["CtoI05_brief_mention"]}
+      - {principle_code: "CtoI06", principle_status: "absent", evidence_excerpt_ids: []}
+      - {principle_code: "CtoI07", principle_status: "absent", evidence_excerpt_ids: []}
+      - {principle_code: "CtoI08", principle_status: "absent", evidence_excerpt_ids: []}
+    key_excerpts:
+      - excerpt_id: "CtoI03_explicit_section"
+        original: "Ozon ведёт точный, правильный и прозрачный учёт данных деятельности компании ... для предоставления нашим собственникам, будущим инвесторам и государственным органам корректной и своевременной информации."
+        translated_ru: "Ozon ведет точный и прозрачный учет для предоставления собственникам и инвесторам корректной и своевременной информации."
+        section_title: "Учёт данных в компании и соответствие стандартам"
+        relevance_comment: "Прямой принцип полного и своевременного раскрытия существенной информации."
+      - excerpt_id: "CtoI04_brief_mention"
+        original: "Мы строим в компании эффективную систему внутреннего контроля за достоверностью финансовой отчётности."
+        translated_ru: "Компания выстраивает эффективный внутренний контроль за достоверностью финансовой отчетности."
+        section_title: "Учёт данных в компании и соответствие стандартам"
+        relevance_comment: "Краткая фиксация прозрачности процессов формирования отчетности."
+      - excerpt_id: "CtoI05_brief_mention"
+        original: "Мы понимаем, что инсайдерская информация Ozon или наших контрагентов и партнеров также является конфиденциальной."
+        translated_ru: "Компания признает инсайдерскую информацию конфиденциальной и соблюдает соответствующие ограничения."
+        section_title: "Конфиденциальная информация"
+        relevance_comment: "Краткое покрытие темы предотвращения инсайдерского использования информации."
+    other_principles: []
+  - topic_id: "company_to_supplier"
+    principles:
+      - {principle_code: "CtoS01", principle_status: "brief_mention", evidence_excerpt_ids: ["CtoS01_brief_mention"]}
+      - {principle_code: "CtoS02", principle_status: "brief_mention", evidence_excerpt_ids: ["CtoS02_brief_mention"]}
+      - {principle_code: "CtoS03", principle_status: "absent", evidence_excerpt_ids: []}
+      - {principle_code: "CtoS04", principle_status: "absent", evidence_excerpt_ids: []}
+      - {principle_code: "CtoS05", principle_status: "absent", evidence_excerpt_ids: []}
+      - {principle_code: "CtoS06", principle_status: "explicit_section", evidence_excerpt_ids: ["CtoS06_explicit_section"]}
+      - {principle_code: "CtoS07", principle_status: "absent", evidence_excerpt_ids: []}
+    key_excerpts:
+      - excerpt_id: "CtoS01_brief_mention"
+        original: "Мы знаем наших контрагентов: проверяем их на благонадежность, соответствие требованиям законодательства, и не сотрудничаем с контрагентами, не прошедшими проверку."
+        translated_ru: "Компания проверяет контрагентов на благонадежность и соответствие требованиям закона перед сотрудничеством."
+        section_title: "Взаимодействие с клиентами, контрагентами и партнёрами"
+        relevance_comment: "Краткая ориентация на качественный и обоснованный отбор контрагентов."
+      - excerpt_id: "CtoS02_brief_mention"
+        original: "... отношения, построенные на принципах объективного отбора и законного, честного, добросовестного, открытого сотрудничества."
+        translated_ru: "Отношения с контрагентами строятся на объективном отборе и честном открытом сотрудничестве."
+        section_title: "Взаимодействие с клиентами, контрагентами и партнёрами"
+        relevance_comment: "Краткое упоминание справедливых условий отбора и взаимодействия с поставщиками/контрагентами."
+      - excerpt_id: "CtoS06_explicit_section"
+        original: "Мы стремимся поддерживать с контрагентами взаимовыгодные долгосрочные отношения."
+        translated_ru: "Компания стремится к взаимовыгодным долгосрочным отношениям с контрагентами."
+        section_title: "Взаимодействие с клиентами, контрагентами и партнёрами"
+        relevance_comment: "Прямой принцип долгосрочного устойчивого партнерства."
+    other_principles: []
+  - topic_id: "hotline_principles"
+    principles:
+      - {principle_code: "HOT01", principle_status: "explicit_section", evidence_excerpt_ids: ["HOT01_explicit_section"]}
+      - {principle_code: "HOT02", principle_status: "absent", evidence_excerpt_ids: []}
+      - {principle_code: "HOT03", principle_status: "explicit_section", evidence_excerpt_ids: ["HOT03_explicit_section"]}
+      - {principle_code: "HOT04", principle_status: "explicit_section", evidence_excerpt_ids: ["HOT04_explicit_section"]}
+      - {principle_code: "HOT05", principle_status: "absent", evidence_excerpt_ids: []}
+      - {principle_code: "HOT06", principle_status: "explicit_section", evidence_excerpt_ids: ["HOT06_explicit_section"]}
+      - {principle_code: "HOT07", principle_status: "absent", evidence_excerpt_ids: []}
+      - {principle_code: "HOT08", principle_status: "absent", evidence_excerpt_ids: []}
+      - {principle_code: "HOT09", principle_status: "absent", evidence_excerpt_ids: []}
+      - {principle_code: "HOT10", principle_status: "absent", evidence_excerpt_ids: []}
+    key_excerpts:
+      - excerpt_id: "HOT01_explicit_section"
+        original: "Для этого в нашей компании работает Горячая линия комплаенс — инструмент, посредством которого возможно передать сообщение ..."
+        translated_ru: "В компании действует комплаенс-горячая линия для передачи сообщений о возможных нарушениях."
+        section_title: "Горячая линия"
+        relevance_comment: "Прямое наличие и доступность канала обращений."
+      - excerpt_id: "HOT03_explicit_section"
+        original: "Ozon гарантирует отсутствие преследования сотрудников, добросовестно сообщивших о своих подозрениях на Горячую линию."
+        translated_ru: "Ozon гарантирует отсутствие преследования сотрудников за добросовестные сообщения на горячую линию."
+        section_title: "Горячая линия"
+        relevance_comment: "Прямой запрет реталиации в отношении заявителей."
+      - excerpt_id: "HOT04_explicit_section"
+        original: "Обращение на Горячую линию может быть передано анонимно."
+        translated_ru: "Сообщение на горячую линию может быть подано анонимно."
+        section_title: "Горячая линия"
+        relevance_comment: "Прямая гарантия анонимности обращения."
+      - excerpt_id: "HOT06_explicit_section"
+        original: "Просим наших клиентов и партнеров не молчать, если Вы увидите нарушение принципов корпоративной этики ..."
+        translated_ru: "Клиентов и партнеров просят сообщать о нарушениях корпоративной этики и законодательства."
+        section_title: "Горячая линия"
+        relevance_comment: "Прямой призыв/обязанность сообщать о нарушениях через hotline."
+    other_principles: []
+  - topic_id: "worker_to_company"
+    principles:
+      - {principle_code: "WtoC01", principle_status: "explicit_section", evidence_excerpt_ids: ["WtoC01_explicit_section"]}
+      - {principle_code: "WtoC02", principle_status: "explicit_section", evidence_excerpt_ids: ["WtoC02_explicit_section"]}
+      - {principle_code: "WtoC03", principle_status: "explicit_section", evidence_excerpt_ids: ["WtoC03_explicit_section"]}
+      - {principle_code: "WtoC04", principle_status: "explicit_section", evidence_excerpt_ids: ["WtoC04_explicit_section"]}
+      - {principle_code: "WtoC05", principle_status: "explicit_section", evidence_excerpt_ids: ["WtoC05_explicit_section"]}
+      - {principle_code: "WtoC06", principle_status: "absent", evidence_excerpt_ids: []}
+      - {principle_code: "WtoC07", principle_status: "absent", evidence_excerpt_ids: []}
+      - {principle_code: "WtoC08", principle_status: "explicit_section", evidence_excerpt_ids: ["WtoC08_explicit_section"]}
+      - {principle_code: "WtoC09", principle_status: "absent", evidence_excerpt_ids: []}
+      - {principle_code: "WtoC10", principle_status: "brief_mention", evidence_excerpt_ids: ["WtoC10_brief_mention"]}
+    key_excerpts:
+      - excerpt_id: "WtoC01_explicit_section"
+        original: "... качественно и ответственно делаем нашу работу — работаем на результат, добиваемся поставленных перед нами целей ..."
+        translated_ru: "Сотрудники должны качественно и ответственно работать на результат и достигать поставленных целей."
+        section_title: "Принципы работы Ozon"
+        relevance_comment: "Прямое требование качества выполняемой работы."
+      - excerpt_id: "WtoC02_explicit_section"
+        original: "... компания ожидает, что все сотрудники будут бережно относиться к рабочей среде, рабочему месту и имуществу компании ..."
+        translated_ru: "Компания ожидает бережного отношения сотрудников к рабочей среде и имуществу компании."
+        section_title: "Поведение на рабочем месте"
+        relevance_comment: "Прямой принцип сохранности и бережного использования активов компании."
+      - excerpt_id: "WtoC03_explicit_section"
+        original: "Любая информация, которую Ozon не раскрывает публично, считается конфиденциальной."
+        translated_ru: "Любая непубличная информация Ozon считается конфиденциальной."
+        section_title: "Конфиденциальная информация"
+        relevance_comment: "Прямое требование конфиденциальности."
+      - excerpt_id: "WtoC04_explicit_section"
+        original: "Результаты интеллектуального труда, которые были созданы в рамках рабочих обязанностей сотрудников, являются собственностью Ozon."
+        translated_ru: "Результаты интеллектуального труда сотрудников, созданные в рамках работы, являются собственностью Ozon."
+        section_title: "Использование активов компании"
+        relevance_comment: "Прямое закрепление защиты ИС компании."
+      - excerpt_id: "WtoC05_explicit_section"
+        original: "Мы не нарушаем закон ... Мы отвергаем любые виды мошенничества, отмывания денежных средств ..."
+        translated_ru: "Компания и сотрудники обязаны не нарушать закон и отвергать мошенничество, отмывание средств и иные правонарушения."
+        section_title: "Соблюдение законодательства"
+        relevance_comment: "Прямой комплаенс-принцип соблюдения законодательства."
+      - excerpt_id: "WtoC08_explicit_section"
+        original: "... работаем на результат, добиваемся поставленных перед нами целей и выполняем обещания ..."
+        translated_ru: "Сотрудники работают на результат, достигают целей и выполняют обещания."
+        section_title: "Принципы работы Ozon"
+        relevance_comment: "Прямой акцент на достижении результата."
+      - excerpt_id: "WtoC10_brief_mention"
+        original: "При раскрытии любой информации, связанной с Компанией, мы действуем осмотрительно и осторожно."
+        translated_ru: "При раскрытии информации о компании сотрудники действуют осмотрительно и осторожно."
+        section_title: "Публичные выступления..."
+        relevance_comment: "Краткое требование защищать репутацию компании в публичной коммуникации."
+    other_principles: []
+notes: []
+limitations: []
+analyst_summary_ru: "Обработаны все 5 тем. Статусы: explicit_section=17, implicit_scattered=0, brief_mention=6, absent=22, unclear=0."

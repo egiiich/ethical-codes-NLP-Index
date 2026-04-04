@@ -1,0 +1,187 @@
+document_id: "construction_korea_samsung_engineering_2018"
+company_name: "Samsung Engineering"
+country: "Korea"
+industry: "Construction"
+source_path: "Ethics_Codes_txt_files/Construction_Korea_Samsung Engineering_2018.txt"
+source_language: "en"
+document_type: "Code of Conduct"
+review_status: "completed"
+topic_analyses:
+  - topic_id: "competitor_relations"
+    principles:
+      - {principle_code: "COMP01", principle_status: "absent", evidence_excerpt_ids: []}
+      - {principle_code: "COMP02", principle_status: "absent", evidence_excerpt_ids: []}
+      - {principle_code: "COMP03", principle_status: "explicit_section", evidence_excerpt_ids: ["COMP03_explicit_section"]}
+      - {principle_code: "COMP04", principle_status: "brief_mention", evidence_excerpt_ids: ["COMP04_brief_mention"]}
+      - {principle_code: "COMP05", principle_status: "brief_mention", evidence_excerpt_ids: ["COMP05_brief_mention"]}
+      - {principle_code: "COMP06", principle_status: "brief_mention", evidence_excerpt_ids: ["COMP06_brief_mention"]}
+      - {principle_code: "COMP07", principle_status: "brief_mention", evidence_excerpt_ids: ["COMP07_brief_mention"]}
+      - {principle_code: "COMP08", principle_status: "absent", evidence_excerpt_ids: []}
+      - {principle_code: "COMP09", principle_status: "absent", evidence_excerpt_ids: []}
+      - {principle_code: "COMP10", principle_status: "absent", evidence_excerpt_ids: []}
+    key_excerpts:
+      - excerpt_id: "COMP03_explicit_section"
+        original: "we comply with anti-trust and fair transactions laws ... refraining from inappropriate joint actions like collusion"
+        translated_ru: "мы соблюдаем антимонопольные и торговые нормы ... воздерживаемся от ненадлежащих совместных действий, таких как сговор"
+        section_title: "1-3 Fair Transactions"
+        relevance_comment: "Прямой запрет на сговор и антиконкурентные действия."
+      - excerpt_id: "COMP04_brief_mention"
+        original: "we comply with anti-trust and fair transactions laws and regulations"
+        translated_ru: "мы соблюдаем антимонопольные и нормы добросовестных сделок"
+        section_title: "1-3 Fair Transactions"
+        relevance_comment: "Краткое подтверждение про-конкурентного сотрудничества в рамках закона."
+      - excerpt_id: "COMP05_brief_mention"
+        original: "we contribute to enhancing the efficiency of the market by engaging in fair competition"
+        translated_ru: "мы повышаем эффективность рынка, участвуя в честной конкуренции"
+        section_title: "1-3 Fair Transactions"
+        relevance_comment: "Краткая фиксация принципа честной конкуренции."
+      - excerpt_id: "COMP06_brief_mention"
+        original: "we refrain from using weaknesses of our competitors or from undermining free competition"
+        translated_ru: "мы воздерживаемся от использования слабостей конкурентов и подрыва свободной конкуренции"
+        section_title: "1-3 Fair Transactions"
+        relevance_comment: "Краткий запрет на ослабление конкурентов недобросовестными методами."
+      - excerpt_id: "COMP07_brief_mention"
+        original: "We strive to protect intellectual properties and trade secrets of all stakeholders including our clients and suppliers"
+        translated_ru: "Мы стремимся защищать интеллектуальную собственность и коммерческие тайны всех заинтересованных сторон"
+        section_title: "1-4 Information Protection"
+        relevance_comment: "Краткое уважение к ИС внешних сторон, включая рыночных участников."
+    other_principles: []
+  - topic_id: "company_to_investors"
+    principles:
+      - {principle_code: "CtoI01", principle_status: "brief_mention", evidence_excerpt_ids: ["CtoI01_brief_mention"]}
+      - {principle_code: "CtoI02", principle_status: "absent", evidence_excerpt_ids: []}
+      - {principle_code: "CtoI03", principle_status: "explicit_section", evidence_excerpt_ids: ["CtoI03_explicit_section"]}
+      - {principle_code: "CtoI04", principle_status: "absent", evidence_excerpt_ids: []}
+      - {principle_code: "CtoI05", principle_status: "absent", evidence_excerpt_ids: []}
+      - {principle_code: "CtoI06", principle_status: "absent", evidence_excerpt_ids: []}
+      - {principle_code: "CtoI07", principle_status: "absent", evidence_excerpt_ids: []}
+      - {principle_code: "CtoI08", principle_status: "absent", evidence_excerpt_ids: []}
+    key_excerpts:
+      - excerpt_id: "CtoI01_brief_mention"
+        original: "We respect our shareholders’ right to know, reasonable demands, suggestions and official decisions."
+        translated_ru: "Мы уважаем право акционеров на информацию, разумные требования, предложения и официальные решения."
+        section_title: "3-2 Respecting Shareholders"
+        relevance_comment: "Краткое подтверждение прав акционеров."
+      - excerpt_id: "CtoI03_explicit_section"
+        original: "We clearly disclose information about our business operation ... in accordance with relevant laws."
+        translated_ru: "Мы ясно раскрываем информацию о деятельности компании ... в соответствии с применимыми законами."
+        section_title: "3-2 Respecting Shareholders"
+        relevance_comment: "Прямое требование по раскрытию информации."
+    other_principles: []
+  - topic_id: "company_to_supplier"
+    principles:
+      - {principle_code: "CtoS01", principle_status: "explicit_section", evidence_excerpt_ids: ["CtoS01_explicit_section"]}
+      - {principle_code: "CtoS02", principle_status: "absent", evidence_excerpt_ids: []}
+      - {principle_code: "CtoS03", principle_status: "explicit_section", evidence_excerpt_ids: ["CtoS03_explicit_section"]}
+      - {principle_code: "CtoS04", principle_status: "absent", evidence_excerpt_ids: []}
+      - {principle_code: "CtoS05", principle_status: "absent", evidence_excerpt_ids: []}
+      - {principle_code: "CtoS06", principle_status: "explicit_section", evidence_excerpt_ids: ["CtoS06_explicit_section"]}
+      - {principle_code: "CtoS07", principle_status: "absent", evidence_excerpt_ids: []}
+    key_excerpts:
+      - excerpt_id: "CtoS01_explicit_section"
+        original: "We select our suppliers transparently and fairly in accordance with the Company’s procedure."
+        translated_ru: "Мы выбираем поставщиков прозрачно и справедливо в соответствии с процедурами компании."
+        section_title: "3-3 Respecting Suppliers"
+        relevance_comment: "Прямой критерий выбора поставщиков."
+      - excerpt_id: "CtoS03_explicit_section"
+        original: "We do not make unjust demands by using the Company’s authority and position."
+        translated_ru: "Мы не предъявляем несправедливых требований, используя полномочия и позицию компании."
+        section_title: "3-3 Respecting Suppliers"
+        relevance_comment: "Прямой запрет злоупотребления рыночной властью."
+      - excerpt_id: "CtoS06_explicit_section"
+        original: "We support our suppliers’ effort to strengthen their competitiveness ... and strive to achieve mutual growth."
+        translated_ru: "Мы поддерживаем усилия поставщиков по повышению конкурентоспособности и стремимся к взаимному росту."
+        section_title: "3-3 Respecting Suppliers"
+        relevance_comment: "Прямой акцент на устойчивом партнерстве."
+    other_principles: []
+  - topic_id: "hotline_principles"
+    principles:
+      - {principle_code: "HOT01", principle_status: "absent", evidence_excerpt_ids: []}
+      - {principle_code: "HOT02", principle_status: "explicit_section", evidence_excerpt_ids: ["HOT02_explicit_section"]}
+      - {principle_code: "HOT03", principle_status: "explicit_section", evidence_excerpt_ids: ["HOT03_explicit_section"]}
+      - {principle_code: "HOT04", principle_status: "explicit_section", evidence_excerpt_ids: ["HOT04_explicit_section"]}
+      - {principle_code: "HOT05", principle_status: "explicit_section", evidence_excerpt_ids: ["HOT05_explicit_section"]}
+      - {principle_code: "HOT06", principle_status: "explicit_section", evidence_excerpt_ids: ["HOT06_explicit_section"]}
+      - {principle_code: "HOT07", principle_status: "absent", evidence_excerpt_ids: []}
+      - {principle_code: "HOT08", principle_status: "absent", evidence_excerpt_ids: []}
+      - {principle_code: "HOT09", principle_status: "absent", evidence_excerpt_ids: []}
+      - {principle_code: "HOT10", principle_status: "absent", evidence_excerpt_ids: []}
+    key_excerpts:
+      - excerpt_id: "HOT02_explicit_section"
+        original: "The Company must protect the anonymity of those reporting violations."
+        translated_ru: "Компания должна защищать анонимность сообщающих о нарушениях."
+        section_title: "5-2 Reporting Violations"
+        relevance_comment: "Прямая защита конфиденциальности заявителя."
+      - excerpt_id: "HOT03_explicit_section"
+        original: "The Company must ... strive to prevent any retaliatory acts."
+        translated_ru: "Компания должна стремиться предотвращать любые ответные репрессии."
+        section_title: "5-2 Reporting Violations"
+        relevance_comment: "Прямой запрет преследования заявителей."
+      - excerpt_id: "HOT04_explicit_section"
+        original: "The Company must protect the anonymity of those reporting violations"
+        translated_ru: "Компания обязана защищать анонимность тех, кто сообщает о нарушениях"
+        section_title: "5-2 Reporting Violations"
+        relevance_comment: "Прямая гарантия анонимности."
+      - excerpt_id: "HOT05_explicit_section"
+        original: "Any employee that violates the Code is subject to consequences such as disciplinary actions."
+        translated_ru: "Любой сотрудник, нарушивший Кодекс, подлежит последствиям, включая дисциплинарные меры."
+        section_title: "5-1 Duty to Comply"
+        relevance_comment: "Прямое обязательство реагировать на нарушения."
+      - excerpt_id: "HOT06_explicit_section"
+        original: "When an employee ... is aware of violation of the Code, he/she must report it."
+        translated_ru: "Когда сотрудник знает о нарушении Кодекса, он/она обязан(а) сообщить об этом."
+        section_title: "5-2 Reporting Violations"
+        relevance_comment: "Прямая обязанность сообщать о нарушениях."
+    other_principles: []
+  - topic_id: "worker_to_company"
+    principles:
+      - {principle_code: "WtoC01", principle_status: "brief_mention", evidence_excerpt_ids: ["WtoC01_brief_mention"]}
+      - {principle_code: "WtoC02", principle_status: "explicit_section", evidence_excerpt_ids: ["WtoC02_explicit_section"]}
+      - {principle_code: "WtoC03", principle_status: "explicit_section", evidence_excerpt_ids: ["WtoC03_explicit_section"]}
+      - {principle_code: "WtoC04", principle_status: "explicit_section", evidence_excerpt_ids: ["WtoC04_explicit_section"]}
+      - {principle_code: "WtoC05", principle_status: "explicit_section", evidence_excerpt_ids: ["WtoC05_explicit_section"]}
+      - {principle_code: "WtoC06", principle_status: "absent", evidence_excerpt_ids: []}
+      - {principle_code: "WtoC07", principle_status: "absent", evidence_excerpt_ids: []}
+      - {principle_code: "WtoC08", principle_status: "absent", evidence_excerpt_ids: []}
+      - {principle_code: "WtoC09", principle_status: "brief_mention", evidence_excerpt_ids: ["WtoC09_brief_mention"]}
+      - {principle_code: "WtoC10", principle_status: "brief_mention", evidence_excerpt_ids: ["WtoC10_brief_mention"]}
+    key_excerpts:
+      - excerpt_id: "WtoC01_brief_mention"
+        original: "We do our best in our work."
+        translated_ru: "Мы делаем все возможное в своей работе."
+        section_title: "2-2 Sense of Responsibility"
+        relevance_comment: "Краткая ориентация на высокое качество работы."
+      - excerpt_id: "WtoC02_explicit_section"
+        original: "We protect the Company’s tangible properties ... We never use the Company’s properties for personal purposes."
+        translated_ru: "Мы защищаем материальные активы компании и никогда не используем их в личных целях."
+        section_title: "2-4 Information Security and Responsible Asset Management"
+        relevance_comment: "Прямой принцип сохранности активов."
+      - excerpt_id: "WtoC03_explicit_section"
+        original: "We never leak information acquired while doing our job ..."
+        translated_ru: "Мы никогда не раскрываем информацию, полученную при выполнении работы."
+        section_title: "2-4 Information Security and Responsible Asset Management"
+        relevance_comment: "Прямое требование конфиденциальности и ИБ."
+      - excerpt_id: "WtoC04_explicit_section"
+        original: "We strive to secure and maintain the Company’s intellectual properties"
+        translated_ru: "Мы стремимся обеспечивать сохранность и поддержку интеллектуальной собственности компании."
+        section_title: "2-4 Information Security and Responsible Asset Management"
+        relevance_comment: "Прямая защита интеллектуальной собственности."
+      - excerpt_id: "WtoC05_explicit_section"
+        original: "we ... comply with laws, regulations and policies related to our work"
+        translated_ru: "мы соблюдаем законы, нормы и политики, относящиеся к нашей работе"
+        section_title: "2-2 Sense of Responsibility"
+        relevance_comment: "Прямой правовой комплаенс работников."
+      - excerpt_id: "WtoC09_brief_mention"
+        original: "The Company ... provides opportunity for self-development and growth for employees"
+        translated_ru: "Компания предоставляет сотрудникам возможности для саморазвития и роста."
+        section_title: "3-4 Respecting Employees"
+        relevance_comment: "Краткая поддержка профессионального развития."
+      - excerpt_id: "WtoC10_brief_mention"
+        original: "Each of us ... maintains the Company’s honor and dignity with proper attire and polite behaviors"
+        translated_ru: "Каждый из нас поддерживает честь и достоинство компании надлежащим поведением."
+        section_title: "2-1 Maintaining Honor and Dignity"
+        relevance_comment: "Краткая связь поведения сотрудника с репутацией компании."
+    other_principles: []
+notes: []
+limitations: []
+analyst_summary_ru: "Обработаны все 5 тем. Статусы: explicit_section=15, implicit_scattered=0, brief_mention=10, absent=20, unclear=0."

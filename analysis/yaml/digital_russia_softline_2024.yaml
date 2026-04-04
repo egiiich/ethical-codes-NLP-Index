@@ -1,0 +1,143 @@
+document_id: "digital_russia_softline_2024"
+company_name: "Softline"
+country: "Russia"
+industry: "Digital"
+source_path: "Ethics_Codes_txt_files/Digital_Russia_Softline_2024.txt"
+source_language: "ru"
+document_type: "Кодекс корпоративной этики и комплаенс"
+review_status: "completed"
+topic_analyses:
+  - topic_id: "competitor_relations"
+    principles:
+      - {principle_code: "COMP01", principle_status: "absent", evidence_excerpt_ids: []}
+      - {principle_code: "COMP02", principle_status: "absent", evidence_excerpt_ids: []}
+      - {principle_code: "COMP03", principle_status: "brief_mention", evidence_excerpt_ids: ["COMP03_brief_mention"]}
+      - {principle_code: "COMP04", principle_status: "absent", evidence_excerpt_ids: []}
+      - {principle_code: "COMP05", principle_status: "brief_mention", evidence_excerpt_ids: ["COMP05_brief_mention"]}
+      - {principle_code: "COMP06", principle_status: "absent", evidence_excerpt_ids: []}
+      - {principle_code: "COMP07", principle_status: "absent", evidence_excerpt_ids: []}
+      - {principle_code: "COMP08", principle_status: "absent", evidence_excerpt_ids: []}
+      - {principle_code: "COMP09", principle_status: "brief_mention", evidence_excerpt_ids: ["COMP09_brief_mention"]}
+      - {principle_code: "COMP10", principle_status: "absent", evidence_excerpt_ids: []}
+    key_excerpts:
+      - excerpt_id: "COMP03_brief_mention"
+        original: "Честная конкуренция"
+        translated_ru: "Компания декларирует принцип честной конкуренции."
+        section_title: "Содержание"
+        relevance_comment: "Краткое подтверждение конкурентного комплаенса (без детализированных правил в доступном фрагменте)."
+      - excerpt_id: "COMP05_brief_mention"
+        original: "Доверие клиентов и партнеров — главное конкурентное преимущество ..."
+        translated_ru: "Доверие клиентов и партнеров рассматривается как ключевое конкурентное преимущество."
+        section_title: "Вступительное слово"
+        relevance_comment: "Краткий акцент на добросовестной рыночной репутации."
+      - excerpt_id: "COMP09_brief_mention"
+        original: "Мы сообщаем о ставших нам известными случаях нечестной конкуренции."
+        translated_ru: "Компания сообщает о ставших ей известными случаях нечестной конкуренции."
+        section_title: "Фрагмент раздела о конкуренции"
+        relevance_comment: "Краткое покрытие принципа предостережения/сообщения о нарушениях конкурентной этики."
+    other_principles: []
+  - topic_id: "company_to_investors"
+    principles:
+      - {principle_code: "CtoI01", principle_status: "absent", evidence_excerpt_ids: []}
+      - {principle_code: "CtoI02", principle_status: "absent", evidence_excerpt_ids: []}
+      - {principle_code: "CtoI03", principle_status: "explicit_section", evidence_excerpt_ids: ["CtoI03_explicit_section"]}
+      - {principle_code: "CtoI04", principle_status: "brief_mention", evidence_excerpt_ids: ["CtoI04_brief_mention"]}
+      - {principle_code: "CtoI05", principle_status: "absent", evidence_excerpt_ids: []}
+      - {principle_code: "CtoI06", principle_status: "absent", evidence_excerpt_ids: []}
+      - {principle_code: "CtoI07", principle_status: "absent", evidence_excerpt_ids: []}
+      - {principle_code: "CtoI08", principle_status: "absent", evidence_excerpt_ids: []}
+    key_excerpts:
+      - excerpt_id: "CtoI03_explicit_section"
+        original: "Мы строго соблюдаем установленный порядок ведения учета и отчетности, которые точно отражают каждую сделку ..."
+        translated_ru: "Компания строго соблюдает порядок учета и отчетности, точно отражающий каждую сделку."
+        section_title: "Точность и полнота данных финансовой отчетности"
+        relevance_comment: "Прямой принцип точной и полной финансовой отчетности."
+      - excerpt_id: "CtoI04_brief_mention"
+        original: "... поддерживают систему внутреннего бухгалтерского контроля."
+        translated_ru: "Компания поддерживает систему внутреннего бухгалтерского контроля."
+        section_title: "Точность и полнота данных финансовой отчетности"
+        relevance_comment: "Краткий акцент на прозрачности и контроле в процессе формирования отчетности."
+    other_principles: []
+  - topic_id: "company_to_supplier"
+    principles:
+      - {principle_code: "CtoS01", principle_status: "brief_mention", evidence_excerpt_ids: ["CtoS01_brief_mention"]}
+      - {principle_code: "CtoS02", principle_status: "absent", evidence_excerpt_ids: []}
+      - {principle_code: "CtoS03", principle_status: "absent", evidence_excerpt_ids: []}
+      - {principle_code: "CtoS04", principle_status: "absent", evidence_excerpt_ids: []}
+      - {principle_code: "CtoS05", principle_status: "absent", evidence_excerpt_ids: []}
+      - {principle_code: "CtoS06", principle_status: "absent", evidence_excerpt_ids: []}
+      - {principle_code: "CtoS07", principle_status: "absent", evidence_excerpt_ids: []}
+    key_excerpts:
+      - excerpt_id: "CtoS01_brief_mention"
+        original: "Оценка благонадежности контрагентов ... Мы вступаем в деловые отношения с контрагентами только при положительном результате проверки."
+        translated_ru: "Компания проводит проверку благонадежности контрагентов и работает только с теми, кто прошел проверку."
+        section_title: "Оценка благонадежности контрагентов"
+        relevance_comment: "Краткая фиксация критериев отбора поставщиков/контрагентов по надежности."
+    other_principles: []
+  - topic_id: "hotline_principles"
+    principles:
+      - {principle_code: "HOT01", principle_status: "absent", evidence_excerpt_ids: []}
+      - {principle_code: "HOT02", principle_status: "absent", evidence_excerpt_ids: []}
+      - {principle_code: "HOT03", principle_status: "explicit_section", evidence_excerpt_ids: ["HOT03_explicit_section"]}
+      - {principle_code: "HOT04", principle_status: "absent", evidence_excerpt_ids: []}
+      - {principle_code: "HOT05", principle_status: "absent", evidence_excerpt_ids: []}
+      - {principle_code: "HOT06", principle_status: "explicit_section", evidence_excerpt_ids: ["HOT06_explicit_section"]}
+      - {principle_code: "HOT07", principle_status: "absent", evidence_excerpt_ids: []}
+      - {principle_code: "HOT08", principle_status: "absent", evidence_excerpt_ids: []}
+      - {principle_code: "HOT09", principle_status: "absent", evidence_excerpt_ids: []}
+      - {principle_code: "HOT10", principle_status: "absent", evidence_excerpt_ids: []}
+    key_excerpts:
+      - excerpt_id: "HOT03_explicit_section"
+        original: "Мы гарантируем вам защиту от любого рода преследований ..."
+        translated_ru: "Компания гарантирует защиту от любых преследований при добросовестном сообщении о нарушениях."
+        section_title: "Наши этические ценности"
+        relevance_comment: "Прямой запрет/защита от реталиации."
+      - excerpt_id: "HOT06_explicit_section"
+        original: "Мы должны ... сообщать в службу комплаенс обо всех случившихся или возможных фактах нарушения требований настоящего Кодекса ..."
+        translated_ru: "Сотрудники обязаны сообщать в комплаенс-службу обо всех фактах и рисках нарушений Кодекса."
+        section_title: "Как поступать в неочевидных ситуациях"
+        relevance_comment: "Прямая обязанность сообщать о нарушениях."
+    other_principles: []
+  - topic_id: "worker_to_company"
+    principles:
+      - {principle_code: "WtoC01", principle_status: "brief_mention", evidence_excerpt_ids: ["WtoC01_brief_mention"]}
+      - {principle_code: "WtoC02", principle_status: "absent", evidence_excerpt_ids: []}
+      - {principle_code: "WtoC03", principle_status: "explicit_section", evidence_excerpt_ids: ["WtoC03_explicit_section"]}
+      - {principle_code: "WtoC04", principle_status: "explicit_section", evidence_excerpt_ids: ["WtoC04_explicit_section"]}
+      - {principle_code: "WtoC05", principle_status: "explicit_section", evidence_excerpt_ids: ["WtoC05_explicit_section"]}
+      - {principle_code: "WtoC06", principle_status: "absent", evidence_excerpt_ids: []}
+      - {principle_code: "WtoC07", principle_status: "absent", evidence_excerpt_ids: []}
+      - {principle_code: "WtoC08", principle_status: "absent", evidence_excerpt_ids: []}
+      - {principle_code: "WtoC09", principle_status: "absent", evidence_excerpt_ids: []}
+      - {principle_code: "WtoC10", principle_status: "explicit_section", evidence_excerpt_ids: ["WtoC10_explicit_section"]}
+    key_excerpts:
+      - excerpt_id: "WtoC01_brief_mention"
+        original: "Мы, как члены единой команды Софтлайн, обязаны неукоснительно соблюдать правила настоящего Кодекса ..."
+        translated_ru: "Каждый сотрудник обязан неукоснительно соблюдать Кодекс, независимо от должности."
+        section_title: "Все ли должны соблюдать Кодекс"
+        relevance_comment: "Краткий стандарт добросовестного исполнения обязанностей."
+      - excerpt_id: "WtoC03_explicit_section"
+        original: "Защита коммерческой тайны и интеллектуальной собственности"
+        translated_ru: "Кодекс прямо включает защиту коммерческой тайны и конфиденциальной информации."
+        section_title: "Содержание"
+        relevance_comment: "Прямое покрытие требований по конфиденциальности."
+      - excerpt_id: "WtoC04_explicit_section"
+        original: "Защита коммерческой тайны и интеллектуальной собственности"
+        translated_ru: "Кодекс закрепляет защиту интеллектуальной собственности компании."
+        section_title: "Содержание"
+        relevance_comment: "Прямое покрытие защиты интеллектуальной собственности."
+      - excerpt_id: "WtoC05_explicit_section"
+        original: "Мы должны ... соблюдать ... применимое законодательство и стандарты."
+        translated_ru: "Сотрудники обязаны соблюдать применимое законодательство и внутренние стандарты компании."
+        section_title: "Как поступать в неочевидных ситуациях"
+        relevance_comment: "Прямое требование соблюдения законов."
+      - excerpt_id: "WtoC10_explicit_section"
+        original: "Репутация — главный актив любого бизнеса ... важно поддерживать репутацию Софтлайн."
+        translated_ru: "Репутация объявлена ключевым активом, и каждый сотрудник обязан поддерживать ее своими действиями."
+        section_title: "Вступительное слово"
+        relevance_comment: "Прямой принцип защиты деловой репутации компании."
+    other_principles: []
+notes: []
+limitations:
+  - "Текст получен из авто-распознавания с опечатками и частичными пропусками; анализ выполнен по восстановленному смыслу доступных фрагментов."
+analyst_summary_ru: "Обработаны все 5 тем. Статусы: explicit_section=8, implicit_scattered=0, brief_mention=6, absent=31, unclear=0."

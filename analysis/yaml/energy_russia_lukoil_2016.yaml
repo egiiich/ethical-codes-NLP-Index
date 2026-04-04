@@ -1,0 +1,137 @@
+document_id: "energy_russia_lukoil_2016"
+company_name: "LUKOIL"
+country: "Russia"
+industry: "Energy"
+source_path: "Ethics_Codes_txt_files/Energy_Russia_Lukoil_2016.txt"
+source_language: "ru"
+document_type: "Кодекс деловой этики"
+review_status: "completed"
+topic_analyses:
+  - topic_id: "competitor_relations"
+    principles:
+      - {principle_code: "COMP01", principle_status: "absent", evidence_excerpt_ids: []}
+      - {principle_code: "COMP02", principle_status: "absent", evidence_excerpt_ids: []}
+      - {principle_code: "COMP03", principle_status: "explicit_section", evidence_excerpt_ids: ["COMP03_explicit_section"]}
+      - {principle_code: "COMP04", principle_status: "absent", evidence_excerpt_ids: []}
+      - {principle_code: "COMP05", principle_status: "brief_mention", evidence_excerpt_ids: ["COMP05_brief_mention"]}
+      - {principle_code: "COMP06", principle_status: "absent", evidence_excerpt_ids: []}
+      - {principle_code: "COMP07", principle_status: "absent", evidence_excerpt_ids: []}
+      - {principle_code: "COMP08", principle_status: "absent", evidence_excerpt_ids: []}
+      - {principle_code: "COMP09", principle_status: "absent", evidence_excerpt_ids: []}
+      - {principle_code: "COMP10", principle_status: "absent", evidence_excerpt_ids: []}
+    key_excerpts:
+      - excerpt_id: "COMP03_explicit_section"
+        original: "Компания ... исходит из недопустимости нарушений антимонопольного законодательства"
+        translated_ru: "Компания исходит из недопустимости нарушений антимонопольного законодательства"
+        section_title: "Деловые партнеры и конкуренты"
+        relevance_comment: "Прямой запрет антиконкурентных практик."
+      - excerpt_id: "COMP05_brief_mention"
+        original: "Компания с уважением относится к конкурентам"
+        translated_ru: "Компания с уважением относится к конкурентам"
+        section_title: "Деловые партнеры и конкуренты"
+        relevance_comment: "Краткая фиксация уважительного отношения к конкурентам."
+    other_principles: []
+  - topic_id: "company_to_investors"
+    principles:
+      - {principle_code: "CtoI01", principle_status: "explicit_section", evidence_excerpt_ids: ["CtoI01_explicit_section"]}
+      - {principle_code: "CtoI02", principle_status: "absent", evidence_excerpt_ids: []}
+      - {principle_code: "CtoI03", principle_status: "explicit_section", evidence_excerpt_ids: ["CtoI03_explicit_section"]}
+      - {principle_code: "CtoI04", principle_status: "absent", evidence_excerpt_ids: []}
+      - {principle_code: "CtoI05", principle_status: "absent", evidence_excerpt_ids: []}
+      - {principle_code: "CtoI06", principle_status: "brief_mention", evidence_excerpt_ids: ["CtoI06_brief_mention"]}
+      - {principle_code: "CtoI07", principle_status: "absent", evidence_excerpt_ids: []}
+      - {principle_code: "CtoI08", principle_status: "absent", evidence_excerpt_ids: []}
+    key_excerpts:
+      - excerpt_id: "CtoI01_explicit_section"
+        original: "ЛУКОЙЛ гарантирует равное и справедливое отношение ко всем акционерам"
+        translated_ru: "ЛУКОЙЛ гарантирует равное и справедливое отношение ко всем акционерам"
+        section_title: "Акционеры"
+        relevance_comment: "Прямое обеспечение равного отношения к акционерам."
+      - excerpt_id: "CtoI03_explicit_section"
+        original: "публикуя достоверную и своевременную информацию финансового и нефинансового характера"
+        translated_ru: "публикация достоверной и своевременной финансовой и нефинансовой информации"
+        section_title: "Раскрытие информации"
+        relevance_comment: "Прямое требование раскрытия существенной информации."
+      - excerpt_id: "CtoI06_brief_mention"
+        original: "на участие в распределении прибыли посредством получения дивидендов"
+        translated_ru: "право на участие в распределении прибыли через дивиденды"
+        section_title: "Акционеры"
+        relevance_comment: "Краткий акцент на дивидендной составляющей."
+    other_principles: []
+  - topic_id: "company_to_supplier"
+    principles:
+      - {principle_code: "CtoS01", principle_status: "explicit_section", evidence_excerpt_ids: ["CtoS01_explicit_section"]}
+      - {principle_code: "CtoS02", principle_status: "brief_mention", evidence_excerpt_ids: ["CtoS02_brief_mention"]}
+      - {principle_code: "CtoS03", principle_status: "absent", evidence_excerpt_ids: []}
+      - {principle_code: "CtoS04", principle_status: "absent", evidence_excerpt_ids: []}
+      - {principle_code: "CtoS05", principle_status: "absent", evidence_excerpt_ids: []}
+      - {principle_code: "CtoS06", principle_status: "absent", evidence_excerpt_ids: []}
+      - {principle_code: "CtoS07", principle_status: "absent", evidence_excerpt_ids: []}
+    key_excerpts:
+      - excerpt_id: "CtoS01_explicit_section"
+        original: "В основе отбора поставщиков и подрядчиков Компании лежит честное и конкурентное взаимодействие"
+        translated_ru: "Основа отбора поставщиков/подрядчиков — честное и конкурентное взаимодействие"
+        section_title: "Деловые партнеры и конкуренты"
+        relevance_comment: "Прямой критерий выбора поставщиков."
+      - excerpt_id: "CtoS02_brief_mention"
+        original: "работники Компании не должны иметь скрытых предпочтений и создавать преимуществ для кого-либо"
+        translated_ru: "работники не должны создавать скрытых преимуществ для отдельных поставщиков"
+        section_title: "Деловые партнеры и конкуренты"
+        relevance_comment: "Краткий акцент на равном доступе."
+    other_principles: []
+  - topic_id: "hotline_principles"
+    principles:
+      - {principle_code: "HOT01", principle_status: "absent", evidence_excerpt_ids: []}
+      - {principle_code: "HOT02", principle_status: "absent", evidence_excerpt_ids: []}
+      - {principle_code: "HOT03", principle_status: "absent", evidence_excerpt_ids: []}
+      - {principle_code: "HOT04", principle_status: "absent", evidence_excerpt_ids: []}
+      - {principle_code: "HOT05", principle_status: "absent", evidence_excerpt_ids: []}
+      - {principle_code: "HOT06", principle_status: "brief_mention", evidence_excerpt_ids: ["HOT06_brief_mention"]}
+      - {principle_code: "HOT07", principle_status: "absent", evidence_excerpt_ids: []}
+      - {principle_code: "HOT08", principle_status: "absent", evidence_excerpt_ids: []}
+      - {principle_code: "HOT09", principle_status: "absent", evidence_excerpt_ids: []}
+      - {principle_code: "HOT10", principle_status: "absent", evidence_excerpt_ids: []}
+    key_excerpts:
+      - excerpt_id: "HOT06_brief_mention"
+        original: "сообщить своему непосредственному руководителю и/или в Комиссию по деловой этике"
+        translated_ru: "сообщать руководителю и/или в Комиссию по деловой этике о нарушениях"
+        section_title: "Государственные органы"
+        relevance_comment: "Краткий канал уведомления о нарушениях."
+    other_principles: []
+  - topic_id: "worker_to_company"
+    principles:
+      - {principle_code: "WtoC01", principle_status: "brief_mention", evidence_excerpt_ids: ["WtoC01_brief_mention"]}
+      - {principle_code: "WtoC02", principle_status: "absent", evidence_excerpt_ids: []}
+      - {principle_code: "WtoC03", principle_status: "brief_mention", evidence_excerpt_ids: ["WtoC03_brief_mention"]}
+      - {principle_code: "WtoC04", principle_status: "absent", evidence_excerpt_ids: []}
+      - {principle_code: "WtoC05", principle_status: "explicit_section", evidence_excerpt_ids: ["WtoC05_explicit_section"]}
+      - {principle_code: "WtoC06", principle_status: "absent", evidence_excerpt_ids: []}
+      - {principle_code: "WtoC07", principle_status: "absent", evidence_excerpt_ids: []}
+      - {principle_code: "WtoC08", principle_status: "absent", evidence_excerpt_ids: []}
+      - {principle_code: "WtoC09", principle_status: "absent", evidence_excerpt_ids: []}
+      - {principle_code: "WtoC10", principle_status: "brief_mention", evidence_excerpt_ids: ["WtoC10_brief_mention"]}
+    key_excerpts:
+      - excerpt_id: "WtoC01_brief_mention"
+        original: "оказывать услуги профессионально"
+        translated_ru: "оказывать услуги профессионально"
+        section_title: "Клиенты"
+        relevance_comment: "Краткая ориентация на качество выполнения работы."
+      - excerpt_id: "WtoC03_brief_mention"
+        original: "сохраняя конфиденциальность важной коммерческой информации"
+        translated_ru: "сохранять конфиденциальность важной коммерческой информации"
+        section_title: "Раскрытие информации"
+        relevance_comment: "Краткое требование информационной безопасности."
+      - excerpt_id: "WtoC05_explicit_section"
+        original: "полностью соблюдаем требования регулирующих органов ... и применимого законодательства"
+        translated_ru: "полностью соблюдать требования регуляторов и применимое законодательство"
+        section_title: "Раскрытие информации"
+        relevance_comment: "Прямое требование соблюдения законодательства."
+      - excerpt_id: "WtoC10_brief_mention"
+        original: "Недопустимо распространение ... порочащей деловую репутацию Компании информации"
+        translated_ru: "Недопустимо распространение информации, порочащей деловую репутацию Компании"
+        section_title: "Раскрытие информации"
+        relevance_comment: "Краткая защита деловой репутации компании."
+    other_principles: []
+notes: []
+limitations: ["Выгрузка OCR содержит фрагментарный текст; анализ основан на доступных разделах."]
+analyst_summary_ru: "Обработаны все 5 тем. Статусы: explicit_section=6, implicit_scattered=0, brief_mention=8, absent=31, unclear=0."

@@ -1,0 +1,152 @@
+document_id: "digital_china_alibaba_2021"
+company_name: "Alibaba"
+country: "China"
+industry: "Digital"
+source_path: "Ethics_Codes_txt_files/Digital_China_ALIBABA_2021.txt"
+source_language: "en"
+document_type: "Code of Ethics"
+review_status: "completed"
+topic_analyses:
+  - topic_id: "competitor_relations"
+    principles:
+      - {principle_code: "COMP01", principle_status: "absent", evidence_excerpt_ids: []}
+      - {principle_code: "COMP02", principle_status: "absent", evidence_excerpt_ids: []}
+      - {principle_code: "COMP03", principle_status: "absent", evidence_excerpt_ids: []}
+      - {principle_code: "COMP04", principle_status: "absent", evidence_excerpt_ids: []}
+      - {principle_code: "COMP05", principle_status: "absent", evidence_excerpt_ids: []}
+      - {principle_code: "COMP06", principle_status: "absent", evidence_excerpt_ids: []}
+      - {principle_code: "COMP07", principle_status: "absent", evidence_excerpt_ids: []}
+      - {principle_code: "COMP08", principle_status: "absent", evidence_excerpt_ids: []}
+      - {principle_code: "COMP09", principle_status: "absent", evidence_excerpt_ids: []}
+      - {principle_code: "COMP10", principle_status: "absent", evidence_excerpt_ids: []}
+    key_excerpts: []
+    other_principles: []
+  - topic_id: "company_to_investors"
+    principles:
+      - {principle_code: "CtoI01", principle_status: "absent", evidence_excerpt_ids: []}
+      - {principle_code: "CtoI02", principle_status: "absent", evidence_excerpt_ids: []}
+      - {principle_code: "CtoI03", principle_status: "explicit_section", evidence_excerpt_ids: ["CtoI03_explicit_section"]}
+      - {principle_code: "CtoI04", principle_status: "brief_mention", evidence_excerpt_ids: ["CtoI04_brief_mention"]}
+      - {principle_code: "CtoI05", principle_status: "explicit_section", evidence_excerpt_ids: ["CtoI05_explicit_section"]}
+      - {principle_code: "CtoI06", principle_status: "absent", evidence_excerpt_ids: []}
+      - {principle_code: "CtoI07", principle_status: "absent", evidence_excerpt_ids: []}
+      - {principle_code: "CtoI08", principle_status: "absent", evidence_excerpt_ids: []}
+    key_excerpts:
+      - excerpt_id: "CtoI03_explicit_section"
+        original: "It is Alibaba Group's policy to make true, fair, accurate, timely and full disclosure in compliance with all applicable laws, regulations and securities exchange rules."
+        translated_ru: "Политика Alibaba — обеспечивать правдивое, справедливое, точное, своевременное и полное раскрытие информации в соответствии с требованиями законодательства и биржевых правил."
+        section_title: "III.4 Disclosure of Material Information"
+        relevance_comment: "Прямой принцип полного и своевременного раскрытия существенной информации."
+      - excerpt_id: "CtoI04_brief_mention"
+        original: "Employees must record Alibaba Group's financial activities ... true, fair, accurate, timely and complete."
+        translated_ru: "Сотрудники обязаны отражать финансовую деятельность Alibaba правдиво, справедливо, точно, своевременно и полно."
+        section_title: "III.5 Corporate Account Books and Records"
+        relevance_comment: "Краткая фиксация прозрачности и корректности корпоративной отчетности."
+      - excerpt_id: "CtoI05_explicit_section"
+        original: "Alibaba Group prohibits trading in the stock or other securities of any company on the basis of material information that is not generally known or available to the public."
+        translated_ru: "Alibaba запрещает торговлю ценными бумагами на основе существенной непубличной информации."
+        section_title: "III.6 Insider Trading"
+        relevance_comment: "Прямой запрет инсайдерской торговли."
+    other_principles: []
+  - topic_id: "company_to_supplier"
+    principles:
+      - {principle_code: "CtoS01", principle_status: "absent", evidence_excerpt_ids: []}
+      - {principle_code: "CtoS02", principle_status: "absent", evidence_excerpt_ids: []}
+      - {principle_code: "CtoS03", principle_status: "absent", evidence_excerpt_ids: []}
+      - {principle_code: "CtoS04", principle_status: "absent", evidence_excerpt_ids: []}
+      - {principle_code: "CtoS05", principle_status: "absent", evidence_excerpt_ids: []}
+      - {principle_code: "CtoS06", principle_status: "absent", evidence_excerpt_ids: []}
+      - {principle_code: "CtoS07", principle_status: "absent", evidence_excerpt_ids: []}
+    key_excerpts: []
+    other_principles: []
+  - topic_id: "hotline_principles"
+    principles:
+      - {principle_code: "HOT01", principle_status: "brief_mention", evidence_excerpt_ids: ["HOT01_brief_mention"]}
+      - {principle_code: "HOT02", principle_status: "brief_mention", evidence_excerpt_ids: ["HOT02_brief_mention"]}
+      - {principle_code: "HOT03", principle_status: "explicit_section", evidence_excerpt_ids: ["HOT03_explicit_section"]}
+      - {principle_code: "HOT04", principle_status: "absent", evidence_excerpt_ids: []}
+      - {principle_code: "HOT05", principle_status: "brief_mention", evidence_excerpt_ids: ["HOT05_brief_mention"]}
+      - {principle_code: "HOT06", principle_status: "explicit_section", evidence_excerpt_ids: ["HOT06_explicit_section"]}
+      - {principle_code: "HOT07", principle_status: "absent", evidence_excerpt_ids: []}
+      - {principle_code: "HOT08", principle_status: "absent", evidence_excerpt_ids: []}
+      - {principle_code: "HOT09", principle_status: "absent", evidence_excerpt_ids: []}
+      - {principle_code: "HOT10", principle_status: "absent", evidence_excerpt_ids: []}
+    key_excerpts:
+      - excerpt_id: "HOT01_brief_mention"
+        original: "Alibaba Group has instituted whistleblower rules and procedures ... for all Employees as well as other companies, organizations and individuals who deal with Alibaba Group."
+        translated_ru: "Alibaba внедрила правила и процедуры горячей линии для сотрудников, а также внешних организаций и лиц, взаимодействующих с компанией."
+        section_title: "IV.1 Reporting Violations"
+        relevance_comment: "Кратко подтверждает доступность канала сообщений для широкого круга заявителей."
+      - excerpt_id: "HOT02_brief_mention"
+        original: "Alibaba Group will treat the information in a sensitive manner and disclose the information only as reasonably necessary to deal with the issues involved."
+        translated_ru: "Alibaba обрабатывает информацию деликатно и раскрывает ее только в объеме, необходимом для рассмотрения вопроса."
+        section_title: "IV.3 Reporting Complaints and Concerns Related to Accounting Issues"
+        relevance_comment: "Краткая гарантия конфиденциального обращения с материалами."
+      - excerpt_id: "HOT03_explicit_section"
+        original: "Employees are prohibited from retaliating against any person for providing information or otherwise assisting in an investigation."
+        translated_ru: "Сотрудникам запрещено преследовать любого человека за предоставление информации или помощь в расследовании."
+        section_title: "IV.2 Prohibiting Retaliation"
+        relevance_comment: "Прямой запрет реталиации за сообщения и участие в расследовании."
+      - excerpt_id: "HOT05_brief_mention"
+        original: "Alibaba Group may investigate any violations of this Code ... Employees who violate this Code ... may be subject to disciplinary action."
+        translated_ru: "Alibaba может расследовать любые нарушения Кодекса, а нарушители подлежат дисциплинарным мерам."
+        section_title: "IV.4 Discipline for Violations"
+        relevance_comment: "Краткое подтверждение обязательного реагирования на нарушения."
+      - excerpt_id: "HOT06_explicit_section"
+        original: "If Employees know of or suspect a violation ... Employees must immediately report that information to the Compliance Officer."
+        translated_ru: "Если сотрудник знает или подозревает нарушение, он обязан немедленно сообщить об этом сотруднику по комплаенсу."
+        section_title: "IV.1 Reporting Violations"
+        relevance_comment: "Прямо установлена обязанность сообщать о нарушениях."
+    other_principles: []
+  - topic_id: "worker_to_company"
+    principles:
+      - {principle_code: "WtoC01", principle_status: "brief_mention", evidence_excerpt_ids: ["WtoC01_brief_mention"]}
+      - {principle_code: "WtoC02", principle_status: "explicit_section", evidence_excerpt_ids: ["WtoC02_explicit_section"]}
+      - {principle_code: "WtoC03", principle_status: "explicit_section", evidence_excerpt_ids: ["WtoC03_explicit_section"]}
+      - {principle_code: "WtoC04", principle_status: "explicit_section", evidence_excerpt_ids: ["WtoC04_explicit_section"]}
+      - {principle_code: "WtoC05", principle_status: "explicit_section", evidence_excerpt_ids: ["WtoC05_explicit_section"]}
+      - {principle_code: "WtoC06", principle_status: "absent", evidence_excerpt_ids: []}
+      - {principle_code: "WtoC07", principle_status: "absent", evidence_excerpt_ids: []}
+      - {principle_code: "WtoC08", principle_status: "brief_mention", evidence_excerpt_ids: ["WtoC08_brief_mention"]}
+      - {principle_code: "WtoC09", principle_status: "absent", evidence_excerpt_ids: []}
+      - {principle_code: "WtoC10", principle_status: "brief_mention", evidence_excerpt_ids: ["WtoC10_brief_mention"]}
+    key_excerpts:
+      - excerpt_id: "WtoC01_brief_mention"
+        original: "Employees are expected to dedicate their best efforts to Alibaba Group's business."
+        translated_ru: "От сотрудников ожидается, что они будут прилагать максимум усилий в интересах бизнеса Alibaba."
+        section_title: "III. Responsibility to Alibaba Group"
+        relevance_comment: "Краткое требование к качеству и добросовестности выполнения работы."
+      - excerpt_id: "WtoC02_explicit_section"
+        original: "Every Employee has a duty to protect Alibaba Group's assets ... and ensure their efficient use."
+        translated_ru: "Каждый сотрудник обязан защищать активы Alibaba и обеспечивать их эффективное использование."
+        section_title: "III.3 Protection and Proper Use of Assets"
+        relevance_comment: "Прямой принцип сохранности и эффективного использования активов компании."
+      - excerpt_id: "WtoC03_explicit_section"
+        original: "Employees ... must not disclose private information in violation of applicable laws or Alibaba Group policies."
+        translated_ru: "Сотрудники не должны раскрывать персональные данные в нарушение закона или политик Alibaba."
+        section_title: "I.2 Employee Privacy"
+        relevance_comment: "Прямое требование информационной конфиденциальности."
+      - excerpt_id: "WtoC04_explicit_section"
+        original: "Proprietary data and information and intellectual property rights are core assets of Alibaba Group."
+        translated_ru: "Собственные данные, информация и права интеллектуальной собственности являются ключевыми активами Alibaba."
+        section_title: "III.3 Protection and Proper Use of Assets"
+        relevance_comment: "Прямое требование защиты интеллектуальной собственности компании."
+      - excerpt_id: "WtoC05_explicit_section"
+        original: "Each Employee must maintain the highest standards of business ethics and comply with all applicable laws, rules and regulations."
+        translated_ru: "Каждый сотрудник обязан соблюдать высочайшие стандарты деловой этики и все применимые законы и нормы."
+        section_title: "II. Compliance with Law and Ethical Conduct"
+        relevance_comment: "Прямой комплаенс-стандарт для сотрудников."
+      - excerpt_id: "WtoC08_brief_mention"
+        original: "Employees are expected ... to make decisions that affect Alibaba Group using objective and independent standards."
+        translated_ru: "Сотрудники должны принимать решения, влияющие на Alibaba, на основе объективных и независимых критериев."
+        section_title: "III. Responsibility to Alibaba Group"
+        relevance_comment: "Краткая ориентация на результативные и ответственные решения."
+      - excerpt_id: "WtoC10_brief_mention"
+        original: "The conduct of all Employees should ... promote a work environment that upholds and improves Alibaba Group's reputation for integrity and trust."
+        translated_ru: "Поведение сотрудников должно поддерживать и укреплять репутацию Alibaba как компании с высоким уровнем честности и доверия."
+        section_title: "Meeting Our Shared Obligations"
+        relevance_comment: "Краткая фиксация обязанности поддерживать репутацию компании."
+    other_principles: []
+notes: []
+limitations: []
+analyst_summary_ru: "Обработаны все 5 тем. Статусы: explicit_section=8, implicit_scattered=0, brief_mention=6, absent=31, unclear=0."
