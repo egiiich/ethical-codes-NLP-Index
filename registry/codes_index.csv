@@ -1,1 +1,51 @@
 document_id,company_name,country,industry,source_path,source_language,file_format,document_type,review_status
+DOC-0001,Astra Agro Lestari,Indonesia,Agriculture,Ethics_Codes_txt_files/Agriculture_Indonesia_Astra Agro Lestari_2023.txt,unknown (needs_manual_check),txt,code_of_ethics_or_conduct (needs_manual_check),not_started
+DOC-0002,SMART,Indonesia,Agriculture,Ethics_Codes_txt_files/Agriculture_Indonesia_SMART_2021.txt,unknown (needs_manual_check),txt,code_of_ethics_or_conduct (needs_manual_check),not_started
+DOC-0003,Great Wall Motor,China,Automotive,Ethics_Codes_txt_files/Automotive_China_Great Wall Motor_2024.txt,unknown (needs_manual_check),txt,code_of_ethics_or_conduct (needs_manual_check),not_started
+DOC-0004,Li Auto,China,Automotive,Ethics_Codes_txt_files/Automotive_China_Li Auto_2024.txt,unknown (needs_manual_check),txt,code_of_ethics_or_conduct (needs_manual_check),not_started
+DOC-0005,NIO,China,Automotive,Ethics_Codes_txt_files/Automotive_China_NIO_2022.txt,unknown (needs_manual_check),txt,code_of_ethics_or_conduct (needs_manual_check),not_started
+DOC-0006,XPeng,China,Automotive,Ethics_Codes_txt_files/Automotive_China_XPeng_2024.txt,unknown (needs_manual_check),txt,code_of_ethics_or_conduct (needs_manual_check),not_started
+DOC-0007,Astra Otoparts,Indonesia,Automotive,Ethics_Codes_txt_files/Automotive_Indonesia_Astra Otoparts_2018.txt,unknown (needs_manual_check),txt,code_of_ethics_or_conduct (needs_manual_check),not_started
+DOC-0008,Selamat Sempurna,Indonesia,Automotive,Ethics_Codes_txt_files/Automotive_Indonesia_Selamat Sempurna_2025.txt,unknown (needs_manual_check),txt,code_of_ethics_or_conduct (needs_manual_check),not_started
+DOC-0009,Honda Motor,Japan,Automotive,Ethics_Codes_txt_files/Automotive_Japan_Honda Motor_2023.txt,unknown (needs_manual_check),txt,code_of_ethics_or_conduct (needs_manual_check),not_started
+DOC-0010,Mitsubishi Motors,Japan,Automotive,Ethics_Codes_txt_files/Automotive_Japan_Mitsubishi Motors_2025.txt,unknown (needs_manual_check),txt,code_of_ethics_or_conduct (needs_manual_check),not_started
+DOC-0011,Nissan Motor,Japan,Automotive,Ethics_Codes_txt_files/Automotive_Japan_Nissan Motor_2026.txt,unknown (needs_manual_check),txt,code_of_ethics_or_conduct (needs_manual_check),not_started
+DOC-0012,Suzuki Motor,Japan,Automotive,Ethics_Codes_txt_files/Automotive_Japan_Suzuki Motor_2016.txt,unknown (needs_manual_check),txt,code_of_ethics_or_conduct (needs_manual_check),not_started
+DOC-0013,Toyota Motor,Japan,Automotive,Ethics_Codes_txt_files/Automotive_Japan_Toyota Motor_2023.txt,unknown (needs_manual_check),txt,code_of_ethics_or_conduct (needs_manual_check),not_started
+DOC-0014,Hankook & Company,Korea,Automotive,Ethics_Codes_txt_files/Automotive_Korea_Hankook & Company_2024.txt,unknown (needs_manual_check),txt,code_of_ethics_or_conduct (needs_manual_check),not_started
+DOC-0015,Hyundai Mobis,Korea,Automotive,Ethics_Codes_txt_files/Automotive_Korea_Hyundai Mobis_2024.txt,unknown (needs_manual_check),txt,code_of_ethics_or_conduct (needs_manual_check),not_started
+DOC-0016,Hyundai Motor Company,Korea,Automotive,Ethics_Codes_txt_files/Automotive_Korea_Hyundai Motor Company_2020.txt,unknown (needs_manual_check),txt,code_of_ethics_or_conduct (needs_manual_check),not_started
+DOC-0017,Kia,Korea,Automotive,Ethics_Codes_txt_files/Automotive_Korea_Kia_2024.txt,unknown (needs_manual_check),txt,code_of_ethics_or_conduct (needs_manual_check),not_started
+DOC-0018,Lautan Luas,Indonesia,Chemicals,Ethics_Codes_txt_files/Chemicals_Indonesia_Lautan Luas_2023.txt,unknown (needs_manual_check),txt,code_of_ethics_or_conduct (needs_manual_check),not_started
+DOC-0019,China State Construction International,China,Construction,Ethics_Codes_txt_files/Construction_China_China State Construction International_2024.txt,unknown (needs_manual_check),txt,code_of_ethics_or_conduct (needs_manual_check),not_started
+DOC-0020,Oriental Yuhong,China,Construction,Ethics_Codes_txt_files/Construction_China_Oriental Yuhong_2025.txt,unknown (needs_manual_check),txt,code_of_ethics_or_conduct (needs_manual_check),not_started
+DOC-0021,POWERCHINA,China,Construction,Ethics_Codes_txt_files/Construction_China_POWERCHINA_2018.txt,unknown (needs_manual_check),txt,code_of_ethics_or_conduct (needs_manual_check),not_started
+DOC-0022,Zhejiang Huayou Cobalt,China,Construction,Ethics_Codes_txt_files/Construction_China_Zhejiang Huayou Cobalt_2023.txt,unknown (needs_manual_check),txt,code_of_ethics_or_conduct (needs_manual_check),not_started
+DOC-0023,Acset Indonusa,Indonesia,Construction,Ethics_Codes_txt_files/Construction_Indonesia_Acset Indonusa_2015.txt,unknown (needs_manual_check),txt,code_of_ethics_or_conduct (needs_manual_check),not_started
+DOC-0024,Citatah,Indonesia,Construction,Ethics_Codes_txt_files/Construction_Indonesia_Citatah_2020.txt,unknown (needs_manual_check),txt,code_of_ethics_or_conduct (needs_manual_check),not_started
+DOC-0025,JGC Holdings,Japan,Construction,Ethics_Codes_txt_files/Construction_Japan_JGC Holdings_2022.txt,unknown (needs_manual_check),txt,code_of_ethics_or_conduct (needs_manual_check),not_started
+DOC-0026,Kajima Corporation,Japan,Construction,Ethics_Codes_txt_files/Construction_Japan_Kajima Corporation_2021.txt,unknown (needs_manual_check),txt,code_of_ethics_or_conduct (needs_manual_check),not_started
+DOC-0027,Penta-Ocean Construction,Japan,Construction,Ethics_Codes_txt_files/Construction_Japan_Penta-Ocean Construction_2022.txt,unknown (needs_manual_check),txt,code_of_ethics_or_conduct (needs_manual_check),not_started
+DOC-0028,Shimizu Corporation,Japan,Construction,Ethics_Codes_txt_files/Construction_Japan_Shimizu Corporation_2022.txt,unknown (needs_manual_check),txt,code_of_ethics_or_conduct (needs_manual_check),not_started
+DOC-0029,Takenaka Corporation,Japan,Construction,Ethics_Codes_txt_files/Construction_Japan_Takenaka Corporation_2024.txt,unknown (needs_manual_check),txt,code_of_ethics_or_conduct (needs_manual_check),not_started
+DOC-0030,DL E&C,Korea,Construction,Ethics_Codes_txt_files/Construction_Korea_DL E&C_2023.txt,unknown (needs_manual_check),txt,code_of_ethics_or_conduct (needs_manual_check),not_started
+DOC-0031,Daewoo E&C,Korea,Construction,Ethics_Codes_txt_files/Construction_Korea_Daewoo E&C_2024.txt,unknown (needs_manual_check),txt,code_of_ethics_or_conduct (needs_manual_check),not_started
+DOC-0032,Hyundai Engineering & Construction,Korea,Construction,Ethics_Codes_txt_files/Construction_Korea_Hyundai Engineering & Construction_2020.txt,unknown (needs_manual_check),txt,code_of_ethics_or_conduct (needs_manual_check),not_started
+DOC-0033,Samsung Engineering,Korea,Construction,Ethics_Codes_txt_files/Construction_Korea_Samsung Engineering_2018.txt,unknown (needs_manual_check),txt,code_of_ethics_or_conduct (needs_manual_check),not_started
+DOC-0034,Hanwha Aerospace,Korea,Defense,Ethics_Codes_txt_files/Defense_Korea_Hanwha Aerospace_2022.txt,unknown (needs_manual_check),txt,code_of_ethics_or_conduct (needs_manual_check),not_started
+DOC-0035,Hanwha Engine,Korea,Defense,Ethics_Codes_txt_files/Defense_Korea_Hanwha Engine_2025.txt,unknown (needs_manual_check),txt,code_of_ethics_or_conduct (needs_manual_check),not_started
+DOC-0036,ALIBABA,China,Digital,Ethics_Codes_txt_files/Digital_China_ALIBABA_2021.txt,unknown (needs_manual_check),txt,code_of_ethics_or_conduct (needs_manual_check),not_started
+DOC-0037,Baidu,China,Digital,Ethics_Codes_txt_files/Digital_China_Baidu_2023.txt,unknown (needs_manual_check),txt,code_of_ethics_or_conduct (needs_manual_check),not_started
+DOC-0038,Global Digital Niaga,Indonesia,Digital,Ethics_Codes_txt_files/Digital_Indonesia_Global Digital Niaga_2023.txt,unknown (needs_manual_check),txt,code_of_ethics_or_conduct (needs_manual_check),not_started
+DOC-0039,GoTo Gojek Tokopedia,Indonesia,Digital,Ethics_Codes_txt_files/Digital_Indonesia_GoTo Gojek Tokopedia_2021.txt,unknown (needs_manual_check),txt,code_of_ethics_or_conduct (needs_manual_check),not_started
+DOC-0040,Sarana Menara Nusantara,Indonesia,Digital,Ethics_Codes_txt_files/Digital_Indonesia_Sarana Menara Nusantara_2019.txt,unknown (needs_manual_check),txt,code_of_ethics_or_conduct (needs_manual_check),not_started
+DOC-0041,Ozon,Russia,Digital,Ethics_Codes_txt_files/Digital_Russia_Ozon_2020.txt,unknown (needs_manual_check),txt,code_of_ethics_or_conduct (needs_manual_check),not_started
+DOC-0042,Sitronics,Russia,Digital,Ethics_Codes_txt_files/Digital_Russia_Sitronics_2021.txt,unknown (needs_manual_check),txt,code_of_ethics_or_conduct (needs_manual_check),not_started
+DOC-0043,Softline,Russia,Digital,Ethics_Codes_txt_files/Digital_Russia_Softline_2024.txt,unknown (needs_manual_check),txt,code_of_ethics_or_conduct (needs_manual_check),not_started
+DOC-0044,VK,Russia,Digital,Ethics_Codes_txt_files/Digital_Russia_VK_2022.txt,unknown (needs_manual_check),txt,code_of_ethics_or_conduct (needs_manual_check),not_started
+DOC-0045,Yandex,Russia,Digital,Ethics_Codes_txt_files/Digital_Russia_Yandex_2024.txt,unknown (needs_manual_check),txt,code_of_ethics_or_conduct (needs_manual_check),not_started
+DOC-0046,Bashneft,Russia,Energy,Ethics_Codes_txt_files/Energy_Russia_Bashneft_2016.txt,unknown (needs_manual_check),txt,code_of_ethics_or_conduct (needs_manual_check),not_started
+DOC-0047,Gazprom,Russia,Energy,Ethics_Codes_txt_files/Energy_Russia_Gazprom_2024.txt,unknown (needs_manual_check),txt,code_of_ethics_or_conduct (needs_manual_check),not_started
+DOC-0048,Lukoil,Russia,Energy,Ethics_Codes_txt_files/Energy_Russia_Lukoil_2016.txt,unknown (needs_manual_check),txt,code_of_ethics_or_conduct (needs_manual_check),not_started
+DOC-0049,Rosneft,Russia,Energy,Ethics_Codes_txt_files/Energy_Russia_Rosneft_2015.txt,unknown (needs_manual_check),txt,code_of_ethics_or_conduct (needs_manual_check),not_started
+DOC-0050,Transneft,Russia,Energy,Ethics_Codes_txt_files/Energy_Russia_Transneft_2024.txt,unknown (needs_manual_check),txt,code_of_ethics_or_conduct (needs_manual_check),not_started
