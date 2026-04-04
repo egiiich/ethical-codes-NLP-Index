@@ -1,0 +1,287 @@
+document_id: "automotive_china_xpeng_2024"
+company_name: "XPeng"
+country: "China"
+industry: "Automotive"
+source_path: "Ethics_Codes_txt_files/Automotive_China_XPeng_2024.txt"
+source_language: "en"
+document_type: "Code of Business Conduct and Ethics"
+review_status: "completed"
+topic_analyses:
+  - topic_id: "competitor_relations"
+    principles:
+      - principle_code: "COMP01"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids: ["COMP01_explicit_section"]
+      - principle_code: "COMP02"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "COMP03"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids: ["COMP03_explicit_section"]
+      - principle_code: "COMP04"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "COMP05"
+        principle_status: "brief_mention"
+        evidence_excerpt_ids: ["COMP05_brief_mention"]
+      - principle_code: "COMP06"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "COMP07"
+        principle_status: "brief_mention"
+        evidence_excerpt_ids: ["COMP07_brief_mention"]
+      - principle_code: "COMP08"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids: ["COMP08_explicit_section"]
+      - principle_code: "COMP09"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "COMP10"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+    key_excerpts:
+      - excerpt_id: "COMP01_explicit_section"
+        original: "Such actions include misappropriation or misuse of a competitor’s confidential information ..."
+        translated_ru: "К таким действиям относится незаконное присвоение или неправомерное использование конфиденциальной информации конкурента ..."
+        section_title: "Relationships with Competitors"
+        relevance_comment: "Прямой запрет добычи/использования конфиденциальной информации конкурента."
+      - excerpt_id: "COMP03_explicit_section"
+        original: "Employees should avoid actions that would be contrary to laws governing competitive practices in the marketplace, including antitrust laws."
+        translated_ru: "Сотрудники должны избегать действий, противоречащих законам о конкурентных практиках на рынке, включая антимонопольные законы."
+        section_title: "Competition and Fair Dealing"
+        relevance_comment: "Прямой запрет антиконкурентных сговоров через соблюдение antitrust требований."
+      - excerpt_id: "COMP05_brief_mention"
+        original: "Employees are obligated to deal fairly with ... competitors."
+        translated_ru: "Сотрудники обязаны вести себя справедливо по отношению к ... конкурентам."
+        section_title: "Competition and Fair Dealing"
+        relevance_comment: "Краткий принцип уважительного и честного отношения к конкурентам."
+      - excerpt_id: "COMP07_brief_mention"
+        original: "... laws covering ... copyrights, trademarks and trade secrets ..."
+        translated_ru: "... законы, охватывающие ... авторские права, товарные знаки и коммерческие тайны ..."
+        section_title: "Compliance with Laws, Regulations and Policies"
+        relevance_comment: "Краткая фиксация уважения интеллектуальных прав конкурентов и иных лиц."
+      - excerpt_id: "COMP08_explicit_section"
+        original: "Such actions include ... making false statements about the competitor’s business and business practices."
+        translated_ru: "К таким действиям относится ... распространение ложных заявлений о бизнесе и практиках конкурента."
+        section_title: "Relationships with Competitors"
+        relevance_comment: "Прямой запрет порочащих/ложных заявлений о конкурентах."
+    other_principles: []
+  - topic_id: "company_to_investors"
+    principles:
+      - principle_code: "CtoI01"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoI02"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoI03"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids: ["CtoI03_explicit_section"]
+      - principle_code: "CtoI04"
+        principle_status: "brief_mention"
+        evidence_excerpt_ids: ["CtoI04_brief_mention"]
+      - principle_code: "CtoI05"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids: ["CtoI05_explicit_section"]
+      - principle_code: "CtoI06"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoI07"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoI08"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+    key_excerpts:
+      - excerpt_id: "CtoI03_explicit_section"
+        original: "... require the disclosure of accurate and complete information regarding the Company’s business, financial condition and results of operations."
+        translated_ru: "... требуют раскрытия точной и полной информации о бизнесе Компании, её финансовом положении и результатах деятельности."
+        section_title: "Accuracy of Financial Reports and Other Public Communications"
+        relevance_comment: "Прямое требование полного и своевременного раскрытия для инвесторов."
+      - excerpt_id: "CtoI04_brief_mention"
+        original: "... all filings with the SEC ... be accurate and timely."
+        translated_ru: "... все подаваемые в SEC документы ... должны быть точными и своевременными."
+        section_title: "Accuracy of Financial Reports and Other Public Communications"
+        relevance_comment: "Краткое подтверждение прозрачного и процедурного раскрытия решений/отчетности."
+      - excerpt_id: "CtoI05_explicit_section"
+        original: "Employees are prohibited from trading in shares ... while in possession of material, non-public information ..."
+        translated_ru: "Сотрудникам запрещено торговать акциями ... при наличии существенной непубличной информации ..."
+        section_title: "Prohibition of Insider Trading"
+        relevance_comment: "Прямой запрет инсайдерской торговли."
+    other_principles: []
+  - topic_id: "company_to_supplier"
+    principles:
+      - principle_code: "CtoS01"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids: ["CtoS01_explicit_section"]
+      - principle_code: "CtoS02"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoS03"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids: ["CtoS03_explicit_section"]
+      - principle_code: "CtoS04"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoS05"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoS06"
+        principle_status: "brief_mention"
+        evidence_excerpt_ids: ["CtoS06_brief_mention"]
+      - principle_code: "CtoS07"
+        principle_status: "brief_mention"
+        evidence_excerpt_ids: ["CtoS07_brief_mention"]
+    key_excerpts:
+      - excerpt_id: "CtoS01_explicit_section"
+        original: "... relationships with service providers and suppliers are based on price, quality, service and reputation ..."
+        translated_ru: "... отношения с сервис-провайдерами и поставщиками строятся на цене, качестве, сервисе и репутации ..."
+        section_title: "Relationships with Service Providers and Suppliers"
+        relevance_comment: "Прямой отбор поставщиков по критериям эффективности."
+      - excerpt_id: "CtoS03_explicit_section"
+        original: "... no employee should accept or solicit any personal benefit from a service provider or supplier ..."
+        translated_ru: "... ни один сотрудник не должен принимать или запрашивать личную выгоду от сервис-провайдера или поставщика ..."
+        section_title: "Relationships with Service Providers and Suppliers"
+        relevance_comment: "Прямой запрет злоупотребления позицией по отношению к поставщикам."
+      - excerpt_id: "CtoS06_brief_mention"
+        original: "Appropriate business gifts and entertainment are welcome courtesies designed to foster relationships with business partners."
+        translated_ru: "Надлежащие деловые подарки и представительские расходы допустимы как вежливые практики для развития отношений с бизнес-партнёрами."
+        section_title: "Gifts and Entertainment"
+        relevance_comment: "Краткий ориентир на поддержание рабочих партнерских отношений."
+      - excerpt_id: "CtoS07_brief_mention"
+        original: "Employees should not take unfair advantage of anyone through manipulation ..."
+        translated_ru: "Сотрудники не должны получать несправедливое преимущество через манипуляции ..."
+        section_title: "Competition and Fair Dealing"
+        relevance_comment: "Краткий запрет манипулятивных практик во взаимодействии с контрагентами, включая поставщиков."
+    other_principles: []
+  - topic_id: "hotline_principles"
+    principles:
+      - principle_code: "HOT01"
+        principle_status: "brief_mention"
+        evidence_excerpt_ids: ["HOT01_brief_mention"]
+      - principle_code: "HOT02"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids: ["HOT02_explicit_section"]
+      - principle_code: "HOT03"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids: ["HOT03_explicit_section"]
+      - principle_code: "HOT04"
+        principle_status: "brief_mention"
+        evidence_excerpt_ids: ["HOT04_brief_mention"]
+      - principle_code: "HOT05"
+        principle_status: "brief_mention"
+        evidence_excerpt_ids: ["HOT05_brief_mention"]
+      - principle_code: "HOT06"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids: ["HOT06_explicit_section"]
+      - principle_code: "HOT07"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "HOT08"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "HOT09"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "HOT10"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+    key_excerpts:
+      - excerpt_id: "HOT01_brief_mention"
+        original: "This Code applies to all of the directors, officers, employees and advisors of the Company ..."
+        translated_ru: "Этот Кодекс применяется ко всем директорам, должностным лицам, сотрудникам и советникам Компании ..."
+        section_title: "Introduction"
+        relevance_comment: "Краткое подтверждение общего охвата работников механизмом сообщений."
+      - excerpt_id: "HOT02_explicit_section"
+        original: "All questions and reports of known or suspected violations ... will be treated with sensitivity and discretion."
+        translated_ru: "Все вопросы и сообщения о известных или предполагаемых нарушениях ... рассматриваются деликатно и конфиденциально."
+        section_title: "Reporting Violations of the Code"
+        relevance_comment: "Прямой принцип конфиденциальности обращений."
+      - excerpt_id: "HOT03_explicit_section"
+        original: "The Company prohibits retaliation against an employee who, in good faith, seeks help or reports known or suspected violations."
+        translated_ru: "Компания запрещает преследование сотрудника, который добросовестно обращается за помощью или сообщает о нарушениях."
+        section_title: "Policy Against Retaliation"
+        relevance_comment: "Прямой запрет реталиации."
+      - excerpt_id: "HOT04_brief_mention"
+        original: "... will protect your confidentiality to the greatest extent consistent with the law ..."
+        translated_ru: "... будет защищать вашу конфиденциальность в максимально возможной степени в рамках закона ..."
+        section_title: "Reporting Violations of the Code"
+        relevance_comment: "Косвенная гарантия защищённости заявителя."
+      - excerpt_id: "HOT05_brief_mention"
+        original: "... reports ... involving an executive officer ... will be reviewed directly by the Board ..."
+        translated_ru: "... сообщения ... в отношении executive officer ... будут рассмотрены напрямую Советом директоров ..."
+        section_title: "Seeking Help and Information"
+        relevance_comment: "Краткое подтверждение обязательного рассмотрения обращений."
+      - excerpt_id: "HOT06_explicit_section"
+        original: "Employees have a duty to report any known or suspected violation of this Code ..."
+        translated_ru: "Сотрудники обязаны сообщать о любом известном или предполагаемом нарушении этого Кодекса ..."
+        section_title: "Reporting Violations of the Code"
+        relevance_comment: "Прямая обязанность сообщать о нарушениях."
+    other_principles: []
+  - topic_id: "worker_to_company"
+    principles:
+      - principle_code: "WtoC01"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "WtoC02"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids: ["WtoC02_explicit_section"]
+      - principle_code: "WtoC03"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids: ["WtoC03_explicit_section"]
+      - principle_code: "WtoC04"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids: ["WtoC04_explicit_section"]
+      - principle_code: "WtoC05"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids: ["WtoC05_explicit_section"]
+      - principle_code: "WtoC06"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "WtoC07"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "WtoC08"
+        principle_status: "brief_mention"
+        evidence_excerpt_ids: ["WtoC08_brief_mention"]
+      - principle_code: "WtoC09"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "WtoC10"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids: ["WtoC10_explicit_section"]
+    key_excerpts:
+      - excerpt_id: "WtoC02_explicit_section"
+        original: "Employees have a duty to protect the Company’s assets and ensure their efficient use for legitimate business purposes only."
+        translated_ru: "Сотрудники обязаны защищать активы Компании и обеспечивать их эффективное использование только для законных деловых целей."
+        section_title: "Corporate Assets and Confidential Information"
+        relevance_comment: "Прямое требование по сохранности и эффективности использования активов."
+      - excerpt_id: "WtoC03_explicit_section"
+        original: "Every employee has a duty to respect and safeguard the confidentiality of the Company’s information ..."
+        translated_ru: "Каждый сотрудник обязан уважать и защищать конфиденциальность информации Компании ..."
+        section_title: "Safeguarding Confidential Information and Intellectual Property"
+        relevance_comment: "Прямое требование конфиденциальности и информационной безопасности."
+      - excerpt_id: "WtoC04_explicit_section"
+        original: "Employees also have a duty to protect the Company’s intellectual property and other business assets."
+        translated_ru: "Сотрудники также обязаны защищать интеллектуальную собственность Компании и иные бизнес-активы."
+        section_title: "Safeguarding Confidential Information and Intellectual Property"
+        relevance_comment: "Прямое требование защиты ИС компании."
+      - excerpt_id: "WtoC05_explicit_section"
+        original: "Employees have an obligation to comply with all laws, rules and regulations applicable to the Company’s operations."
+        translated_ru: "Сотрудники обязаны соблюдать все законы, правила и регуляторные требования, применимые к деятельности Компании."
+        section_title: "Compliance with Laws, Regulations and Policies"
+        relevance_comment: "Прямое требование соблюдать законодательство."
+      - excerpt_id: "WtoC08_brief_mention"
+        original: "... employees should strive to comply with the law and conduct business honestly, fairly and in the best interests of the Company."
+        translated_ru: "... сотрудники должны стремиться соблюдать закон и вести дела честно, справедливо и в наилучших интересах Компании."
+        section_title: "Introduction"
+        relevance_comment: "Краткая ориентация на результативное и ответственное поведение сотрудника."
+      - excerpt_id: "WtoC10_explicit_section"
+        original: "Reporting ... violations ... is ... an effort to safeguard the reputation and integrity of the Company and its employees."
+        translated_ru: "Сообщение о нарушениях ... это ... усилие по защите репутации и добросовестности Компании и её сотрудников."
+        section_title: "Reporting Violations of the Code"
+        relevance_comment: "Прямое требование защищать деловую репутацию компании."
+    other_principles: []
+notes: []
+limitations: []
+analyst_summary_ru: "Обработаны все 5 тем. Статусы: explicit_section=15, implicit_scattered=0, brief_mention=9, absent=21, unclear=0."

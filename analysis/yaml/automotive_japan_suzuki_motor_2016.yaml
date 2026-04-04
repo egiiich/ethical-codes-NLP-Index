@@ -1,0 +1,247 @@
+document_id: "automotive_japan_suzuki_motor_2016"
+company_name: "Suzuki Motor"
+country: "Japan"
+industry: "Automotive"
+source_path: "Ethics_Codes_txt_files/Automotive_Japan_Suzuki Motor_2016.txt"
+source_language: "en"
+document_type: "Group Code of Conduct"
+review_status: "completed"
+topic_analyses:
+  - topic_id: "competitor_relations"
+    principles:
+      - principle_code: "COMP01"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids: ["COMP01_explicit_section"]
+      - principle_code: "COMP02"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "COMP03"
+        principle_status: "brief_mention"
+        evidence_excerpt_ids: ["COMP03_brief_mention"]
+      - principle_code: "COMP04"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "COMP05"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "COMP06"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "COMP07"
+        principle_status: "brief_mention"
+        evidence_excerpt_ids: ["COMP07_brief_mention"]
+      - principle_code: "COMP08"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "COMP09"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "COMP10"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+    key_excerpts:
+      - excerpt_id: "COMP01_explicit_section"
+        original: "Recognizing that obtaining trade secrets of any other persons without their consent constitutes an offence, you shall not do such a thing."
+        translated_ru: "Осознавая, что получение коммерческих тайн других лиц без их согласия является нарушением, вы не должны этого делать."
+        section_title: "Compliance Practical Examples"
+        relevance_comment: "Прямой запрет на неправомерное получение конфиденциальной информации конкурентов."
+      - excerpt_id: "COMP03_brief_mention"
+        original: "... laws related to competition such as Antitrust Law ..."
+        translated_ru: "... законы о конкуренции, такие как антимонопольное законодательство ..."
+        section_title: "Compliance"
+        relevance_comment: "Краткая фиксация соблюдения антимонопольных требований."
+      - excerpt_id: "COMP07_brief_mention"
+        original: "... intellectual property and trade secrets are valuable property for the company ..."
+        translated_ru: "... интеллектуальная собственность и коммерческие тайны являются ценными активами компании ..."
+        section_title: "Compliance Practical Examples"
+        relevance_comment: "Краткая фиксация уважения прав ИС в конкурентной среде."
+    other_principles: []
+  - topic_id: "company_to_investors"
+    principles:
+      - principle_code: "CtoI01"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoI02"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoI03"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoI04"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoI05"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids: ["CtoI05_explicit_section"]
+      - principle_code: "CtoI06"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoI07"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoI08"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+    key_excerpts:
+      - excerpt_id: "CtoI05_explicit_section"
+        original: "You shall not engage in insider trading using unreleased corporate information."
+        translated_ru: "Вы не должны участвовать в инсайдерской торговле, используя нераскрытую корпоративную информацию."
+        section_title: "Compliance Practical Examples"
+        relevance_comment: "Прямой запрет инсайдерской торговли."
+    other_principles: []
+  - topic_id: "company_to_supplier"
+    principles:
+      - principle_code: "CtoS01"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoS02"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoS03"
+        principle_status: "brief_mention"
+        evidence_excerpt_ids: ["CtoS03_brief_mention"]
+      - principle_code: "CtoS04"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoS05"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoS06"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoS07"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+    key_excerpts:
+      - excerpt_id: "CtoS03_brief_mention"
+        original: "... when doing business with customers, suppliers ... you shall not sacrifice interests of the company for your own self-interests ..."
+        translated_ru: "... при ведении бизнеса с клиентами и поставщиками ... вы не должны жертвовать интересами компании ради личной выгоды ..."
+        section_title: "Compliance Practical Examples"
+        relevance_comment: "Краткий запрет злоупотребления интересами компании во взаимодействии с поставщиками."
+    other_principles: []
+  - topic_id: "hotline_principles"
+    principles:
+      - principle_code: "HOT01"
+        principle_status: "brief_mention"
+        evidence_excerpt_ids: ["HOT01_brief_mention"]
+      - principle_code: "HOT02"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "HOT03"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids: ["HOT03_explicit_section"]
+      - principle_code: "HOT04"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids: ["HOT04_explicit_section"]
+      - principle_code: "HOT05"
+        principle_status: "brief_mention"
+        evidence_excerpt_ids: ["HOT05_brief_mention"]
+      - principle_code: "HOT06"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids: ["HOT06_explicit_section"]
+      - principle_code: "HOT07"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "HOT08"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "HOT09"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "HOT10"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+    key_excerpts:
+      - excerpt_id: "HOT01_brief_mention"
+        original: "The Code of Conduct shall be applied to all Directors, Officers and Employees ..."
+        translated_ru: "Кодекс поведения применяется ко всем директорам, должностным лицам и сотрудникам ..."
+        section_title: "Scope and Application"
+        relevance_comment: "Краткое подтверждение универсального охвата работников."
+      - excerpt_id: "HOT03_explicit_section"
+        original: "We guarantee there will be no disadvantage to the Whistleblower by reporting to the Hotline."
+        translated_ru: "Мы гарантируем отсутствие негативных последствий для информатора при сообщении на горячую линию."
+        section_title: "Consultation & Reporting Desk"
+        relevance_comment: "Прямой запрет преследования заявителей."
+      - excerpt_id: "HOT04_explicit_section"
+        original: "... Reporting in an anonymous manner is acceptable ..."
+        translated_ru: "... сообщение в анонимной форме допускается ..."
+        section_title: "Consultation & Reporting Desk"
+        relevance_comment: "Прямая гарантия анонимности заявителя."
+      - excerpt_id: "HOT05_brief_mention"
+        original: "... your reporting might allow Suzuki Group to reduce loss or damage by immediate recognition and action ..."
+        translated_ru: "... ваше сообщение может позволить Suzuki Group снизить потери за счёт немедленного выявления и действий ..."
+        section_title: "Consultation & Reporting Desk"
+        relevance_comment: "Кратко подтверждает обязательность реагирования по сообщениям."
+      - excerpt_id: "HOT06_explicit_section"
+        original: "... in case you noticed a breach or a suspicion of a breach of this Code of Conduct, please take action ..."
+        translated_ru: "... если вы заметили нарушение или подозрение на нарушение этого Кодекса, пожалуйста, предпринимайте действия ..."
+        section_title: "Consultation & Reporting Desk"
+        relevance_comment: "Прямая обязанность сообщать о нарушениях/подозрениях."
+    other_principles: []
+  - topic_id: "worker_to_company"
+    principles:
+      - principle_code: "WtoC01"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "WtoC02"
+        principle_status: "brief_mention"
+        evidence_excerpt_ids: ["WtoC02_brief_mention"]
+      - principle_code: "WtoC03"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids: ["WtoC03_explicit_section"]
+      - principle_code: "WtoC04"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids: ["WtoC04_explicit_section"]
+      - principle_code: "WtoC05"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids: ["WtoC05_explicit_section"]
+      - principle_code: "WtoC06"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "WtoC07"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "WtoC08"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "WtoC09"
+        principle_status: "brief_mention"
+        evidence_excerpt_ids: ["WtoC09_brief_mention"]
+      - principle_code: "WtoC10"
+        principle_status: "brief_mention"
+        evidence_excerpt_ids: ["WtoC10_brief_mention"]
+    key_excerpts:
+      - excerpt_id: "WtoC02_brief_mention"
+        original: "... obtaining trade secrets ... and providing them to others ... constitutes an offence ..."
+        translated_ru: "... получение коммерческих тайн ... и передача их другим ... является нарушением ..."
+        section_title: "Compliance Practical Examples"
+        relevance_comment: "Краткая защита активов и коммерческих тайн компании."
+      - excerpt_id: "WtoC03_explicit_section"
+        original: "... you shall properly treat confidential information of the company ... and shall not disclose it to any third party ..."
+        translated_ru: "... вы должны надлежащим образом обращаться с конфиденциальной информацией компании ... и не раскрывать её третьим лицам ..."
+        section_title: "Compliance Practical Examples"
+        relevance_comment: "Прямой принцип конфиденциальности и ИБ."
+      - excerpt_id: "WtoC04_explicit_section"
+        original: "Recognizing that intellectual property and trade secrets are valuable property for the company ..."
+        translated_ru: "Осознавая, что интеллектуальная собственность и коммерческие тайны являются ценными активами компании ..."
+        section_title: "Compliance Practical Examples"
+        relevance_comment: "Прямое требование защиты интеллектуальной собственности компании."
+      - excerpt_id: "WtoC05_explicit_section"
+        original: "... each and every employee ... are required to behave at least in accordance with the following in the light of legal compliance."
+        translated_ru: "... каждый сотрудник обязан действовать как минимум в соответствии с нижеследующим в рамках правового соответствия."
+        section_title: "Compliance Practical Examples"
+        relevance_comment: "Прямое требование соблюдения законов и норм."
+      - excerpt_id: "WtoC09_brief_mention"
+        original: "Strive for individual excellence through continuous improvement"
+        translated_ru: "Стремиться к личному совершенству через непрерывные улучшения."
+        section_title: "Mission Statement"
+        relevance_comment: "Краткая поддержка профессионального развития."
+      - excerpt_id: "WtoC10_brief_mention"
+        original: "I expect every one of you to study this Code of Conduct carefully and incorporate with your daily business."
+        translated_ru: "Я ожидаю, что каждый из вас внимательно изучит этот Кодекс поведения и внедрит его в ежедневную работу."
+        section_title: "Message from President"
+        relevance_comment: "Краткий акцент на репутационном поведении сотрудников."
+    other_principles: []
+notes: []
+limitations: []
+analyst_summary_ru: "Обработаны все 5 тем. Статусы: explicit_section=8, implicit_scattered=0, brief_mention=8, absent=29, unclear=0."

@@ -1,0 +1,152 @@
+document_id: "construction_japan_kajima_corporation_2021"
+company_name: "Kajima Corporation"
+country: "Japan"
+industry: "Construction"
+source_path: "Ethics_Codes_txt_files/Construction_Japan_Kajima Corporation_2021.txt"
+source_language: "en"
+document_type: "Code of Conduct"
+review_status: "completed"
+topic_analyses:
+  - topic_id: "competitor_relations"
+    principles:
+      - {principle_code: "COMP01", principle_status: "absent", evidence_excerpt_ids: []}
+      - {principle_code: "COMP02", principle_status: "absent", evidence_excerpt_ids: []}
+      - {principle_code: "COMP03", principle_status: "explicit_section", evidence_excerpt_ids: ["COMP03_explicit_section"]}
+      - {principle_code: "COMP04", principle_status: "absent", evidence_excerpt_ids: []}
+      - {principle_code: "COMP05", principle_status: "brief_mention", evidence_excerpt_ids: ["COMP05_brief_mention"]}
+      - {principle_code: "COMP06", principle_status: "absent", evidence_excerpt_ids: []}
+      - {principle_code: "COMP07", principle_status: "brief_mention", evidence_excerpt_ids: ["COMP07_brief_mention"]}
+      - {principle_code: "COMP08", principle_status: "absent", evidence_excerpt_ids: []}
+      - {principle_code: "COMP09", principle_status: "absent", evidence_excerpt_ids: []}
+      - {principle_code: "COMP10", principle_status: "absent", evidence_excerpt_ids: []}
+    key_excerpts:
+      - excerpt_id: "COMP03_explicit_section"
+        original: "Do not hinder fair, transparent, and free competition ... particularly in the bidding and tendering for construction work."
+        translated_ru: "Не препятствовать честной, прозрачной и свободной конкуренции, особенно в торгах и тендерах на строительные работы."
+        section_title: "I(3) Fair, Transparent and Free Competition"
+        relevance_comment: "Прямой запрет антиконкурентного поведения."
+      - excerpt_id: "COMP05_brief_mention"
+        original: "Fair, Transparent and Free Competition"
+        translated_ru: "Честная, прозрачная и свободная конкуренция"
+        section_title: "I(3)"
+        relevance_comment: "Краткая фиксация принципа добросовестной конкуренции."
+      - excerpt_id: "COMP07_brief_mention"
+        original: "Do not unlawfully or wrongfully harm intellectual property ... of other individuals or companies."
+        translated_ru: "Не причинять незаконного ущерба интеллектуальной собственности других лиц и компаний."
+        section_title: "I(4) Protection of Intellectual Property"
+        relevance_comment: "Краткая защита ИС других рыночных участников."
+    other_principles: []
+  - topic_id: "company_to_investors"
+    principles:
+      - {principle_code: "CtoI01", principle_status: "absent", evidence_excerpt_ids: []}
+      - {principle_code: "CtoI02", principle_status: "absent", evidence_excerpt_ids: []}
+      - {principle_code: "CtoI03", principle_status: "explicit_section", evidence_excerpt_ids: ["CtoI03_explicit_section"]}
+      - {principle_code: "CtoI04", principle_status: "absent", evidence_excerpt_ids: []}
+      - {principle_code: "CtoI05", principle_status: "explicit_section", evidence_excerpt_ids: ["CtoI05_explicit_section"]}
+      - {principle_code: "CtoI06", principle_status: "absent", evidence_excerpt_ids: []}
+      - {principle_code: "CtoI07", principle_status: "absent", evidence_excerpt_ids: []}
+      - {principle_code: "CtoI08", principle_status: "absent", evidence_excerpt_ids: []}
+    key_excerpts:
+      - excerpt_id: "CtoI03_explicit_section"
+        original: "Disclose information related to Group business activities and performance in a timely, appropriate, and fair manner."
+        translated_ru: "Раскрывать информацию о деятельности и результатах Группы своевременно, надлежащим и справедливым образом."
+        section_title: "II(3) Timely and Appropriate Disclosures"
+        relevance_comment: "Прямое требование раскрытия существенной информации."
+      - excerpt_id: "CtoI05_explicit_section"
+        original: "Do not engage in insider transactions."
+        translated_ru: "Не участвовать в инсайдерских сделках."
+        section_title: "II(3)"
+        relevance_comment: "Прямой запрет инсайдерской торговли."
+    other_principles: []
+  - topic_id: "company_to_supplier"
+    principles:
+      - {principle_code: "CtoS01", principle_status: "explicit_section", evidence_excerpt_ids: ["CtoS01_explicit_section"]}
+      - {principle_code: "CtoS02", principle_status: "absent", evidence_excerpt_ids: []}
+      - {principle_code: "CtoS03", principle_status: "absent", evidence_excerpt_ids: []}
+      - {principle_code: "CtoS04", principle_status: "absent", evidence_excerpt_ids: []}
+      - {principle_code: "CtoS05", principle_status: "absent", evidence_excerpt_ids: []}
+      - {principle_code: "CtoS06", principle_status: "brief_mention", evidence_excerpt_ids: ["CtoS06_brief_mention"]}
+      - {principle_code: "CtoS07", principle_status: "absent", evidence_excerpt_ids: []}
+    key_excerpts:
+      - excerpt_id: "CtoS01_explicit_section"
+        original: "Enter into transparent, fair, and reasonable contracts with subcontractors."
+        translated_ru: "Заключать с субподрядчиками прозрачные, справедливые и разумные контракты."
+        section_title: "I(3) Healthy and Fair Relations with Subcontractors"
+        relevance_comment: "Прямой критерий прозрачного выбора и контрактования поставщиков."
+      - excerpt_id: "CtoS06_brief_mention"
+        original: "Respect each other’s positions and maintain fair and healthy relations."
+        translated_ru: "Уважать позиции друг друга и поддерживать честные и здоровые отношения."
+        section_title: "I(3)"
+        relevance_comment: "Краткая ориентация на устойчивое партнерство."
+    other_principles: []
+  - topic_id: "hotline_principles"
+    principles:
+      - {principle_code: "HOT01", principle_status: "absent", evidence_excerpt_ids: []}
+      - {principle_code: "HOT02", principle_status: "absent", evidence_excerpt_ids: []}
+      - {principle_code: "HOT03", principle_status: "absent", evidence_excerpt_ids: []}
+      - {principle_code: "HOT04", principle_status: "absent", evidence_excerpt_ids: []}
+      - {principle_code: "HOT05", principle_status: "brief_mention", evidence_excerpt_ids: ["HOT05_brief_mention"]}
+      - {principle_code: "HOT06", principle_status: "absent", evidence_excerpt_ids: []}
+      - {principle_code: "HOT07", principle_status: "absent", evidence_excerpt_ids: []}
+      - {principle_code: "HOT08", principle_status: "absent", evidence_excerpt_ids: []}
+      - {principle_code: "HOT09", principle_status: "absent", evidence_excerpt_ids: []}
+      - {principle_code: "HOT10", principle_status: "absent", evidence_excerpt_ids: []}
+    key_excerpts:
+      - excerpt_id: "HOT05_brief_mention"
+        original: "Upon identifying any individuals responsible for violating the Code ... apply appropriate disciplinary measures."
+        translated_ru: "При выявлении ответственных за нарушение Кодекса применять соответствующие дисциплинарные меры."
+        section_title: "VI(2) Disciplinary Action"
+        relevance_comment: "Краткая фиксация обязательного реагирования на нарушения."
+    other_principles: []
+  - topic_id: "worker_to_company"
+    principles:
+      - {principle_code: "WtoC01", principle_status: "brief_mention", evidence_excerpt_ids: ["WtoC01_brief_mention"]}
+      - {principle_code: "WtoC02", principle_status: "explicit_section", evidence_excerpt_ids: ["WtoC02_explicit_section"]}
+      - {principle_code: "WtoC03", principle_status: "explicit_section", evidence_excerpt_ids: ["WtoC03_explicit_section"]}
+      - {principle_code: "WtoC04", principle_status: "explicit_section", evidence_excerpt_ids: ["WtoC04_explicit_section"]}
+      - {principle_code: "WtoC05", principle_status: "explicit_section", evidence_excerpt_ids: ["WtoC05_explicit_section"]}
+      - {principle_code: "WtoC06", principle_status: "absent", evidence_excerpt_ids: []}
+      - {principle_code: "WtoC07", principle_status: "absent", evidence_excerpt_ids: []}
+      - {principle_code: "WtoC08", principle_status: "absent", evidence_excerpt_ids: []}
+      - {principle_code: "WtoC09", principle_status: "brief_mention", evidence_excerpt_ids: ["WtoC09_brief_mention"]}
+      - {principle_code: "WtoC10", principle_status: "brief_mention", evidence_excerpt_ids: ["WtoC10_brief_mention"]}
+    key_excerpts:
+      - excerpt_id: "WtoC01_brief_mention"
+        original: "follow the highest standards of ethical conduct in our corporate activities"
+        translated_ru: "следовать самым высоким стандартам этического поведения в корпоративной деятельности"
+        section_title: "Preamble"
+        relevance_comment: "Краткая фиксация стандарта качества работы и поведения."
+      - excerpt_id: "WtoC02_explicit_section"
+        original: "Safeguard the intellectual property, trade secrets, rights, assets, reputation, trust of the Kajima Group."
+        translated_ru: "Защищать интеллектуальную собственность, коммерческие тайны, права, активы, репутацию и доверие к Kajima Group."
+        section_title: "I(4) ii"
+        relevance_comment: "Прямая защита активов компании."
+      - excerpt_id: "WtoC03_explicit_section"
+        original: "thoroughly controlling all processes related to the collection, management, use, disclosure ... of private and client information"
+        translated_ru: "строгий контроль всех процессов сбора, управления, использования и раскрытия частной и клиентской информации"
+        section_title: "I(4) i"
+        relevance_comment: "Прямое требование конфиденциальности и ИБ."
+      - excerpt_id: "WtoC04_explicit_section"
+        original: "Safeguard the intellectual property ... of the Kajima Group"
+        translated_ru: "Защищать интеллектуальную собственность Kajima Group"
+        section_title: "I(4) ii"
+        relevance_comment: "Прямое требование защиты ИС компании."
+      - excerpt_id: "WtoC05_explicit_section"
+        original: "Observe the letter and the spirit of all laws and regulations whether international or domestic."
+        translated_ru: "Соблюдать букву и дух всех международных и национальных законов и норм."
+        section_title: "I(1) i"
+        relevance_comment: "Прямой правовой комплаенс."
+      - excerpt_id: "WtoC09_brief_mention"
+        original: "provide a workplace environment that allows all employees to develop their abilities to the fullest"
+        translated_ru: "обеспечивать рабочую среду, позволяющую сотрудникам максимально развивать способности"
+        section_title: "III(3)"
+        relevance_comment: "Краткая поддержка профессионального развития."
+      - excerpt_id: "WtoC10_brief_mention"
+        original: "Safeguard ... reputation, trust of the Kajima Group"
+        translated_ru: "защищать репутацию и доверие к Kajima Group"
+        section_title: "I(4) ii"
+        relevance_comment: "Краткая защита деловой репутации компании."
+    other_principles: []
+notes: []
+limitations: []
+analyst_summary_ru: "Обработаны все 5 тем. Статусы: explicit_section=10, implicit_scattered=0, brief_mention=7, absent=28, unclear=0."

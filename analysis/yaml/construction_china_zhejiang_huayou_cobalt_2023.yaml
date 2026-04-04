@@ -1,0 +1,142 @@
+document_id: "construction_china_zhejiang_huayou_cobalt_2023"
+company_name: "Zhejiang Huayou Cobalt"
+country: "China"
+industry: "Construction"
+source_path: "Ethics_Codes_txt_files/Construction_China_Zhejiang Huayou Cobalt_2023.txt"
+source_language: "en"
+document_type: "Code of Business Ethical Conducts"
+review_status: "completed"
+topic_analyses:
+  - topic_id: "competitor_relations"
+    principles:
+      - {principle_code: "COMP01", principle_status: "explicit_section", evidence_excerpt_ids: ["COMP01_explicit_section"]}
+      - {principle_code: "COMP02", principle_status: "absent", evidence_excerpt_ids: []}
+      - {principle_code: "COMP03", principle_status: "absent", evidence_excerpt_ids: []}
+      - {principle_code: "COMP04", principle_status: "absent", evidence_excerpt_ids: []}
+      - {principle_code: "COMP05", principle_status: "absent", evidence_excerpt_ids: []}
+      - {principle_code: "COMP06", principle_status: "absent", evidence_excerpt_ids: []}
+      - {principle_code: "COMP07", principle_status: "explicit_section", evidence_excerpt_ids: ["COMP07_explicit_section"]}
+      - {principle_code: "COMP08", principle_status: "absent", evidence_excerpt_ids: []}
+      - {principle_code: "COMP09", principle_status: "absent", evidence_excerpt_ids: []}
+      - {principle_code: "COMP10", principle_status: "absent", evidence_excerpt_ids: []}
+    key_excerpts:
+      - excerpt_id: "COMP01_explicit_section"
+        original: "Stealing or illegal use of the intellectual property, proprietary information or confidential information of ... competitor will violate this code."
+        translated_ru: "Кража или незаконное использование интеллектуальной собственности, служебной или конфиденциальной информации ... конкурента нарушает данный Кодекс."
+        section_title: "5.6 Intellectual Property"
+        relevance_comment: "Прямой запрет недобросовестного получения конкурентной информации."
+      - excerpt_id: "COMP07_explicit_section"
+        original: "We respect the intellectual properties of any third party."
+        translated_ru: "Мы уважаем интеллектуальную собственность любых третьих лиц."
+        section_title: "5.6 Intellectual Property"
+        relevance_comment: "Прямое требование уважения прав ИС конкурентов и других сторон."
+    other_principles: []
+  - topic_id: "company_to_investors"
+    principles:
+      - {principle_code: "CtoI01", principle_status: "absent", evidence_excerpt_ids: []}
+      - {principle_code: "CtoI02", principle_status: "absent", evidence_excerpt_ids: []}
+      - {principle_code: "CtoI03", principle_status: "explicit_section", evidence_excerpt_ids: ["CtoI03_explicit_section"]}
+      - {principle_code: "CtoI04", principle_status: "explicit_section", evidence_excerpt_ids: ["CtoI04_explicit_section"]}
+      - {principle_code: "CtoI05", principle_status: "explicit_section", evidence_excerpt_ids: ["CtoI05_explicit_section"]}
+      - {principle_code: "CtoI06", principle_status: "absent", evidence_excerpt_ids: []}
+      - {principle_code: "CtoI07", principle_status: "absent", evidence_excerpt_ids: []}
+      - {principle_code: "CtoI08", principle_status: "absent", evidence_excerpt_ids: []}
+    key_excerpts:
+      - excerpt_id: "CtoI03_explicit_section"
+        original: "We are committed to providing timely, transparent, consistent and credible information for the public investors according to security-related laws."
+        translated_ru: "Мы обязуемся предоставлять публичным инвесторам своевременную, прозрачную, последовательную и достоверную информацию в соответствии с законодательством о ценных бумагах."
+        section_title: "5.9 Responsibility specified by security-related laws"
+        relevance_comment: "Прямое требование полного и своевременного раскрытия информации."
+      - excerpt_id: "CtoI04_explicit_section"
+        original: "The regulations on fair information disclosure prohibit the selective disclosure of important nonpublic information ..."
+        translated_ru: "Правила справедливого раскрытия информации запрещают выборочное раскрытие важной непубличной информации ..."
+        section_title: "5.11 Abidance by regulations on fair information disclosure"
+        relevance_comment: "Прямое требование прозрачного и равного раскрытия информации."
+      - excerpt_id: "CtoI05_explicit_section"
+        original: "The insider trading law restricts any person holding important nonpublic information from engaging in securities trading ..."
+        translated_ru: "Закон об инсайдерской торговле ограничивает любое лицо, владеющее важной непубличной информацией, в совершении операций с ценными бумагами ..."
+        section_title: "5.12 Prohibition of insider trading"
+        relevance_comment: "Прямой запрет инсайдерской торговли."
+    other_principles: []
+  - topic_id: "company_to_supplier"
+    principles:
+      - {principle_code: "CtoS01", principle_status: "explicit_section", evidence_excerpt_ids: ["CtoS01_explicit_section"]}
+      - {principle_code: "CtoS02", principle_status: "absent", evidence_excerpt_ids: []}
+      - {principle_code: "CtoS03", principle_status: "absent", evidence_excerpt_ids: []}
+      - {principle_code: "CtoS04", principle_status: "absent", evidence_excerpt_ids: []}
+      - {principle_code: "CtoS05", principle_status: "absent", evidence_excerpt_ids: []}
+      - {principle_code: "CtoS06", principle_status: "brief_mention", evidence_excerpt_ids: ["CtoS06_brief_mention"]}
+      - {principle_code: "CtoS07", principle_status: "absent", evidence_excerpt_ids: []}
+    key_excerpts:
+      - excerpt_id: "CtoS01_explicit_section"
+        original: "The policy of the Company is to purchase products according to demand, quality, environment, service, price, terms and conditions."
+        translated_ru: "Политика Компании заключается в закупке продукции по критериям спроса, качества, экологичности, сервиса, цены, условий и положений."
+        section_title: "8.1 Supplier selection"
+        relevance_comment: "Прямой критерий выбора поставщиков по объективным параметрам."
+      - excerpt_id: "CtoS06_brief_mention"
+        original: "In order to create an environment under which the supplier hopes to cooperate with us ..."
+        translated_ru: "Чтобы создать среду, в которой поставщик заинтересован сотрудничать с нами ..."
+        section_title: "8.1 Supplier selection"
+        relevance_comment: "Краткий акцент на устойчивом партнерском взаимодействии с поставщиками."
+    other_principles: []
+  - topic_id: "hotline_principles"
+    principles:
+      - {principle_code: "HOT01", principle_status: "absent", evidence_excerpt_ids: []}
+      - {principle_code: "HOT02", principle_status: "absent", evidence_excerpt_ids: []}
+      - {principle_code: "HOT03", principle_status: "absent", evidence_excerpt_ids: []}
+      - {principle_code: "HOT04", principle_status: "absent", evidence_excerpt_ids: []}
+      - {principle_code: "HOT05", principle_status: "brief_mention", evidence_excerpt_ids: ["HOT05_brief_mention"]}
+      - {principle_code: "HOT06", principle_status: "brief_mention", evidence_excerpt_ids: ["HOT06_brief_mention"]}
+      - {principle_code: "HOT07", principle_status: "absent", evidence_excerpt_ids: []}
+      - {principle_code: "HOT08", principle_status: "absent", evidence_excerpt_ids: []}
+      - {principle_code: "HOT09", principle_status: "absent", evidence_excerpt_ids: []}
+      - {principle_code: "HOT10", principle_status: "absent", evidence_excerpt_ids: []}
+    key_excerpts:
+      - excerpt_id: "HOT05_brief_mention"
+        original: "If an employee fails to abide by this code ... we may take appropriate correction and disciplinary punishment measures."
+        translated_ru: "Если сотрудник не соблюдает данный кодекс ... мы можем применять соответствующие корректирующие и дисциплинарные меры."
+        section_title: "8.4 Punishment measures"
+        relevance_comment: "Краткое подтверждение обязательного реагирования на нарушения."
+      - excerpt_id: "HOT06_brief_mention"
+        original: "... or the employee does not report any criminal or unethical behavior found, we may take appropriate correction and disciplinary punishment measures."
+        translated_ru: "... либо сотрудник не сообщает о выявленном преступном или неэтичном поведении, мы можем применить соответствующие меры воздействия."
+        section_title: "8.4 Punishment measures"
+        relevance_comment: "Краткая обязанность сообщать о нарушениях."
+    other_principles: []
+  - topic_id: "worker_to_company"
+    principles:
+      - {principle_code: "WtoC01", principle_status: "absent", evidence_excerpt_ids: []}
+      - {principle_code: "WtoC02", principle_status: "explicit_section", evidence_excerpt_ids: ["WtoC02_explicit_section"]}
+      - {principle_code: "WtoC03", principle_status: "explicit_section", evidence_excerpt_ids: ["WtoC03_explicit_section"]}
+      - {principle_code: "WtoC04", principle_status: "explicit_section", evidence_excerpt_ids: ["WtoC04_explicit_section"]}
+      - {principle_code: "WtoC05", principle_status: "brief_mention", evidence_excerpt_ids: ["WtoC05_brief_mention"]}
+      - {principle_code: "WtoC06", principle_status: "absent", evidence_excerpt_ids: []}
+      - {principle_code: "WtoC07", principle_status: "absent", evidence_excerpt_ids: []}
+      - {principle_code: "WtoC08", principle_status: "absent", evidence_excerpt_ids: []}
+      - {principle_code: "WtoC09", principle_status: "absent", evidence_excerpt_ids: []}
+      - {principle_code: "WtoC10", principle_status: "absent", evidence_excerpt_ids: []}
+    key_excerpts:
+      - excerpt_id: "WtoC02_explicit_section"
+        original: "Without proper authorization, we shall not occupy, embezzle, lend, sell, or donate any asset of Huayou."
+        translated_ru: "Без надлежащего разрешения мы не должны присваивать, растрачивать, одалживать, продавать или дарить какие-либо активы Huayou."
+        section_title: "7. Use and Protection of Huayou's Assets"
+        relevance_comment: "Прямое требование сохранности и целевого использования активов компании."
+      - excerpt_id: "WtoC03_explicit_section"
+        original: "The employees ... shall not disclose the confidential information of the Company without authorization ..."
+        translated_ru: "Сотрудники ... не должны раскрывать конфиденциальную информацию Компании без разрешения ..."
+        section_title: "7.1.2 Huayou's confidential information"
+        relevance_comment: "Прямой принцип конфиденциальности и информационной безопасности."
+      - excerpt_id: "WtoC04_explicit_section"
+        original: "Huayou will still own the intellectual property created by that employee during his employment."
+        translated_ru: "Huayou сохраняет право собственности на интеллектуальную собственность, созданную сотрудником в период его работы."
+        section_title: "7.1.4 Employee leaving"
+        relevance_comment: "Прямой принцип защиты ИС компании."
+      - excerpt_id: "WtoC05_brief_mention"
+        original: "All employees are required to abide by these rules when performing their duties."
+        translated_ru: "Все сотрудники обязаны соблюдать эти правила при выполнении своих обязанностей."
+        section_title: "8.4 Punishment measures"
+        relevance_comment: "Краткое требование соблюдения норм и правил на рабочем месте."
+    other_principles: []
+notes: []
+limitations: []
+analyst_summary_ru: "Обработаны все 5 тем. Статусы: explicit_section=8, implicit_scattered=0, brief_mention=4, absent=33, unclear=0."

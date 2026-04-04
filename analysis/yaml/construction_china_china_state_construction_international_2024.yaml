@@ -1,0 +1,167 @@
+document_id: "construction_china_china_state_construction_international_2024"
+company_name: "China State Construction International"
+country: "China"
+industry: "Construction"
+source_path: "Ethics_Codes_txt_files/Construction_China_China State Construction International_2024.txt"
+source_language: "en"
+document_type: "Code of Business Ethics"
+review_status: "completed"
+topic_analyses:
+  - topic_id: "competitor_relations"
+    principles:
+      - {principle_code: "COMP01", principle_status: "explicit_section", evidence_excerpt_ids: ["COMP01_explicit_section"]}
+      - {principle_code: "COMP02", principle_status: "absent", evidence_excerpt_ids: []}
+      - {principle_code: "COMP03", principle_status: "explicit_section", evidence_excerpt_ids: ["COMP03_explicit_section"]}
+      - {principle_code: "COMP04", principle_status: "absent", evidence_excerpt_ids: []}
+      - {principle_code: "COMP05", principle_status: "brief_mention", evidence_excerpt_ids: ["COMP05_brief_mention"]}
+      - {principle_code: "COMP06", principle_status: "absent", evidence_excerpt_ids: []}
+      - {principle_code: "COMP07", principle_status: "brief_mention", evidence_excerpt_ids: ["COMP07_brief_mention"]}
+      - {principle_code: "COMP08", principle_status: "absent", evidence_excerpt_ids: []}
+      - {principle_code: "COMP09", principle_status: "absent", evidence_excerpt_ids: []}
+      - {principle_code: "COMP10", principle_status: "absent", evidence_excerpt_ids: []}
+    key_excerpts:
+      - excerpt_id: "COMP01_explicit_section"
+        original: "Employees should comply with the Company's commercial secret protection regulations ... and are prohibited from leaking commercial secrets to others."
+        translated_ru: "Сотрудники должны соблюдать правила защиты коммерческой тайны компании ... и им запрещено раскрывать коммерческие секреты другим лицам."
+        section_title: "2.3 Protection of Trade Secrets"
+        relevance_comment: "Прямой запрет на недобросовестное получение/раскрытие конфиденциальной информации в конкурентной среде."
+      - excerpt_id: "COMP03_explicit_section"
+        original: "Employees shall not collude ... including bid-rigging, forming price alliances, ... dividing markets ..."
+        translated_ru: "Сотрудники не должны вступать в сговор ... включая сговор на торгах, ценовые альянсы ... раздел рынков ..."
+        section_title: "1.2 Fair Competition"
+        relevance_comment: "Прямой запрет картельного поведения."
+      - excerpt_id: "COMP05_brief_mention"
+        original: "Employees shall comply with ... laws ... for maintaining fair competition in the market."
+        translated_ru: "Сотрудники должны соблюдать ... требования законодательства ... для поддержания честной конкуренции на рынке."
+        section_title: "1.1 Adherence to Laws and Regulations"
+        relevance_comment: "Краткая фиксация принципа добросовестной конкуренции."
+      - excerpt_id: "COMP07_brief_mention"
+        original: "The Company shall respect valid intellectual property rights and avoid unauthorized use of intellectual property belonging to others."
+        translated_ru: "Компания должна уважать действующие права интеллектуальной собственности и избегать несанкционированного использования ИС, принадлежащей другим."
+        section_title: "2.4 Intellectual Property Rights"
+        relevance_comment: "Краткая фиксация уважения ИС конкурентов и иных сторон."
+    other_principles: []
+  - topic_id: "company_to_investors"
+    principles:
+      - {principle_code: "CtoI01", principle_status: "absent", evidence_excerpt_ids: []}
+      - {principle_code: "CtoI02", principle_status: "absent", evidence_excerpt_ids: []}
+      - {principle_code: "CtoI03", principle_status: "brief_mention", evidence_excerpt_ids: ["CtoI03_brief_mention"]}
+      - {principle_code: "CtoI04", principle_status: "absent", evidence_excerpt_ids: []}
+      - {principle_code: "CtoI05", principle_status: "explicit_section", evidence_excerpt_ids: ["CtoI05_explicit_section"]}
+      - {principle_code: "CtoI06", principle_status: "absent", evidence_excerpt_ids: []}
+      - {principle_code: "CtoI07", principle_status: "absent", evidence_excerpt_ids: []}
+      - {principle_code: "CtoI08", principle_status: "absent", evidence_excerpt_ids: []}
+    key_excerpts:
+      - excerpt_id: "CtoI03_brief_mention"
+        original: "Financial record-keeping must be honest, objective and fair. Records and statements must accurately reflect the financial condition ..."
+        translated_ru: "Финансовый учет должен быть честным, объективным и справедливым. Записи и отчеты должны точно отражать финансовое состояние ..."
+        section_title: "1.1 Compliance with National Laws"
+        relevance_comment: "Краткое подтверждение прозрачности и достоверности раскрытия финансовой информации."
+      - excerpt_id: "CtoI05_explicit_section"
+        original: "The Company prohibits any employee ... from utilizing the insider information to engage in or suggest others to engage in securities trading activities."
+        translated_ru: "Компания запрещает любому сотруднику ... использовать инсайдерскую информацию для совершения или рекомендации операций с ценными бумагами."
+        section_title: "2.1 Insider Trading"
+        relevance_comment: "Прямой запрет инсайдерской торговли."
+    other_principles: []
+  - topic_id: "company_to_supplier"
+    principles:
+      - {principle_code: "CtoS01", principle_status: "explicit_section", evidence_excerpt_ids: ["CtoS01_explicit_section"]}
+      - {principle_code: "CtoS02", principle_status: "absent", evidence_excerpt_ids: []}
+      - {principle_code: "CtoS03", principle_status: "brief_mention", evidence_excerpt_ids: ["CtoS03_brief_mention"]}
+      - {principle_code: "CtoS04", principle_status: "absent", evidence_excerpt_ids: []}
+      - {principle_code: "CtoS05", principle_status: "absent", evidence_excerpt_ids: []}
+      - {principle_code: "CtoS06", principle_status: "absent", evidence_excerpt_ids: []}
+      - {principle_code: "CtoS07", principle_status: "absent", evidence_excerpt_ids: []}
+    key_excerpts:
+      - excerpt_id: "CtoS01_explicit_section"
+        original: "Procurement of goods or services must be evaluated on the basis of superiority in price, quality, performance, delivery and suitability."
+        translated_ru: "Закупка товаров или услуг должна оцениваться на основе превосходства по цене, качеству, производительности, срокам поставки и пригодности."
+        section_title: "3.2 With Suppliers"
+        relevance_comment: "Прямой принцип выбора поставщиков по объективной эффективности."
+      - excerpt_id: "CtoS03_brief_mention"
+        original: "All forms of bribery and kickbacks are strictly prohibited, as are any conflicts of interest between the Company and its subcontractors and suppliers."
+        translated_ru: "Все формы взяточничества и откатов строго запрещены, как и любые конфликты интересов между Компанией и ее субподрядчиками и поставщиками."
+        section_title: "3.2 With Suppliers"
+        relevance_comment: "Краткая фиксация недопустимости злоупотреблений во взаимоотношениях с поставщиками."
+    other_principles: []
+  - topic_id: "hotline_principles"
+    principles:
+      - {principle_code: "HOT01", principle_status: "brief_mention", evidence_excerpt_ids: ["HOT01_brief_mention"]}
+      - {principle_code: "HOT02", principle_status: "explicit_section", evidence_excerpt_ids: ["HOT02_explicit_section"]}
+      - {principle_code: "HOT03", principle_status: "explicit_section", evidence_excerpt_ids: ["HOT03_explicit_section"]}
+      - {principle_code: "HOT04", principle_status: "absent", evidence_excerpt_ids: []}
+      - {principle_code: "HOT05", principle_status: "brief_mention", evidence_excerpt_ids: ["HOT05_brief_mention"]}
+      - {principle_code: "HOT06", principle_status: "explicit_section", evidence_excerpt_ids: ["HOT06_explicit_section"]}
+      - {principle_code: "HOT07", principle_status: "absent", evidence_excerpt_ids: []}
+      - {principle_code: "HOT08", principle_status: "absent", evidence_excerpt_ids: []}
+      - {principle_code: "HOT09", principle_status: "absent", evidence_excerpt_ids: []}
+      - {principle_code: "HOT10", principle_status: "absent", evidence_excerpt_ids: []}
+    key_excerpts:
+      - excerpt_id: "HOT01_brief_mention"
+        original: "The following communication channels are available to any department, employee, business partner or other parties ..."
+        translated_ru: "Следующие каналы коммуникации доступны любому подразделению, сотруднику, бизнес-партнеру или иной стороне ..."
+        section_title: "C. Inquiries, Reporting and Handling Violations"
+        relevance_comment: "Краткое подтверждение широкого доступа к каналам сообщений."
+      - excerpt_id: "HOT02_explicit_section"
+        original: "The identity of the whistleblowers, content of the reports, subsequent investigations, witnesses ... shall be treated with strict confidentiality."
+        translated_ru: "Личность информаторов, содержание сообщений, последующие расследования, свидетели ... подлежат строгой конфиденциальности."
+        section_title: "C. Inquiries, Reporting and Handling Violations"
+        relevance_comment: "Прямая гарантия конфиденциальности материалов расследования."
+      - excerpt_id: "HOT03_explicit_section"
+        original: "No persons or entities shall impede whistleblowing activities or retaliate against whistleblowers, investigators, witnesses or their relatives ..."
+        translated_ru: "Никакие лица или организации не должны препятствовать информированию или преследовать информаторов, расследователей, свидетелей или их родственников ..."
+        section_title: "C. Inquiries, Reporting and Handling Violations"
+        relevance_comment: "Прямой запрет преследования заявителей и участников расследований."
+      - excerpt_id: "HOT05_brief_mention"
+        original: "Any substantiated violation of this Code ... shall result in disciplinary action commensurate with the violation ..."
+        translated_ru: "Любое подтвержденное нарушение настоящего Кодекса ... влечет дисциплинарные меры, соразмерные нарушению ..."
+        section_title: "C. Inquiries, Reporting and Handling Violations"
+        relevance_comment: "Краткое подтверждение принципа обязательного реагирования на нарушения."
+      - excerpt_id: "HOT06_explicit_section"
+        original: "Employees have a duty to report any known or suspected violation of this Code ... in a timely manner ..."
+        translated_ru: "Сотрудники обязаны своевременно сообщать о любом известном или предполагаемом нарушении этого Кодекса ..."
+        section_title: "B. Compliance Responsibilities - Employee Responsibilities"
+        relevance_comment: "Прямая обязанность сообщать о нарушениях/подозрениях."
+    other_principles: []
+  - topic_id: "worker_to_company"
+    principles:
+      - {principle_code: "WtoC01", principle_status: "absent", evidence_excerpt_ids: []}
+      - {principle_code: "WtoC02", principle_status: "explicit_section", evidence_excerpt_ids: ["WtoC02_explicit_section"]}
+      - {principle_code: "WtoC03", principle_status: "explicit_section", evidence_excerpt_ids: ["WtoC03_explicit_section"]}
+      - {principle_code: "WtoC04", principle_status: "explicit_section", evidence_excerpt_ids: ["WtoC04_explicit_section"]}
+      - {principle_code: "WtoC05", principle_status: "explicit_section", evidence_excerpt_ids: ["WtoC05_explicit_section"]}
+      - {principle_code: "WtoC06", principle_status: "absent", evidence_excerpt_ids: []}
+      - {principle_code: "WtoC07", principle_status: "absent", evidence_excerpt_ids: []}
+      - {principle_code: "WtoC08", principle_status: "absent", evidence_excerpt_ids: []}
+      - {principle_code: "WtoC09", principle_status: "absent", evidence_excerpt_ids: []}
+      - {principle_code: "WtoC10", principle_status: "brief_mention", evidence_excerpt_ids: ["WtoC10_brief_mention"]}
+    key_excerpts:
+      - excerpt_id: "WtoC02_explicit_section"
+        original: "Employees shall not use the Company's business opportunities, property, information, or other resources for their own or others' benefit."
+        translated_ru: "Сотрудники не должны использовать бизнес-возможности, имущество, информацию или иные ресурсы Компании в личных интересах или интересах третьих лиц."
+        section_title: "2.3 Protection of Trade Secrets"
+        relevance_comment: "Прямой принцип защиты и целевого использования активов компании."
+      - excerpt_id: "WtoC03_explicit_section"
+        original: "Employees ... are prohibited from leaking commercial secrets to others."
+        translated_ru: "Сотрудникам запрещено разглашать коммерческие тайны другим лицам."
+        section_title: "2.3 Protection of Trade Secrets"
+        relevance_comment: "Прямой принцип конфиденциальности и предотвращения утечек."
+      - excerpt_id: "WtoC04_explicit_section"
+        original: "The Company shall strengthen intellectual property protection ..."
+        translated_ru: "Компания должна усиливать защиту интеллектуальной собственности ..."
+        section_title: "2.4 Intellectual Property Rights"
+        relevance_comment: "Прямое требование защищать ИС компании."
+      - excerpt_id: "WtoC05_explicit_section"
+        original: "Employees shall be obligated to maintain full awareness and adherence of this Code ... in addition to all applicable laws ..."
+        translated_ru: "Сотрудники обязаны полностью осознавать и соблюдать этот Кодекс ... а также все применимые законы ..."
+        section_title: "B. Compliance Responsibilities - Employee Responsibilities"
+        relevance_comment: "Прямой принцип соблюдения законов и внутренних правил."
+      - excerpt_id: "WtoC10_brief_mention"
+        original: "Employees must be fully cognizant that any violation ... may ... damage to the Company's reputation."
+        translated_ru: "Сотрудники должны полностью осознавать, что любое нарушение ... может ... нанести ущерб репутации Компании."
+        section_title: "1.1 Compliance with National Laws"
+        relevance_comment: "Краткий акцент на защите деловой репутации компании."
+    other_principles: []
+notes: []
+limitations: []
+analyst_summary_ru: "Обработаны все 5 тем. Статусы: explicit_section=12, implicit_scattered=0, brief_mention=6, absent=27, unclear=0."

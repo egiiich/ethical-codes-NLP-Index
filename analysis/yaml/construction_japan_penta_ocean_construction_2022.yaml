@@ -1,0 +1,162 @@
+document_id: "construction_japan_penta_ocean_construction_2022"
+company_name: "Penta-Ocean Construction"
+country: "Japan"
+industry: "Construction"
+source_path: "Ethics_Codes_txt_files/Construction_Japan_Penta-Ocean Construction_2022.txt"
+source_language: "en"
+document_type: "Code of Conduct"
+review_status: "completed"
+topic_analyses:
+  - topic_id: "competitor_relations"
+    principles:
+      - {principle_code: "COMP01", principle_status: "absent", evidence_excerpt_ids: []}
+      - {principle_code: "COMP02", principle_status: "absent", evidence_excerpt_ids: []}
+      - {principle_code: "COMP03", principle_status: "brief_mention", evidence_excerpt_ids: ["COMP03_brief_mention"]}
+      - {principle_code: "COMP04", principle_status: "absent", evidence_excerpt_ids: []}
+      - {principle_code: "COMP05", principle_status: "brief_mention", evidence_excerpt_ids: ["COMP05_brief_mention"]}
+      - {principle_code: "COMP06", principle_status: "absent", evidence_excerpt_ids: []}
+      - {principle_code: "COMP07", principle_status: "absent", evidence_excerpt_ids: []}
+      - {principle_code: "COMP08", principle_status: "absent", evidence_excerpt_ids: []}
+      - {principle_code: "COMP09", principle_status: "absent", evidence_excerpt_ids: []}
+      - {principle_code: "COMP10", principle_status: "absent", evidence_excerpt_ids: []}
+    key_excerpts:
+      - excerpt_id: "COMP03_brief_mention"
+        original: "We will promote fair, transparent and free competition"
+        translated_ru: "Мы будем продвигать честную, прозрачную и свободную конкуренцию"
+        section_title: "1(2) Fair competition and appropriate transactions"
+        relevance_comment: "Краткий запрет антиконкурентного поведения."
+      - excerpt_id: "COMP05_brief_mention"
+        original: "fair, transparent and free competition"
+        translated_ru: "честная, прозрачная и свободная конкуренция"
+        section_title: "1(2)"
+        relevance_comment: "Краткая фиксация принципа добросовестной конкуренции."
+    other_principles: []
+  - topic_id: "company_to_investors"
+    principles:
+      - {principle_code: "CtoI01", principle_status: "absent", evidence_excerpt_ids: []}
+      - {principle_code: "CtoI02", principle_status: "absent", evidence_excerpt_ids: []}
+      - {principle_code: "CtoI03", principle_status: "explicit_section", evidence_excerpt_ids: ["CtoI03_explicit_section"]}
+      - {principle_code: "CtoI04", principle_status: "absent", evidence_excerpt_ids: []}
+      - {principle_code: "CtoI05", principle_status: "explicit_section", evidence_excerpt_ids: ["CtoI05_explicit_section"]}
+      - {principle_code: "CtoI06", principle_status: "absent", evidence_excerpt_ids: []}
+      - {principle_code: "CtoI07", principle_status: "absent", evidence_excerpt_ids: []}
+      - {principle_code: "CtoI08", principle_status: "absent", evidence_excerpt_ids: []}
+    key_excerpts:
+      - excerpt_id: "CtoI03_explicit_section"
+        original: "will proactively disclose useful and reliable information in a timely and appropriate manner"
+        translated_ru: "будем проактивно раскрывать полезную и надежную информацию своевременно и надлежащим образом"
+        section_title: "2(7) Communication with stakeholders"
+        relevance_comment: "Прямое требование раскрытия информации для стейкхолдеров/инвесторов."
+      - excerpt_id: "CtoI05_explicit_section"
+        original: "We will not engage in insider trading."
+        translated_ru: "Мы не будем заниматься инсайдерской торговлей."
+        section_title: "2(7)"
+        relevance_comment: "Прямой запрет инсайдерской торговли."
+    other_principles: []
+  - topic_id: "company_to_supplier"
+    principles:
+      - {principle_code: "CtoS01", principle_status: "explicit_section", evidence_excerpt_ids: ["CtoS01_explicit_section"]}
+      - {principle_code: "CtoS02", principle_status: "explicit_section", evidence_excerpt_ids: ["CtoS02_explicit_section"]}
+      - {principle_code: "CtoS03", principle_status: "absent", evidence_excerpt_ids: []}
+      - {principle_code: "CtoS04", principle_status: "absent", evidence_excerpt_ids: []}
+      - {principle_code: "CtoS05", principle_status: "absent", evidence_excerpt_ids: []}
+      - {principle_code: "CtoS06", principle_status: "explicit_section", evidence_excerpt_ids: ["CtoS06_explicit_section"]}
+      - {principle_code: "CtoS07", principle_status: "absent", evidence_excerpt_ids: []}
+    key_excerpts:
+      - excerpt_id: "CtoS01_explicit_section"
+        original: "We will conduct fair and equal business transactions with business partners, including subcontractors and material suppliers"
+        translated_ru: "Мы будем вести честные и равные сделки с партнерами, включая субподрядчиков и поставщиков материалов"
+        section_title: "1(3) Promotion of partnerships"
+        relevance_comment: "Прямой критерий равного и справедливого отбора/работы с поставщиками."
+      - excerpt_id: "CtoS02_explicit_section"
+        original: "fair and equal business transactions with business partners"
+        translated_ru: "честные и равные сделки с бизнес-партнерами"
+        section_title: "1(3)"
+        relevance_comment: "Прямое подтверждение равного доступа в сделках."
+      - excerpt_id: "CtoS06_explicit_section"
+        original: "promote partnerships aiming for cooperation, coexistence, and co-prosperity"
+        translated_ru: "продвигать партнерства, нацеленные на сотрудничество, сосуществование и совместное процветание"
+        section_title: "1(3)"
+        relevance_comment: "Прямая ориентация на долгосрочное партнерство."
+    other_principles: []
+  - topic_id: "hotline_principles"
+    principles:
+      - {principle_code: "HOT01", principle_status: "brief_mention", evidence_excerpt_ids: ["HOT01_brief_mention"]}
+      - {principle_code: "HOT02", principle_status: "absent", evidence_excerpt_ids: []}
+      - {principle_code: "HOT03", principle_status: "absent", evidence_excerpt_ids: []}
+      - {principle_code: "HOT04", principle_status: "absent", evidence_excerpt_ids: []}
+      - {principle_code: "HOT05", principle_status: "explicit_section", evidence_excerpt_ids: ["HOT05_explicit_section"]}
+      - {principle_code: "HOT06", principle_status: "explicit_section", evidence_excerpt_ids: ["HOT06_explicit_section"]}
+      - {principle_code: "HOT07", principle_status: "absent", evidence_excerpt_ids: []}
+      - {principle_code: "HOT08", principle_status: "absent", evidence_excerpt_ids: []}
+      - {principle_code: "HOT09", principle_status: "absent", evidence_excerpt_ids: []}
+      - {principle_code: "HOT10", principle_status: "absent", evidence_excerpt_ids: []}
+    key_excerpts:
+      - excerpt_id: "HOT01_brief_mention"
+        original: "establish a whistle blower system to allow any officer, employee, as well as outsider, to report"
+        translated_ru: "создать систему информирования, позволяющую любому руководителю, сотруднику и внешнему лицу сообщать о нарушениях"
+        section_title: "Thorough Implementation"
+        relevance_comment: "Краткая доступность канала для разных заявителей."
+      - excerpt_id: "HOT05_explicit_section"
+        original: "we will immediately investigate ... take strict disciplinary actions ... and work tirelessly to prevent recurrence"
+        translated_ru: "мы незамедлительно расследуем, применим строгие дисциплинарные меры и будем предотвращать повторение"
+        section_title: "Thorough Implementation"
+        relevance_comment: "Прямое обязательное реагирование на нарушение."
+      - excerpt_id: "HOT06_explicit_section"
+        original: "establish a whistle blower system ... to report ... any violations"
+        translated_ru: "создать систему информирования ... для сообщений о любых нарушениях"
+        section_title: "Thorough Implementation"
+        relevance_comment: "Прямой механизм сообщения о нарушениях."
+    other_principles: []
+  - topic_id: "worker_to_company"
+    principles:
+      - {principle_code: "WtoC01", principle_status: "brief_mention", evidence_excerpt_ids: ["WtoC01_brief_mention"]}
+      - {principle_code: "WtoC02", principle_status: "explicit_section", evidence_excerpt_ids: ["WtoC02_explicit_section"]}
+      - {principle_code: "WtoC03", principle_status: "explicit_section", evidence_excerpt_ids: ["WtoC03_explicit_section"]}
+      - {principle_code: "WtoC04", principle_status: "explicit_section", evidence_excerpt_ids: ["WtoC04_explicit_section"]}
+      - {principle_code: "WtoC05", principle_status: "explicit_section", evidence_excerpt_ids: ["WtoC05_explicit_section"]}
+      - {principle_code: "WtoC06", principle_status: "absent", evidence_excerpt_ids: []}
+      - {principle_code: "WtoC07", principle_status: "absent", evidence_excerpt_ids: []}
+      - {principle_code: "WtoC08", principle_status: "absent", evidence_excerpt_ids: []}
+      - {principle_code: "WtoC09", principle_status: "brief_mention", evidence_excerpt_ids: ["WtoC09_brief_mention"]}
+      - {principle_code: "WtoC10", principle_status: "brief_mention", evidence_excerpt_ids: ["WtoC10_brief_mention"]}
+    key_excerpts:
+      - excerpt_id: "WtoC01_brief_mention"
+        original: "standard behavior and the compliance framework"
+        translated_ru: "стандарт поведения и система комплаенса"
+        section_title: "Introduction"
+        relevance_comment: "Краткий стандарт правильного рабочего поведения."
+      - excerpt_id: "WtoC02_explicit_section"
+        original: "We will use company assets, facilities, and equipment in an appropriate manner."
+        translated_ru: "Мы будем использовать активы, помещения и оборудование компании надлежащим образом."
+        section_title: "1(5) Proper management and use"
+        relevance_comment: "Прямой принцип сохранности и целевого использования активов."
+      - excerpt_id: "WtoC03_explicit_section"
+        original: "appropriately manage or protect confidential information, personal information"
+        translated_ru: "надлежащим образом управлять и защищать конфиденциальную и персональную информацию"
+        section_title: "1(5)"
+        relevance_comment: "Прямое требование конфиденциальности и ИБ."
+      - excerpt_id: "WtoC04_explicit_section"
+        original: "protect ... intellectual property rights of POC Group and others"
+        translated_ru: "защищать права интеллектуальной собственности POC Group и других"
+        section_title: "1(5)"
+        relevance_comment: "Прямая защита ИС компании."
+      - excerpt_id: "WtoC05_explicit_section"
+        original: "strict compliance with laws, regulations, and international rules"
+        translated_ru: "строгое соблюдение законов, нормативных требований и международных правил"
+        section_title: "1(1) Compliance with laws and regulations"
+        relevance_comment: "Прямой правовой комплаенс."
+      - excerpt_id: "WtoC09_brief_mention"
+        original: "create a pleasant and rewarding work environment ... so that each employee can demonstrate their abilities to the fullest"
+        translated_ru: "создавать комфортную и мотивирующую среду, чтобы каждый сотрудник мог максимально раскрыть способности"
+        section_title: "2(2) Promotion of DE&I"
+        relevance_comment: "Краткая поддержка профессионального развития."
+      - excerpt_id: "WtoC10_brief_mention"
+        original: "enhance and protect corporate social responsibilities"
+        translated_ru: "укреплять и защищать корпоративную социальную ответственность"
+        section_title: "Preamble"
+        relevance_comment: "Краткая ориентация на репутацию и ответственность компании."
+    other_principles: []
+notes: []
+limitations: []
+analyst_summary_ru: "Обработаны все 5 тем. Статусы: explicit_section=10, implicit_scattered=0, brief_mention=9, absent=26, unclear=0."

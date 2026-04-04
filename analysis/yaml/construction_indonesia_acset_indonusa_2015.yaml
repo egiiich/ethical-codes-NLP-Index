@@ -1,0 +1,157 @@
+document_id: "construction_indonesia_acset_indonusa_2015"
+company_name: "Acset Indonusa"
+country: "Indonesia"
+industry: "Construction"
+source_path: "Ethics_Codes_txt_files/Construction_Indonesia_Acset Indonusa_2015.txt"
+source_language: "en"
+document_type: "Code of Conduct"
+review_status: "completed"
+topic_analyses:
+  - topic_id: "competitor_relations"
+    principles:
+      - {principle_code: "COMP01", principle_status: "absent", evidence_excerpt_ids: []}
+      - {principle_code: "COMP02", principle_status: "brief_mention", evidence_excerpt_ids: ["COMP02_brief_mention"]}
+      - {principle_code: "COMP03", principle_status: "explicit_section", evidence_excerpt_ids: ["COMP03_explicit_section"]}
+      - {principle_code: "COMP04", principle_status: "absent", evidence_excerpt_ids: []}
+      - {principle_code: "COMP05", principle_status: "brief_mention", evidence_excerpt_ids: ["COMP05_brief_mention"]}
+      - {principle_code: "COMP06", principle_status: "absent", evidence_excerpt_ids: []}
+      - {principle_code: "COMP07", principle_status: "absent", evidence_excerpt_ids: []}
+      - {principle_code: "COMP08", principle_status: "explicit_section", evidence_excerpt_ids: ["COMP08_explicit_section"]}
+      - {principle_code: "COMP09", principle_status: "absent", evidence_excerpt_ids: []}
+      - {principle_code: "COMP10", principle_status: "absent", evidence_excerpt_ids: []}
+    key_excerpts:
+      - excerpt_id: "COMP02_brief_mention"
+        original: "Commissioners, Directors and Employees ... are not allowed taking part in the management and/or to own shares of a competitor ..."
+        translated_ru: "Комиссары, директора и сотрудники ... не вправе участвовать в управлении конкурентом и/или владеть его акциями ..."
+        section_title: "3.3 Competitors"
+        relevance_comment: "Краткое ограничение на ослабление конкурентной среды через кадрово-управленческое пересечение."
+      - excerpt_id: "COMP03_explicit_section"
+        original: "The Company is not allowed to develop cooperation with competitors ... leads to monopolistic practices."
+        translated_ru: "Компания не вправе развивать сотрудничество с конкурентами ... приводящее к монополистическим практикам."
+        section_title: "3.3 Competitors"
+        relevance_comment: "Прямой запрет антиконкурентного сговора/монополистических практик."
+      - excerpt_id: "COMP05_brief_mention"
+        original: "The Company supports fair and healthy competition in accordance with applicable laws and regulations."
+        translated_ru: "Компания поддерживает честную и здоровую конкуренцию в соответствии с применимым законодательством."
+        section_title: "3.3 Competitors"
+        relevance_comment: "Краткая фиксация принципа добросовестной конкуренции."
+      - excerpt_id: "COMP08_explicit_section"
+        original: "The Company is not allowed to discredit competitors in its marketing, promotion and advertising activities."
+        translated_ru: "Компании запрещено дискредитировать конкурентов в маркетинговой, промо- и рекламной деятельности."
+        section_title: "3.3 Competitors"
+        relevance_comment: "Прямой запрет порочащих практик в отношении конкурентов."
+    other_principles: []
+  - topic_id: "company_to_investors"
+    principles:
+      - {principle_code: "CtoI01", principle_status: "absent", evidence_excerpt_ids: []}
+      - {principle_code: "CtoI02", principle_status: "absent", evidence_excerpt_ids: []}
+      - {principle_code: "CtoI03", principle_status: "explicit_section", evidence_excerpt_ids: ["CtoI03_explicit_section"]}
+      - {principle_code: "CtoI04", principle_status: "absent", evidence_excerpt_ids: []}
+      - {principle_code: "CtoI05", principle_status: "explicit_section", evidence_excerpt_ids: ["CtoI05_explicit_section"]}
+      - {principle_code: "CtoI06", principle_status: "absent", evidence_excerpt_ids: []}
+      - {principle_code: "CtoI07", principle_status: "absent", evidence_excerpt_ids: []}
+      - {principle_code: "CtoI08", principle_status: "absent", evidence_excerpt_ids: []}
+    key_excerpts:
+      - excerpt_id: "CtoI03_explicit_section"
+        original: "The Company treats its shareholders in a fair manner, including in providing accurate and timely information ..."
+        translated_ru: "Компания справедливо относится к акционерам, включая предоставление точной и своевременной информации ..."
+        section_title: "3.5 Shareholders"
+        relevance_comment: "Прямое требование точного и своевременного раскрытия информации."
+      - excerpt_id: "CtoI05_explicit_section"
+        original: "The Company upholds applicable laws and regulations on inside information ..."
+        translated_ru: "Компания соблюдает применимые законы и нормы об инсайдерской информации ..."
+        section_title: "3.5 Shareholders"
+        relevance_comment: "Прямой акцент на предотвращении инсайдерских нарушений."
+    other_principles: []
+  - topic_id: "company_to_supplier"
+    principles:
+      - {principle_code: "CtoS01", principle_status: "explicit_section", evidence_excerpt_ids: ["CtoS01_explicit_section"]}
+      - {principle_code: "CtoS02", principle_status: "absent", evidence_excerpt_ids: []}
+      - {principle_code: "CtoS03", principle_status: "absent", evidence_excerpt_ids: []}
+      - {principle_code: "CtoS04", principle_status: "brief_mention", evidence_excerpt_ids: ["CtoS04_brief_mention"]}
+      - {principle_code: "CtoS05", principle_status: "absent", evidence_excerpt_ids: []}
+      - {principle_code: "CtoS06", principle_status: "brief_mention", evidence_excerpt_ids: ["CtoS06_brief_mention"]}
+      - {principle_code: "CtoS07", principle_status: "absent", evidence_excerpt_ids: []}
+    key_excerpts:
+      - excerpt_id: "CtoS01_explicit_section"
+        original: "Selection of the business partners is based on professionalism and in line with QCDSM ..."
+        translated_ru: "Выбор бизнес-партнеров основан на профессионализме и соответствует принципам QCDSM ..."
+        section_title: "3.2 Business Partners"
+        relevance_comment: "Прямой критерий выбора поставщиков/партнеров по эффективности."
+      - excerpt_id: "CtoS04_brief_mention"
+        original: "Strive to empower small and medium scale business partners."
+        translated_ru: "Стремиться к поддержке малых и средних бизнес-партнеров."
+        section_title: "3.2 Business Partners"
+        relevance_comment: "Краткая поддержка социально-ориентированных поставщиков/МСП."
+      - excerpt_id: "CtoS06_brief_mention"
+        original: "Common interests, equality and mutual trust based on fairness ..."
+        translated_ru: "Общие интересы, равенство и взаимное доверие на основе справедливости ..."
+        section_title: "3.2 Business Partners"
+        relevance_comment: "Краткая ориентация на устойчивое партнерство с поставщиками."
+    other_principles: []
+  - topic_id: "hotline_principles"
+    principles:
+      - {principle_code: "HOT01", principle_status: "absent", evidence_excerpt_ids: []}
+      - {principle_code: "HOT02", principle_status: "absent", evidence_excerpt_ids: []}
+      - {principle_code: "HOT03", principle_status: "absent", evidence_excerpt_ids: []}
+      - {principle_code: "HOT04", principle_status: "absent", evidence_excerpt_ids: []}
+      - {principle_code: "HOT05", principle_status: "absent", evidence_excerpt_ids: []}
+      - {principle_code: "HOT06", principle_status: "absent", evidence_excerpt_ids: []}
+      - {principle_code: "HOT07", principle_status: "absent", evidence_excerpt_ids: []}
+      - {principle_code: "HOT08", principle_status: "absent", evidence_excerpt_ids: []}
+      - {principle_code: "HOT09", principle_status: "absent", evidence_excerpt_ids: []}
+      - {principle_code: "HOT10", principle_status: "absent", evidence_excerpt_ids: []}
+    key_excerpts: []
+    other_principles: []
+  - topic_id: "worker_to_company"
+    principles:
+      - {principle_code: "WtoC01", principle_status: "brief_mention", evidence_excerpt_ids: ["WtoC01_brief_mention"]}
+      - {principle_code: "WtoC02", principle_status: "brief_mention", evidence_excerpt_ids: ["WtoC02_brief_mention"]}
+      - {principle_code: "WtoC03", principle_status: "explicit_section", evidence_excerpt_ids: ["WtoC03_explicit_section"]}
+      - {principle_code: "WtoC04", principle_status: "brief_mention", evidence_excerpt_ids: ["WtoC04_brief_mention"]}
+      - {principle_code: "WtoC05", principle_status: "explicit_section", evidence_excerpt_ids: ["WtoC05_explicit_section"]}
+      - {principle_code: "WtoC06", principle_status: "absent", evidence_excerpt_ids: []}
+      - {principle_code: "WtoC07", principle_status: "absent", evidence_excerpt_ids: []}
+      - {principle_code: "WtoC08", principle_status: "absent", evidence_excerpt_ids: []}
+      - {principle_code: "WtoC09", principle_status: "brief_mention", evidence_excerpt_ids: ["WtoC09_brief_mention"]}
+      - {principle_code: "WtoC10", principle_status: "brief_mention", evidence_excerpt_ids: ["WtoC10_brief_mention"]}
+    key_excerpts:
+      - excerpt_id: "WtoC01_brief_mention"
+        original: "To continually strive for excellence."
+        translated_ru: "Постоянно стремиться к совершенству."
+        section_title: "Catur Dharma"
+        relevance_comment: "Краткая установка на высокое качество работы."
+      - excerpt_id: "WtoC02_brief_mention"
+        original: "... maintain and utilize all data, information, assets and facilities of the Company for the benefit of the Company ..."
+        translated_ru: "... сохранять и использовать все данные, информацию, активы и ресурсы Компании в интересах Компании ..."
+        section_title: "4. Work Ethics"
+        relevance_comment: "Краткий принцип сохранного и целевого использования активов."
+      - excerpt_id: "WtoC03_explicit_section"
+        original: "All employees are responsible for maintaining the confidentiality of the confidential information of the Company ..."
+        translated_ru: "Все сотрудники несут ответственность за сохранение конфиденциальности конфиденциальной информации Компании ..."
+        section_title: "4(c) Confidential information"
+        relevance_comment: "Прямой принцип конфиденциальности и ИБ."
+      - excerpt_id: "WtoC04_brief_mention"
+        original: "The Company supports socialization and implementation of Corporate Values, Systems, and Corporate Culture."
+        translated_ru: "Компания поддерживает внедрение корпоративных ценностей, систем и корпоративной культуры."
+        section_title: "Corporate Secretary"
+        relevance_comment: "Краткая фиксация защиты корпоративной (в т.ч. интеллектуальной) ценности."
+      - excerpt_id: "WtoC05_explicit_section"
+        original: "To be a good member ... by complying with internal policies/rules ... and applicable laws and regulations."
+        translated_ru: "Быть добросовестным членом компании, соблюдая внутренние политики/правила ... и применимые законы и нормы."
+        section_title: "4. Work Ethics"
+        relevance_comment: "Прямое требование соблюдения норм и законодательства."
+      - excerpt_id: "WtoC09_brief_mention"
+        original: "... competence and character must be enhanced."
+        translated_ru: "... компетенции и личные качества должны развиваться."
+        section_title: "3.4 Employees"
+        relevance_comment: "Краткая поддержка профессионального развития."
+      - excerpt_id: "WtoC10_brief_mention"
+        original: "The Company endeavours to deliver optimal performance and maintain a good corporate image ..."
+        translated_ru: "Компания стремится демонстрировать оптимальные результаты и поддерживать хороший корпоративный имидж ..."
+        section_title: "3.5 Shareholders"
+        relevance_comment: "Краткий акцент на защите деловой репутации."
+    other_principles: []
+notes: []
+limitations: []
+analyst_summary_ru: "Обработаны все 5 тем. Статусы: explicit_section=7, implicit_scattered=0, brief_mention=11, absent=27, unclear=0."
