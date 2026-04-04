@@ -1,1 +1,3 @@
 Страна,Отрасль,Компания,Год,document_id,competitor_relations,company_to_investors,company_to_supplier,hotline_principles,worker_to_company
+Россия,Энергетика,Транснефть,2024,Energy_Russia_Transneft_2024,0,1,0,9,20
+Россия,Энергетика,Роснефть,2015,Energy_Russia_Rosneft_2015,6,10,8,3,25
