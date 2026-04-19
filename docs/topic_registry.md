@@ -32,8 +32,13 @@
 - `principles_path`: `docs/principles/worker_to_company.md`
 
 ### company_to_investors
-- `topic_title_ru`: Отношение компании с инвесторами
+- `topic_title_ru`: Отношение компании с обществом
 - `scope_ru`: Равные права акционеров, дивидендная политика, прозрачность, раскрытие информации.
+- `principles_path`: `docs/principles/worker_to_people.md`
+
+### company_to_people
+- `topic_title_ru`: Отношение компании с инвесторами
+- `scope_ru`: Уважение традиций, содействие развитию регионов присутствия, исключение опасности для населения.
 - `principles_path`: `docs/principles/worker_to_company.md`
 
 ## Добавление новой темы
