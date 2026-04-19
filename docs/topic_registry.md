@@ -51,6 +51,11 @@
 - `scope_ru`: Уважительное отношение между коллегами, обучение друг друга, командная работа
 - `principles_path`: `docs/principles/worker_to_worker.md`
 
+### manager_to_worker
+- `topic_title_ru`: Отношение руководителей к подчиненным
+- `scope_ru`: Уважительное отношение, равное отношение к разным подчиненным, содействие росту подчиненных
+- `principles_path`: `docs/principles/manager_to_worker.md`
+
 ## Добавление новой темы
 
 1. Добавь новый блок с уникальным `topic_id`.
