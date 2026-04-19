@@ -39,7 +39,12 @@
 ### company_to_people
 - `topic_title_ru`: Отношение компании с инвесторами
 - `scope_ru`: Уважение традиций, содействие развитию регионов присутствия, исключение опасности для населения.
-- `principles_path`: `docs/principles/worker_to_company.md`
+- `principles_path`: `docs/principles/company_to_people.md`
+
+### company_to_buyer
+- `topic_title_ru`: Отношение компании с потребителям
+- `scope_ru`: Обеспечение качества улуг/продукта, обратная связь клиентов, предоставление полной информации об услуге/продукте.
+- `principles_path`: `docs/principles/company_to_buyer.md`
 
 ## Добавление новой темы
 
