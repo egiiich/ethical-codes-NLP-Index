@@ -1,0 +1,519 @@
+document_id: "logistics-china-china-airlines-group-2023"
+company_name: "China Airlines Group"
+country: "China"
+industry: "Logistics"
+source_path: "Ethics_Codes_txt_files/Logistics_China_China Airlines Group_2023.txt"
+source_language: "en"
+document_type: "code_of_conduct"
+review_status: "completed"
+topic_analyses:
+  - topic_id: "competitor_relations"
+    principles:
+      - principle_code: "COMP01"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "COMP02"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "COMP03"
+        principle_status: "brief_mention"
+        evidence_excerpt_ids:
+          - "COMP03_brief_mention"
+      - principle_code: "COMP04"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "COMP05"
+        principle_status: "brief_mention"
+        evidence_excerpt_ids:
+          - "COMP05_brief_mention"
+      - principle_code: "COMP06"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "COMP07"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "COMP08"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "COMP09"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "COMP10"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+    key_excerpts:
+      - excerpt_id: "COMP03_brief_mention"
+        original: "Employee Code of Conduct ... Antitrust and fair competition"
+        translated_ru: "Кодекс сотрудников включает антимонопольные нормы и принципы честной конкуренции."
+        section_title: "V. Employee Code of Conduct"
+        relevance_comment: "Краткое подтверждение антимонопольной темы."
+      - excerpt_id: "COMP05_brief_mention"
+        original: "conduct fair and equitable business activities"
+        translated_ru: "Компания декларирует честную и справедливую деловую практику."
+        section_title: "II. Corporate Governance and Ethical Corporate Management"
+        relevance_comment: "Краткий принцип этичного конкурентного поведения."
+    other_principles: []
+  - topic_id: "hotline_principles"
+    principles:
+      - principle_code: "HOT01"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "HOT01_explicit_section"
+      - principle_code: "HOT02"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "HOT03"
+        principle_status: "brief_mention"
+        evidence_excerpt_ids:
+          - "HOT03_brief_mention"
+      - principle_code: "HOT04"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "HOT05"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "HOT06"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "HOT07"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "HOT08"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "HOT08_explicit_section"
+      - principle_code: "HOT09"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "HOT10"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+    key_excerpts:
+      - excerpt_id: "HOT01_explicit_section"
+        original: "China Airlines' whistle-blowing channel ... wecare@china-airlines.com ... auditor@china-airlines.com"
+        translated_ru: "У China Airlines есть формализованные каналы whistleblowing с указанными адресами."
+        section_title: "IX. Whistle-blowing System"
+        relevance_comment: "Прямой доступ к каналам сообщений."
+      - excerpt_id: "HOT03_brief_mention"
+        original: "Responsibility and obligation to report"
+        translated_ru: "Кодекс сотрудников закрепляет обязанность и ответственность сообщать о нарушениях."
+        section_title: "V. Employee Code of Conduct"
+        relevance_comment: "Краткое подтверждение обязанности сообщения."
+      - excerpt_id: "HOT08_explicit_section"
+        original: "Internal channel: wecare@china-airlines.com; Internal/external channel: auditor@china-airlines.com"
+        translated_ru: "Определены внутренний и внутренне-внешний каналы для сообщений о нарушениях."
+        section_title: "IX. Whistle-blowing System"
+        relevance_comment: "Прямое описание каналов."
+    other_principles: []
+  - topic_id: "company_to_supplier"
+    principles:
+      - principle_code: "CtoS01"
+        principle_status: "brief_mention"
+        evidence_excerpt_ids:
+          - "CtoS01_brief_mention"
+      - principle_code: "CtoS02"
+        principle_status: "brief_mention"
+        evidence_excerpt_ids:
+          - "CtoS02_brief_mention"
+      - principle_code: "CtoS03"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "CtoS03_explicit_section"
+      - principle_code: "CtoS04"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoS05"
+        principle_status: "brief_mention"
+        evidence_excerpt_ids:
+          - "CtoS05_brief_mention"
+      - principle_code: "CtoS06"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoS07"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "CtoS07_explicit_section"
+    key_excerpts:
+      - excerpt_id: "CtoS01_brief_mention"
+        original: "expects its suppliers and contractors to act in accordance to the spirit and basic principles of this policy"
+        translated_ru: "Компания ожидает от поставщиков и подрядчиков соблюдения базовых принципов политики."
+        section_title: "III. Human Rights Policy"
+        relevance_comment: "Краткое подтверждение требований к поставщикам."
+      - excerpt_id: "CtoS02_brief_mention"
+        original: "supporting partners"
+        translated_ru: "Компания закрепляет поддержку партнёров как часть устойчивой модели развития."
+        section_title: "Core Belief"
+        relevance_comment: "Краткий принцип партнерского отношения."
+      - excerpt_id: "CtoS03_explicit_section"
+        original: "Laws and regulations compliance"
+        translated_ru: "Для поставщиков прямо закреплено требование соблюдения законов и норм."
+        section_title: "VI. Supplier Code of Conduct"
+        relevance_comment: "Прямой комплаенс-стандарт цепочки поставок."
+      - excerpt_id: "CtoS05_brief_mention"
+        original: "Strengthening suppliers and partners engagement to optimize green supply chain management"
+        translated_ru: "Компания усиливает вовлеченность поставщиков для оптимизации зеленой цепочки поставок."
+        section_title: "IV. Environmental and Energy Policy"
+        relevance_comment: "Краткое подтверждение развития поставщиков."
+      - excerpt_id: "CtoS07_explicit_section"
+        original: "Anti-corruption and prohibiting the accepting/offering of bribes"
+        translated_ru: "Запрещены коррупция и принятие/предложение взяток."
+        section_title: "III. Human Rights Policy priorities"
+        relevance_comment: "Прямой антикоррупционный стандарт для поставщиков и контрагентов."
+    other_principles: []
+  - topic_id: "worker_to_company"
+    principles:
+      - principle_code: "WtoC01"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "WtoC02"
+        principle_status: "brief_mention"
+        evidence_excerpt_ids:
+          - "WtoC02_brief_mention"
+      - principle_code: "WtoC03"
+        principle_status: "brief_mention"
+        evidence_excerpt_ids:
+          - "WtoC03_brief_mention"
+      - principle_code: "WtoC04"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "WtoC05"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "WtoC05_explicit_section"
+      - principle_code: "WtoC06"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "WtoC07"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "WtoC08"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "WtoC09"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "WtoC10"
+        principle_status: "brief_mention"
+        evidence_excerpt_ids:
+          - "WtoC10_brief_mention"
+    key_excerpts:
+      - excerpt_id: "WtoC02_brief_mention"
+        original: "Protect Company assets and intellectual property rights"
+        translated_ru: "Сотрудники обязаны защищать активы компании и права интеллектуальной собственности."
+        section_title: "V. Employee Code of Conduct"
+        relevance_comment: "Краткий стандарт по активам компании."
+      - excerpt_id: "WtoC03_brief_mention"
+        original: "Information security ... confidentiality, integrity and availability"
+        translated_ru: "Требуется обеспечивать конфиденциальность, целостность и доступность информации."
+        section_title: "VIII. Information Security Policy"
+        relevance_comment: "Краткий принцип конфиденциальности."
+      - excerpt_id: "WtoC05_explicit_section"
+        original: "Complying with laws and regulations"
+        translated_ru: "Сотрудники обязаны соблюдать законы и правила."
+        section_title: "II. Corporate Governance and Ethical Corporate Management"
+        relevance_comment: "Прямой правовой комплаенс."
+      - excerpt_id: "WtoC10_brief_mention"
+        original: "Personal character and integrity"
+        translated_ru: "Личная добропорядочность и честность закреплены как обязательный стандарт сотрудника."
+        section_title: "V. Employee Code of Conduct"
+        relevance_comment: "Краткий репутационный стандарт."
+    other_principles: []
+  - topic_id: "company_to_investors"
+    principles:
+      - principle_code: "CtoI01"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoI02"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoI03"
+        principle_status: "brief_mention"
+        evidence_excerpt_ids:
+          - "CtoI03_brief_mention"
+      - principle_code: "CtoI04"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoI05"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "CtoI05_explicit_section"
+      - principle_code: "CtoI06"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoI07"
+        principle_status: "brief_mention"
+        evidence_excerpt_ids:
+          - "CtoI07_brief_mention"
+      - principle_code: "CtoI08"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+    key_excerpts:
+      - excerpt_id: "CtoI03_brief_mention"
+        original: "fulfilling shareholders' expectations"
+        translated_ru: "Компания прямо упоминает необходимость выполнять ожидания акционеров."
+        section_title: "Core Belief"
+        relevance_comment: "Краткий принцип отношения к акционерам."
+      - excerpt_id: "CtoI05_explicit_section"
+        original: "Enhancing information transparency"
+        translated_ru: "Повышение информационной прозрачности прямо закреплено в принципах управления."
+        section_title: "II. Corporate Governance and Ethical Corporate Management"
+        relevance_comment: "Прямой стандарт прозрачности."
+      - excerpt_id: "CtoI07_brief_mention"
+        original: "Please refer to ... investor-relations/important-company-regulations"
+        translated_ru: "Инвесторские регламенты и раскрытия вынесены в отдельный IR-раздел."
+        section_title: "II. Corporate Governance references"
+        relevance_comment: "Краткое подтверждение структуры раскрытия."
+    other_principles: []
+  - topic_id: "company_to_people"
+    principles:
+      - principle_code: "CtoP01"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoP02"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoP03"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "CtoP03_explicit_section"
+      - principle_code: "CtoP04"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "CtoP04_explicit_section"
+      - principle_code: "CtoP05"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoP06"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "CtoP06_explicit_section"
+      - principle_code: "CtoP07"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoP08"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "CtoP08_explicit_section"
+      - principle_code: "CtoP09"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoP10"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+    key_excerpts:
+      - excerpt_id: "CtoP03_explicit_section"
+        original: "giving back to the community"
+        translated_ru: "Компания закрепляет вклад в сообщество как условие устойчивого роста."
+        section_title: "Core Belief"
+        relevance_comment: "Прямой социальный принцип."
+      - excerpt_id: "CtoP04_explicit_section"
+        original: "protecting the environment"
+        translated_ru: "Охрана окружающей среды закреплена как один из базовых принципов."
+        section_title: "Core Belief"
+        relevance_comment: "Прямой экологический принцип."
+      - excerpt_id: "CtoP06_explicit_section"
+        original: "improve the quality of life for stakeholders such as employees, communities, and the society as a whole"
+        translated_ru: "Компания стремится улучшать качество жизни сотрудников, сообществ и общества в целом."
+        section_title: "Core Belief"
+        relevance_comment: "Прямой вклад в развитие общества."
+      - excerpt_id: "CtoP08_explicit_section"
+        original: "respecting, protecting, reviewing and compensating employees and customers who may be subjected to human rights violation"
+        translated_ru: "Компания обязуется уважать и защищать права человека, включая механизмы пересмотра и компенсации."
+        section_title: "III. Human Rights Policy"
+        relevance_comment: "Прямой правозащитный принцип."
+    other_principles: []
+  - topic_id: "company_to_buyer"
+    principles:
+      - principle_code: "CtoB01"
+        principle_status: "brief_mention"
+        evidence_excerpt_ids:
+          - "CtoB01_brief_mention"
+      - principle_code: "CtoB02"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoB03"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "CtoB03_explicit_section"
+      - principle_code: "CtoB04"
+        principle_status: "brief_mention"
+        evidence_excerpt_ids:
+          - "CtoB04_brief_mention"
+      - principle_code: "CtoB05"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoB06"
+        principle_status: "brief_mention"
+        evidence_excerpt_ids:
+          - "CtoB06_brief_mention"
+      - principle_code: "CtoB07"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoB08"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoB09"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+    key_excerpts:
+      - excerpt_id: "CtoB01_brief_mention"
+        original: "serving customers well"
+        translated_ru: "Компания декларирует качественное обслуживание клиентов."
+        section_title: "Core Belief"
+        relevance_comment: "Краткий стандарт отношения к клиентам."
+      - excerpt_id: "CtoB03_explicit_section"
+        original: "Respecting privacy and protecting the collection and legitimate use of personal information"
+        translated_ru: "Компания защищает приватность и законное использование персональной информации."
+        section_title: "III. Human Rights Policy priorities"
+        relevance_comment: "Прямой стандарт защиты данных клиентов."
+      - excerpt_id: "CtoB04_brief_mention"
+        original: "safe and fair work environment ... service philosophy and professional ethics"
+        translated_ru: "Этика сервиса и безопасная среда поддерживают добросовестное обслуживание клиентов."
+        section_title: "V. Employee Code of Conduct"
+        relevance_comment: "Краткий стандарт корректного взаимодействия."
+      - excerpt_id: "CtoB06_brief_mention"
+        original: "offering world-class global air transportation services"
+        translated_ru: "Компания ориентируется на услуги мирового уровня в авиаперевозках."
+        section_title: "IV. Environmental and Energy Policy intro"
+        relevance_comment: "Краткий стандарт качества продукта/услуги."
+    other_principles: []
+  - topic_id: "worker_to_worker"
+    principles:
+      - principle_code: "WtoW01"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "WtoW02"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "WtoW03"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "WtoW04"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "WtoW05"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "WtoW05_explicit_section"
+      - principle_code: "WtoW06"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "WtoW07"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "WtoW08"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+    key_excerpts:
+      - excerpt_id: "WtoW05_explicit_section"
+        original: "Anti-discrimination, anti-bullying and anti-harassment"
+        translated_ru: "В рабочей среде запрещены дискриминация, буллинг и харассмент."
+        section_title: "III. Human Rights Policy priorities"
+        relevance_comment: "Прямой антидискриминационный стандарт среди коллег."
+    other_principles: []
+  - topic_id: "manager_to_worker"
+    principles:
+      - principle_code: "MtoW01"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "MtoW02"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "MtoW03"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "MtoW04"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "MtoW05"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "MtoW06"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+    key_excerpts:
+    other_principles: []
+  - topic_id: "company_to_worker"
+    principles:
+      - principle_code: "CtoW01"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "CtoW01_explicit_section"
+      - principle_code: "CtoW02"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoW03"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "CtoW03_explicit_section"
+      - principle_code: "CtoW04"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoW05"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoW06"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "CtoW06_explicit_section"
+      - principle_code: "CtoW07"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoW08"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoW09"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoW10"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+    key_excerpts:
+      - excerpt_id: "CtoW01_explicit_section"
+        original: "Providing fair and reasonable pay and working conditions"
+        translated_ru: "Компания обязуется предоставлять справедливую оплату и условия труда."
+        section_title: "III. Human Rights Policy priorities"
+        relevance_comment: "Прямой стандарт работодателя."
+      - excerpt_id: "CtoW03_explicit_section"
+        original: "Providing a safe, hygienic and healthy work environment"
+        translated_ru: "Компания обязуется обеспечивать безопасную, гигиеничную и здоровую рабочую среду."
+        section_title: "III. Human Rights Policy priorities"
+        relevance_comment: "Прямой стандарт охраны труда."
+      - excerpt_id: "CtoW06_explicit_section"
+        original: "Anti-discrimination, anti-bullying and anti-harassment"
+        translated_ru: "Компания закрепляет недискриминацию и защиту от харассмента."
+        section_title: "III. Human Rights Policy priorities"
+        relevance_comment: "Прямой антидискриминационный стандарт работодателя."
+    other_principles: []
+  - topic_id: "worker_to_manager"
+    principles:
+      - principle_code: "WtoM01"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "WtoM02"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "WtoM03"
+        principle_status: "brief_mention"
+        evidence_excerpt_ids:
+          - "WtoM03_brief_mention"
+      - principle_code: "WtoM04"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "WtoM05"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "WtoM06"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+    key_excerpts:
+      - excerpt_id: "WtoM03_brief_mention"
+        original: "Employee Code of Conduct ... Responsibility and obligation to report"
+        translated_ru: "Сотрудник обязан сообщать о нарушениях, включая эскалацию по служебной иерархии."
+        section_title: "V. Employee Code of Conduct"
+        relevance_comment: "Краткий стандарт взаимодействия с руководством."
+    other_principles: []
+notes: []
+limitations:
+  - ""
+analyst_summary_ru: "Кодекс China Airlines Group в текущем OCR-экстракте даёт достаточное покрытие по ESG, правам человека, поставщикам, защите данных и whistleblowing; выставлен completed."

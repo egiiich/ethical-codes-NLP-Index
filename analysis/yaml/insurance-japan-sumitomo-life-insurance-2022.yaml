@@ -1,0 +1,572 @@
+document_id: "insurance-japan-sumitomo-life-insurance-2022"
+company_name: "Sumitomo Life Insurance"
+country: "Japan"
+industry: "Insurance"
+source_path: "Ethics_Codes_txt_files/Insurance_Japan_Sumitomo Life Insurance_2022.txt"
+source_language: "en"
+document_type: "code_of_conduct"
+review_status: "completed"
+topic_analyses:
+  - topic_id: "competitor_relations"
+    principles:
+      - principle_code: "COMP01"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "COMP02"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "COMP03"
+        principle_status: "brief_mention"
+        evidence_excerpt_ids:
+          - "COMP03_brief_mention"
+      - principle_code: "COMP04"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "COMP05"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "COMP06"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "COMP07"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "COMP08"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "COMP09"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "COMP10"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+    key_excerpts:
+      - excerpt_id: "COMP03_brief_mention"
+        original: "We will conduct fair and honest business activities in compliance with laws and regulations"
+        translated_ru: "Группа обязуется вести честную и добросовестную деятельность в соответствии с законом."
+        section_title: "Step 3 / Compliance and risk management"
+        relevance_comment: "Краткое подтверждение антимонопольной этики."
+    other_principles: []
+  - topic_id: "hotline_principles"
+    principles:
+      - principle_code: "HOT01"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "HOT01_explicit_section"
+      - principle_code: "HOT02"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "HOT03"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "HOT03_explicit_section"
+      - principle_code: "HOT04"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "HOT04_explicit_section"
+      - principle_code: "HOT05"
+        principle_status: "brief_mention"
+        evidence_excerpt_ids:
+          - "HOT05_brief_mention"
+      - principle_code: "HOT06"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "HOT06_explicit_section"
+      - principle_code: "HOT07"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "HOT08"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "HOT08_explicit_section"
+      - principle_code: "HOT09"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "HOT10"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+    key_excerpts:
+      - excerpt_id: "HOT01_explicit_section"
+        original: "seek advice or report to your superior etc. without delay"
+        translated_ru: "При возникновении проблемы необходимо без задержки обратиться за советом или сообщить руководителю."
+        section_title: "Introduction / If a Problem Occurs"
+        relevance_comment: "Прямо обозначена доступность канала обращения."
+      - excerpt_id: "HOT03_explicit_section"
+        original: "report it to your superior ... or report it through the whistleblowing system without delay"
+        translated_ru: "Нарушения следует незамедлительно сообщать руководителю или через whistleblowing-систему."
+        section_title: "If a Problem Occurs"
+        relevance_comment: "Прямая обязанность сообщения."
+      - excerpt_id: "HOT04_explicit_section"
+        original: "The privacy of whistleblowers and people who seek consultation shall be protected"
+        translated_ru: "Конфиденциальность и приватность информаторов и обращающихся за консультацией защищаются."
+        section_title: "If a Problem Occurs"
+        relevance_comment: "Прямая гарантия конфиденциальности."
+      - excerpt_id: "HOT05_brief_mention"
+        original: "in the case of a violation, a person may be subject to disciplinary action"
+        translated_ru: "За нарушение кодекса предусмотрены дисциплинарные меры."
+        section_title: "Violation of the Code of Conduct"
+        relevance_comment: "Краткое подтверждение реагирования на нарушения."
+      - excerpt_id: "HOT06_explicit_section"
+        original: "they shall not receive disadvantageous treatment because of reporting, consultation, cooperation with investigation"
+        translated_ru: "За сообщения и сотрудничество с расследованием не допускается неблагоприятное обращение."
+        section_title: "If a Problem Occurs"
+        relevance_comment: "Прямая антирепрессивная защита информатора."
+      - excerpt_id: "HOT08_explicit_section"
+        original: "use the whistleblowing system"
+        translated_ru: "Канал «whistleblowing system» прямо предусмотрен кодексом."
+        section_title: "If a Problem Occurs"
+        relevance_comment: "Прямой канал подачи сообщений."
+    other_principles: []
+  - topic_id: "company_to_supplier"
+    principles:
+      - principle_code: "CtoS01"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoS02"
+        principle_status: "brief_mention"
+        evidence_excerpt_ids:
+          - "CtoS02_brief_mention"
+      - principle_code: "CtoS03"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "CtoS03_explicit_section"
+      - principle_code: "CtoS04"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoS05"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoS06"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoS07"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+    key_excerpts:
+      - excerpt_id: "CtoS02_brief_mention"
+        original: "earn the trust and support of our business partners, such as agents"
+        translated_ru: "Компания стремится завоевать доверие и поддержку деловых партнёров, включая агентов."
+        section_title: "Step 3 / Basic stance"
+        relevance_comment: "Краткий принцип партнёрских отношений."
+      - excerpt_id: "CtoS03_explicit_section"
+        original: "conduct fair and honest business activities in compliance with laws and regulations and internal rules"
+        translated_ru: "Компания ведёт честную деятельность с соблюдением законов и внутренних правил."
+        section_title: "Step 3 / Compliance and risk management"
+        relevance_comment: "Прямой комплаенс-стандарт в отношениях с контрагентами."
+    other_principles: []
+  - topic_id: "worker_to_company"
+    principles:
+      - principle_code: "WtoC01"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "WtoC02"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "WtoC03"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "WtoC03_explicit_section"
+      - principle_code: "WtoC04"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "WtoC05"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "WtoC05_explicit_section"
+      - principle_code: "WtoC06"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "WtoC07"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "WtoC07_explicit_section"
+      - principle_code: "WtoC08"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "WtoC09"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "WtoC10"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "WtoC10_explicit_section"
+    key_excerpts:
+      - excerpt_id: "WtoC03_explicit_section"
+        original: "strictly manage such information to ensure there is no leakage to external parties"
+        translated_ru: "Сотрудники обязаны строго управлять информацией, чтобы исключить утечки вовне."
+        section_title: "Step 3 / Strict information management"
+        relevance_comment: "Прямой стандарт конфиденциальности."
+      - excerpt_id: "WtoC05_explicit_section"
+        original: "Executives and employees must comply with laws and regulations, other rules, the Code of Conduct"
+        translated_ru: "Сотрудники и руководители обязаны соблюдать законы, правила и кодекс поведения."
+        section_title: "Violation of the Code of Conduct"
+        relevance_comment: "Прямой правовой и этический комплаенс."
+      - excerpt_id: "WtoC07_explicit_section"
+        original: "we will strive to ensure that the interests of customers are not compromised due to conflict of interest"
+        translated_ru: "Необходимо предотвращать ущерб интересам клиентов из-за конфликта интересов."
+        section_title: "Step 3 / Prevention of internal collusion due to conflict of interest"
+        relevance_comment: "Прямой принцип по конфликту интересов."
+      - excerpt_id: "WtoC10_explicit_section"
+        original: "A person will be held responsible for his/her behavior that damages the reputation of and trust in Sumitomo Life Group companies"
+        translated_ru: "Сотрудник несёт ответственность за поведение, подрывающее репутацию и доверие к группе."
+        section_title: "Violation of the Code of Conduct"
+        relevance_comment: "Прямой репутационный стандарт."
+    other_principles: []
+  - topic_id: "company_to_investors"
+    principles:
+      - principle_code: "CtoI01"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoI02"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoI03"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoI04"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoI05"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "CtoI05_explicit_section"
+      - principle_code: "CtoI06"
+        principle_status: "implicit_scattered"
+        evidence_excerpt_ids:
+          - "CtoI06_implicit_scattered"
+      - principle_code: "CtoI07"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoI08"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+    key_excerpts:
+      - excerpt_id: "CtoI05_explicit_section"
+        original: "appropriately disclose corporate information in an effort to enhance soundness and transparency of management"
+        translated_ru: "Компания обязуется надлежащим образом раскрывать информацию для повышения прозрачности управления."
+        section_title: "Step 3 / Soundness and transparency of management"
+        relevance_comment: "Прямой принцип раскрытия для инвесторов."
+      - excerpt_id: "CtoI06_implicit_scattered"
+        original: "mindful of the changing social environment, we will vigorously reflect the voice of the customer and views and opinions of internal and external parties"
+        translated_ru: "Прозрачность и устойчивость управления обеспечиваются с учетом мнений внутренних и внешних сторон."
+        section_title: "Step 3 / Soundness and transparency of management"
+        relevance_comment: "Имплицитная поддержка качества корпоративной отчётности и управления."
+      - excerpt_id: "CtoI09_brief_mention"
+        original: "grow sustainably and stably"
+        translated_ru: "Компания нацелена на устойчивый и стабильный рост."
+        section_title: "Step 3 intro"
+        relevance_comment: "Краткая долгосрочная ориентация на устойчивую ценность."
+    other_principles: []
+  - topic_id: "company_to_people"
+    principles:
+      - principle_code: "CtoP01"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoP02"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoP03"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "CtoP03_explicit_section"
+      - principle_code: "CtoP04"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "CtoP04_explicit_section"
+      - principle_code: "CtoP05"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoP06"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "CtoP06_explicit_section"
+      - principle_code: "CtoP07"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoP08"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "CtoP08_explicit_section"
+      - principle_code: "CtoP09"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoP10"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+    key_excerpts:
+      - excerpt_id: "CtoP03_explicit_section"
+        original: "contribute to the realization of a society of affluence, vitality and longevity"
+        translated_ru: "Через страховой бизнес группа вносит вклад в общество благополучия, активности и долголетия."
+        section_title: "Step 3 opening"
+        relevance_comment: "Прямой общественный вклад."
+      - excerpt_id: "CtoP04_explicit_section"
+        original: "constantly consider the impact of our business activities on the global environment and actively work to protect it"
+        translated_ru: "Компания учитывает экологическое влияние деятельности и активно защищает окружающую среду."
+        section_title: "Step 3 / Basic stance"
+        relevance_comment: "Прямой экологический принцип."
+      - excerpt_id: "CtoP06_explicit_section"
+        original: "contribute to the creation of a healthy and enriched society, as well as the development of regional societies and international society"
+        translated_ru: "Компания содействует развитию местных и международного сообществ."
+        section_title: "Step 3 / Basic stance"
+        relevance_comment: "Прямой социальный и региональный вклад."
+      - excerpt_id: "CtoP08_explicit_section"
+        original: "We will respect human rights and will not engage in any unjust discrimination."
+        translated_ru: "Компания уважает права человека и не допускает неправомерной дискриминации."
+        section_title: "Step 3 / Respect for human rights"
+        relevance_comment: "Прямой правозащитный стандарт."
+    other_principles: []
+  - topic_id: "company_to_buyer"
+    principles:
+      - principle_code: "CtoB01"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "CtoB01_explicit_section"
+      - principle_code: "CtoB02"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "CtoB02_explicit_section"
+      - principle_code: "CtoB03"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "CtoB03_explicit_section"
+      - principle_code: "CtoB04"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "CtoB04_explicit_section"
+      - principle_code: "CtoB05"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoB06"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "CtoB06_explicit_section"
+      - principle_code: "CtoB07"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoB08"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoB09"
+        principle_status: "brief_mention"
+        evidence_excerpt_ids:
+          - "CtoB09_brief_mention"
+    key_excerpts:
+      - excerpt_id: "CtoB01_explicit_section"
+        original: "With our customers’ trust in us as the starting point of all our activities, we will provide optimal services"
+        translated_ru: "Доверие клиентов — отправная точка всех действий, компания обязуется предоставлять оптимальные услуги."
+        section_title: "Step 3 / Basic stance"
+        relevance_comment: "Прямой принцип клиентоориентированности."
+      - excerpt_id: "CtoB02_explicit_section"
+        original: "pursuing the best interests of customers"
+        translated_ru: "Компания закрепляет приоритет лучших интересов клиентов."
+        section_title: "Code of Conduct and Customer-oriented Approach"
+        relevance_comment: "Прямой принцип интересов клиента."
+      - excerpt_id: "CtoB03_explicit_section"
+        original: "appropriately handle customer information and other important information"
+        translated_ru: "Компания обязуется надлежащим образом работать с клиентской и иной важной информацией."
+        section_title: "Step 3 / Strict information management"
+        relevance_comment: "Прямой стандарт защиты данных клиента."
+      - excerpt_id: "CtoB04_explicit_section"
+        original: "provide accurate and easy-to-understand explanations of the contents of insurance contracts and other important matters"
+        translated_ru: "Клиентам предоставляются точные и понятные разъяснения по договорам и важным вопросам."
+        section_title: "Step 3 / Basic stance"
+        relevance_comment: "Прямой стандарт прозрачного информирования."
+      - excerpt_id: "CtoB06_explicit_section"
+        original: "provide optimal services to each and every person"
+        translated_ru: "Компания обязуется оказывать оптимальные услуги каждому клиенту."
+        section_title: "Step 3 / Basic stance"
+        relevance_comment: "Прямой стандарт качества услуг."
+      - excerpt_id: "CtoB09_brief_mention"
+        original: "Do I accord priority to customers rather than the interests and convenience of the company and myself?"
+        translated_ru: "Сотрудник должен ставить интересы клиента выше удобства компании и личных интересов."
+        section_title: "Code of Conduct Checklist"
+        relevance_comment: "Краткий стандарт обратной связи/ориентации на клиента."
+    other_principles: []
+  - topic_id: "worker_to_worker"
+    principles:
+      - principle_code: "WtoW01"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "WtoW02"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "WtoW03"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "WtoW04"
+        principle_status: "brief_mention"
+        evidence_excerpt_ids:
+          - "WtoW04_brief_mention"
+      - principle_code: "WtoW05"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "WtoW05_explicit_section"
+      - principle_code: "WtoW06"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "WtoW06_explicit_section"
+      - principle_code: "WtoW07"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "WtoW08"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+    key_excerpts:
+      - excerpt_id: "WtoW04_brief_mention"
+        original: "free and open corporate culture, where employees readily embrace challenges"
+        translated_ru: "Кодекс поддерживает открытую корпоративную культуру и готовность сотрудников принимать вызовы."
+        section_title: "Step 3 overview"
+        relevance_comment: "Краткий стандарт командной культуры."
+      - excerpt_id: "WtoW05_explicit_section"
+        original: "will not engage in any unjust discrimination"
+        translated_ru: "Сотрудники не должны допускать неправомерной дискриминации."
+        section_title: "Step 3 / Respect for human rights"
+        relevance_comment: "Прямой антидискриминационный стандарт."
+      - excerpt_id: "WtoW06_explicit_section"
+        original: "will not behave in a manner that compromises the workplace environment, such as by engaging in sexual harassment or power harassment"
+        translated_ru: "Запрещено поведение, ухудшающее рабочую среду, включая сексуальные и властные домогательства."
+        section_title: "Step 3 / Respect for human rights and workplace environment"
+        relevance_comment: "Прямой запрет харассмента."
+    other_principles: []
+  - topic_id: "manager_to_worker"
+    principles:
+      - principle_code: "MtoW01"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "MtoW01_explicit_section"
+      - principle_code: "MtoW02"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "MtoW02_explicit_section"
+      - principle_code: "MtoW03"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "MtoW03_explicit_section"
+      - principle_code: "MtoW04"
+        principle_status: "brief_mention"
+        evidence_excerpt_ids:
+          - "MtoW04_brief_mention"
+      - principle_code: "MtoW05"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "MtoW06"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+    key_excerpts:
+      - excerpt_id: "MtoW01_explicit_section"
+        original: "Be a role model. Be conscious of your behavior so as to ensure it is appropriate for a manager"
+        translated_ru: "Руководитель обязан быть ролевой моделью и осознанно соблюдать стандарты поведения."
+        section_title: "Managers’ Dos and Don’ts"
+        relevance_comment: "Прямой стандарт управленческого поведения."
+      - excerpt_id: "MtoW02_explicit_section"
+        original: "Communicate the details of the ... Code of Conduct to your subordinates and vigorously support your subordinates"
+        translated_ru: "Руководитель обязан разъяснять кодекс подчинённым и активно поддерживать их в работе."
+        section_title: "Managers’ Dos and Don’ts"
+        relevance_comment: "Прямой стандарт развития подчинённых."
+      - excerpt_id: "MtoW03_explicit_section"
+        original: "Cultivate a workplace environment that encourages members to express their opinions"
+        translated_ru: "Руководитель должен формировать среду, где сотрудники свободно выражают мнение."
+        section_title: "Managers’ Dos and Don’ts"
+        relevance_comment: "Прямой стандарт уважительного отношения и вовлечения."
+      - excerpt_id: "MtoW04_brief_mention"
+        original: "Strictly refrain from any behavior that could be interpreted as abuse of your position or authority"
+        translated_ru: "Руководителю запрещено злоупотреблять должностным положением или полномочиями."
+        section_title: "Managers’ Dos and Don’ts"
+        relevance_comment: "Краткий принцип недопустимости управленческого давления."
+    other_principles: []
+  - topic_id: "company_to_worker"
+    principles:
+      - principle_code: "CtoW01"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "CtoW01_explicit_section"
+      - principle_code: "CtoW02"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoW03"
+        principle_status: "brief_mention"
+        evidence_excerpt_ids:
+          - "CtoW03_brief_mention"
+      - principle_code: "CtoW04"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoW05"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoW06"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "CtoW06_explicit_section"
+      - principle_code: "CtoW07"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoW08"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoW09"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoW10"
+        principle_status: "brief_mention"
+        evidence_excerpt_ids:
+          - "CtoW10_brief_mention"
+    key_excerpts:
+      - excerpt_id: "CtoW01_explicit_section"
+        original: "create a company where each and every employee can continuously work with pride, confidence and enthusiasm"
+        translated_ru: "Компания стремится к среде, где каждый сотрудник работает с уверенностью, гордостью и энтузиазмом."
+        section_title: "Step 3 / Basic stance"
+        relevance_comment: "Прямой стандарт отношения компании к сотрудникам."
+      - excerpt_id: "CtoW03_brief_mention"
+        original: "ensure that they will put our operating policy into practice through their conduct"
+        translated_ru: "Компания через кодекс направляет поведение сотрудников в ежедневной работе."
+        section_title: "Introduction"
+        relevance_comment: "Краткая поддержка стандартов трудовой деятельности."
+      - excerpt_id: "CtoW06_explicit_section"
+        original: "will not engage in any unjust discrimination"
+        translated_ru: "Компания не допускает дискриминацию в трудовой среде."
+        section_title: "Step 3 / Respect for human rights"
+        relevance_comment: "Прямой антидискриминационный стандарт работодателя."
+      - excerpt_id: "CtoW10_brief_mention"
+        original: "trusted and supported company by our customers and society"
+        translated_ru: "Компания ориентирована на доверие общества и клиентов как фундамент работодателя и бизнеса."
+        section_title: "Step 3 intro"
+        relevance_comment: "Краткая репутационная установка компании."
+    other_principles: []
+  - topic_id: "worker_to_manager"
+    principles:
+      - principle_code: "WtoM01"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "WtoM02"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "WtoM03"
+        principle_status: "brief_mention"
+        evidence_excerpt_ids:
+          - "WtoM03_brief_mention"
+      - principle_code: "WtoM04"
+        principle_status: "brief_mention"
+        evidence_excerpt_ids:
+          - "WtoM04_brief_mention"
+      - principle_code: "WtoM05"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "WtoM06"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+    key_excerpts:
+      - excerpt_id: "WtoM03_brief_mention"
+        original: "report it to your superior ... without delay"
+        translated_ru: "Сотрудник обязан без задержки сообщать руководителю о проблемах и нарушениях."
+        section_title: "If a Problem Occurs"
+        relevance_comment: "Краткий стандарт ответственного взаимодействия с менеджером."
+      - excerpt_id: "WtoM04_brief_mention"
+        original: "consult him/her"
+        translated_ru: "Сотрудник должен консультироваться с руководителем при возникновении сомнений и рисков."
+        section_title: "If a Problem Occurs"
+        relevance_comment: "Краткий стандарт коммуникации с руководителем."
+    other_principles: []
+notes: []
+limitations:
+  - ""
+analyst_summary_ru: "Кодекс Sumitomo Life содержит развернутые нормы по клиентскому подходу, whistleblowing, управленческим обязанностям, правам человека и прозрачности; покрытие достаточное для completed."
