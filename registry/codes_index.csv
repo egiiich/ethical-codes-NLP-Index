@@ -1,1 +1,211 @@
 document_id,company_name,country,industry,source_path,source_language,file_format,document_type,review_status
+agriculture-indonesia-astra-agro-lestari-2023,Astra Agro Lestari,Indonesia,Agriculture,Ethics_Codes_txt_files/Agriculture_Indonesia_Astra Agro Lestari_2023.txt,en,txt,code_of_conduct,not_started
+agriculture-indonesia-smart-2021,SMART,Indonesia,Agriculture,Ethics_Codes_txt_files/Agriculture_Indonesia_SMART_2021.txt,en,txt,code_of_conduct,not_started
+automotive-china-great-wall-motor-2024,Great Wall Motor,China,Automotive,Ethics_Codes_txt_files/Automotive_China_Great Wall Motor_2024.txt,en,txt,functional_equivalent_needs_review,not_started
+automotive-china-li-auto-2024,Li Auto,China,Automotive,Ethics_Codes_txt_files/Automotive_China_Li Auto_2024.txt,en,txt,code_of_conduct,not_started
+automotive-china-nio-2022,NIO,China,Automotive,Ethics_Codes_txt_files/Automotive_China_NIO_2022.txt,en,txt,code_of_conduct,not_started
+automotive-china-xpeng-2024,XPeng,China,Automotive,Ethics_Codes_txt_files/Automotive_China_XPeng_2024.txt,en,txt,code_of_conduct,not_started
+automotive-indonesia-astra-otoparts-2018,Astra Otoparts,Indonesia,Automotive,Ethics_Codes_txt_files/Automotive_Indonesia_Astra Otoparts_2018.txt,en,txt,code_of_conduct,not_started
+automotive-indonesia-selamat-sempurna-2025,Selamat Sempurna,Indonesia,Automotive,Ethics_Codes_txt_files/Automotive_Indonesia_Selamat Sempurna_2025.txt,en,txt,code_of_conduct,not_started
+automotive-japan-honda-motor-2023,Honda Motor,Japan,Automotive,Ethics_Codes_txt_files/Automotive_Japan_Honda Motor_2023.txt,en,txt,code_of_conduct,not_started
+automotive-japan-mitsubishi-motors-2025,Mitsubishi Motors,Japan,Automotive,Ethics_Codes_txt_files/Automotive_Japan_Mitsubishi Motors_2025.txt,en,txt,code_of_conduct,not_started
+automotive-japan-nissan-motor-2026,Nissan Motor,Japan,Automotive,Ethics_Codes_txt_files/Automotive_Japan_Nissan Motor_2026.txt,en,txt,code_of_conduct,not_started
+automotive-japan-suzuki-motor-2016,Suzuki Motor,Japan,Automotive,Ethics_Codes_txt_files/Automotive_Japan_Suzuki Motor_2016.txt,en,txt,code_of_conduct,not_started
+automotive-japan-toyota-motor-2023,Toyota Motor,Japan,Automotive,Ethics_Codes_txt_files/Automotive_Japan_Toyota Motor_2023.txt,en,txt,code_of_conduct,not_started
+automotive-korea-hankook-company-2024,Hankook & Company,Korea,Automotive,Ethics_Codes_txt_files/Automotive_Korea_Hankook & Company_2024.txt,en,txt,code_of_ethics,not_started
+automotive-korea-hyundai-mobis-2024,Hyundai Mobis,Korea,Automotive,Ethics_Codes_txt_files/Automotive_Korea_Hyundai Mobis_2024.txt,en,txt,code_of_conduct,not_started
+automotive-korea-hyundai-motor-company-2020,Hyundai Motor Company,Korea,Automotive,Ethics_Codes_txt_files/Automotive_Korea_Hyundai Motor Company_2020.txt,en,txt,code_of_conduct,not_started
+automotive-korea-kia-2024,Kia,Korea,Automotive,Ethics_Codes_txt_files/Automotive_Korea_Kia_2024.txt,en,txt,code_of_conduct,not_started
+chemicals-indonesia-lautan-luas-2023,Lautan Luas,Indonesia,Chemicals,Ethics_Codes_txt_files/Chemicals_Indonesia_Lautan Luas_2023.txt,en,txt,code_of_conduct,not_started
+construction-china-china-state-construction-international-2024,China State Construction International,China,Construction,Ethics_Codes_txt_files/Construction_China_China State Construction International_2024.txt,en,txt,code_of_conduct,not_started
+construction-china-oriental-yuhong-2025,Oriental Yuhong,China,Construction,Ethics_Codes_txt_files/Construction_China_Oriental Yuhong_2025.txt,en,txt,code_of_conduct,not_started
+construction-china-powerchina-2018,POWERCHINA,China,Construction,Ethics_Codes_txt_files/Construction_China_POWERCHINA_2018.txt,zh,txt,code_of_ethics,not_started
+construction-china-zhejiang-huayou-cobalt-2023,Zhejiang Huayou Cobalt,China,Construction,Ethics_Codes_txt_files/Construction_China_Zhejiang Huayou Cobalt_2023.txt,en,txt,code_of_conduct,not_started
+construction-indonesia-acset-indonusa-2015,Acset Indonusa,Indonesia,Construction,Ethics_Codes_txt_files/Construction_Indonesia_Acset Indonusa_2015.txt,en,txt,code_of_conduct,not_started
+construction-indonesia-citatah-2020,Citatah,Indonesia,Construction,Ethics_Codes_txt_files/Construction_Indonesia_Citatah_2020.txt,en,txt,code_of_conduct,not_started
+construction-japan-jgc-holdings-2022,JGC Holdings,Japan,Construction,Ethics_Codes_txt_files/Construction_Japan_JGC Holdings_2022.txt,en,txt,code_of_conduct,not_started
+construction-japan-kajima-corporation-2021,Kajima Corporation,Japan,Construction,Ethics_Codes_txt_files/Construction_Japan_Kajima Corporation_2021.txt,en,txt,code_of_conduct,not_started
+construction-japan-penta-ocean-construction-2022,Penta-Ocean Construction,Japan,Construction,Ethics_Codes_txt_files/Construction_Japan_Penta-Ocean Construction_2022.txt,en,txt,code_of_conduct,not_started
+construction-japan-shimizu-corporation-2022,Shimizu Corporation,Japan,Construction,Ethics_Codes_txt_files/Construction_Japan_Shimizu Corporation_2022.txt,en,txt,functional_equivalent_needs_review,not_started
+construction-japan-takenaka-corporation-2024,Takenaka Corporation,Japan,Construction,Ethics_Codes_txt_files/Construction_Japan_Takenaka Corporation_2024.txt,en,txt,code_of_conduct,not_started
+construction-korea-dl-e-c-2023,DL E&C,Korea,Construction,Ethics_Codes_txt_files/Construction_Korea_DL E&C_2023.txt,en,txt,code_of_conduct,not_started
+construction-korea-daewoo-e-c-2024,Daewoo E&C,Korea,Construction,Ethics_Codes_txt_files/Construction_Korea_Daewoo E&C_2024.txt,en,txt,code_of_conduct,not_started
+construction-korea-hyundai-engineering-construction-2020,Hyundai Engineering & Construction,Korea,Construction,Ethics_Codes_txt_files/Construction_Korea_Hyundai Engineering & Construction_2020.txt,en,txt,code_of_conduct,not_started
+construction-korea-samsung-engineering-2018,Samsung Engineering,Korea,Construction,Ethics_Codes_txt_files/Construction_Korea_Samsung Engineering_2018.txt,en,txt,code_of_conduct,not_started
+defense-korea-hanwha-aerospace-2022,Hanwha Aerospace,Korea,Defense,Ethics_Codes_txt_files/Defense_Korea_Hanwha Aerospace_2022.txt,en,txt,functional_equivalent_needs_review,not_started
+defense-korea-hanwha-engine-2025,Hanwha Engine,Korea,Defense,Ethics_Codes_txt_files/Defense_Korea_Hanwha Engine_2025.txt,en,txt,code_of_conduct,not_started
+defense-korea-hyundai-rotem-2023,Hyundai Rotem,Korea,Defense,Ethics_Codes_txt_files/Defense_Korea_Hyundai Rotem_2023.txt,en,txt,code_of_conduct,not_started
+defense-korea-korea-aerospace-industries-2018,Korea Aerospace Industries,Korea,Defense,Ethics_Codes_txt_files/Defense_Korea_Korea Aerospace Industries_2018.txt,en,txt,code_of_conduct,not_started
+digital-china-alibaba-2021,ALIBABA,China,Digital,Ethics_Codes_txt_files/Digital_China_ALIBABA_2021.txt,en,txt,code_of_conduct,not_started
+digital-china-baidu-2023,Baidu,China,Digital,Ethics_Codes_txt_files/Digital_China_Baidu_2023.txt,en,txt,code_of_conduct,not_started
+digital-china-jd-2023,JD,China,Digital,Ethics_Codes_txt_files/Digital_China_JD_2023.txt,en,txt,code_of_ethics,not_started
+digital-china-netease-2024,NetEase,China,Digital,Ethics_Codes_txt_files/Digital_China_NetEase_2024.txt,en,txt,code_of_conduct,not_started
+digital-china-pdd-holdings-2018,PDD Holdings,China,Digital,Ethics_Codes_txt_files/Digital_China_PDD Holdings_2018.txt,en,txt,code_of_conduct,not_started
+digital-indonesia-global-digital-niaga-2023,Global Digital Niaga,Indonesia,Digital,Ethics_Codes_txt_files/Digital_Indonesia_Global Digital Niaga_2023.txt,en,txt,code_of_conduct,not_started
+digital-indonesia-goto-gojek-tokopedia-2021,GoTo Gojek Tokopedia,Indonesia,Digital,Ethics_Codes_txt_files/Digital_Indonesia_GoTo Gojek Tokopedia_2021.txt,en,txt,code_of_conduct,not_started
+digital-indonesia-sarana-menara-nusantara-2019,Sarana Menara Nusantara,Indonesia,Digital,Ethics_Codes_txt_files/Digital_Indonesia_Sarana Menara Nusantara_2019.txt,en,txt,code_of_conduct,not_started
+digital-indonesia-telkom-indonesia-2023,Telkom Indonesia,Indonesia,Digital,Ethics_Codes_txt_files/Digital_Indonesia_Telkom Indonesia_2023.txt,en,txt,code_of_conduct,not_started
+digital-russia-ozon-2020,Ozon,Russia,Digital,Ethics_Codes_txt_files/Digital_Russia_Ozon_2020.txt,ru,txt,functional_equivalent_needs_review,not_started
+digital-russia-sitronics-2021,Sitronics,Russia,Digital,Ethics_Codes_txt_files/Digital_Russia_Sitronics_2021.txt,ru,txt,functional_equivalent_needs_review,not_started
+digital-russia-softline-2024,Softline,Russia,Digital,Ethics_Codes_txt_files/Digital_Russia_Softline_2024.txt,ru,txt,functional_equivalent_needs_review,not_started
+digital-russia-vk-2022,VK,Russia,Digital,Ethics_Codes_txt_files/Digital_Russia_VK_2022.txt,ru,txt,functional_equivalent_needs_review,not_started
+digital-russia-yandex-2024,Yandex,Russia,Digital,Ethics_Codes_txt_files/Digital_Russia_Yandex_2024.txt,ru,txt,functional_equivalent_needs_review,not_started
+energy-china-cnooc-2024,CNOOC,China,Energy,Ethics_Codes_txt_files/Energy_China_CNOOC_2024.txt,en,txt,code_of_conduct,not_started
+energy-china-china-three-gorges-2019,China Three Gorges,China,Energy,Ethics_Codes_txt_files/Energy_China_China Three Gorges_2019.txt,en,txt,code_of_conduct,not_started
+energy-china-enn-energy-2021,ENN Energy,China,Energy,Ethics_Codes_txt_files/Energy_China_ENN Energy_2021.txt,en,txt,code_of_conduct,not_started
+energy-china-petrochina-2024,PetroChina,China,Energy,Ethics_Codes_txt_files/Energy_China_PetroChina_2024.txt,en,txt,code_of_conduct,not_started
+energy-indonesia-medco-energi-internasional-2020,Medco Energi Internasional,Indonesia,Energy,Ethics_Codes_txt_files/Energy_Indonesia_Medco Energi Internasional_2020.txt,en,txt,code_of_conduct,not_started
+energy-indonesia-tbs-energi-utama-2023,TBS Energi Utama,Indonesia,Energy,Ethics_Codes_txt_files/Energy_Indonesia_TBS Energi Utama_2023.txt,en,txt,code_of_ethics,not_started
+energy-japan-daigas-group-2021,Daigas Group,Japan,Energy,Ethics_Codes_txt_files/Energy_Japan_Daigas Group_2021.txt,en,txt,code_of_conduct,not_started
+energy-japan-jera-2025,JERA,Japan,Energy,Ethics_Codes_txt_files/Energy_Japan_JERA_2025.txt,en,txt,code_of_conduct,not_started
+energy-japan-kansai-electric-power-2020,Kansai Electric Power,Japan,Energy,Ethics_Codes_txt_files/Energy_Japan_Kansai Electric Power_2020.txt,en,txt,code_of_conduct,not_started
+energy-japan-tohoku-electric-power-2023,Tohoku Electric Power,Japan,Energy,Ethics_Codes_txt_files/Energy_Japan_Tohoku Electric Power_2023.txt,en,txt,code_of_conduct,not_started
+energy-korea-hanwha-corporation-2025,Hanwha Corporation,Korea,Energy,Ethics_Codes_txt_files/Energy_Korea_Hanwha Corporation_2025.txt,en,txt,code_of_conduct,not_started
+energy-korea-lg-chem-2022,LG Chem,Korea,Energy,Ethics_Codes_txt_files/Energy_Korea_LG Chem_2022.txt,en,txt,code_of_conduct,not_started
+energy-korea-s-oil-2024,S-OIL,Korea,Energy,Ethics_Codes_txt_files/Energy_Korea_S-OIL_2024.txt,en,txt,code_of_conduct,not_started
+energy-korea-sk-gas-2025,SK Gas,Korea,Energy,Ethics_Codes_txt_files/Energy_Korea_SK Gas_2025.txt,en,txt,code_of_ethics,not_started
+energy-korea-sk-innovation-2023,SK innovation,Korea,Energy,Ethics_Codes_txt_files/Energy_Korea_SK innovation_2023.txt,en,txt,code_of_ethics,not_started
+energy-russia-bashneft-2016,Bashneft,Russia,Energy,Ethics_Codes_txt_files/Energy_Russia_Bashneft_2016.txt,ru,txt,functional_equivalent_needs_review,not_started
+energy-russia-gazprom-2024,Gazprom,Russia,Energy,Ethics_Codes_txt_files/Energy_Russia_Gazprom_2024.txt,ru,txt,functional_equivalent_needs_review,not_started
+energy-russia-lukoil-2016,Lukoil,Russia,Energy,Ethics_Codes_txt_files/Energy_Russia_Lukoil_2016.txt,ru,txt,functional_equivalent_needs_review,not_started
+energy-russia-rosneft-2015,Rosneft,Russia,Energy,Ethics_Codes_txt_files/Energy_Russia_Rosneft_2015.txt,ru,txt,functional_equivalent_needs_review,not_started
+energy-russia-transneft-2024,Transneft,Russia,Energy,Ethics_Codes_txt_files/Energy_Russia_Transneft_2024.txt,ru,txt,functional_equivalent_needs_review,not_started
+entertainment-indonesia-nusantara-sejahtera-raya-2025,Nusantara Sejahtera Raya,Indonesia,Entertainment,Ethics_Codes_txt_files/Entertainment_Indonesia_Nusantara Sejahtera Raya_2025.txt,en,txt,code_of_conduct,not_started
+finance-china-citic-limited-2023,CITIC Limited,China,Finance,Ethics_Codes_txt_files/Finance_China_CITIC Limited_2023.txt,en,txt,code_of_conduct,not_started
+finance-china-china-life-insurance-2004,China Life Insurance,China,Finance,Ethics_Codes_txt_files/Finance_China_China Life Insurance_2004.txt,en,txt,code_of_conduct,not_started
+finance-china-lexinfintech-2017,LEXINFINTECH,China,Finance,Ethics_Codes_txt_files/Finance_China_LEXINFINTECH_2017.txt,en,txt,code_of_conduct,not_started
+finance-china-lufax-2020,Lufax,China,Finance,Ethics_Codes_txt_files/Finance_China_Lufax_2020.txt,en,txt,code_of_conduct,not_started
+finance-china-ping-an-group-2020,Ping An Group,China,Finance,Ethics_Codes_txt_files/Finance_China_Ping An Group_2020.txt,en,txt,code_of_conduct,not_started
+finance-indonesia-bca-2023,BCA,Indonesia,Finance,Ethics_Codes_txt_files/Finance_Indonesia_BCA_2023.txt,en,txt,code_of_conduct,not_started
+finance-indonesia-bni-2026,BNI,Indonesia,Finance,Ethics_Codes_txt_files/Finance_Indonesia_BNI_2026.txt,en,txt,code_of_conduct,not_started
+finance-indonesia-bsi-2024,BSI,Indonesia,Finance,Ethics_Codes_txt_files/Finance_Indonesia_BSI_2024.txt,en,txt,code_of_conduct,not_started
+finance-indonesia-btn-2023,BTN,Indonesia,Finance,Ethics_Codes_txt_files/Finance_Indonesia_BTN_2023.txt,en,txt,code_of_conduct,not_started
+finance-indonesia-bank-aladin-syariah-2023,Bank Aladin Syariah,Indonesia,Finance,Ethics_Codes_txt_files/Finance_Indonesia_Bank Aladin Syariah_2023.txt,en,txt,code_of_conduct,not_started
+finance-indonesia-bank-cimb-niaga-2023,Bank CIMB Niaga,Indonesia,Finance,Ethics_Codes_txt_files/Finance_Indonesia_Bank CIMB Niaga_2023.txt,en,txt,code_of_conduct,not_started
+finance-indonesia-bank-mandiri-2024,Bank Mandiri,Indonesia,Finance,Ethics_Codes_txt_files/Finance_Indonesia_Bank Mandiri_2024.txt,en,txt,code_of_conduct,not_started
+finance-indonesia-idclear-2024,IDClear,Indonesia,Finance,Ethics_Codes_txt_files/Finance_Indonesia_IDClear_2024.txt,en,txt,code_of_conduct,not_started
+finance-japan-mufg-group-2025,MUFG Group,Japan,Finance,Ethics_Codes_txt_files/Finance_Japan_MUFG Group_2025.txt,en,txt,code_of_conduct,not_started
+finance-japan-resona-holdings-2025,Resona Holdings,Japan,Finance,Ethics_Codes_txt_files/Finance_Japan_Resona Holdings_2025.txt,en,txt,functional_equivalent_needs_review,not_started
+finance-japan-sumitomo-mitsui-financial-group-2024,Sumitomo Mitsui Financial Group,Japan,Finance,Ethics_Codes_txt_files/Finance_Japan_Sumitomo Mitsui Financial Group_2024.txt,en,txt,code_of_conduct,not_started
+finance-japan-sumitomo-mitsui-trust-group-2025,Sumitomo Mitsui Trust Group,Japan,Finance,Ethics_Codes_txt_files/Finance_Japan_Sumitomo Mitsui Trust Group_2025.txt,en,txt,code_of_conduct,not_started
+finance-korea-hana-financial-group-2022,Hana Financial Group,Korea,Finance,Ethics_Codes_txt_files/Finance_Korea_Hana Financial Group_2022.txt,en,txt,code_of_conduct,not_started
+finance-korea-kb-financial-group-2024,KB Financial Group,Korea,Finance,Ethics_Codes_txt_files/Finance_Korea_KB Financial Group_2024.txt,en,txt,code_of_conduct,not_started
+finance-korea-shinhan-financial-group-2026,Shinhan Financial Group,Korea,Finance,Ethics_Codes_txt_files/Finance_Korea_Shinhan Financial Group_2026.txt,en,txt,code_of_conduct,not_started
+finance-korea-woori-financial-group-2025,Woori Financial Group,Korea,Finance,Ethics_Codes_txt_files/Finance_Korea_Woori Financial Group_2025.txt,en,txt,code_of_conduct,not_started
+finance-russia-pochtabank-2017,PochtaBank,Russia,Finance,Ethics_Codes_txt_files/Finance_Russia_PochtaBank_2017.txt,ru,txt,functional_equivalent_needs_review,not_started
+finance-russia-sber-2022,Sber,Russia,Finance,Ethics_Codes_txt_files/Finance_Russia_Sber_2022.txt,ru,txt,functional_equivalent_needs_review,not_started
+finance-russia-tinkoff-2019,Tinkoff,Russia,Finance,Ethics_Codes_txt_files/Finance_Russia_Tinkoff_2019.txt,ru,txt,code_of_conduct,not_started
+finance-russia-vbrr-2021,VBRR,Russia,Finance,Ethics_Codes_txt_files/Finance_Russia_VBRR_2021.txt,ru,txt,functional_equivalent_needs_review,not_started
+finance-russia-vtb-2021,VTB,Russia,Finance,Ethics_Codes_txt_files/Finance_Russia_VTB_2021.txt,ru,txt,functional_equivalent_needs_review,not_started
+it-indonesia-astra-graphia-2022,Astra Graphia,Indonesia,IT,Ethics_Codes_txt_files/IT_Indonesia_Astra Graphia_2022.txt,en,txt,code_of_conduct,not_started
+insurance-japan-dai-ichi-life-holdings-2024,Dai-ichi Life Holdings,Japan,Insurance,Ethics_Codes_txt_files/Insurance_Japan_Dai-ichi Life Holdings_2024.txt,en,txt,code_of_conduct,not_started
+insurance-japan-sompo-holdings-2025,Sompo Holdings,Japan,Insurance,Ethics_Codes_txt_files/Insurance_Japan_Sompo Holdings_2025.txt,en,txt,code_of_conduct,not_started
+insurance-japan-sumitomo-life-insurance-2022,Sumitomo Life Insurance,Japan,Insurance,Ethics_Codes_txt_files/Insurance_Japan_Sumitomo Life Insurance_2022.txt,en,txt,code_of_conduct,not_started
+insurance-japan-tokio-marine-2024,Tokio Marine,Japan,Insurance,Ethics_Codes_txt_files/Insurance_Japan_Tokio Marine_2024.txt,en,txt,code_of_conduct,not_started
+logistics-china-china-airlines-group-2023,China Airlines Group,China,Logistics,Ethics_Codes_txt_files/Logistics_China_China Airlines Group_2023.txt,en,txt,code_of_conduct,not_started
+logistics-china-china-southern-airlines-2023,China Southern Airlines,China,Logistics,Ethics_Codes_txt_files/Logistics_China_China Southern Airlines_2023.txt,en,txt,code_of_ethics,not_started
+logistics-china-trip-com-group-2023,Trip.com Group,China,Logistics,Ethics_Codes_txt_files/Logistics_China_Trip.com Group_2023.txt,en,txt,code_of_conduct,not_started
+logistics-china-yanfeng-automotive-interiors-2024,Yanfeng Automotive Interiors,China,Logistics,Ethics_Codes_txt_files/Logistics_China_Yanfeng Automotive Interiors_2024.txt,en,txt,code_of_conduct,not_started
+logistics-indonesia-samudera-indonesia-2020,Samudera Indonesia,Indonesia,Logistics,Ethics_Codes_txt_files/Logistics_Indonesia_Samudera Indonesia_2020.txt,en,txt,code_of_conduct,not_started
+logistics-japan-ana-group-2013,ANA Group,Japan,Logistics,Ethics_Codes_txt_files/Logistics_Japan_ANA Group_2013.txt,en,txt,code_of_conduct,not_started
+logistics-japan-japan-airlines-2024,Japan Airlines,Japan,Logistics,Ethics_Codes_txt_files/Logistics_Japan_Japan Airlines_2024.txt,en,txt,code_of_conduct,not_started
+logistics-japan-kawasaki-kisen-kaisha-2025,Kawasaki Kisen Kaisha,Japan,Logistics,Ethics_Codes_txt_files/Logistics_Japan_Kawasaki Kisen Kaisha_2025.txt,en,txt,functional_equivalent_needs_review,not_started
+logistics-japan-mitsui-o-s-k-lines-2025,Mitsui O.S.K. Lines,Japan,Logistics,Ethics_Codes_txt_files/Logistics_Japan_Mitsui O.S.K. Lines_2025.txt,en,txt,functional_equivalent_needs_review,not_started
+logistics-japan-yamato-holdings-2024,Yamato Holdings,Japan,Logistics,Ethics_Codes_txt_files/Logistics_Japan_Yamato Holdings_2024.txt,en,txt,code_of_conduct,not_started
+manufactoring-korea-hyundai-steel-2020,Hyundai Steel,Korea,Manufactoring,Ethics_Codes_txt_files/Manufactoring_Korea_Hyundai Steel_2020.txt,ko,txt,code_of_conduct,not_started
+manufactoring-korea-ls-electric-2023,LS ELECTRIC,Korea,Manufactoring,Ethics_Codes_txt_files/Manufactoring_Korea_LS ELECTRIC_2023.txt,en,txt,code_of_ethics,not_started
+manufactoring-korea-posco-future-m-2025,POSCO Future M,Korea,Manufactoring,Ethics_Codes_txt_files/Manufactoring_Korea_POSCO Future M_2025.txt,en,txt,code_of_conduct,not_started
+manufactoring-korea-poongsan-2019,Poongsan,Korea,Manufactoring,Ethics_Codes_txt_files/Manufactoring_Korea_Poongsan_2019.txt,en,txt,code_of_ethics,not_started
+manufactoring-korea-seah-holdings-2022,SeAH Holdings,Korea,Manufactoring,Ethics_Codes_txt_files/Manufactoring_Korea_SeAH Holdings_2022.txt,en,txt,code_of_conduct,not_started
+manufacturing-china-catl-2023,CATL,China,Manufacturing,Ethics_Codes_txt_files/Manufacturing_China_CATL_2023.txt,en,txt,code_of_conduct,not_started
+manufacturing-china-haier-2022,Haier,China,Manufacturing,Ethics_Codes_txt_files/Manufacturing_China_Haier_2022.txt,en,txt,code_of_conduct,not_started
+manufacturing-china-hikvision-2023,Hikvision,China,Manufacturing,Ethics_Codes_txt_files/Manufacturing_China_Hikvision_2023.txt,zh,txt,code_of_conduct,not_started
+manufacturing-china-lenovo-2021,Lenovo,China,Manufacturing,Ethics_Codes_txt_files/Manufacturing_China_Lenovo_2021.txt,en,txt,code_of_conduct,not_started
+manufacturing-china-midea-group-2025,Midea Group,China,Manufacturing,Ethics_Codes_txt_files/Manufacturing_China_Midea Group_2025.txt,en,txt,code_of_conduct,not_started
+manufacturing-indonesia-indah-kiat-pulp-paper-2023,Indah Kiat Pulp & Paper,Indonesia,Manufacturing,Ethics_Codes_txt_files/Manufacturing_Indonesia_Indah Kiat Pulp & Paper_2023.txt,en,txt,code_of_conduct,not_started
+manufacturing-indonesia-pabrik-kertas-tjiwi-kimia-2023,Pabrik Kertas Tjiwi Kimia,Indonesia,Manufacturing,Ethics_Codes_txt_files/Manufacturing_Indonesia_Pabrik Kertas Tjiwi Kimia_2023.txt,en,txt,code_of_conduct,not_started
+manufacturing-indonesia-semen-indonesia-2022,Semen Indonesia,Indonesia,Manufacturing,Ethics_Codes_txt_files/Manufacturing_Indonesia_Semen Indonesia_2022.txt,en,txt,code_of_conduct,not_started
+manufacturing-indonesia-trisula-international-2025,Trisula International,Indonesia,Manufacturing,Ethics_Codes_txt_files/Manufacturing_Indonesia_Trisula International_2025.txt,en,txt,code_of_conduct,not_started
+manufacturing-russia-alrosa-2021,Alrosa,Russia,Manufacturing,Ethics_Codes_txt_files/Manufacturing_Russia_Alrosa_2021.txt,ru,txt,functional_equivalent_needs_review,not_started
+manufacturing-russia-rosatom-2009,Rosatom,Russia,Manufacturing,Ethics_Codes_txt_files/Manufacturing_Russia_Rosatom_2009.txt,ru,txt,functional_equivalent_needs_review,not_started
+manufacturing-russia-sibur-2021,Sibur,Russia,Manufacturing,Ethics_Codes_txt_files/Manufacturing_Russia_Sibur_2021.txt,ru,txt,functional_equivalent_needs_review,not_started
+manufacturing-russia-tmk-2019,TMK,Russia,Manufacturing,Ethics_Codes_txt_files/Manufacturing_Russia_TMK_2019.txt,ru,txt,functional_equivalent_needs_review,not_started
+mining-indonesia-adaro-energy-2018,Adaro Energy,Indonesia,Mining,Ethics_Codes_txt_files/Mining_Indonesia_Adaro Energy_2018.txt,en,txt,code_of_conduct,not_started
+mining-indonesia-aneka-tambang-2016,Aneka Tambang,Indonesia,Mining,Ethics_Codes_txt_files/Mining_Indonesia_Aneka Tambang_2016.txt,en,txt,code_of_conduct,not_started
+mining-indonesia-archi-indonesia-2024,Archi Indonesia,Indonesia,Mining,Ethics_Codes_txt_files/Mining_Indonesia_Archi Indonesia_2024.txt,en,txt,code_of_conduct,not_started
+mining-indonesia-merdeka-copper-gold-2022,Merdeka Copper Gold,Indonesia,Mining,Ethics_Codes_txt_files/Mining_Indonesia_Merdeka Copper Gold_2022.txt,en,txt,code_of_conduct,not_started
+mining-indonesia-petrindo-jaya-kreasi-2022,Petrindo Jaya Kreasi,Indonesia,Mining,Ethics_Codes_txt_files/Mining_Indonesia_Petrindo Jaya Kreasi_2022.txt,en,txt,code_of_conduct,not_started
+mining-indonesia-petrosea-2024,Petrosea,Indonesia,Mining,Ethics_Codes_txt_files/Mining_Indonesia_Petrosea_2024.txt,en,txt,code_of_conduct,not_started
+mining-indonesia-timah-2021,TIMAH,Indonesia,Mining,Ethics_Codes_txt_files/Mining_Indonesia_TIMAH_2021.txt,en,txt,code_of_conduct,not_started
+mining-indonesia-united-tractors-2023,United Tractors,Indonesia,Mining,Ethics_Codes_txt_files/Mining_Indonesia_United Tractors_2023.txt,en,txt,code_of_conduct,not_started
+mining-russia-alrosa-2021,Alrosa,Russia,Mining,Ethics_Codes_txt_files/Mining_Russia_Alrosa_2021.txt,ru,txt,functional_equivalent_needs_review,not_started
+mining-russia-mechel-2020,Mechel,Russia,Mining,Ethics_Codes_txt_files/Mining_Russia_Mechel_2020.txt,ru,txt,functional_equivalent_needs_review,not_started
+mining-russia-polymetal-2021,Polymetal,Russia,Mining,Ethics_Codes_txt_files/Mining_Russia_Polymetal_2021.txt,ru,txt,functional_equivalent_needs_review,not_started
+mining-russia-uralkaliy-2023,Uralkaliy,Russia,Mining,Ethics_Codes_txt_files/Mining_Russia_Uralkaliy_2023.txt,ru,txt,functional_equivalent_needs_review,not_started
+mining-russia-yugk-2021,YUGK,Russia,Mining,Ethics_Codes_txt_files/Mining_Russia_YUGK_2021.txt,ru,txt,functional_equivalent_needs_review,not_started
+pharma-china-shanghai-fosun-pharmaceutical-2023,Shanghai Fosun Pharmaceutical,China,Pharma,Ethics_Codes_txt_files/Pharma_China_Shanghai Fosun Pharmaceutical_2023.txt,en,txt,code_of_conduct,not_started
+pharma-china-sinovac-biotech-ltd-2006,Sinovac Biotech Ltd,China,Pharma,Ethics_Codes_txt_files/Pharma_China_Sinovac Biotech Ltd_2006.txt,en,txt,code_of_conduct,not_started
+pharma-china-wuxi-apptec-2021,WuXi AppTec,China,Pharma,Ethics_Codes_txt_files/Pharma_China_WuXi AppTec_2021.txt,en,txt,code_of_conduct,not_started
+pharma-china-wuxi-biologics-2024,WuXi Biologics,China,Pharma,Ethics_Codes_txt_files/Pharma_China_WuXi Biologics_2024.txt,en,txt,code_of_conduct,not_started
+pharma-china-zai-lab-2020,Zai Lab,China,Pharma,Ethics_Codes_txt_files/Pharma_China_Zai Lab_2020.txt,en,txt,code_of_conduct,not_started
+pharma-indonesia-kalbe-farma-2025,Kalbe Farma,Indonesia,Pharma,Ethics_Codes_txt_files/Pharma_Indonesia_Kalbe Farma_2025.txt,en,txt,code_of_conduct,not_started
+pharma-indonesia-tempo-scan-pacific-2022,Tempo Scan Pacific,Indonesia,Pharma,Ethics_Codes_txt_files/Pharma_Indonesia_Tempo Scan Pacific_2022.txt,en,txt,code_of_conduct,not_started
+pharma-japan-astellas-pharma-inc-2025,Astellas Pharma Inc.,Japan,Pharma,Ethics_Codes_txt_files/Pharma_Japan_Astellas Pharma Inc._2025.txt,en,txt,code_of_conduct,not_started
+pharma-japan-daiichi-sankyo-co-2020,Daiichi Sankyo Co.,Japan,Pharma,Ethics_Codes_txt_files/Pharma_Japan_Daiichi Sankyo Co._2020.txt,en,txt,code_of_conduct,not_started
+pharma-japan-eisai-co-2017,Eisai Co.,Japan,Pharma,Ethics_Codes_txt_files/Pharma_Japan_Eisai Co._2017.txt,en,txt,code_of_conduct,not_started
+pharma-japan-otsuka-holdings-co-2023,Otsuka Holdings Co.,Japan,Pharma,Ethics_Codes_txt_files/Pharma_Japan_Otsuka Holdings Co._2023.txt,en,txt,code_of_conduct,not_started
+pharma-korea-celltrion-2024,Celltrion,Korea,Pharma,Ethics_Codes_txt_files/Pharma_Korea_Celltrion_2024.txt,en,txt,code_of_conduct,not_started
+pharma-korea-lunit-2025,Lunit,Korea,Pharma,Ethics_Codes_txt_files/Pharma_Korea_Lunit_2025.txt,en,txt,code_of_ethics,not_started
+pharma-korea-sk-bioscience-2025,SK bioscience,Korea,Pharma,Ethics_Codes_txt_files/Pharma_Korea_SK bioscience_2025.txt,en,txt,code_of_ethics,not_started
+pharma-korea-samsung-epis-holdings-2025,Samsung Epis Holdings,Korea,Pharma,Ethics_Codes_txt_files/Pharma_Korea_Samsung Epis Holdings_2025.txt,en,txt,code_of_conduct,not_started
+pharma-russia-biocad-2022,Biocad,Russia,Pharma,Ethics_Codes_txt_files/Pharma_Russia_Biocad_2022.txt,ru,txt,functional_equivalent_needs_review,not_started
+pharma-russia-imeda-2020,Imeda,Russia,Pharma,Ethics_Codes_txt_files/Pharma_Russia_Imeda_2020.txt,ru,txt,functional_equivalent_needs_review,not_started
+pharma-russia-pfizer-2012,Pfizer,Russia,Pharma,Ethics_Codes_txt_files/Pharma_Russia_Pfizer_2012.txt,ru,txt,functional_equivalent_needs_review,not_started
+pharma-russia-pharmforward-2014,Pharmforward,Russia,Pharma,Ethics_Codes_txt_files/Pharma_Russia_Pharmforward_2014.txt,ru,txt,functional_equivalent_needs_review,not_started
+real-estate-indonesia-ciputra-2018,Ciputra,Indonesia,Real estate,Ethics_Codes_txt_files/Real estate_Indonesia_Ciputra_2018.txt,en,txt,code_of_conduct,not_started
+retail-china-bilibili-2018,Bilibili,China,Retail,Ethics_Codes_txt_files/Retail_China_Bilibili_2018.txt,en,txt,code_of_conduct,not_started
+retail-china-luckin-coffee-2020,Luckin Coffee,China,Retail,Ethics_Codes_txt_files/Retail_China_Luckin Coffee_2020.txt,en,txt,code_of_conduct,not_started
+retail-china-tencent-music-entertainment-2019,Tencent Music Entertainment,China,Retail,Ethics_Codes_txt_files/Retail_China_Tencent Music Entertainment_2019.txt,en,txt,code_of_conduct,not_started
+retail-china-yum-china-2020,Yum China,China,Retail,Ethics_Codes_txt_files/Retail_China_Yum China_2020.txt,en,txt,code_of_conduct,not_started
+retail-indonesia-multitrend-indo-2023,Multitrend Indo,Indonesia,Retail,Ethics_Codes_txt_files/Retail_Indonesia_Multitrend Indo_2023.txt,en,txt,code_of_conduct,not_started
+retail-korea-cj-cheiljedang-2022,CJ CheilJedang,Korea,Retail,Ethics_Codes_txt_files/Retail_Korea_CJ CheilJedang_2022.txt,en,txt,code_of_conduct,not_started
+retail-korea-lotte-corporation-2025,LOTTE Corporation,Korea,Retail,Ethics_Codes_txt_files/Retail_Korea_LOTTE Corporation_2025.txt,en,txt,code_of_conduct,not_started
+retail-korea-lotte-shopping-2025,LOTTE Shopping,Korea,Retail,Ethics_Codes_txt_files/Retail_Korea_LOTTE Shopping_2025.txt,en,txt,code_of_conduct,not_started
+retail-korea-lx-pantos-2022,LX Pantos,Korea,Retail,Ethics_Codes_txt_files/Retail_Korea_LX Pantos_2022.txt,en,txt,code_of_ethics,not_started
+retail-korea-sk-networks-2023,SK Networks,Korea,Retail,Ethics_Codes_txt_files/Retail_Korea_SK Networks_2023.txt,en,txt,code_of_ethics,not_started
+retail-russia-lenta-2021,Lenta,Russia,Retail,Ethics_Codes_txt_files/Retail_Russia_Lenta_2021.txt,ru,txt,code_of_conduct,not_started
+retail-russia-magnit-2019,Magnit,Russia,Retail,Ethics_Codes_txt_files/Retail_Russia_Magnit_2019.txt,ru,txt,functional_equivalent_needs_review,not_started
+retail-russia-x5-2015,X5,Russia,Retail,Ethics_Codes_txt_files/Retail_Russia_X5_2015.txt,ru,txt,functional_equivalent_needs_review,not_started
+retali-russia-fixprice-2022,FixPrice,Russia,Retali,Ethics_Codes_txt_files/Retali_Russia_FixPrice_2022.txt,ru,txt,code_of_conduct,not_started
+sogo-sosha-japan-itochu-2022,ITOCHU,Japan,Sogo Sosha,Ethics_Codes_txt_files/Sogo Sosha_Japan_ITOCHU_2022.txt,en,txt,code_of_conduct,not_started
+sogo-sosha-japan-marubeni-corporation-2025,Marubeni Corporation,Japan,Sogo Sosha,Ethics_Codes_txt_files/Sogo Sosha_Japan_Marubeni Corporation_2025.txt,en,txt,functional_equivalent_needs_review,not_started
+sogo-sosha-japan-mitsubishi-corporation-2019,Mitsubishi Corporation,Japan,Sogo Sosha,Ethics_Codes_txt_files/Sogo Sosha_Japan_Mitsubishi Corporation_2019.txt,en,txt,code_of_conduct,not_started
+sogo-sosha-japan-mitsui-co-2024,Mitsui & Co.,Japan,Sogo Sosha,Ethics_Codes_txt_files/Sogo Sosha_Japan_Mitsui & Co._2024.txt,en,txt,code_of_conduct,not_started
+sogo-sosha-japan-sumitomo-corporation-2024,Sumitomo Corporation,Japan,Sogo Sosha,Ethics_Codes_txt_files/Sogo Sosha_Japan_Sumitomo Corporation_2024.txt,en,txt,functional_equivalent_needs_review,not_started
+tech-japan-hitachi-ltd-2023,"Hitachi, Ltd.",Japan,Tech,"Ethics_Codes_txt_files/Tech_Japan_Hitachi, Ltd._2023.txt",en,txt,code_of_conduct,not_started
+tech-japan-nec-corporation-2019,NEC Corporation,Japan,Tech,Ethics_Codes_txt_files/Tech_Japan_NEC Corporation_2019.txt,en,txt,code_of_conduct,not_started
+tech-japan-panasonic-2025,Panasonic,Japan,Tech,Ethics_Codes_txt_files/Tech_Japan_Panasonic_2025.txt,en,txt,code_of_ethics,not_started
+tech-japan-sony-group-2025,Sony Group,Japan,Tech,Ethics_Codes_txt_files/Tech_Japan_Sony Group_2025.txt,en,txt,code_of_conduct,not_started
+tech-korea-db-hitek-2024,DB HiTek,Korea,Tech,Ethics_Codes_txt_files/Tech_Korea_DB HiTek_2024.txt,en,txt,code_of_conduct,not_started
+tech-korea-lg-display-2025,LG Display,Korea,Tech,Ethics_Codes_txt_files/Tech_Korea_LG Display_2025.txt,en,txt,code_of_conduct,not_started
+tech-korea-sk-siltron-2017,SK siltron,Korea,Tech,Ethics_Codes_txt_files/Tech_Korea_SK siltron_2017.txt,en,txt,code_of_ethics,not_started
+tech-korea-samsung-electro-mechanics-2017,Samsung Electro-Mechanics,Korea,Tech,Ethics_Codes_txt_files/Tech_Korea_Samsung Electro-Mechanics_2017.txt,en,txt,code_of_conduct,not_started
+tech-korea-samsung-electronics-2020,Samsung Electronics,Korea,Tech,Ethics_Codes_txt_files/Tech_Korea_Samsung Electronics_2020.txt,en,txt,code_of_conduct,not_started
+telecom-china-china-telecom-2024,China Telecom,China,Telecom,Ethics_Codes_txt_files/Telecom_China_China Telecom_2024.txt,en,txt,code_of_conduct,not_started
+telecom-china-china-unicom-2023,China Unicom,China,Telecom,Ethics_Codes_txt_files/Telecom_China_China Unicom_2023.txt,en,txt,code_of_conduct,not_started
+telecom-china-huawei-2025,Huawei,China,Telecom,Ethics_Codes_txt_files/Telecom_China_Huawei_2025.txt,en,txt,code_of_conduct,not_started
+telecom-china-zte-2025,ZTE,China,Telecom,Ethics_Codes_txt_files/Telecom_China_ZTE_2025.txt,en,txt,code_of_conduct,not_started
+telecom-china-ztt-2020,ZTT,China,Telecom,Ethics_Codes_txt_files/Telecom_China_ZTT_2020.txt,en,txt,code_of_conduct,not_started
+telecom-japan-internet-initiative-japan-2025,Internet Initiative Japan,Japan,Telecom,Ethics_Codes_txt_files/Telecom_Japan_Internet Initiative Japan_2025.txt,en,txt,code_of_conduct,not_started
+telecom-japan-kddi-2023,KDDI,Japan,Telecom,Ethics_Codes_txt_files/Telecom_Japan_KDDI_2023.txt,en,txt,code_of_conduct,not_started
+telecom-japan-ly-corporation-2025,LY Corporation,Japan,Telecom,Ethics_Codes_txt_files/Telecom_Japan_LY Corporation_2025.txt,en,txt,code_of_conduct,not_started
+telecom-japan-ntt-docomo-2024,NTT DOCOMO,Japan,Telecom,Ethics_Codes_txt_files/Telecom_Japan_NTT DOCOMO_2024.txt,en,txt,code_of_ethics,not_started
+telecom-korea-kt-corp-2019,KT Corp,Korea,Telecom,Ethics_Codes_txt_files/Telecom_Korea_KT Corp_2019.txt,en,txt,functional_equivalent_needs_review,not_started
+telecom-korea-kakao-2012,Kakao,Korea,Telecom,Ethics_Codes_txt_files/Telecom_Korea_Kakao_2012.txt,en,txt,code_of_conduct,not_started
+telecom-korea-naver-2024,NAVER,Korea,Telecom,Ethics_Codes_txt_files/Telecom_Korea_NAVER_2024.txt,en,txt,functional_equivalent_needs_review,not_started
+telecom-korea-sk-telecom-2023,SK Telecom,Korea,Telecom,Ethics_Codes_txt_files/Telecom_Korea_SK Telecom_2023.txt,en,txt,code_of_ethics,not_started
+telecom-korea-samsung-sds-2021,Samsung SDS,Korea,Telecom,Ethics_Codes_txt_files/Telecom_Korea_Samsung SDS_2021.txt,en,txt,code_of_conduct,not_started
+telecom-russia-mts-2022,MTS,Russia,Telecom,Ethics_Codes_txt_files/Telecom_Russia_MTS_2022.txt,ru,txt,functional_equivalent_needs_review,not_started
+telecom-russia-megafon-2018,Megafon,Russia,Telecom,Ethics_Codes_txt_files/Telecom_Russia_Megafon_2018.txt,ru,txt,functional_equivalent_needs_review,not_started
+telecom-russia-rtk-2019,RTK,Russia,Telecom,Ethics_Codes_txt_files/Telecom_Russia_RTK_2019.txt,ru,txt,functional_equivalent_needs_review,not_started
+telecom-russia-veon-2021,VEON,Russia,Telecom,Ethics_Codes_txt_files/Telecom_Russia_VEON_2021.txt,ru,txt,functional_equivalent_needs_review,not_started
