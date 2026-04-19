@@ -1,0 +1,914 @@
+Кодекс корпоративного поведения
+  Группы компаний Тинькофф
+   Corporate Code of Conduct
+
+
+
+
+                                  1
+Содержание / Contents
+1.     Общие положения / Introduction . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 3
+
+2.     Ценности и принципы корпоративной культуры Группы /
+       Values and Principles of the Group’s Corporate Culture . . . . . . . . . . . . . . . . . . . . . . . 4
+
+3.     Конфликт интересов, противодействие коррупции /
+       Conflict of Interest, Anti-Corruption Efforts  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 6
+
+4.	Взаимоотношения с клиентами, деловыми партнерами,
+    органами государственной власти и конкурентами /
+    Relations with Customers, Business Partners,
+    Government Authorities and Competitors . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 9
+
+5.     Взаимоотношения с сотрудниками / Employee Relations  . . . . . . . . . . . . . . . . . . 10
+
+6.     Подарки и другие виды вознаграждений / Gifts and Other Benefits . . . . . . . . . . 12
+
+7.     Забота об окружающей среде / Care about the environment . . . . . . . . . . . . . . . . 12
+
+8.     Раскрытие информации / Disclosures . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  13
+
+9.     Обеспечение сохранности имущества / Safekeeping of Property  . . . . . . . . . . . 14
+
+10. Учет и финансовая отчетность / Accounting and Financial Statements  . . . . . . . 14
+
+11. Корпоративный стиль / Corporate Identity  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  15
+
+12. Нарушение положений настоящего Кодекса / Violation of this Code . . . . . . . .  15
+
+13. Заключительные положения / Final Provisions  . . . . . . . . . . . . . . . . . . . . . . . . . . . 16
+
+
+
+
+                                                                                                                       2
+1.      Общие положения                                  1.      Introduction
+1.1.    Кодекс корпоративного поведения Группы           1.1.    Tinkoff Group (the "Group") Code of Corporate
+        компаний Тинькофф (далее — Кодекс) является              Conduct (the "Code") is the document outlining the
+        документом Группы компаний Тинькофф                      corporate culture of the Group, its core values and
+        (далее — Группа), описывающим корпоративную              core business principles.
+        культуру Группы, ключевые ценности и основные
+        принципы деятельности Группы.
+1.2.    Настоящий Кодекс — это документ,                 1.2.    This Code is a document providing all employees
+        в соответствии с которым все сотрудники                  of the Group with an understanding of its corporate
+        Группы могут получить представление                      culture and approaches to building a sustainable
+        о ее корпоративной культуре и подходах                   brand and enhancing the loyalty of all stakeholders
+        к построению устойчивого бренда и повышению              engaged by the Group in the course of its activities.
+        лояльности всех заинтересованных лиц,
+        с которыми взаимодействует Группа в процессе
+        своей деятельности.
+1.3.    Настоящий Кодекс распространяется на всю         1.3.    This Code applies to the entire Group, which
+        Группу, включающую «ТиСиЭс Груп Холдинг                  includes TCS Group Holding PLC, Tinkoff Bank JSC,
+        ПиЭлСи», АО «Тинькофф Банк», АО «Тинькофф                Tinkoff Insurance JSC, Tinkoff Mobile LLC, Tinkoff
+        Страхование», ООО «Тинькофф Мобайл»,                     Development Centre LLC, and other entities controlled
+        ООО «Тинькофф Центр Разработки», а также                 or significantly influenced by TCS Group Holding PLC
+        иные юридические лица, в которых «ТиСиЭс                 in accordance with IFRS.
+        Груп Холдинг ПиЭлСи» имеет контроль или
+        значительное влияние в соответствии с МСФО.
+1.4.    Официальными языками Группы являются             1.4.    Official languages of the Group are Russian or English,
+        русский или английский языки в зависимости               depending on the location of the Group company’s
+        от места регистрации компании Группы.                    registered office.
+1.5.    Объективность ценностей и принципов,             1.5.    The values and principles as well as policies set out in
+        сформированных настоящим Кодексом,                       this Code reflect the unique corporate culture adopted
+        отражают уникальную корпоративную культуру,              by the Group given its activities.
+        принятую в Группе, и основанную на ее
+        деятельности.
+1.6.    Положения настоящего Кодекса основаны            1.6.    Provisions of this Code are based on the mission of the
+        на миссии Группы, которая стремится                      Group, which strives to improve customer service, to
+        к совершенствованию обслуживания клиентов,               establish strong mutually beneficial business relations
+        установлению прочных взаимовыгодных                      with partners and, as a result, to increase investment
+        деловых связей с партнерами, и, как следствие,           and transparency.
+        к росту инвестиционной привлекательности
+        и прозрачности.
+1.7.    Помимо взаимоотношений с клиентами               1.7.    In addition to relations with customers and business
+        и деловыми партнерами, настоящий Кодекс                  partners, this Code also sets out the principles
+        также определяет принципы, на которых строятся           underlying the Group’s interaction with government
+        отношения Группы с органами государственной              authorities and competitors.
+        власти и конкурентами.
+1.8.    Группа неукоснительно выполняет взятые на себя   1.8.    The Group shall abide by its commitments to
+        обязательства перед клиентами, деловыми                  customers, business partners, shareholders and
+        партнерами, акционерами и инвесторами                    investors and shall make every effort to ensure that the
+        и делает все возможное, чтобы внешние                    Group's external and internal relations are based on
+        и внутренние отношения Группы основывались               mutual trust, respect and openness.
+        на взаимном доверии, уважении и открытости.
+1.9.    Группа осуществляет регулярное обучение          1.9.    The Group shall regularly train its employees and
+        и проверку знаний сотрудников по настоящему              test their knowledge of this Code and therefore all
+        Кодексу, поэтому сотрудники должны                       employees have a duty to familiarise themselves with
+        ознакомиться с положениями настоящего                    this Code and comply with it at all times.
+        Кодекса и следовать его положениям.
+1.10.   Любые вопросы о настоящем Кодексе и его          1.10.   Any questions arising from this Code and its contents
+        содержании следует адресовать руководителям              should be dealt with by the head of each business unit/
+        бизнес-линий и/или непосредственным                      each line manager.
+        линейным руководителям.
+
+
+
+                                                                                                                            3
+2.     Ценности и принципы                               2.      Values and Principles of the Group's
+       корпоративной культуры Группы                             Corporate Culture
+2.1.   Группа выстраивает свою деятельность              2.1.    The Group arranges its activities on the following
+       на основании следующих ценностей и принципов:             values and principles:
+2.1.1. Мы работаем для клиента. Клиент — наш             2.1.1. We are customer-centric. We succeed as a
+       работодатель. Если клиент доволен, компания              business only when our customers are satisfied. We
+       успешна. Если успешна компания, успешны и мы.            listen to our customers: what they need is what we
+       Мы слышим клиентов — что нужно им, нужно                 need. We aim to anticipate our customers’ needs
+       и нам. Мы предвосхищаем желания клиентов.                and expectations, and as pioneers since the very
+       Многое мы создали первыми в мире, когда                  beginning we create products and services our
+       клиенты еще не знали, что это возможно.                  customers could not even have imagined.
+2.1.2. Мы в одной лодке. Победы и поражения —            2.1.2. We are one team. Our successes and failures are
+       общие. Мы вместе достигаем успеха и вместе               shared. We achieve success together and work
+       работаем над ошибками. Нас мотивируют успехи             to improve together as well. We are motivated by
+       коллег, а их — наши успехи. Мы общаемся,                 the success of our colleagues, just as our success
+       спорим, при этом слышим друг друга. Находим              motivates them. We debate, and while we may
+       лучшее решение из возможных ради успеха                  sometimes disagree we always listen to each other.
+       компании.                                                Together, we find the best possible solutions for the
+                                                                success of our company.
+2.1.3. Мы задаем тренды. Мы не боимся ошибок — мы        2.1.3. We are trendsetters. We are not afraid of making
+       на них учимся. Каждый свободен действовать, как          mistakes — we learn from them. Everyone is free to
+       считает правильным, и каждый может ошибиться.            act as they see fit, and everyone can make mistakes.
+       Мы делимся с коллегами идеями, даже если они             We share ideas even if they do not seem promising at
+       не кажутся гениальными. Быстро тестируем                 first and test hypotheses quickly and make decisions
+       гипотезы и принимаем решения на основе                   based on considered analysis.
+       анализа данных.
+2.1.4. Мы считаем компанию своей. Мы не делим            2.1.4. We have an ownership mindset.
+       обязанности на непосредственные                          We do not categorize what we do into primary and
+       и посредственные. Если что-то можно                      secondary responsibilities. If something can be
+       улучшить, мы это улучшим. Мы думаем                      improved, we will improve it. We think about how
+       о том, как наши действия влияют на будущее.              our actions will affect the future — not as fortune
+       Не как предсказатели, но как визионеры.                  tellers but as visionaries. We make sure the company
+       Мы обеспечиваем устойчивое развитие Группы.              operates in a sustainable fashion. Despite our
+       Мы не останавливаемся на достигнутом                     successes, we are never satisfied and we build on our
+       и в процессе достижения результата стараемся             success by nurturing and motivating our talent and
+       бережно относиться к ресурсам                            resources.
+2.1.5. Мы любим то, что делаем. Мы работаем              2.1.5. We love what we do. We do more than is expected of
+       на результат и делаем больше, чем от нас ждут.           us, because we know that there are no extraordinary
+       Потому что знаем: не бывает сверх результатов            results without extraordinary efforts. As we forge
+       без сверхусилий. Мы двигаемся вперед                     ahead, we strive to inspire others by our example.
+       и вдохновляем других своим примером.
+2.2.   В своей деятельности Группа исключает:            2.2.    In its activities, the Group shall exclude:
+       • нарушение общепризнанных принципов                      • violation of generally recognized principles and
+         и норм международного права, действующего                 regulations of international law, applicable laws,
+         законодательства, внутренних нормативных                  internal regulations of the Group companies,
+         документов компаний Группы, норм деловой                  business ethics and customs;
+         этики и обычаев;
+       • злоупотребление правом;                                 • abuse of rights;
+       • ущемление чьих-либо прав, свобод, законных              • infringement of someone's rights, freedoms,
+         интересов и достоинства;                                  legitimate interests and dignity;
+       • дискриминацию клиентов, деловых                         • discrimination of customers, business partners and
+         партнеров и сотрудников (при решении                      employees (whether in recruitment, remuneration
+         вопросов о приеме на работу, оплате труда                 or promotion) on political, ethnic, age, social,
+         и продвижении по службе) по политическим,                 racial, linguistic or religious grounds, as well as
+         национальным, возрастным, социальным,                     on gender, place of residence, attitude to religion,
+         расовым признакам, языковой или                           beliefs, membership in public associations and
+         религиозной принадлежности, а также                       legal status;
+         полу, месту жительства, отношению
+         к религии, убеждениям, принадлежности
+         к общественным объединениям и правовому
+         статусу;                                                                                                       4
+       • участие в финансировании неэтичных                     • participation in financing unethical, harmful to
+         и социально опасных производствах, проектах              society industries, projects and programmes;
+         и программах;
+       • распространение или угрозу распространения             • disseminating or threatening to disseminate
+         сведений, порочащих деловую репутацию                    information that discredits the business reputation
+         клиентов и деловых партнеров Группы,                     of the Group's customers and business partners,
+         применение или угрозу применения насилия                 using or threatening to use violence and other
+         и иных незаконных и (или) безнравственных                unlawful and/or immoral ways of conducting
+         способов осуществления деятельности или                  business or resolving conflicts;
+         разрешения конфликтов;
+       • предоставление клиентам или деловым                    • provision of customers or business partners of
+         партнерам Группы необоснованных и не                     the Group with unreasonable and non-statutory
+         предусмотренных законодательством                        benefits and privileges, as well as privileges
+         льгот и привилегий, а также привилегий                   and advantages in employment and promotion,
+         и преимуществ при приеме на работу                       including the provision of financial incentives;
+         и продвижении по службе, в том числе
+         в предоставлении материального
+         стимулирования;
+       • злоупотребление доминирующим положением                • abuse of a dominant position in the services
+         на рынке услуг;                                          market;
+       • использование незаконных и (или)                       •   use of unlawful and/or immoral methods of
+         безнравственных методов ведения                            competition;
+         конкурентной борьбы;
+       • деятельность под влиянием политического,               • activities influenced by political, religious, ethnic
+         религиозного, национального и другого                    and other pressures;
+         давления;
+       • оказание финансовой, моральной                         • provision of financial, moral and other support
+         и иной поддержки радикальным,                            to radical, extremist and nationalist parties and
+         экстремистским и националистическим                      movements which contribute to political instability
+         партиям и движениям, способствующим                      and foment inter-ethnic, inter-religious and other
+         политической нестабильности, разжиганию                  antagonistic relations in society.
+         межнациональных, межрелигиозных и других
+         антагонистических отношений в обществе.
+2.3.   Группа признает важность экологических,           2.3.   The Group shall recognize the importance of
+       социальных и управленческих факторов (ESG)               environmental, social and governance (ESG) factors
+       при принятии финансовых, операционных                    in financial, operational and investment decisions to
+       и инвестиционных решений для обеспечения                 ensure long-term well-being and quality of life in all its
+       долгосрочного благополучия и качества жизни              target markets.
+       на всех рынках присутствия.
+2.4.   Группа соблюдает принципы полного                 2.4.   The Group shall observe the principles of complete
+       политического нейтралитета и не поддерживает             political neutrality and shall not support any political
+       политические партии или кандидатов.                      parties or candidates.
+2.5.   Всем сотрудникам Группы запрещено:                2.5.   No employees of the Group shall be allowed:
+2.5.1. использовать инсайдерскую информацию:             2.5.1. to use insider information:
+       • для осуществления операций с финансовыми               • for transactions in financial instruments, foreign
+         инструментами, иностранной валютой                       currency and/or goods, affected by insider
+         и (или) товарами, которых касается                       information, for its own account or for the account
+         инсайдерская информация, за свой счет                    of a third party, with the exception of transactions
+         или за счет третьего лица, за исключением                in discharge of an obligation to buy or sell any
+         совершения операций в рамках исполнения                  matured financial instruments, foreign currency
+         обязательства по покупке или продаже                     and/or goods, if such obligation resulted from a
+         финансовых инструментов, иностранной                     transaction closed before the employee of the
+         валюты и (или) товаров, срок исполнения                  Group became aware of the insider information;
+         которого наступил, если такое обязательство
+         возникло в результате операции, совершенной
+         до того, как сотруднику Группы стала известна
+         инсайдерская информация;
+
+
+
+
+                                                                                                                             5
+       • путем передачи ее другому лицу,                        • by communicating it to another person, except
+         за исключением случаев передачи этой                     when this information is communicated to a person
+         информации лицу, включенному в список                    who is included on the insider list due to his or
+         инсайдеров, в связи с исполнением                        her duties under federal laws or due to his or her
+         обязанностей, установленных федеральными                 employment or contractual obligations;
+         законами, либо в связи с исполнением
+         трудовых обязанностей или исполнением
+         договора;
+       • путем дачи рекомендаций третьим лицам,                 • by advising, binding or otherwise inducing third
+         обязывания или побуждения их иным образом                parties to buy or sell any financial instruments,
+         к приобретению или продаже финансовых                    foreign currency and/or goods.
+         инструментов, иностранной валюты и (или)
+         товаров.
+2.5.2. осуществлять действия, относящиеся                2.5.2. to act in a way that constitutes market manipulation,
+       в соответствии с применимым                              according to applicable law.
+       законодательством к манипулированию рынком.
+2.6.   Для достижения целей, предусмотренных             2.6.   To achieve the objectives set out in Clause 2.5 of this
+       п. 2.5 настоящего Кодекса все сотрудники Группы          Code, all employees of the Group shall comply with the
+       должны соблюдать следующие правила:                      following rules:
+       • не совершать личных операций                           • refrain from making personal transactions in
+         с финансовыми инструментами компаний,                    financial instruments of the Group companies
+         входящих в Группу, в отношении которых                   where they hold insider information, and refrain
+         они обладают инсайдерской информацией,                   from advising others to make such transactions;
+         и не рекомендовать другим совершать такие
+         операции;
+       • никому не раскрывать инсайдерскую                       • refrain from disclosing insider information to any
+         информацию до ее официального раскрытия;                  person until it is officially disclosed;
+       • не совершать действия, направленные                     • refrain from engaging in market manipulation or
+         на манипулирование рынком,                                spreading false information or rumours;
+         не распространять ложную информацию или
+         слухи;
+       • придерживаться принятых в компаниях,                    • adhere to the Group companies’ rules and
+         входящих в Группу правил и ограничений                    restrictions on personal transactions in financial
+         на проведение личных операций                             instruments;
+         с финансовыми инструментами;
+       • соблюдать иные правила и требования,                    • comply with other rules and requirements
+         установленные законодательством;                          established by applicable law
+       • следовать Правилам совершения операций                  • All employees should refer further to the rules and
+         с ценными бумагами.                                       provisions of the Securities Dealing Code of TCS
+                                                                   Group Holding PLC
+
+
+3.     Конфликт интересов,                               3.     Conflict of Interest, Anti-Corruption
+       противодействие коррупции                                Efforts
+3.1.   Конфликт интересов — это ситуация,                3.1.   A Conflict of Interest means a situation where the
+       в которой личные, в том числе имущественные              personal interests of a Group employee, including his
+       интересы сотрудника Группы вступают                      or her proprietal interests, come into conflict with the
+       в противоречие с возможностью объективного               ability to objectively and effectively perform his or her
+       и эффективного исполнения своих должностных              job duties and may result in losses or other adverse
+       обязанностей и могут повлечь убытки или иные             consequences for the Group.
+       неблагоприятные последствия для Группы.
+3.2.   Сотрудники не должны допускать, чтобы их          3.2.   Employees shall avoid any situations where their
+       личная заинтересованность, предвзятость,                 personal interest and bias may affect the professional
+       влияли на профессиональную деятельность                  activities of the Group. Employees shall avoid
+       в Группе. Сотрудники должны избегать ситуаций,           situations where their personal interests conflict with
+       когда их личные интересы противоречат                    the interests of the Group and those of the Group's
+       интересам Группы, а также интересам клиентов/            customers/business partners/shareholders.
+       деловых партнеров/акционеров Группы.
+
+
+
+
+                                                                                                                            6
+3.3.   Сотрудники должны ставить интересы              3.3.   Employees shall put the interests of the Group and
+       Группы, а также интересы клиентов/деловых              those of the Group's customers/business partners/
+       партнеров/акционеров Группы выше личных                shareholders above personal interests and those
+       интересов и интересов аффилированных лиц.              of affiliates. Employees shall avoid acting under the
+       Сотрудники должны исключать действия,                  influence of any personal financial or other interests
+       связанные с влиянием каких-либо личных                 that interfere with the performance of their duties in
+       финансовых и иных интересов, препятствующих            good faith.
+       добросовестному исполнению должностных
+       обязанностей.
+3.4.   В Группе действует порядок принятия мер         3.4.   The Group has a procedure in place to take measures
+       по предотвращению и урегулированию                     to prevent and manage any Conflicts of Interest.
+       конфликтов интересов. Сотрудники должны                Employees shall comply with the principles aimed
+       соблюдать принципы, направленные                       at limiting and eliminating situations that could
+       на ограничение и устранение ситуаций, которые          potentially lead to a Conflict of Interest, including
+       потенциально могут привести к конфликту                timely disclosure of:
+       интересов, в т.ч. своевременно раскрывать
+       информацию:
+       • о любом фактическом или потенциальном                • any actual or potential Conflict of Interest;
+         конфликте интересов;
+       • о своем участии в органах управления                 • their participation in the management bodies of
+         третьих лиц;                                           third parties;
+       • совместительстве;                                    • part-time employment;
+       • осуществлении самостоятельной                        • doing independent business or commercial
+         предпринимательской или коммерческой                   activities.
+         деятельности.
+3.5.   Группа признает право сотрудников заниматься    3.5.   The Group recognizes the right of employees to
+       трудовой деятельностью вне Группы, если                conduct work activities outside the Group, as long
+       при этом не используются деловые связи                 as no business connections and opportunities of the
+       и возможности Группы. При этом, рекомендуется          Group are used for such purpose. At the same time,
+       воздерживается от участия в уставном                   it is recommended to refrain from participating in the
+       (акционерном) капитале, а также иной работы            share capital or otherwise serving or holding positions
+       или занятия должностей в органах управления            in the management bodies of any third parties that
+       третьих лиц — конкурентов или поставщиков              are either competitors or suppliers of the Group
+       компаний Группы. Участие в органах управления          companies. Participation in the management bodies
+       третьих лиц, а также занятие должностей                of any third parties, as well as holding positions in the
+       в органах управления третьих лиц, интересы             management bodies of third parties whose interests
+       которых могут противоречить интересам                  may conflict with those of the Group, is only possible
+       Группы, возможно только при предварительном            with the prior approval of the Ethics Commission.
+       получении разрешения Комиссии                          Employment by third parties on a part-time or civil
+       по этике. Работа у третьих лиц на условиях             contract basis is only possible with the prior written
+       совместительства или по гражданско-правовому           approval of the employee's supervisor.
+       договору возможна только при получении
+       предварительного письменного согласования
+       руководителя сотрудника.
+3.6.   Сотрудники обязуются не предпринимать,          3.6.   Employees shall refrain from taking, implementing or
+       не осуществлять, а также не совершать каких-           committing any action, directly or indirectly (including
+       либо действий прямо или косвенно (включая              any feedback and/or recommendations to third
+       предоставление каких-либо отзывов и/или                parties) aimed at terminating the employment and any
+       рекомендаций третьим лицам), направленных              other relations of persons engaged or involved in the
+       на прекращение трудовых и любых иных                   Group's activities.
+       отношений лиц, привлеченных или вовлеченных
+       в деятельность Группы.
+
+
+
+
+                                                                                                                         7
+3.7.    Сотрудники должны учитывать, что                 3.7.    Employees shall be aware that a Conflict of Interest
+        конфликт интересов может возникнуть из-                  may arise from a charitable/sponsorship contribution
+        за благотворительного/спонсорского взноса                requested by a customer or business partner as a
+        по запросу клиента или делового партнера                 means to support the organization/stimulate the
+        в качестве средства для поддержания                      business, or when an employee asks a customer or a
+        организации/стимулирования бизнеса, или, когда           business partner to donate to a charity in exchange for
+        сотрудник просит клиента или делового партнера           reduced fees, favourable terms, goods or services.
+        сделать пожертвование в благотворительную
+        организацию в обмен на уменьшенные сборы,
+        выгодные условия, товары или услуги.
+3.8.    Коррупция — это дача или получение взяток,       3.8.    Corruption means giving or receiving bribes,
+        посредничество в даче или получении взяток,              mediation in giving or receiving bribes, abuse of
+        злоупотребление служебным положением или                 office or authority, commercial bribery, facilitation
+        полномочиями, коммерческий подкуп, платежи               payments, taking unlawful advantage by an official
+        для упрощения формальностей, незаконное                  of his or her position to obtain benefits in the form of
+        использование должностным лицом своего                   money, valuables, other property, services, any rights
+        положения для получения выгоды в виде денег,             for himself or herself, or for other persons or illegal
+        ценностей, иного имущества, услуг, каких-либо            granting of benefits or rights to such person by other
+        прав для себя или для иных лиц либо незаконное           persons.
+        предоставление выгоды или прав этому лицу
+        иными лицами.
+3.9.    Сотрудникам запрещается в любых                  3.9.    No employee may, under any circumstances, directly
+        обстоятельствах, прямо или косвенно давать/              or indirectly pay/offer bribes to customers and
+        предлагать взятки клиентам и деловым                     business partners, or accept or solicit bribes.
+        партнерам, а также получать и просить взятки.
+3.10.   Группа ожидает от своих сотрудников, что они     3.10.   The Group expects its employees to refrain from
+        не будут принимать участие в совершении                  engaging in corruption offences for or on behalf of
+        коррупционных правонарушений в интересах                 the Group, to refrain from behaviour that could be
+        или от имени Группы, будут воздерживаться                interpreted by others as willingness to commit or
+        от поведения, которое может быть истолковано             engage in corruption offences for or on behalf of the
+        окружающими как готовность совершить или                 Group companies.
+        участвовать в совершении коррупционного
+        правонарушения в интересах или от имени
+        компаний Группы.
+3.11.   Во взаимоотношениях с представителями            3.11.   In its dealings with government authorities, the Group
+        органов государственной власти Группа                    commits to take no action whatsoever that could in
+        обязуется не предпринимать каких-либо                    any way lobby the interests of the Group companies or
+        действий, которые каким-либо образом                     the Group as a whole to the detriment of other market
+        способны лоббировать интересы компаний                   participants. No Group employee is permitted to
+        Группы или Группы в целом в ущерб другим                 offer money, gifts or other benefits to a government
+        участникам рынка. Сотрудникам Группы                     authority representative, or benefits exceeding the
+        запрещается предлагать представителям органов            limits set by law.
+        государственной власти денежные суммы,
+        подарки или другие блага, или выгоды, размеры
+        которых выходят за рамки норм, установленных
+        законодательством.
+3.12.   Сотрудники обязаны избегать сделок               3.12.   Employees shall avoid related-party transactions,
+        с заинтересованностью, то есть сделок,                   i.e., transactions entered into with the expectation
+        заключение которых происходит с расчетом                 of personal profit from subsequent transactions, as
+        на личную прибыль от последующих операций,               well as transactions involving any counter services.
+        а также сделок, предполагающих оказание                  Purchases or other acquisitions of goods and services
+        встречных услуг. Закупки или иное приобретение           from suppliers shall be permitted only on an arm's
+        товаров и услуг от поставщиков разрешаются               length basis and at market prices.
+        исключительно на условиях рынка и по рыночным
+        ценам.
+
+
+
+
+                                                                                                                            8
+4.     Взаимоотношения с клиентами,                    4.     Relations with Customers, Business
+       деловыми партнерами, органами                          Partners, Government Authorities and
+       государственной власти                                 Competitors
+       и конкурентами
+4.1.   Взаимоотношения Группы со своими клиентами,     4.1.   The Group's relations with its customers, business
+       деловыми партнерами, представителями органов           partners, state and municipal authorities and
+       государственной и муниципальной власти,                competitors are based on principles of:
+       а также конкурентами строятся на принципах:
+       • добросовестности;                                    • good faith;
+       • честности;                                           • honesty;
+       • открытости;                                          • transparency;
+       • профессионализма;                                    • professionalism;
+       • взаимного доверия и уважения;                        • mutual trust and respect;
+       • приоритетности интересов клиентов;                   • priority of customers’ interests;
+       • соблюдения взятых на себя договорных                 • compliance with the undertaken contractual and
+         и других обязательств, вытекающих                      other obligations arising out of or in connection
+         из деловых отношений или обусловленных                 with the business relationship, as well as
+         ими, а также исполнения актов судебных                 enforcement of judicial acts in case of any dispute;
+         органов в случае возникновения споров;
+       • полноты раскрытия информации,                        • complete disclosure of information as required by
+         предусмотренной действующим                            the applicable law;
+         законодательством;
+       • приоритета переговоров и поиска                      • priority of negotiation and compromise over
+         компромисса перед судебным                             litigation in the event of disagreements and
+         разбирательством в случае возникновения                disputes, particularly in competition, with a view to
+         разногласий и споров, в том числе                      maintain good business relations with its partners
+         в конкурентной борьбе, с целью сохранения              and customers.
+         благожелательных деловых отношений
+         со своими партнерами и клиентами.
+4.2.   Основанием принятия решений относительно        4.2.   Any decisions in regard to existing or potential
+       действующих или потенциальных клиентов                 customers and business partners of the Group shall
+       и деловых партнеров Группы являются                    be based solely on business relations. Employees
+       исключительно деловые отношения. Сотрудникам           shall endeavour to minimize any risks for the Group's
+       необходимо прилагать все усилия для                    customers and business partners. At the same time,
+       минимизации любых рисков клиентов и деловых            the risk management of the Group's customers and
+       партнеров Группы. При этом минимизация рисков          business partners shall not lead to an increase in the
+       клиентов и деловых партнеров Группы не должна          Group's risks.
+       приводить к повышению рисков самой Группы.
+4.3.   Наивысшим приоритетом в работе Группы           4.3.   The Group's highest priority is to provide customer
+       является обеспечение качественного                     service of good quality. Employees shall strive to
+       обслуживания клиентов. Сотрудники должны               meet high standards of service, apply an individual
+       стремиться соответствовать высоким                     approach to each customer, respond promptly to
+       стандартам обслуживания, применять                     enquiries, provide comprehensive information not
+       индивидуальный подход к каждому клиенту,               misleading for the customers, and inform customers
+       оперативно реагировать на запросы, давать              about possible risks.
+       исчерпывающую информацию, не вводящую
+       клиентов в заблуждение, а также информировать
+       клиентов о возможных рисках.
+
+
+
+
+                                                                                                                        9
+4.4.   Основной целью для всех сотрудников, в том       4.4.   The main objective for all employees, including
+       числе руководителей, является недопущение               managers, is to avoid unfair practices in dealing
+       в рамках своей компетенции недобросовестных             with customers within their competence. The Group
+       практик в работе с клиентами. За нарушение              employees shall be liable for violations of the above
+       вышеуказанных принципов обслуживания                    customer service principles as set out in the internal
+       клиентов сотрудники Группы несут                        documents, local regulations of the Group companies
+       ответственность, установленную внутренними              and/or laws.
+       документами, локальными нормативными актами
+       компаний Группы и/или законодательством.
+4.5.   Группа и сотрудники компаний Группы              4.5.   The Group and all employees of the Group companies
+       предпринимают все доступные меры для                    shall endeavour to take all available measures to
+       соблюдения требования действующего                      comply with the applicable law.
+       законодательства.
+4.6.   Деятельность Группы осуществляется таким         4.6.   The Group operates in such a way as to minimize any
+       образом, чтобы минимизировать возможность               potential for criticism, complaints and grievances
+       возникновения замечаний, жалоб и претензий              from the Group customers, business partners,
+       со стороны клиентов, деловых партнеров,                 shareholders, investors and the authorities.
+       акционеров, инвесторов Группы, а также                  Employees shall be sensitive to criticism/complaints/
+       представителей органов власти. Сотрудники               recommendations, address any difficulties and
+       должны внимательно относиться к жалобам/                conflicts in a timely manner and resolve them promptly
+       претензиям/рекомендациям, своевременно                  in accordance with their job duties.
+       рассматривать и быстро разрешать
+       в соответствии со своими должностными
+       обязанностями любые затруднения и конфликты.
+4.7.   В своих взаимоотношениях с конкурентами          4.7.   In their interactions with competitors, the Group
+       компании Группы исходят из того, что нарушение          companies proceed from the assumption that
+       цивилизованных норм честного ведения                    violation of civilized norms of fair business conduct
+       бизнеса и общепринятых правил делового                  and generally accepted rules of business behaviour
+       поведения недопустимо, поскольку препятствует           is unacceptable, as it hinders the achievement of
+       достижению поставленных целей и приводит                desired goals and leads to high reputational risks.
+       к высоким репутационным рискам.
+
+
+5.     Взаимоотношения с сотрудниками                   5.     Employee Relations
+5.1.   Мы привлекаем, развиваем и удерживаем            5.1.   We recruit, develop and retain unique people. To this
+       исключительных людей. Для этого Группа создает          end, the Group offers opportunities for promotion and
+       возможности для роста и развития, обеспечивает          development and provides a working environment
+       рабочую среду, в которой сотрудники чувствуют           where employees feel valued, respected and able to
+       себя ценными, уважаемыми и могут проявлять              fulfil their potential.
+       свой потенциал.
+5.2.   Компании Группы строят свои отношения            5.2.   The Group companies build their relations with
+       с сотрудниками и подрядчиками на принципах              employees and contractors on the principles of
+       долгосрочного сотрудничества, взаимного                 long-term cooperation, mutual respect and rigorous
+       уважения и неукоснительного исполнения                  fulfilment of mutual obligations.
+       взаимных обязательств.
+5.3.   Группа принимает меры, направленные              5.3.   The Group shall take measures aimed at protecting
+       на охрану здоровья своих сотрудников и деловых          the health of its employees and business partners,
+       партнеров, в том числе путем внедрения новых            including by introducing new technologies that
+       технологий, улучшающих условия труда и личную           improve working conditions and personal safety in an
+       безопасность в условиях равенства их прав               environment of equal rights and opportunities.
+       и возможностей.
+5.4.   Компании Группы создают все необходимые          5.4.   The Group companies provide all the necessary
+       условия для профессионального роста своих               conditions for the professional development of their
+       сотрудников.                                            employees.
+5.5.   Оценка сотрудника должна быть основана на его    5.5.   The employee shall be valued based on his or her
+       достижениях и потенциале.                               achievements and potential.
+
+
+
+
+                                                                                                                       10
+5.6.    Компании Группы не возражают против               5.6.    The Group companies do not object to their
+        участия своих сотрудников в общественной,                 employees' participation in social, teaching, research
+        преподавательской, научно-исследовательской               and entrepreneurial activities, provided that these
+        и предпринимательской деятельности при                    activities do not have a negative impact on the Group
+        условии отсутствия негативного влияния данной             and directly on the performance of the employee's job
+        деятельности на Группу, а также непосредственно           duties.
+        на выполнение сотрудником своих должностных
+        обязанностей.
+5.7.    Сотрудникам следует не допускать                  5.7.    Employees shall avoid situations that may cause
+        возникновения ситуаций, которые могут повлечь             damage to the business reputation of the Group or to
+        за собой нанесение ущерба деловой репутации               other intangible or tangible interests of the Group.
+        Группы, а также иным нематериальным или
+        материальным интересам Группы.
+5.8.    Сотрудникам при выполнении своих должностных      5.8.    When performing their job duties, employees shall
+        обязанностей необходимо уделять особое                    pay special attention to possible risks. Employees are
+        внимание возможным рискам. Сотрудникам                    advised to inform their line manager if there are risks
+        рекомендуется информировать своего                        that could entail losses for the Group.
+        непосредственного руководителя о наличии
+        рисков, которые могут повлечь за собой потери
+        для Группы.
+5.9.    Группа создает равные возможности для             5.9.    The Group is an equal opportunities employer
+        сотрудников и не допускает дискриминации                  and does not discriminate on the grounds of
+        по полу, возрасту, семейному положению,                   gender, sexual orientation, marital or civil partner
+        сексуальной ориентации, расе, цвету                       status, pregnancy, maternity or paternity, gender
+        кожи, национальности, этническому или                     reassignment, race, colour, nationality, ethnic or
+        национальному происхождению, инвалидности,                national origin, religion or belief, disability or age.
+        религии и убеждениям, а также не допускает                Those working at a management level have a specific
+        притеснения на основании беременности                     responsibility to set an appropriate standard of
+        и ухода за ребенком. Руководители несут особую            behaviour, to lead by example and to ensure that those
+        ответственность за установление надлежащих                they manage adhere to the policies and procedures
+        стандартов поведения, подачу примера                      and promote our aims and objectives with regard to
+        и обеспечение того, чтобы их подчиненные                  equal opportunities.
+        преследовали и продвигали принципы равных
+        возможностей в своей работе.
+5.10.   Сотрудники хранят служебную информацию            5.10.   Employees shall keep proprietary information in
+        в полном соответствии с положениями                       full compliance with the provisions of the law and
+        законодательства, и настоящего                            this Code, shall neither disclose nor otherwise
+        Кодекса, не разглашают и иным образом                     disseminate non-public proprietary information, and
+        не распространяют служебную информацию,                   shall not use proprietary information for personal
+        не подлежащую раскрытию, а также                          purposes or for the benefit of affiliates, except where
+        не используют служебную информацию в личных               disclosure is expressly permitted or required by the
+        целях или интересах аффилированных лиц,                   applicable law.
+        за исключением случаев, когда раскрытие
+        такой информации прямо разрешено или
+        обязательно в силу требований действующего
+        законодательства.
+5.11.   Сотрудникам запрещается использовать              5.11.   No employee may use information obtained in the
+        информацию, полученную в ходе выполнения                  course of their duties for personal, social, political or
+        должностных обязанностей, для достижения                  other purposes without regard to the interests of the
+        личных, социальных, политических и иных                   Group companies, or post the above information in the
+        целей без учета интересов компаний Группы,                media, social networks or on the Internet (websites,
+        а также размещать вышеуказанную информацию                forums, blogs, etc.) on their behalf, on behalf of the
+        в средствах массовой информации, в социальных             Group companies, or with reference to the Group
+        сетях, а также в сети Интернет (на сайтах,                companies as their workplace, without prior approval
+        форумах, блогах и т.д.) от собственного имени,            of the posted material by employees responsible for
+        имени компаний Группы, либо с указанием                   external communications.
+        компаний Группы в качестве места работы без
+        предварительного согласования размещаемых
+        материалов с сотрудниками, отвечающими
+        за внешние коммуникации.
+
+
+
+
+                                                                                                                            11
+5.12.   Сотрудники не должны публиковать в социальных     5.12   Each employee must avoid making any social media
+        сетях информацию, которая может прямо или                communications that could damage the Group’s
+        косвенно нанести ущерб деловым интересам или             business interests or reputation, even indirectly.
+        репутации Группы.
+5.13    Сотрудникам запрещено использовать                5.13   No employee may use social media to defame or
+        социальные сети для клеветы или оскорбления              disparage the Group, our employees nor any third
+        Группы, ее сотрудников или третьей стороны;              party; to harass, bully or unlawfully discriminate
+        преследования, запугивания или незаконной                against employees or third parties; to make false or
+        дискриминации сотрудников или третьих лиц;               misleading statements; or to impersonate colleagues
+        публикации ложных или вводящих в заблуждение             or third parties.
+        заявлений; или выставления себя в качестве
+        сотрудников или аффилированных третьих лиц.
+5.14    Сотрудники не могут выражать свое мнение          5.14   No employee may express opinions on the Group’s
+        от имени Группы через социальные сети                    behalf via social media, unless expressly authorised to
+        без согласования от непосредственного                    do so by their line manager.
+        руководителя и сотрудников, ответственных
+        за внешние коммуникации.
+5.15    Сотрудники не могут публиковать комментарии       5.15   No employee may post comments about sensitive
+        на темы, связанные с бизнесом и результатами             business-related topics, such as the Group’s
+        Группы, которые могут нарушать коммерческую              performance, or do anything to jeopardise the Group’s
+        тайну и интеллектуальную собственность, а также          trade secrets, confidential information and intellectual
+        распространять конфиденциальную информацию               property, without prior approval of the posted material
+        Группы без предварительного одобрения                    by employees responsible for external communication
+        размещаемых материалов сотрудниками,
+        ответственными за внешние коммуникации.
+
+
+6.      Подарки и другие виды                             6.     Gifts and Other Benefits
+        вознаграждений
+6.1.    Сотрудники не могут принимать, требовать          6.1.   No employee may accept, solicit or receive any
+        или получать любые подарки, вознаграждения               gifts, remunerations in cash or in kind, including
+        в денежной и не денежной форме, в том числе              entertainment, favours and direct or indirect
+        развлечения, услуги и прямую или косвенную               assistance from third parties associated with the
+        помощь от третьих лиц, связанную с исполнением           performance of their job duties. In particular, due
+        своих должностных обязанностей. В частности,             care shall be observed to avoid any expression of
+        должна быть принята должная осторожность для             seeking or accepting any assistance from a potential
+        того, чтобы избежать любых выражений поиска              or existing business partner, potential employee or
+        или принятия любой помощи от потенциального              supplier of the Group companies.
+        или действующего делового партнера,
+        потенциального сотрудника или поставщика
+        компаний Группы.
+6.2.    Сотрудник должен избегать любых                   6.2.   Employees shall avoid any remuneration that may
+        вознаграждений, которые могут оказать                    render improper influence on official business
+        неверное влияние на официальных деловых                  partners or individuals.
+        партнеров или индивидуальных лиц.
+
+
+7.      Забота об окружающей среде                        7.     Care about the environment
+7.1.    Защита окружающей среды — один из основных        7.1.   Environmental care is one of the main priorities of the
+        приоритетов Группы, соблюдение которого                  Group and is essential for all employees and partners
+        является необходимостью для всех сотрудников             of the Group at all stages of its activities.
+        и партнеров Группы на всех этапах деятельности.
+7.2.    Группа полностью поддерживает принцип             7.2.   The Group fully supports the precautionary principle.
+        предосторожности. В случае обоснованной                  In the event of a justified threat of serious or
+        угрозы серьезного или необратимого ущерба                irreversible damage to the environment, the Group will
+        окружающей среде Группа будет предпринимать              take adequate measures to prevent the same, even
+        адекватные меры по предотвращению такого                 if there is a lack of scientific consensus about such
+        ущерба даже при условии недостатка научного              threats and their consequences.
+        консенсуса относительно этих угроз и их
+        последствий.
+
+
+
+
+                                                                                                                           12
+7.3.   Меры предосторожности включают                   7.3.   Precautionary measures include regular
+       регулярную оценку рисков, управление                    risk assessment, risk management and risk
+       рисками и информирования о рисках лиц,                  communication to decision-makers. The Group
+       принимающих решения. Группа соблюдает                   shall observe the precautions and shall account for
+       меры предосторожности и учитывает степень               the degree of uncertainty arising from the scientific
+       неопределенности, возникающую в результате              assessment.
+       научной оценки.
+7.4.   Забота о влиянии деятельности компаний Группы    7.4.   Environmental care and mitigation of the negative
+       на окружающую среду и уменьшение негативных             impacts of the Group's activities are mandatory for
+       последствий этого влияния обязательны для всех          all employees and guarantee the Group's long-term
+       сотрудников и являются гарантией длительного            development.
+       развития Группы.
+
+
+8.     Раскрытие информации                             8.     Disclosures
+8.1.   В целях защиты интересов акционеров              8.1.   To protect any interests of shareholders and investors,
+       и инвесторов компании Группы и Группа                   the Group companies and the Group as a whole
+       в целом обеспечивают раскрытие информации               shall disclose information about their activities in
+       о своей деятельности в соответствии                     accordance with the law and international standards,
+       с законодательством и международными                    based on the principles of reliability, regularity,
+       стандартами на основе принципов                         timeliness of disclosure, a balance between
+       достоверности, регулярности, оперативности ее           transparency and respect for commercial interests.
+       предоставления, баланса между открытостью
+       и соблюдением коммерческих интересов.
+8.2.   Объем информации, предоставляемый клиентам,      8.2.   The scope of information provided to customers,
+       деловым партнерам, акционерам и инвесторам              business partners, shareholders and investors of
+       компаний Группы определяется характером                 the Group companies is determined by the nature of
+       предоставляемых ими услуг в соответствии                services they provide in accordance with the law and
+       с законодательством и настоящим Кодексом,               this Code, as well as with the requirements of stock
+       а также требованиями бирж и международных               exchanges and international standards.
+       стандартов.
+8.3.   Группа обеспечивает конфиденциальность,          8.3.   The Group ensures the confidentiality, integrity and
+       целостность и доступность информации и защиту           availability of information and protects it against
+       ее от повреждения, изменения, разглашения               damage, alteration, disclosure and loss.
+       и утраты.
+8.4.   Информационная безопасность направлена           8.4.   Information security aims at protecting personal data
+       на защиту персональных данных и коммерческой            and trade secrets, thereby protecting the interests
+       тайны, что обеспечивает защиту интересов                of employees, customers, business partners,
+       сотрудников, клиентов, деловых партнеров,               shareholders and investors, as well as the property
+       акционеров и инвесторов, а также собственности          of the Group companies. Maintaining and developing
+       компаний Группы. Поддержка и развитие                   information security is a strategic objective of the
+       информационной безопасности является                    Group. The Group ensures the confidentiality, integrity
+       стратегической задачей Группы. Группа                   and availability of information and protects it against
+       обеспечивает конфиденциальность, целостность            damage, alteration, disclosure and loss.
+       и доступность информации и защиту ее
+       от повреждения, изменения, разглашения
+       и утраты.
+8.5.   Распространение информации о деятельности        8.5.   Information about activities of the Group companies
+       компаний Группы представителям средств                  shall be communicated to the media as required by the
+       массовой информации осуществляется                      applicable laws and internal regulations of the Group
+       в соответствии с требованиями действующего              companies.
+       законодательства и внутренних нормативных
+       документов компаний Группы.
+
+
+
+
+                                                                                                                       13
+9.      Обеспечение сохранности                           9.      Safekeeping of Property
+        имущества
+9.1.    Сотрудникам следует разумно и продуктивно         9.1.    Employees shall make reasonable and productive use
+        использовать имущество компаний                           of the property of the Group companies and prevent
+        Группы, а также предотвращать его утрату                  its loss and misuse.
+        и использование не по назначению.
+9.2.    В целях защиты и надлежащего использования        9.2.    To protect and properly use the property of the Group
+        имущества компаний Группы сотрудникам                     companies, the employees are advised to:
+        рекомендуется:
+        • проявлять разумную осмотрительность                     • exercise due care and diligence to prevent theft,
+          и осторожность с целью недопущения кражи,                 damage or misuse of the property;
+          порчи или ненадлежащего использования
+          имущества;
+        • незамедлительно сообщать своему                         • immediately report any actual or suspected theft,
+          непосредственному руководителю                            damage or misuse of the property to their line
+          о фактической или предполагаемой краже,                   manager;
+          порче или ненадлежащем использовании
+          имущества;
+        • защищать компьютерные системы, базы                     • protect computer systems, databases,
+          данных, средства связи и письменные                       communication tools and written materials against
+          материалы от неумышленного                                inadvertent and unlawful access by any third
+          и противоправного доступа к ним третьих лиц;              parties;
+        • использовать имущество, а также                         • use the property, as well as software and
+          программные продукты и коммуникационные                   communication networks, only for legitimate
+          сети только для законных бизнес-целей                     business purposes within the scope of their official
+          в рамках выполняемых должностных                          duties.
+          обязанностей.
+
+
+10.     Учет и финансовая отчетность                      10.     Accounting and Financial Statements
+10.1.   Полные, точные и достоверные данные,              10.1.   Complete, accurate and reliable data in records
+        отражаемые в бухгалтерском учете и отчетности,            and accounts are key components of efficient and
+        являются ключевым компонентом эффективной                 transparent operations of the Group companies. They
+        и прозрачной деятельности компаний Группы.                are one of the main sources for strategic and business
+        Они являются одним из основных источников                 decisions to be made in the Group's operations.
+        для принятия стратегических и бизнес-решений
+        в процессе деятельности Группы.
+10.2.   Сотрудникам в рамках возложенных на них           10.2.   Employees are required, as part of their assigned
+        должностных обязанностей необходимо честно,               duties, to keep honest, accurate, timely and complete
+        аккуратно, своевременно и в полном объеме                 records and reports on the activities of the Group
+        вести записи и составлять отчеты о деятельности           companies. Inaccurate, incomplete or untimely
+        компаний Группы. Предоставление неточной,                 reporting to interested parties shall be unacceptable.
+        неполной или несвоевременной отчетности
+        заинтересованным лицам является
+        недопустимым.
+10.3.   Сотруднику, располагающему сведениями             10.3.   Any employee who becomes aware of an
+        о нарушении принципов ведения бухгалтерского              accounting or record-keeping irregularity, including
+        учета и отчетности, в том числе о растратах               embezzlement or unrecognized property and/ or any
+        денежных средств, неучтенном имуществе и/                 criminal activity, shall report the same immediately to
+        или другой незаконной деятельности, следует               his or her line manager or by email to whistleblower@
+        незамедлительно сообщить об этом своему                   tinkoff.ru.
+        непосредственному руководителю или по адресу
+        электронной почты whistleblower@tinkoff.ru.
+
+
+
+
+                                                                                                                        14
+11.     Корпоративный стиль                              11.     Corporate Identity
+11.1.   Группа рассматривает свой имидж как важный       11.1.   The Group sees its image as an important tool in
+        инструмент в достижении целей и реализации               achieving its goals and objectives. It is therefore
+        задач, стоящих перед ней. Поэтому одной                  one of the most important responsibilities of all
+        из важнейших обязанностей всех сотрудников,              employees, regardless of their position, to work every
+        вне зависимости от занимаемой ими должности,             day to meet the requirements of the corporate culture
+        является каждодневная работа по соблюдению               and corporate identity of the Group.
+        требований корпоративной культуры
+        и корпоративного стиля.
+11.2.   Сотруднику независимо от уровня,                 11.2.   Regardless of their level, type or manner of
+        вида и способа общения следует быть                      communication, the employees shall be polite,
+        вежливым, доброжелательным, отзывчивым                   friendly, helpful and constructive in all interactions
+        и конструктивным при коммуникации с третьими             with third parties.
+        лицами.
+11.3.   Сотруднику следует соблюдать трудовую            11.3.   Employees shall comply with the workplace discipline
+        дисциплину, утвержденную в компаниях Группы.             approved by the Group companies. The employee
+        В случаях, когда сложившиеся обстоятельства              shall inform his or her line manager about any cases
+        могут привести к нарушению трудовой                      where the circumstances may lead to a breach of
+        дисциплины, сотруднику необходимо поставить              discipline. In doing so, the employee shall endeavour
+        об этом в известность своего непосредственного           to minimize the occurrence of such circumstances.
+        руководителя. При этом сотрудник должен
+        стремиться свести к минимуму возникновение
+        таких обстоятельств.
+
+
+12.     Нарушение положений настоящего                   12.     Violation of this Code
+        Кодекса
+12.1.   Каждый сотрудник в своей деятельности должен     12.1.   Each employee shall be guided in his or her activities
+        руководствоваться положениями настоящего                 by the provisions of this Code. Conduct of employees
+        Кодекса. Действия сотрудников, намеренно или             who intentionally or unintentionally fail to comply
+        ненамеренно не придерживающихся положений                with the provisions of this Code may be deemed to
+        настоящего Кодекса, могут быть расценены как             discredit the Group as a whole, impair its goodwill
+        дискредитирующие Группу в целом, порочащие               and give rise to appropriate penalties. Such actions
+        ее репутацию и являющиеся основанием                     may result in the Group companies suffering losses
+        для применения соответствующих мер                       due to fines imposed on them, claims for damages,
+        ответственности. Результатами таких действий             loss of business reputation in the business community
+        могут стать понесение компаниями Группы                  and others. The violation of the Code may lead to
+        убытков вследствие наложенных на них штрафов,            the termination of the employment contract with the
+        предъявление к ним исков о возмещении вреда,             responsible employee.
+        потеря деловой репутации в бизнес-сообществе
+        и другое.
+12.2.   Основанием для привлечения сотрудников           12.2.   Holding an employee liable under this Code shall be
+        к ответственности в соответствии с настоящим             based on finding him or her guilty of violating one or
+        Кодексом является установление в его                     more provisions of this Code in his or her actions. In
+        деяниях признаков вины в нарушении одного                each instance, a violation case shall be considered in
+        или нескольких положений настоящего                      light of all the circumstances. An employee in breach
+        Кодекса. В каждом случае дело о нарушении                of this Code will be given an opportunity to state his or
+        рассматривается с учетом всех обстоятельств.             her view of the events before a final decision is made
+        Сотруднику, нарушившему настоящий Кодекс,                to apply penalties against him or her.
+        предоставляется возможность изложить свое
+        видение произошедших событий до принятия
+        окончательного решения о применении к нему
+        соответствующих мер ответственности.
+12.3.   Меры ответственности определяются                12.3.   Penalties are imposed according to the appropriate
+        в соответствии с применимым                              legislation and regulation within each jurisdiction.
+        законодательством.
+
+
+
+
+                                                                                                                          15
+12.4.   Контроль за соблюдением сотрудниками               12.4.   Compliance with this Code is monitored directly by
+        положений настоящего Кодекса осуществляется                heads of business units of the Group companies,
+        непосредственно руководителями структурных                 who in turn report violations of this Code to the Ethics
+        подразделений компаний Группы, которые                     Commission.
+        в свою очередь сообщают о фактах нарушения
+        настоящего Кодекса Комиссии по этике.
+12.5.   Сотрудники Группы, а также третьи лица, которым    12.5.   Employees of the Group, as well as third parties who
+        стала известна информация о любом, в том                   become aware of any violation of this Code, including
+        числе потенциальном нарушении положений                    a potential one, shall email a violation report to:
+        настоящего Кодекса, должны направить                       whistleblower@tinkoff.ru. All violation reports
+        сообщение о нарушении по адресу электронной                received should be reviewed and analysed and, where
+        почты whistleblower@tinkoff.ru.                            appropriate, brought before the Ethics Commission
+        Все поступившие сообщения о нарушении                      for discussion.
+        должны быть рассмотрены и проанализированы,
+        и при необходимости вынесены на обсуждение
+        Комиссией по этике.
+12.6.   Все сообщения, в том числе о потенциальных         12.6.   All reports, including those of potential violations,
+        нарушениях, а также вопросы относительно                   and issues regarding conduct compliance with
+        соответствия поведения положениям настоящего               the provisions of this Code shall be considered as
+        Кодекса рассматриваются максимально                        thoroughly and effectively as possible.
+        тщательно и эффективно.
+12.7.   Установление оснований для привлечения             12.7.   The Ethics Commission shall determine the grounds
+        сотрудников к ответственности за нарушение                 for holding employees liable and impose penalties for
+        положений настоящего Кодекса и применение                  violation of this Code provisions.
+        мер ответственности осуществляет Комиссия
+        по этике.
+12.8.   Группа гарантирует безопасность и не допускает     12.8.   The Group shall ensure the safety of, and shall not
+        травли или преследования в отношении                       tolerate bullying or retaliation against, any employee
+        сотрудника или третьего лица, которое направит             or third party who reports a breach of this Code,
+        сообщение о нарушении положений настоящего                 regardless of whether his or her report is found to be
+        Кодекса, независимо от того, будет ли его                  substantiated.
+        сообщение признано обоснованным.
+12.9.   Группа гарантирует соблюдение                      12.9.   The Group guarantees keeping in confidence the true
+        анонимности автора сообщения о нарушении                   identity of whistleblower, as well as information and
+        и конфиденциальность предоставленной им                    documents provided by him or her.
+        информации и документов.
+
+
+13.     Заключительные положения                           13.     Final Provisions
+13.1.   Настоящий Кодекс изменяется и дополняется          13.1.   This Code shall be amended to include any changes
+        по мере изменения законодательства и с учетом              in the laws and any trends in global and Russian
+        тенденций в мировой и российской практике                  corporate culture practices. The Group strives to
+        корпоративной культуры. Группа стремиться                  ensure that the core values contained in this Code
+        к тому, чтобы ключевые ценности, отраженные                remain unchanged, as they pinpoint the most
+        в настоящем Кодексе, оставались неизменными,               important principles on which the Group's activities
+        так как они закрепляют важнейшие принципы,                 are based.
+        на которых основана деятельность Группы.
+13.2.   В целях доведения настоящего Кодекса               13.2.   To ensure that this Code is communicated to all
+        до сведения всех сотрудников, его текст, а также           employees, its text and all subsequent amendments
+        все последующие изменения и дополнения к нему              thereto shall be made freely available on the internal
+        размещаются в свободном доступе на внутренних              information resources of the Group companies. Thus,
+        информационных ресурсах компаний                           the employees may inform themselves about the
+        Группы. Таким образом, сотрудники могут                    Group's corporate culture conveniently and at any
+        беспрепятственно и в любое время ознакомиться              time.
+        с корпоративной культурой Группы.
+
+
+
+
+                                                                                                                            16
+13.3.   Группа взяла на себя обязательство вести бизнес   13.3.   The Group has entered into a commitment to
+        в соответствии с этическими принципами.                   conducting business in an ethical manner. This
+        Это обязательство изложено в Кодексе                      commitment is set out in the Code and the Group
+        и Группа ожидает от своих деловых партнеров               expects its business partners to comply with this
+        соответствия этому обязательству и соблюдения             commitment and to comply with the Group Code and
+        Кодекса Группы, а также всех применимых                   all applicable laws and regulations.
+        законов и иных нормативных правовых актов.
+13.4.   Руководство должно регулярно и не реже            13.4.   This Code shall be reviewed regularly by management
+        одного раза в год пересматривать настоящий                and at least annually. This version was last updated
+        Кодекс. Дата последнего обновления: 14 января             on January 14, 2022. Current and historic versions of
+        2021 г. Актуальные и предыдущие версии                    the Corporate Code of Conduct are available on the
+        Кодекса корпоративного поведения доступны                 companies’ intranet portals.
+        на внутренних ресурсах компаний, входящих
+        в Группу.
+13.5.   Настоящий Кодекс не имеет преимущественную        13.5.   This Code does not override any applicable national
+        силу перед применимыми национальными                      laws and regulations in countries where each Group
+        законами и нормативными актами в странах, где             Company operates.
+        работает каждая компания Группы.
+
+
+
+
+                                                                                                                        17
+
