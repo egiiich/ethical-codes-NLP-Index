@@ -56,6 +56,11 @@
 - `scope_ru`: Уважительное отношение, равное отношение к разным подчиненным, содействие росту подчиненных
 - `principles_path`: `docs/principles/manager_to_worker.md`
 
+### company_to_worker
+- `topic_title_ru`: Отношение копмании к сотрудникам
+- `scope_ru`: Качественные условия труда, прозрачные условия найма, справедливая оплата, социальные льготы
+- `principles_path`: `docs/principles/company_to_worker.md`
+
 ## Добавление новой темы
 
 1. Добавь новый блок с уникальным `topic_id`.
