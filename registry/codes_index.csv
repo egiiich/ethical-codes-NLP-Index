@@ -95,14 +95,14 @@ finance-korea-woori-financial-group-2025,Woori Financial Group,Korea,Finance,Eth
 finance-russia-pochtabank-2017,PochtaBank,Russia,Finance,Ethics_Codes_txt_files/Finance_Russia_PochtaBank_2017.txt,ru,txt,functional_equivalent_needs_review,needs_human_review
 finance-russia-sber-2022,Sber,Russia,Finance,Ethics_Codes_txt_files/Finance_Russia_Sber_2022.txt,ru,txt,functional_equivalent_needs_review,needs_human_review
 finance-russia-tinkoff-2019,Tinkoff,Russia,Finance,Ethics_Codes_txt_files/Finance_Russia_Tinkoff_2019.txt,ru,txt,code_of_conduct,completed
-finance-russia-vbrr-2021,VBRR,Russia,Finance,Ethics_Codes_txt_files/Finance_Russia_VBRR_2021.txt,ru,txt,functional_equivalent_needs_review,not_started
-finance-russia-vtb-2021,VTB,Russia,Finance,Ethics_Codes_txt_files/Finance_Russia_VTB_2021.txt,ru,txt,functional_equivalent_needs_review,not_started
-it-indonesia-astra-graphia-2022,Astra Graphia,Indonesia,IT,Ethics_Codes_txt_files/IT_Indonesia_Astra Graphia_2022.txt,en,txt,code_of_conduct,not_started
-insurance-japan-dai-ichi-life-holdings-2024,Dai-ichi Life Holdings,Japan,Insurance,Ethics_Codes_txt_files/Insurance_Japan_Dai-ichi Life Holdings_2024.txt,en,txt,code_of_conduct,not_started
-insurance-japan-sompo-holdings-2025,Sompo Holdings,Japan,Insurance,Ethics_Codes_txt_files/Insurance_Japan_Sompo Holdings_2025.txt,en,txt,code_of_conduct,not_started
-insurance-japan-sumitomo-life-insurance-2022,Sumitomo Life Insurance,Japan,Insurance,Ethics_Codes_txt_files/Insurance_Japan_Sumitomo Life Insurance_2022.txt,en,txt,code_of_conduct,not_started
-insurance-japan-tokio-marine-2024,Tokio Marine,Japan,Insurance,Ethics_Codes_txt_files/Insurance_Japan_Tokio Marine_2024.txt,en,txt,code_of_conduct,not_started
-logistics-china-china-airlines-group-2023,China Airlines Group,China,Logistics,Ethics_Codes_txt_files/Logistics_China_China Airlines Group_2023.txt,en,txt,code_of_conduct,not_started
+finance-russia-vbrr-2021,VBRR,Russia,Finance,Ethics_Codes_txt_files/Finance_Russia_VBRR_2021.txt,ru,txt,functional_equivalent_needs_review,needs_human_review
+finance-russia-vtb-2021,VTB,Russia,Finance,Ethics_Codes_txt_files/Finance_Russia_VTB_2021.txt,ru,txt,functional_equivalent_needs_review,completed
+it-indonesia-astra-graphia-2022,Astra Graphia,Indonesia,IT,Ethics_Codes_txt_files/IT_Indonesia_Astra Graphia_2022.txt,en,txt,code_of_conduct,completed
+insurance-japan-dai-ichi-life-holdings-2024,Dai-ichi Life Holdings,Japan,Insurance,Ethics_Codes_txt_files/Insurance_Japan_Dai-ichi Life Holdings_2024.txt,en,txt,code_of_conduct,completed
+insurance-japan-sompo-holdings-2025,Sompo Holdings,Japan,Insurance,Ethics_Codes_txt_files/Insurance_Japan_Sompo Holdings_2025.txt,en,txt,code_of_conduct,needs_human_review
+insurance-japan-sumitomo-life-insurance-2022,Sumitomo Life Insurance,Japan,Insurance,Ethics_Codes_txt_files/Insurance_Japan_Sumitomo Life Insurance_2022.txt,en,txt,code_of_conduct,completed
+insurance-japan-tokio-marine-2024,Tokio Marine,Japan,Insurance,Ethics_Codes_txt_files/Insurance_Japan_Tokio Marine_2024.txt,en,txt,code_of_conduct,completed
+logistics-china-china-airlines-group-2023,China Airlines Group,China,Logistics,Ethics_Codes_txt_files/Logistics_China_China Airlines Group_2023.txt,en,txt,code_of_conduct,completed
 logistics-china-china-southern-airlines-2023,China Southern Airlines,China,Logistics,Ethics_Codes_txt_files/Logistics_China_China Southern Airlines_2023.txt,en,txt,code_of_ethics,not_started
 logistics-china-trip-com-group-2023,Trip.com Group,China,Logistics,Ethics_Codes_txt_files/Logistics_China_Trip.com Group_2023.txt,en,txt,code_of_conduct,not_started
 logistics-china-yanfeng-automotive-interiors-2024,Yanfeng Automotive Interiors,China,Logistics,Ethics_Codes_txt_files/Logistics_China_Yanfeng Automotive Interiors_2024.txt,en,txt,code_of_conduct,not_started

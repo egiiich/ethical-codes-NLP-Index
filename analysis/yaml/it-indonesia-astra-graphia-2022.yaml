@@ -1,0 +1,643 @@
+document_id: "it-indonesia-astra-graphia-2022"
+company_name: "Astra Graphia"
+country: "Indonesia"
+industry: "IT"
+source_path: "Ethics_Codes_txt_files/IT_Indonesia_Astra Graphia_2022.txt"
+source_language: "en"
+document_type: "code_of_conduct"
+review_status: "completed"
+topic_analyses:
+  - topic_id: "competitor_relations"
+    principles:
+      - principle_code: "COMP01"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "COMP02"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "COMP03"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "COMP03_explicit_section"
+      - principle_code: "COMP04"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "COMP05"
+        principle_status: "brief_mention"
+        evidence_excerpt_ids:
+          - "COMP05_brief_mention"
+      - principle_code: "COMP06"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "COMP07"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "COMP08"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "COMP08_explicit_section"
+      - principle_code: "COMP09"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "COMP10"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+    key_excerpts:
+      - excerpt_id: "COMP03_explicit_section"
+        original: "The Company is not allowed to develop cooperation with competitors, which could be detrimental to the customers and/or leads to monopolistic practices"
+        translated_ru: "Компания не вправе вступать в сотрудничество с конкурентами, если это вредит клиентам или ведёт к монополии."
+        section_title: "1.3 Competitors"
+        relevance_comment: "Прямой антикартельный запрет."
+      - excerpt_id: "COMP08_explicit_section"
+        original: "The Company is not allowed to discredit competitors in its marketing, promotion and advertising activities"
+        translated_ru: "Запрещено дискредитировать конкурентов в маркетинге, продвижении и рекламе."
+        section_title: "1.3 Competitors"
+        relevance_comment: "Прямой запрет порочащей информации о конкурентах."
+      - excerpt_id: "COMP05_brief_mention"
+        original: "The Company supports fair and healthy competition in accordance with applicable laws and regulations"
+        translated_ru: "Компания поддерживает честную и здоровую конкуренцию в соответствии с законом."
+        section_title: "1.3 Competitors"
+        relevance_comment: "Краткая фиксация этичного отношения к конкурентам."
+    other_principles: []
+  - topic_id: "hotline_principles"
+    principles:
+      - principle_code: "HOT01"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "HOT01_explicit_section"
+      - principle_code: "HOT02"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "HOT03"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "HOT03_explicit_section"
+      - principle_code: "HOT04"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "HOT05"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "HOT05_explicit_section"
+      - principle_code: "HOT06"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "HOT07"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "HOT08"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "HOT08_explicit_section"
+      - principle_code: "HOT09"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "HOT10"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+    key_excerpts:
+      - excerpt_id: "HOT01_explicit_section"
+        original: "the Company has a working mechanism to convene periodic audits process and/or receive the violations of code of conduct of the Company reports"
+        translated_ru: "Компания имеет рабочий механизм для получения сообщений о нарушениях кодекса."
+        section_title: "V. Whistleblowing System Mechanism Policy"
+        relevance_comment: "Наличие канала сообщений о нарушениях."
+      - excerpt_id: "HOT03_explicit_section"
+        original: "Reports of violations can also be submitted through the employees suggestion box in the Company’s intranet web portal"
+        translated_ru: "Сообщения о нарушениях можно подавать через ящик предложений во внутреннем портале."
+        section_title: "V. Whistleblowing System Mechanism Policy"
+        relevance_comment: "Прямая норма подачи сообщений сотрудниками."
+      - excerpt_id: "HOT05_explicit_section"
+        original: "The Company shall reviews all reports and takes necessary and appropriate action"
+        translated_ru: "Компания рассматривает все сообщения и принимает необходимые меры."
+        section_title: "V. Whistleblowing System Mechanism Policy"
+        relevance_comment: "Прямой принцип рассмотрения и реагирования."
+      - excerpt_id: "HOT08_explicit_section"
+        original: "Reports of violations can also be submitted through the employees suggestion box in the Company’s intranet web portal"
+        translated_ru: "Канал подачи сообщений формализован через intranet-портал компании."
+        section_title: "V. Whistleblowing System Mechanism Policy"
+        relevance_comment: "Есть конкретный внутренний канал обращения."
+    other_principles: []
+  - topic_id: "company_to_supplier"
+    principles:
+      - principle_code: "CtoS01"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "CtoS01_explicit_section"
+      - principle_code: "CtoS02"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "CtoS02_explicit_section"
+      - principle_code: "CtoS03"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "CtoS03_explicit_section"
+      - principle_code: "CtoS04"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "CtoS04_explicit_section"
+      - principle_code: "CtoS05"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "CtoS05_explicit_section"
+      - principle_code: "CtoS06"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoS07"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "CtoS07_explicit_section"
+    key_excerpts:
+      - excerpt_id: "CtoS01_explicit_section"
+        original: "Selection of the business partners is based on professionalism and in line with QCDSM values"
+        translated_ru: "Выбор бизнес-партнёров основан на профессионализме и критериях QCDSM."
+        section_title: "1.2 Business Partners"
+        relevance_comment: "Прямой принцип критериев выбора поставщика."
+      - excerpt_id: "CtoS02_explicit_section"
+        original: "Common interests, equality and mutual trust based on fairness and social responsibility"
+        translated_ru: "Сотрудничество с партнёрами строится на равенстве, доверии и справедливости."
+        section_title: "1.2 Business Partners"
+        relevance_comment: "Прямой принцип партнёрских отношений."
+      - excerpt_id: "CtoS03_explicit_section"
+        original: "Complies with applicable laws and regulations"
+        translated_ru: "В отношениях с партнёрами компания соблюдает применимое законодательство."
+        section_title: "1.2 Business Partners"
+        relevance_comment: "Прямой комплаенс в отношении поставщиков/партнёров."
+      - excerpt_id: "CtoS04_explicit_section"
+        original: "All agreements must be made in writing in good faith and based on mutual benefit"
+        translated_ru: "Все соглашения оформляются письменно, добросовестно и на взаимной выгоде."
+        section_title: "1.2 Business Partners"
+        relevance_comment: "Прямой стандарт договорной прозрачности."
+      - excerpt_id: "CtoS05_explicit_section"
+        original: "Strive to empower small and medium scale business partners"
+        translated_ru: "Компания стремится развивать малых и средних бизнес-партнёров."
+        section_title: "1.2 Business Partners"
+        relevance_comment: "Прямой принцип развития цепочки поставок."
+      - excerpt_id: "CtoS07_explicit_section"
+        original: "is not allowed to give to or accept from business partners (substantial) gifts which may influence decision-making"
+        translated_ru: "Запрещены существенные подарки от/для партнёров, влияющие на решения."
+        section_title: "1.2 Business Partners"
+        relevance_comment: "Прямой антикоррупционный стандарт в закупочных отношениях."
+    other_principles: []
+  - topic_id: "worker_to_company"
+    principles:
+      - principle_code: "WtoC01"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "WtoC01_explicit_section"
+      - principle_code: "WtoC02"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "WtoC02_explicit_section"
+      - principle_code: "WtoC03"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "WtoC03_explicit_section"
+      - principle_code: "WtoC04"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "WtoC05"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "WtoC05_explicit_section"
+      - principle_code: "WtoC06"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "WtoC07"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "WtoC07_explicit_section"
+      - principle_code: "WtoC08"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "WtoC09"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "WtoC10"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "WtoC10_explicit_section"
+    key_excerpts:
+      - excerpt_id: "WtoC01_explicit_section"
+        original: "To apply and develop their maximum potentials for the benefit of the Company"
+        translated_ru: "Сотрудник обязан применять и развивать свой потенциал в интересах компании."
+        section_title: "2. Work Ethics"
+        relevance_comment: "Прямой стандарт качественной работы."
+      - excerpt_id: "WtoC02_explicit_section"
+        original: "maintain and utilize all data, information, assets and facilities of the Company for the benefit of the Company"
+        translated_ru: "Данные, информация и активы компании используются только в интересах компании."
+        section_title: "2. Work Ethics"
+        relevance_comment: "Прямой стандарт бережного и целевого использования активов."
+      - excerpt_id: "WtoC03_explicit_section"
+        original: "All Employees are responsible for maintaining the confidentiality of the Confidential Information of the Company"
+        translated_ru: "Все сотрудники несут ответственность за сохранение конфиденциальной информации компании."
+        section_title: "2.c Confidential Information"
+        relevance_comment: "Прямой принцип конфиденциальности."
+      - excerpt_id: "WtoC05_explicit_section"
+        original: "complying with internal policies/rules ... and applicable laws and regulations"
+        translated_ru: "Сотрудники обязаны соблюдать внутренние правила и применимое законодательство."
+        section_title: "2. Work Ethics"
+        relevance_comment: "Прямой комплаенс-стандарт."
+      - excerpt_id: "WtoC07_explicit_section"
+        original: "must avoid conflict of interest"
+        translated_ru: "Комиссары, директора и сотрудники обязаны избегать конфликта интересов."
+        section_title: "1.2 Business Partners"
+        relevance_comment: "Прямой запрет конфликта интересов."
+      - excerpt_id: "WtoC10_explicit_section"
+        original: "To keep the Company's good reputation by minding their conduct and behavior"
+        translated_ru: "Сотрудник обязан беречь деловую репутацию компании своим поведением."
+        section_title: "2. Work Ethics"
+        relevance_comment: "Прямой репутационный стандарт."
+    other_principles: []
+  - topic_id: "company_to_investors"
+    principles:
+      - principle_code: "CtoI01"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoI02"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoI03"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "CtoI03_explicit_section"
+      - principle_code: "CtoI04"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoI05"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "CtoI05_explicit_section"
+      - principle_code: "CtoI06"
+        principle_status: "brief_mention"
+        evidence_excerpt_ids:
+          - "CtoI06_brief_mention"
+      - principle_code: "CtoI07"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "CtoI07_explicit_section"
+      - principle_code: "CtoI08"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "CtoI08_explicit_section"
+    key_excerpts:
+      - excerpt_id: "CtoI03_explicit_section"
+        original: "The Company treats its shareholders in a fair manner"
+        translated_ru: "Компания справедливо относится к своим акционерам."
+        section_title: "1.5 Shareholders"
+        relevance_comment: "Прямой принцип равного отношения к акционерам."
+      - excerpt_id: "CtoI05_explicit_section"
+        original: "providing accurate and timely information"
+        translated_ru: "Компания предоставляет акционерам точную и своевременную информацию."
+        section_title: "1.5 Shareholders"
+        relevance_comment: "Прямой стандарт информационной прозрачности."
+      - excerpt_id: "CtoI06_brief_mention"
+        original: "periodically submits financial statements in accordance with the accounting principles"
+        translated_ru: "Компания периодически подаёт финансовую отчётность по общепринятым принципам."
+        section_title: "III.4 External Auditor"
+        relevance_comment: "Краткое подтверждение качества отчётности."
+      - excerpt_id: "CtoI07_explicit_section"
+        original: "The Company provides actual and accurate information"
+        translated_ru: "Компания предоставляет потенциальным инвесторам актуальную и точную информацию."
+        section_title: "1.6 Potential Investors"
+        relevance_comment: "Прямое требование достоверного раскрытия."
+      - excerpt_id: "CtoI08_explicit_section"
+        original: "The Company discloses required information in a fair manner"
+        translated_ru: "Обязательная информация раскрывается в справедливой форме."
+        section_title: "1.6 Potential Investors"
+        relevance_comment: "Прямой принцип равного раскрытия инвесторам."
+      - excerpt_id: "CtoI09_brief_mention"
+        original: "maintain a good corporate image to increase shareholders value"
+        translated_ru: "Компания стремится поддерживать репутацию для роста акционерной стоимости."
+        section_title: "1.5 Shareholders"
+        relevance_comment: "Краткая ориентация на долгосрочную ценность для акционеров."
+    other_principles: []
+  - topic_id: "company_to_people"
+    principles:
+      - principle_code: "CtoP01"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoP02"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoP03"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "CtoP03_explicit_section"
+      - principle_code: "CtoP04"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "CtoP04_explicit_section"
+      - principle_code: "CtoP05"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoP06"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "CtoP06_explicit_section"
+      - principle_code: "CtoP07"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoP08"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "CtoP08_explicit_section"
+      - principle_code: "CtoP09"
+        principle_status: "brief_mention"
+        evidence_excerpt_ids:
+          - "CtoP09_brief_mention"
+      - principle_code: "CtoP10"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+    key_excerpts:
+      - excerpt_id: "CtoP03_explicit_section"
+        original: "The Company supports national and regional programs, particularly in education, socio-economic, health, and environment"
+        translated_ru: "Компания поддерживает госпрограммы в образовании, соцсфере, здравоохранении и экологии."
+        section_title: "1.8 State Institutions"
+        relevance_comment: "Прямой вклад в развитие общества."
+      - excerpt_id: "CtoP04_explicit_section"
+        original: "participates in maintaining a clean and healthy environment"
+        translated_ru: "Компания участвует в поддержании чистой и здоровой окружающей среды."
+        section_title: "1.9 Community"
+        relevance_comment: "Прямой экологический принцип."
+      - excerpt_id: "CtoP06_explicit_section"
+        original: "endeavors to provide benefits through empowerment programs"
+        translated_ru: "Компания реализует программы расширения возможностей местных сообществ."
+        section_title: "1.9 Community"
+        relevance_comment: "Прямой социальный вклад."
+      - excerpt_id: "CtoP08_explicit_section"
+        original: "respects the social, culture, tradition, modesty, beliefs and religions"
+        translated_ru: "Компания уважает культуру, традиции, убеждения и религию сообществ."
+        section_title: "1.9 Community"
+        relevance_comment: "Прямой принцип уважения прав и культурного разнообразия."
+      - excerpt_id: "CtoP09_brief_mention"
+        original: "adheres to the truth and disclosure of information in an accountable manner"
+        translated_ru: "Компания придерживается правдивого и ответственного раскрытия информации перед обществом."
+        section_title: "1.10 Mass Media"
+        relevance_comment: "Краткий общественный принцип публичной подотчётности."
+    other_principles: []
+  - topic_id: "company_to_buyer"
+    principles:
+      - principle_code: "CtoB01"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "CtoB01_explicit_section"
+      - principle_code: "CtoB02"
+        principle_status: "brief_mention"
+        evidence_excerpt_ids:
+          - "CtoB02_brief_mention"
+      - principle_code: "CtoB03"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "CtoB03_explicit_section"
+      - principle_code: "CtoB04"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "CtoB04_explicit_section"
+      - principle_code: "CtoB05"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoB06"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "CtoB06_explicit_section"
+      - principle_code: "CtoB07"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoB08"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoB09"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "CtoB09_explicit_section"
+    key_excerpts:
+      - excerpt_id: "CtoB01_explicit_section"
+        original: "The Company respects the rights of the customers in accordance with applicable laws and regulations"
+        translated_ru: "Компания уважает права клиентов в соответствии с законом."
+        section_title: "1.1 Customers"
+        relevance_comment: "Прямой стандарт прав потребителей."
+      - excerpt_id: "CtoB02_brief_mention"
+        original: "is committed to price, quality, delivery time, after-sales service and product warranties"
+        translated_ru: "Компания кратко фиксирует обязательства по цене, качеству, срокам и послепродажному сервису."
+        section_title: "1.1 Customers"
+        relevance_comment: "Краткое подтверждение ответственности за сервис."
+      - excerpt_id: "CtoB03_explicit_section"
+        original: "The Company maintains the confidential information of the customers"
+        translated_ru: "Компания защищает конфиденциальную информацию клиентов."
+        section_title: "1.1 Customers"
+        relevance_comment: "Прямой принцип защиты данных клиентов."
+      - excerpt_id: "CtoB04_explicit_section"
+        original: "adheres to the advertising ethics and applicable laws and regulations"
+        translated_ru: "Компания соблюдает этику рекламы и применимое законодательство."
+        section_title: "1.1 Customers"
+        relevance_comment: "Прямой стандарт честных коммуникаций с клиентами."
+      - excerpt_id: "CtoB06_explicit_section"
+        original: "committed to price, quality, delivery time, after-sales service and product warranties"
+        translated_ru: "Компания принимает обязательства по качеству продукта/услуги и сервису."
+        section_title: "1.1 Customers"
+        relevance_comment: "Прямой стандарт качества и исполнения обязательств."
+      - excerpt_id: "CtoB09_explicit_section"
+        original: "Always listen to customers and strive to meet their expectations"
+        translated_ru: "Компания должна слушать клиентов и стремиться соответствовать их ожиданиям."
+        section_title: "1.1 Customers / Work Ethics context"
+        relevance_comment: "Прямой принцип обратной связи с клиентами."
+    other_principles: []
+  - topic_id: "worker_to_worker"
+    principles:
+      - principle_code: "WtoW01"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "WtoW01_explicit_section"
+      - principle_code: "WtoW02"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "WtoW03"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "WtoW04"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "WtoW04_explicit_section"
+      - principle_code: "WtoW05"
+        principle_status: "brief_mention"
+        evidence_excerpt_ids:
+          - "WtoW05_brief_mention"
+      - principle_code: "WtoW06"
+        principle_status: "brief_mention"
+        evidence_excerpt_ids:
+          - "WtoW06_brief_mention"
+      - principle_code: "WtoW07"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "WtoW07_explicit_section"
+      - principle_code: "WtoW08"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+    key_excerpts:
+      - excerpt_id: "WtoW01_explicit_section"
+        original: "To mutually respect, encourage and foster a good cooperation"
+        translated_ru: "Сотрудники должны взаимно уважать друг друга и развивать сотрудничество."
+        section_title: "2.e Relationship among Employees"
+        relevance_comment: "Прямой принцип взаимного уважения."
+      - excerpt_id: "WtoW04_explicit_section"
+        original: "foster transparency and abundance mentality in a harmonious relationship"
+        translated_ru: "В отношениях сотрудников развиваются прозрачность и гармоничное взаимодействие."
+        section_title: "2.e Relationship among Employees"
+        relevance_comment: "Прямой стандарт кооперации и открытости."
+      - excerpt_id: "WtoW05_brief_mention"
+        original: "The Company provides equal opportunities regardless of ... gender, ethnicity, religion"
+        translated_ru: "Компания кратко закрепляет равные возможности и недискриминационный подход."
+        section_title: "1.4 Employees"
+        relevance_comment: "Краткое подтверждение антидискриминации среди коллег."
+      - excerpt_id: "WtoW06_brief_mention"
+        original: "atmosphere of openness and two-way communication"
+        translated_ru: "Создаётся атмосфера открытости и двусторонней коммуникации."
+        section_title: "1.4 Employees"
+        relevance_comment: "Краткий стандарт нетоксичной коммуникации."
+      - excerpt_id: "WtoW07_explicit_section"
+        original: "To mutually accept, respect and foster a good cooperation"
+        translated_ru: "Ожидается командная работа на основе взаимного принятия и сотрудничества."
+        section_title: "2.d Superior/Subordinate"
+        relevance_comment: "Прямой принцип командности."
+    other_principles: []
+  - topic_id: "manager_to_worker"
+    principles:
+      - principle_code: "MtoW01"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "MtoW01_explicit_section"
+      - principle_code: "MtoW02"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "MtoW02_explicit_section"
+      - principle_code: "MtoW03"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "MtoW04"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "MtoW05"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "MtoW06"
+        principle_status: "brief_mention"
+        evidence_excerpt_ids:
+          - "MtoW06_brief_mention"
+    key_excerpts:
+      - excerpt_id: "MtoW01_explicit_section"
+        original: "Superior acts as role model, leader and mentor for their subordinates"
+        translated_ru: "Руководитель должен быть ролевой моделью, лидером и наставником."
+        section_title: "2.d Superior/Subordinate"
+        relevance_comment: "Прямой стандарт поведения руководителя."
+      - excerpt_id: "MtoW02_explicit_section"
+        original: "Subordinates proactively develop and express their potentials under the direction and guidance of their superior"
+        translated_ru: "Руководитель обязан направлять и развивать потенциал подчинённых."
+        section_title: "2.d Superior/Subordinate"
+        relevance_comment: "Прямой стандарт развития сотрудников."
+      - excerpt_id: "MtoW06_brief_mention"
+        original: "The Company rewards its outstanding Employees"
+        translated_ru: "Компания кратко фиксирует вознаграждение результативных сотрудников."
+        section_title: "1.4 Employees"
+        relevance_comment: "Краткий принцип справедливого признания результатов."
+    other_principles: []
+  - topic_id: "company_to_worker"
+    principles:
+      - principle_code: "CtoW01"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "CtoW01_explicit_section"
+      - principle_code: "CtoW02"
+        principle_status: "brief_mention"
+        evidence_excerpt_ids:
+          - "CtoW02_brief_mention"
+      - principle_code: "CtoW03"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoW04"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoW05"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoW06"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "CtoW06_explicit_section"
+      - principle_code: "CtoW07"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoW08"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoW09"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoW10"
+        principle_status: "brief_mention"
+        evidence_excerpt_ids:
+          - "CtoW10_brief_mention"
+    key_excerpts:
+      - excerpt_id: "CtoW01_explicit_section"
+        original: "The Company provides equal opportunities ... with due observance to their competence and performance"
+        translated_ru: "Компания предоставляет равные возможности с учетом компетенций и результатов."
+        section_title: "1.4 Employees"
+        relevance_comment: "Прямой принцип справедливых HR-практик."
+      - excerpt_id: "CtoW02_brief_mention"
+        original: "The Company rewards its outstanding Employees"
+        translated_ru: "Компания поощряет выдающиеся результаты сотрудников."
+        section_title: "1.4 Employees"
+        relevance_comment: "Краткое подтверждение системы мотивации."
+      - excerpt_id: "CtoW06_explicit_section"
+        original: "honors the universal principle of human rights"
+        translated_ru: "Компания соблюдает универсальные принципы прав человека в трудовых отношениях."
+        section_title: "1.4 Employees"
+        relevance_comment: "Прямой антидискриминационный и правозащитный стандарт работодателя."
+      - excerpt_id: "CtoW10_brief_mention"
+        original: "treats the Employees as valuable assets"
+        translated_ru: "Компания рассматривает сотрудников как ключевой актив."
+        section_title: "1.4 Employees"
+        relevance_comment: "Краткая фиксация ценности сотрудников для компании."
+    other_principles: []
+  - topic_id: "worker_to_manager"
+    principles:
+      - principle_code: "WtoM01"
+        principle_status: "brief_mention"
+        evidence_excerpt_ids:
+          - "WtoM01_brief_mention"
+      - principle_code: "WtoM02"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "WtoM03"
+        principle_status: "brief_mention"
+        evidence_excerpt_ids:
+          - "WtoM03_brief_mention"
+      - principle_code: "WtoM04"
+        principle_status: "brief_mention"
+        evidence_excerpt_ids:
+          - "WtoM04_brief_mention"
+      - principle_code: "WtoM05"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "WtoM06"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+    key_excerpts:
+      - excerpt_id: "WtoM01_brief_mention"
+        original: "Subordinates proactively develop and express their potentials under the direction and guidance of their superior"
+        translated_ru: "Подчинённые должны развиваться и проявлять инициативу под руководством менеджера."
+        section_title: "2.d Superior/Subordinate"
+        relevance_comment: "Краткий стандарт конструктивного подчинения."
+      - excerpt_id: "WtoM03_brief_mention"
+        original: "To mutually accept, respect and foster a good cooperation"
+        translated_ru: "Подчинённый обязан уважительно и добросовестно взаимодействовать с руководителем."
+        section_title: "2.d Superior/Subordinate"
+        relevance_comment: "Краткий принцип уважительного отношения к руководителю."
+      - excerpt_id: "WtoM04_brief_mention"
+        original: "atmosphere of openness based on sincerity and good faith"
+        translated_ru: "Коммуникация с руководителем должна строиться на открытости и добросовестности."
+        section_title: "2.d Superior/Subordinate"
+        relevance_comment: "Краткий стандарт открытого выражения позиции."
+    other_principles: []
+notes: []
+limitations: []
+analyst_summary_ru: "Кодекс Astra Graphia детально описывает этику взаимодействия с клиентами, партнёрами, сотрудниками и обществом; покрытие принципов высокое и подтверждено прямыми формулировками."
