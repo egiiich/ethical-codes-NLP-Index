@@ -1,0 +1,1124 @@
+FIX PRICE BUSINESS ETHICS POLICY
+(CODE OF CONDUCT)
+ПОЛИТИКА В ОБЛАСТИ ДЕЛОВОЙ ЭТИКИ
+FIX PRICE (КОДЕКС ПОВЕДЕНИЯ)
+
+
+
+               FIX PRICE BUSINESS ETHICS POLICY   Reg. No.___
+               ПОЛИТИКА В ОБЛАСТИ ДЕЛОВОЙ         Рег. №___
+               ЭТИКИ FIX PRICE
+
+
+
+
+                    FIX PRICE
+    BUSINESS ETHICS POLICY (CODE OF CONDUCT)
+                    ПОЛИТИКА
+       В ОБЛАСТИ ДЕЛОВОЙ ЭТИКИ FIX PRICE
+               (КОДЕКС ПОВЕДЕНИЯ)
+
+
+
+
+                                                              1
+Table of contents                                              Оглавление
+1.        GENERAL PROVISIONS ..2                               1.    ОБЩИЕ ПОЛОЖЕНИЯ ..2
+2.        TERMS, DEFINITIONS, ABBREVIATIONS ..3                2.    ТЕРМИНЫ, ОПРЕДЕЛЕНИЯ, СОКРАЩЕНИЯ ..3
+3.        POLICY GOALS ..4                                     3.    ЦЕЛИ ПОЛИТИКИ ..4
+4.        POLICY OBJECTIVES ..4                                4.    ЗАДАЧИ ПОЛИТИКИ ..4
+5.        POLICY PRINCIPLES ..4                                5.    ПРИНЦИПЫ ПОЛИТИКИ ..4
+6.        PERSONAL DIGNITY ..5                                 6.    ЛИЧНОЕ ДОСТОИНСТВО ..5
+7.        PREVENTION OF ILLEGAL PAYMENTS ..5                   7.    ПРЕДОТВРАЩЕНИЕ НЕПРАВОМЕРНЫХ ПЛАТЕЖЕЙ
+8.        COMBATING BRIBERY AND CORRUPTION ..5                 ..5
+9.     HONEST AND ETHICAL RELATIONS AND                        8.    БОРЬБА СО ВЗЯТОЧНИЧЕСТВОМ И КОРРУПЦИЕЙ ..5
+COMPETITION ..6                                                9.  ЧЕСТНЫЕ И ЭТИЧНЫЕ ОТНОШЕНИЯ И
+10.       SUPPLIER RELATIONS ..7                               КОНКУРЕНЦИЯ ..6
+11.       SAFETY OF GOODS ..7                                  10.     ОТНОШЕНИЯ С ПОСТАВЩИКАМИ ..7
+12.       CONFLICTS OF INTEREST ..7                            11.     БЕЗОПАСНОСТЬ ТОВАРОВ ..7
+13.       FINANCIAL CRIMES ..8                                 12.     КОНФЛИКТЫ ЛИЧНЫХ ИНТЕРЕСОВ ..7
+14.       HEALTH AND SAFETY ..8                                13.     ФИНАНСОВЫЕ ПРЕСТУПЛЕНИЯ ..8
+15.       HUMAN RIGHTS ..9                                     14.     ЗДОРОВЬЕ И БЕЗОПАСНОСТЬ ..8
+16.       ECOLOGY ..9                                          15.     ПРАВА ЧЕЛОВЕКА ..9
+17.       CONFIDENTIALITY OF INFORMATION ..9                   16.     ЭКОЛОГИЯ ..9
+18.       PUBLIC DISCLOSURES ..10                              17.     КОНФИДЕНЦИАЛЬНОСТЬ ИНФОРМАЦИИ ..9
+19.    COLLABORATION IN CONDUCTING AUDITS,                     18.     ПУБЛИЧНОЕ РАСКРЫТИЕ ИНФОРМАЦИИ ..10
+COMPLIANCE REVIEWS AND INVESTIGATIONS ..10                     19.   СОТРУДНИЧЕСТВО В ПРОВЕДЕНИИ АУДИТА,
+20.       STAFF ACCOUNTABILITY ..10                            ПРОВЕРОК ВЫПОЛНЕНИЯ И РАССЛЕДОВАНИЙ ..10
+21.      REPORTING ISSUES RELATED TO THIS                      20.     ОТВЕТСТВЕННОСТЬ СОТРУДНИКОВ ..10
+POLICY ..11                                                    21.   СООБЩЕНИЕ О ВОПРОСАХ ПО НАСТОЯЩЕЙ
+22.       WHISTLEBLOWER POLICY ..11                            ПОЛИТИКЕ ..11
+                                                               22.   ПОЛИТИКА В ОТНОШЕНИИ ЛИЦ, СООБЩАЮЩИХ
+                                                               О НАРУШЕНИЯХ ..11
+23.       ANTI-RETALIATION POLICY ..11
+                                                               23.     ПОЛИТИКА НЕДОПУЩЕНИЯ ПРЕСЛЕДОВАНИЙ ..11
+24.       POLICY VIOLATION ..12
+                                                               24.     НАРУШЕНИЕ ПОЛИТИКИ ..12
+25.       WHO IS RESPONSIBLE FOR THIS POLICY ..12
+                                                               25.     КТО ОТВЕЧАЕТ ЗА ЭТУ ПОЛИТИКУ ..12
+26.       MONITORING AND AUDIT OF COMPLIANCE
+..12                                                           26.     МОНИТОРИНГ И ПРОВЕРКА ВЫПОЛНЕНИЯ ..12
+27.    LOCATION OF THE POLICY AND ITS                          27.   МЕСТОНАХОЖДЕНИЕ ПОЛИТИКИ И РАСКРЫТИЕ
+DISCLOSURE ..12                                                ИНФОРМАЦИИ О НЕЙ ..12
+                                                               28.     ДРУГИЕ ПОЛИТИКИ ГРУППЫ ..12
+28.       OTHER GROUP POLICIES ..12                            ПРИЛОЖЕНИЕ №1. ПРЕДУПРЕЖДАЮЩИЕ ПРИЗНАКИ ..13
+APPENDIX NO. 1. WARNING SIGNS ..13                             ПРИЛОЖЕНИЕ №2. ПРОЦЕДУРА ПО УРЕГУЛИРОВАНИЮ
+APPENDIX NO. 2. CONFLICTS OF INTEREST                          КОНФЛИКТА ИНТЕРЕСОВ В КОМПАНИЯХ ГРУППЫ ..14
+SETTLEMENT PROCEDURE FOR GROUP COMPANIES                       ПРИЛОЖЕНИЕ №3. ДЕКЛАРАЦИЯ ОБ ОЗНАКОМЛЕНИИ И
+..14                                                           СОГЛАСИИ С ТРЕБОВАНИЯМИ ПОЛИТИКИ В ОБЛАСТИ
+APPENDIX NO. 3. DECLARATION OF REVIEWING AND                   ДЕЛОВОЙ ЭТИКИ ..16
+COMPLIANCE WITH THE BUSINESS ETHICS POLICY                     29.     КОНТРОЛЬ ВЕРСИЙ ДОКУМЕНТА ..18
+..16
+29.       DOCUMENT VERSION CONTROL ..18
+
+
+
+
+1.        General Provisions                                   1.      Общие положения
+1.1. The Group of Companies (hereinafter, the Group)           1.1. Группа компаний (далее - "Группа"), осуществляющей
+operating under the FIX PRICE trademark complies with all      деятельность под торговой маркой FIX PRICE, соблюдают
+applicable laws and regulations of the countries in which it   все применимое законодательство и нормативные акты
+operates (hereinafter, the Countries of Operation).            стран, в которых она осуществляет деятельность (далее -
+                                                               "Страны Ведения Деятельности").
+
+
+
+
+                                                                                                                         2
+1.2. In doing business the Group also strives to comply with      1.2. Группа также стремится вести бизнес в соответствии с
+the high ethical standards set out herein, which reflect the      высокими этическими нормами, изложенными в настоящей
+Group’s values and the expectations of its stakeholders           Политике, которые отражают ценности Группы и ожидания
+(including customers and shareholders).                           заинтересованных сторон (включая клиентов и акционеров).
+1.3. The requirements hereof apply to the entire Group and        1.3. Требования настоящей Политики распространяются на
+all of its employees, regardless of their position. The           всю Группу и всех ее сотрудников независимо от занимаемой
+requirements of the Policy are binding wherever the Group         должности. Требования Политики являются обязательными
+operates. It is important to remember that the Group              везде, где Группа осуществляет свою деятельность. Важно
+employees shall observe the provisions of the Policy not          помнить, что нормы Политики должны соблюдаться
+only during business hours, but also during non-business          сотрудниками Группы не только в рабочее время, но и во
+activities if they affect the interests of the Group, or if the   время внерабочих мероприятий, если они затрагивают
+employee is perceived by third parties as a representative        интересы Группы, или если сотрудник воспринимается
+of the Group.                                                     третьими лицами в качестве представителя компании
+                                                                  Группы.
+1.4. All the Group employees shall be informed about the          1.4. . Все сотрудники Группы должны быть
+existence and importance hereof. The Ethics and                   проинформированы о существовании настоящей Политики и
+Compliance Committee will ensure that the text hereof is          ее важности. Комитет по Этике и Комплаенсу будет
+readily available to every employee of the Group and              обеспечивать, чтобы текст настоящей Политики был легко
+provided to each newly hired Employee for review.                 доступен каждому сотруднику Группы и предоставлялся
+                                                                  каждому новому Сотруднику при найме на работу с целью
+                                                                  ознакомления.
+
+
+2.       Terms, Definitions, Abbreviations
+2.       Термины, определения, сокращения
+Term,
+definition,        Explanation
+abbreviation
+
+Anti-corruption    Related to countering bribery and corruption
+
+Anti-money
+                   Countering legalization (laundering) of income gained through illegal actions
+laundering
+
+                   All laws and regulations that govern the Employees and the Group including but not limited to the following:
+                         1.   Anti-corruption legislation such as the FCPA, the Anti-Bribery Act, and the OECD Convention
+                         2.   Laws on sanctions and economic sanctions
+                         3.   Anti-money laundering laws such as the EU Anti-Money Laundering Directive, POCA, BSA and
+Applicable laws               Federal Law No. 115-FZ
+                         4.   Competition laws, such as Articles 101 and 102 of the Treaty on the Functioning of the European
+                              Union, Sections 1 and 2 of the Sherman Anti-Trust Act, Federal Law No. 135-FZ
+                         5.   Data protection laws such as Federal Law No. 152-FZ
+                         6.   Laws on modern slavery and human trafficking.
+
+Board of
+                   Executive body of the Group
+Directors
+
+Employee           All employees (both full-time and part-time), directors, officers, workers and contractors of the Group
+
+                   Persons holding positions in legislative, administrative or judicial bodies, civil servants, military personnel or
+                   similar officials of any kind, as well as any persons performing public functions on behalf of any country,
+Public officials   territory, municipality or any government agency or state enterprise, any person performing any function on
+                   behalf of any organization, which is wholly or partly owned by the state or municipality, or a public international
+                   organization
+
+
+
+Термин,
+определение,       Пояснение
+сокращение
+
+Антикоррупцио
+                   В области противодействия взяточничеству и коррупции
+нный
+
+
+
+
+                                                                                                                                         3
+Противодейств
+ие Отмыванию       Противодействие легализации (отмыванию) доходов, полученных преступным путем
+Доходов
+
+                   Все законы и нормативные акты, которыми руководствуются Сотрудники и Группа, в том числе, но не
+                   ограничиваясь следующим:
+                        1.    антикоррупционное законодательство, такое как FCPA, Закон «О борьбе со взяточничеством»
+                              и Конвенция ОЭСР;
+                        2.    законы о санкциях и экономических санкциях;
+Применимое
+законодательст          3.    законы в области борьбы с отмыванием доходов, такие как директива ЕС по борьбе с
+во                            отмыванием денежных средств , POCA, BSA и Федеральный закон № 115-ФЗ;
+                        4.    антимонопольное законодательство, например статьи 101 и 102 Закона о функционировании
+                              ЕС, разделы 1 и 2 Закона Шермана США, Федеральный закон № 135-ФЗ;
+                        5.    законы о защите данных, такие как Федеральный закон № 152-ФЗ;
+                        6.    законы о современных формах рабства и торговли людьми.
+
+Совет
+                   Исполнительный орган управления Группы
+директоров
+
+                   Все сотрудники ( как работающие на полную, так и неполную ставку), директора, должностные лица,
+Сотрудник
+                   работники и подрядчики Группы
+
+                   Лица, занимающие должности в законодательных, административных или судебных органах,
+                   государственных служащих, военнослужащих или аналогичных должностных лиц любого рода, а также
+Публичные
+                   любых лиц, выполняющих публичные функции от имени любой страны, территории, муниципалитета
+должностные
+                   или любого государственного учреждения или государственного предприятия, любого лица,
+лица
+                   выполняющего любую функцию от имени любой организации, полностью или частично принадлежащей
+                   государству или муниципалитету, или общественной международной организации
+
+
+
+
+3.        Policy Goals                                          3.      Цели политики
+3.1. This Policy is designed to strengthen the Group’s          3.1. Настоящая Политика разработана с целью укрепления
+business reputation, promote fair and ethical business          деловой репутации Группы, содействия честному и этичному
+conduct, prevent abuse and violations of the law, and           ведению бизнеса, предотвращению злоупотреблений и
+establish professional, respectful and responsible              нарушений законодательства, а также установлению
+relationships between the Group employees, customers,           профессиональных, уважительных и ответственных
+business partners and shareholders. The Policy sets out         отношений между сотрудниками Группы, клиентами,
+the Group’s standards and requirements for compliance           деловыми партнерами и акционерами. Политика содержит
+with ethical and business principles and norms. Where           стандарты и требования Группы в области соблюдения
+applicable laws can be applied, legislative principles take     этических и деловых принципов и норм. В тех случаях, когда
+precedence.                                                     применимо действующее законодательство,
+                                                                законодательные принципы являются приоритетными.
+
+4.        Policy Objectives                                     4.      Задачи политики
+4.1. The objective of the Policy is to formulate common         4.1. Задачей Политики является формирование единых
+ethical rules of conduct for the Group employees and other      этических правил поведения сотрудников Группы и иных лиц,
+persons acting on behalf of the Group company in the            действующих от имени компании Группы в рамках ведения
+course of doing business.                                       бизнеса.
+
+5.        Policy Principles                                     5.      Принципы политики
+5.1. All employees of the Group and other persons               5.1. Все сотрудники Группы и иные лица, представляющие
+representing the interests of the Group shall comply with all   интересы Группы, в рамках ведения бизнеса должны
+Applicable Laws, rules, and regulations in the course of        соблюдать все Применимые Законы, правила и нормативные
+doing business. The following paragraphs hereof set out         акты. В последующих параграфах настоящей Политики
+certain areas within such laws, rules, and regulations that     излагаются определенные области в рамках этих законов,
+require special attention. As a general rule, the Group         правил и нормативных актов, которые требуют особого
+expects each employee to behave in a manner consistent          внимания. В качестве общего правила, Группа ожидает от
+with that of a responsible, prudent and dedicated employee      каждого сотрудника поведения, соответствующего
+duly considering the interests of the Group, its Employees,     поведению ответственного, предусмотрительного и
+
+
+
+
+                                                                                                                             4
+and any other stakeholders of the Group. This Policy should     преданного своему делу сотрудника, который должным
+be read in conjunction with the other policies adopted by       образом учитывает интересы Группы, ее Сотрудников и
+the Group that establish requirements for the business          любых других заинтересованных сторон Группы. Настоящую
+conduct of all Group employees and the ethical conduct of       политику следует рассматривать совместно с другими
+business in general.                                            принятыми Группой политиками, устанавливающими
+                                                                требования к деловому поведению всех сотрудников Группы
+                                                                и этическому ведению бизнеса в целом.
+
+5.2. The Group proclaims for itself and its employees the       5.2. Группа провозглашает для себя и своих сотрудников
+following most important principles and values of doing         наиболее важные принципы и ценности ведения честного и
+business in an honest and ethical manner and strives to         этического бизнеса и стремится в своей деятельности к
+strictly adhere to such principles and values in its            неукоснительному их соблюдению, а именно:
+operations:
+
+6.        Personal Dignity                                      6.      Личное достоинство
+6.1. Concern for the personal dignity of each person is an      6.1. Забота о личном достоинстве каждого человека является
+integral part of the standards established by the Group. In     неотъемлемой частью стандартов, которые устанавливает
+its decisions regarding employees, the Group is guided by       Группа. В своих решениях в отношении сотрудников Группа
+their achievements and their contribution to the overall        ориентируется на их достижения и вклад в успех Группы.
+success of the Group. The Group ensures equal                   Группа предоставляет всем имеющим соответствующую
+employment opportunities for all adequately qualified           квалификацию лицам равные возможности трудоустройства,
+individuals regardless of inappropriate criteria and            без учета недопустимых критериев и обстоятельств. Группа
+circumstances. The Group does not tolerate any form of          не допускает в отношении сотрудников никаких проявлений
+discrimination or harassment against employees.                 дискриминации и притеснений.
+
+6.2. The Group values diversity as an important asset that      6.2. Группа дорожит многообразием как важным активом,
+strengthens culture, helps build high-level customer            который укрепляет культуру, помогает на высоком уровне
+relationships and increases shareholder value. To be            выстраивать взаимоотношения с клиентами и
+successful, the Group aims to create an inclusive               увеличивать прибыль для акционеров. Для достижения
+environment that welcomes and supports the diversity of         успеха Группа нацелена на формирование инклюзивной
+employees within the Group. Employees shall treat each          среды, которая приветствует и поддерживает многообразие
+other with respect at all times. Any incidents of               сотрудников Группы. Сотрудники должны всегда с уважением
+discrimination and/or harassment will be subject to             относиться друг к другу. Любые случаи дискриминации и/или
+disciplinary proceedings.                                       притеснений будут предметом дисциплинарных
+                                                                разбирательств.
+
+6.3. Each employee shall receive remuneration for their         6.3. Каждый работник должен получать за свою работу
+work not lower than the statutory minimum wage in each          вознаграждение не ниже установленного законом
+country where it applies.                                       минимального размера оплаты труда в каждой стране, в
+                                                                которой он применяется.
+
+6.4. In the absence of a specified minimum wage,                6.4. В случае отсутствия установленного минимального
+compensation shall be consistent with the normal wage           размера оплаты труда, компенсация должна соответствовать
+level in the country, in which the employee is employed.        обычному уровню оплаты труда в стране, в которой работает
+                                                                наемный сотрудник.
+
+7.  Prevention of Illegal                                       7.  Предотвращение
+Payments                                                        неправомерных платежей
+7.1. The Group does not make any illegal payments to            7.1.Группа не осуществляет неправомерные платежи ни в
+government officials or business partners. The Group            каком виде, представителям власти или партнерам по
+employees and representatives may face administrative,          бизнесу. Сотрудники и представители Группы могут понести
+civil, criminal and disciplinary liability for making illegal   административную, гражданскую, уголовную и
+payments.                                                       дисциплинарную ответственность в случае совершения
+                                                                неправомерного платежа.
+
+7.2. The Group employees are required to watch out for          7.2. Сотрудники Группы обязаны обращать особое внимание
+signs that indicate possible illegal payments and, if they      на признаки, свидетельствующие о возможных
+have concerns, discuss them with their manager or contact       неправомерных платежах и при возникновении опасений
+the Ethics and Compliance Committee. The list of signs is       обсудить их со своим руководителем или обратиться в
+given in Appendix 1 hereto.                                     Комитет по Этике и Комплаенсу. Перечень признаков
+                                                                содержится в Приложении 1 к настоящей Политике.
+
+
+
+
+                                                                                                                             5
+8.   Combating Bribery and                                          8.   Борьба со взяточничеством
+Corruption                                                          и коррупцией
+8.1. There are different laws and regulations around the            8.1. В разных странах мира существует различное
+world to combat bribery and contributions to political              законодательство и нормативные акты в области борьбы со
+organizations and their activities, and in many cases harsh         взяточничеством и взносами в политические организации и
+penalties can be imposed for violations. The Group adheres          их деятельность, и во многих случаях за их нарушение могут
+to the principle of zero tolerance of corruption in all its forms   применяться суровые меры наказания. Группа
+and manifestations, including interaction with customers            придерживается принципа неприятия коррупции в любых ее
+and business partners, as well as government and other              формах и проявлениях, в том числе при взаимодействии с
+officials, representatives of public organizations and political    клиентами и деловыми партнерами, а также
+parties.                                                            государственными и иными служащими, представителями
+                                                                    общественных организаций и политических партий.
+
+•           No one associated with the Group, including,            •         Никто, связанный с Группой, включая, без
+without limitation, its employees, representatives, agents          ограничений, сотрудников, представителей, агентов и
+and third party providers, will offer or accept bribes,             сторонних провайдеров, не будет предлагать или принимать
+facilitation awards, political contributions, or any other          взятки, вознаграждения за содействие, политические взносы
+incentives to influence anyone to improperly perform their          или любые другие стимулы, направленные на оказание
+duties or to influence a Public Official in their official          влияния на кого-либо с целью ненадлежащего исполнения
+capacity, both directly and through a third party, and to           ими обязанностей или оказания влияния на Публичное
+perform any actions that can be qualified as corruption in          Должностное Лицо в его официальном качестве, как
+the territory of any state where the Group runs its business.       напрямую, так и через третью сторону, а также совершать
+                                                                    любые действия, которые могут быть квалифицированы как
+                                                                    коррупция на территории любого государства, где Группа
+                                                                    ведет свою деятельность.
+
+•           The Employees are prohibited from making or             •        Сотрудникам запрещается делать или запрашивать
+soliciting political contributions or engaging in political         взносы на политические цели, а также заниматься
+activities that are intended to assist the Group in obtaining       политической деятельностью, целью которой является
+or maintaining business.                                            содействие Группе в получении или сохранении бизнеса.
+
+8.2. No one associated with the Group, including but not            8.2. Никто, связанный с Группой, включая, без ограничений,
+limited to its employees, representatives, agents and third         сотрудников, представителей, агентов и сторонних
+party providers, will offer, provide or accept any gifts or         провайдеров, не будет предлагать, предоставлять или
+hospitality that is intended or could reasonably be                 принимать любые подарки или знаки делового
+considered as a bribe.                                              гостеприимства, которые предназначены или могут
+                                                                    обоснованно расцениваться в качестве взятки.
+
+8.3. Any person associated with the Group, including but            8.3. Любое лицо, связанное с Группой, включая, без
+not limited to its employees, representatives, agents and           ограничений, сотрудников, представителей, агентов и
+third-party providers, shall comply with the Anti-Bribery and       сторонних провайдеров, обязано соблюдать Политику
+Anti-Corruption Policy and refer to it for more information on      противодействия взяточничеству и коррупции и обращаться к
+the Group’s position and established requirements for the           ней за более подробной информацией о позиции Группы и
+conduct of all Group employees and associated persons in            установленных требований в отношении поведения всех
+matters related to combating bribery and corruption.                сотрудников Группы и связанных с ней лиц в вопросах,
+                                                                    касающихся борьбы со взяточничеством и коррупцией.
+
+9.   Honest and Ethical                                             9.  Честные и этичные
+Relations and Competition                                           отношения и конкуренция
+9.1. The Group is convinced that long-term, mutually                9.1. Группа убеждена, что долговременные, взаимовыгодные
+beneficial relationships with highly reputable customers and        отношения с клиентами и поставщиками, имеющими высокую
+suppliers are essential to the commercial success of its            деловую репутацию, являются важным условием
+business. The Group is committed to fair competition and            коммерческой эффективности бизнеса. Группа выступает за
+compliance with the requirements of all applicable                  честную конкурентную борьбу и соблюдение всех
+competition laws. No one in the Group may pursue a                  действующих требований законодательства в отношении
+competitive advantage through illegal or unethical business         конкуренции. Никто в Группе не может стремиться к
+practices. Gaining an unfair advantage over someone by              получению конкурентных преимуществ при помощи
+manipulating, hiding, misusing confidential information,            незаконных или неэтичных методов ведения бизнеса.
+misrepresenting material facts or any unfair business               Достижение нечестных преимуществ над кем-либо путем
+practice is a violation hereof.                                     манипулирования, сокрытия, злоупотребления закрытой
+                                                                    информацией, искажения существенных фактов или любой
+                                                                    недобросовестной практики в деловых отношениях является
+                                                                    нарушением настоящей Политики.
+
+9.2. All agreements with suppliers, manufacturers and third         9.2. Все договоренности с поставщиками, производителями
+party providers shall take into account the Group’s interests       и сторонними провайдерами должны основываться на
+
+
+
+                                                                                                                                 6
+and shall be based on an impartial assessment of such              интересах Группы и беспристрастной оценке производителя,
+manufacturer, supplier or third party provider. The Group          поставщика или стороннего провайдера. Группа ожидает от
+expects its suppliers, manufacturers and third-party               поставщиков, производителей и сторонних провайдеров в
+providers to adhere to the principles of mutual respect and        своей деятельности следования принципам взаимоуважения
+mutual benefit, honesty and integrity, and strict mutual           и взаимной выгоды, честности и добросовестности, строгой
+commitments.                                                       взаимной обязательности.
+
+10. Supplier Relations                                             10. Отношения с поставщиками
+10.1. As the Group expands into new markets and                    10.1. По мере выхода на новые рынки и территории Группа
+territories, it will establish relationships with suppliers that   будет устанавливать отношения с теми поставщиками,
+share the same values.                                             которые разделяют те же ценности.
+
+10.2. The Employees shall require suppliers to comply with         10.2. Сотрудники должны требовать от поставщиков
+the Group policies and this Policy. In addition, the Group’s       соблюдения политик Группы и настоящей Политики. Кроме
+suppliers shall comply with all contractual obligations as         того, поставщики Группы должны соблюдать все договорные
+well as applicable laws and regulations and import                 обязательства, а также применимые законы и нормативные
+requirements in the Countries of Operation.                        акты и требования к импорту в Странах Ведения
+                                                                   Деятельности.
+
+10.3. Suppliers can also rely on employees’ compliance             10.3. Поставщики могут также рассчитывать на то, что
+with the Group’s contractual obligations, provision of proof       сотрудники будут выполнять договорные обязательства
+of performance upon request, and accurate conveyance of            Группы, предоставлять по запросу доказательства
+information without misrepresentation or misleading                исполнения, а также точно передавать информацию без
+statements, whether oral or written.                               каких-либо искажений или вводящих в заблуждение
+                                                                   заявлений, как устных, так и письменных.
+
+10.4. The Group expects every link in the supply chain to          10.4. Группа ожидает, что каждое звено в цепи поставок
+share its commitment to doing business in a legal and              разделяет приверженность ведению бизнеса в соответствии
+ethical manner. The Group does not tolerate child labor,           с правовыми и этическими нормами. Группа не допускает
+mistreatment of workers, prison labor, human trafficking, or       детского труда, негуманного обращения с работниками,
+slavery in the supply chain and will only work with the            использования труда заключенных, торговли людьми или
+suppliers who follow the same principles in their operations.      рабства в цепочке поставок и будет работать только с теми
+                                                                   поставщиками, которые следуют тем же принципам в своей
+                                                                   деятельности.
+
+11. Safety of Goods                                                11. Безопасность товаров
+11.1. The group takes pride in the products it sells and is        11.1. Группа гордится товарами, которые она продает, и
+committed to providing safe, quality products at incredibly        стремится предоставлять безопасные, качественные товары
+competitive prices. The Group is committed to complying            по невероятно выгодным ценам. Группа стремится
+with the applicable laws and regulations of the Countries of       соблюдать действующее законодательство и нормативные
+Operation with respect to the manufacturing, labeling,             акты Стран Ведения Деятельности, в отношении
+packaging and distribution of products sold online or in           производства, маркировки, упаковки и распространения
+stores.                                                            товаров, продаваемых через Интернет или в магазинах.
+
+12. Conflicts of Interest                                          12. Конфликты личных
+                                                                   интересов
+12.1. The Group avoids situations, in which personal               12.1. Группа избегает ситуаций, при которых личная
+interest (direct or indirect) of the Group employee, persons       заинтересованность (прямая или косвенная) сотрудника
+associated with such employee, or a person holding a               Группы, связанных с ним лиц либо лица, замещающего
+position that has an obligation to take measures to prevent        должность, которая предусматривает обязанность принимать
+and resolve the conflict of interests, affects or may affect       меры по предотвращению и урегулированию конфликта
+proper, objective and impartial performance of official duties     интересов, влияет или может повлиять на надлежащее,
+(exercising authority) and conflicts with the interests of the     объективное и беспристрастное исполнение должностных
+Group.                                                             (служебных) обязанностей (осуществление полномочий) и
+                                                                   вступает в противоречие с интересами Группы.
+
+12.2. Each employee of the Group should carefully consider         12.2. Каждый сотрудник Группы должен тщательно
+whether any of their actions or relationships, including           анализировать, могут ли какие-либо из его действий или
+business or volunteer functions outside the Group, could           отношений, в том числе деловые или волонтерские функции
+lead to a conflict (or appearance of a conflict) with the          за пределами Группы, привести к конфликту (или видимости
+interests of the Group. Even if an activity appears to be          конфликта) с интересами Группы. Даже если какая-либо
+unrelated to a role in the Group, you may be required to           деятельность кажется не связанной с ролью в Группе, от вас
+obtain prior approval from your line manager prior to              может потребоваться получить предварительное одобрение
+participating in such activity.                                    у непосредственного руководителя до начала участия в ней.
+
+
+
+
+                                                                                                                                7
+12.3. In case of a conflict of interest, the Employee shall           12.3. Сотрудник Группы при наличии конфликта интересов
+declare its existence (Appendix 2 – Conflict of Interest              обязан осуществить декларирование конфликта интересов
+Settlement Procedure for Group Companies and Appendix                 (Приложение 2 – Процедура по урегулированию конфликта
+3 – Declaration of Reviewing and Compliance with the                  интересов и Приложение 3 – Декларация об ознакомлении и
+Business Ethics Policy).                                              согласии с требованиями Политики в области деловой этики).
+
+12.4. Besides, personal benefit and advantages should                 12.4. Кроме того, личная выгода и преимущества никогда не
+never take precedence over the employee’s job                         должны превалировать над служебными обязанностями
+responsibilities to the Group. Employees shall never use or           сотрудника перед Группой. Сотрудник Группы никогда не
+attempt to use their position in the company to obtain any            должен использовать или пытаться использовать свое
+improper personal gain (including loans or guarantees of              положение в компании для получения какой-либо
+obligations, or gifts from any individual or entity) for              ненадлежащей личной выгоды (включая займы или гарантии
+themselves, their family member(s) or any other person or             по обязательствам или подарки от любого физического или
+group.                                                                юридического лица) для себя, члена(ов) семьи или любого
+                                                                      другого лица или группы.
+
+12.5. Employees are prohibited from misappropriating (or              12.5. Работникам запрещается присваивать себе (или
+directing to any other person) commercial opportunities               направлять любому другому лицу) коммерческие
+identified as a result of the use of property, information of         возможности, выявленные в результате использования
+the Group company or official position in the Group, unless           собственности, информации компании Группы или
+such an opportunity has already been offered to the Group,            служебного положения в Группе, за исключением случаев,
+and it has rejected or otherwise refused from such                    когда такая возможность уже была предложена Группе, и она
+opportunity. Speaking more generally, Group employees                 отклонила или иным образом отказалась от такой
+are prohibited from using property, information or position in        возможности. В более широком контексте, сотрудникам
+the company for personal gain or competition with the                 Группы запрещается использовать собственность,
+Group.                                                                информацию или положение в компании в личных целях или
+                                                                      для конкуренции с Группой.
+
+12.6. The Group acknowledges that sometimes it is difficult           12.6. Группа признает, что иногда бывает трудно определить
+to distinguish between personal benefit and Group benefit;            грань между личной выгодой и выгодой для Группы; иногда
+sometimes both the personal benefit and the Group benefit             как личная выгода, так и выгода для Группы возникают в
+arise from specific activities. It is reasonable to obtain prior      результате конкретной деятельности. Разумный подход
+approval from the respective person responsible for ethics            заключается в получении предварительного одобрения от
+(as per clause 21), for any use of the Group’s property or            соответствующего лица, отвечающего за вопросы этики
+services that does not benefit the Group exclusively.                 (согласно п. 21), на любое использование имущества или
+                                                                      услуг Группы, которое не приносит выгоды исключительно
+                                                                      Группе.
+
+12.7. If the Group employee is aware of any transaction or            12.7. Если сотруднику Группы известно о какой-либо
+relationship that could reasonably be expected to give rise           операции или отношениях, которые, по разумным
+to a conflict of interest or be perceived as a conflict of            предположениям, могут привести к конфликту интересов или
+interest, they should promptly report it and discuss it with          восприниматься как конфликт интересов, следует
+the respective ethics contact person (as per clause 21). In           незамедлительно сообщить об этом и обсудить этот вопрос с
+case of doubt, the issue shall be submitted for                       соответствующим контактным лицом по вопросам этики
+consideration as appropriate.                                         (согласно п. 21). В случае возникновения сомнений
+                                                                      необходимо вынести вопрос на соответствующее
+                                                                      рассмотрение.
+
+12.8. The procedure for the Group employees to follow in              12.8. Порядок действий сотрудников Группы в случае
+the event of a conflict of interest is set out in the Conflict of     возникновения конфликта интересов изложен в Процедуре по
+Interest Settlement Procedure (Appendix 2).                           урегулированию конфликта интересов (Приложение 2).
+
+13. Financial Crimes                                                  13. Финансовые преступления
+13.1. The Group is committed to doing business in                     13.1. Группа обязуется вести бизнес в соответствии с
+accordance with Applicable Laws related to anti-money                 Применимым Законодательством о противодействии
+laundering and financial sanctions.                                   отмыванию доходов и финансовых санкциях.
+
+13.2. All Group employees are required to comply with the             13.2. Все сотрудники Группы обязаны соблюдать Политику по
+Anti-Money Laundering Policy and Sanctions Policy and                 противодействию отмыванию доходов и Политику в области
+refer to it to clarify their responsibilities in the field of anti-   Санкций и обращаться к ней для уточнения своих
+money laundering and other financial crimes.                          обязанностей в области противодействия отмыванию
+                                                                      доходов и другим финансовым преступлениям.
+
+14. Health and Safety                                                 14. Здоровье и безопасность
+14.1. The Group aspires to ensure compliance with all                 14.1. Группа стремится обеспечивать соблюдение всех
+health and safety laws and regulations. The Group has also            законодательных норм и правил охраны труда и
+developed and is implementing internal regulations                    безопасности. Группа также разработала и применяет
+regarding health and safety at the workplace.
+
+
+
+
+                                                                                                                                   8
+                                                                   внутренние регламенты в отношении охраны труда и техники
+                                                                   безопасности на рабочем месте.
+
+14.2. Each employee of the Group shall ensure that their           14.2. Каждый сотрудник Группы должен следить за тем,
+workplace is safe and secure both for themselves and their         чтобы рабочее место было безопасным и надежным как для
+colleagues.                                                        него самого, так и для его коллег.
+
+14.3. All Group employees are required to comply with the          14.3. Все сотрудники Группы обязаны соблюдать Политику в
+Environmental, Health and Safety Policy and refer to it for        области Экологии, Здоровья и Безопасности и обращаться к
+more detailed information on the Group’s position and              ней за более подробной информацией по позиции и
+practices in the field of health and safety.                       практикам Группы в области здоровья и безопасности.
+
+15. Human Rights                                                   15. Права человека
+15.1. In its operations the Group is committed to observe          15.1. Группа обязуется действовать в соответствии со
+universal human and labor rights.                                  всеобщими правами человека и трудовыми правами.
+
+15.2. All employees are expected to adhere to the Policy on        15.2. Все сотрудники должны соблюдать Политику по
+Countering Modern Slavery and Human Trafficking and                Противодействию Современным Формам Рабства и Торговли
+refer to it for more information on the Group’s position and       Людьми и обращаться к ней за более подробной
+practice regarding human rights, child labor, modern               информацией о позиции и практике Группы в отношении прав
+slavery and human trafficking.                                     человека, детского труда и современных форм рабства и
+                                                                   торговли людьми.
+
+16. Ecology                                                        16. Экология
+16.1. The Group is committed to conducting business in a           16.1. Группа обязуется вести наш бизнес с учетом принципов
+sustainable manner in order to control and minimize the            устойчивого развития, что позволяет контролировать и
+environmental impact of its operations.                            сводить к минимуму воздействие ее деятельности на
+                                                                   окружающую среду.
+
+16.2. All Group employees are required to comply with the          16.2. Все сотрудники Группы обязаны соблюдать Политику в
+Environmental, Health and Safety Policy and refer to it for        области Экологии, Здоровья и Безопасности и обращаться к
+more detailed information on the Group’s position and              ней для получения более подробной информации о позиции
+practices with respect to compliance with environmental            и практике Группы в отношении соблюдения экологических
+requirements.                                                      требований.
+
+17. Confidentiality of                                             17. Конфиденциальность
+Information                                                        информации
+17.1. The employees of the Group shall respect privacy and         17.1. Сотрудники Группы обязаны уважать
+ensure confidentiality and respectful handling of personal         неприкосновенность частной жизни и обеспечивать
+data and processing thereof in accordance with applicable          конфиденциальность и уважительное обращение с данными
+law.                                                               о физических лицах, а также их обработку в соответствии с
+                                                                   действующим законодательством.
+
+17.2. Employees shall ensure that confidential business            17.2. Сотрудники должны обеспечивать защиту
+information about the Group, its business partners, and            конфиденциальной коммерческой информации о Группе,
+customers is protected and disclosed in the manner                 деловых партнерах и клиентах и раскрывать ее в порядке,
+prescribed by law and the Group’s internal regulations.            предусмотренном законодательством и внутренними
+                                                                   нормативными документами Группы.
+
+17.3. Confidential information or proprietary information          17.3. К конфиденциальной информации или информации,
+includes, without limitation, any non-disclosure information       являющейся собственностью Группы, относится, помимо
+regarding the Group and its business partners (including           прочего, любая не подлежащая разглашению информация, в
+information about business activities, financial performance,      отношении Группы и ее деловых партнеров (включая
+results or development prospects), as well as any non-             сведения о хозяйственной деятельности, финансовых
+disclosure information provided by our customers and/or            показателях, результатах или перспективах развития), а
+third parties with the expectation that this information will be   также любая не подлежащая разглашению информация,
+kept confidential and used exclusively for the commercial          предоставленная нашими клиентами и/или третьими лицами
+purposes, for which it was transmitted.                            с расчетом на то, что эта информация будет сохраняться в
+                                                                   тайне и использоваться исключительно в тех коммерческих
+                                                                   целях, для которых она передавалась.
+
+17.4. All Group employees are required to comply with the          17.4. Все сотрудники Группы обязаны соблюдать Политику в
+Personal Data Protection Policy and refer to it for more           области Защиты Персональных Данных и обращаться к ней
+detailed information on the Group’s position and practices         за подробной информацией о позиции и практике Группы по
+related to collection, use and storage of personal data.           сбору, использованию и хранению персональных данных.
+
+
+
+
+                                                                                                                                9
+17.5. Employees will use the Group’s information                  17.5. Сотрудники будут использовать информационные
+technology and equipment efficiently, responsibly and in          технологии и оборудование Группы эффективно,
+accordance with the established policies and procedures,          ответственно и в соответствии с установленной политикой и
+and will not use any personal devices, software, or               процедурами, а также не будут использовать какие-либо
+unapproved web solutions for Group-related tasks (unless a        персональные устройства, программное обеспечение или не
+prior written permission has been obtained from the Ethics        утвержденные веб-решения для задач, относящихся к Группе
+and Compliance Committee).                                        (за исключением случаев, когда получено предварительное
+                                                                  письменное разрешение от Комитета о по Этике
+                                                                  и Комплаенсу.
+
+18. Public Disclosures                                            18. Публичное раскрытие
+                                                                  информации
+18.1. This Policy states that all information in public           18.1. Настоящая политика заключается в том, чтобы вся
+communications is complete, fair, accurate, timely and            информация в публичных сообщениях была полной,
+understandable. All persons involved in the disclosure            справедливой, точной, своевременной и понятной. Все лица,
+process shall act in accordance herewith. In particular, they     участвующие в процессе раскрытия информации, должны
+shall be familiar with the respective disclosure requirements     действовать в соответствии с настоящей политикой. В
+and are prohibited from knowingly misleading, omitting or         частности, они должны быть знакомы с соответствующими
+causing others to misrepresent or omit material facts about       требованиями по раскрытию информации, и им запрещено
+the Group for other persons inside or outside the Group,          сознательно вводить в заблуждение, пропускать или
+including independent auditors.                                   заставлять других искажать или опускать существенные
+                                                                  факты о Группе для других лиц внутри или за пределами
+                                                                  Группы, включая независимых аудиторов.
+
+19. Collaboration in          19. Сотрудничество в
+Conducting Audits, Compliance проведении аудита, проверок
+Reviews and Investigations    выполнения и расследований
+19.1. From time to time, the Group’s internal or external         19.1. Время от времени внутренние или внешние аудиторы
+auditors, the Ethics and Compliance Committee may                 Группы, Комитет по Этике и Комплаенсу могут направлять
+request information in connection with an audit,                  запросы на получение информации в связи с аудитом,
+implementation check or investigation. The                        проверкой выполнения или расследованием. Сотрудники
+Group employees shall act honestly and truthfully in              Группы должны действовать честно и правдиво,
+providing all requested information. The Group employees          предоставляя всю запрашиваемую информацию. Сотрудники
+shall not attempt to coerce or mislead or manipulate              Группы не должны пытаться принуждать или вводить в
+auditors, withhold information, or provide false or               заблуждение аудиторов или манипулировать ими, скрывать
+misleading information. The consequences of such actions          информацию или предоставлять ложную или вводящую в
+are serious and can lead to criminal and civil liability.         заблуждение информацию. Последствия таких действий
+                                                                  серьезны и могут повлечь за собой уголовную и гражданско-
+                                                                  правовую ответственность.
+
+19.2. Designated employees are required to notify the             19.2. Ответственные сотрудники обязаны уведомить Комитет
+Committee of all inquiries, audits, inspections,                  обо всех запросах, аудитах, проверках, расследованием
+investigations, etc., initiated by state inspection authorities   деятельности и т.п., инициированные государственными
+and officials. If necessary, the Committee will initiate a        проверяющими структурами и должностными лицами. При
+review of the information sent by the designated employees        необходимости Комитет инициирует проверку отправляемой
+to the state inspection authorities and officials before          информации ответственными сотрудниками
+sending.                                                          государственным проверяющим структурам и должностным
+                                                                  лицам перед отправкой.
+
+20. Staff Accountability                                          20. Ответственность
+                                                                  сотрудников
+20.1. All employees of the Group shall ensure that they           20.1. Все сотрудники Группы должны удостовериться в том,
+have read, understood and complied with this Policy, and          что они прочитали, поняли и соблюдают настоящую
+confirm that by signing a commitment – Declaration of             Политику, и подтвердить это, подписав обязательство –
+Reviewing of and Compliance with the Business Ethics              Декларацию об ознакомлении и согласии с требованиями
+Policy (Appendix 3).                                              Политики в области деловой этики (Приложение 3).
+
+20.2. All employees of the Group shall avoid any actions          20.2. Все сотрудники Группы обязаны избегать любых
+that may lead to a violation of these Rules or suggest such       действий, которые могут привести к нарушению настоящих
+a violation.                                                      Правил или предполагать такое нарушение.
+
+
+
+
+                                                                                                                              10
+20.3. Any transaction, regardless of its seeming                   20.3. О любой сделке, независимо от её кажущейся
+insignificance, that may lead to a violation hereof and/or         незначительности, которая может привести к нарушению
+any applicable law shall be immediately reported to the            настоящей Политики и/или любого применимого
+Ethics and Compliance Committee.                                   законодательства, необходимо незамедлительно сообщать в
+                                                                   Комитет по Этике и Комплаенсу.
+
+20.4. Failure to comply herewith may result in disciplinary        20.4. Нарушение требований настоящей Политики может
+action, compensation of damage, or possibly dismissal of           привести к дисциплинарному взысканию, возмещению
+the employee. The Group reserves the right to terminate            ущерба или, возможно, к увольнению сотрудника. Группа
+the contractual relationship with those employees of the           оставляет за собой право расторгнуть договорные
+Group who knowingly violate the established rules and              отношения с теми сотрудниками Группы, которые
+regulations hereof.                                                сознательно нарушают установленные правила и нормы
+                                                                   настоящей Политики.
+
+21. Reporting Issues Related                                       21. Сообщение о вопросах по
+to This Policy                                                     настоящей политике
+21.1. In case of questions about the application of the            21.1. В случае возникновения вопросов по применению
+Policy or information about its violation, we recommend you        Политики или наличия информации о его нарушении,
+contact your immediate supervisor.                                 рекомендуется обращаться к своему непосредственному
+                                                                   руководителю.
+
+21.2. If an employee of the Group believes that contacting         21.2. Если сотрудник Группы считает, что обращение к
+the immediate supervisor is inappropriate or ineffective,          непосредственному руководителю нецелесообразно или
+they can address their question and/or report a violation to       неэффективно, то задать вопрос и/или сообщить о
+the Ethics and Compliance Committee.                               нарушении можно в Комитет по Этике и Комплаенсу.
+
+21.3. Regarding the questions related to the Policy and/or         21.3. По вопросам, касающимся норм Политики и/или
+ethical issues and conflicts of interest, as well as the facts     возникшим в ходе работы этическим вопросам и конфликтам
+of corruption and other illegal actions, the employees of the      интересов, а также по фактам коррупционных и других
+Group, as well as its business partners and stakeholders,          противоправных действий, сотрудники Группы, а также
+may contact the Ethics and Compliance Committee at the             деловые партнеры и заинтересованные лица вправе
+following contact details:                                         обращаться в Комитет по этике и комплаенсу по следующим
+                                                                   контактам:
+
+E-mail:                                                            Электронный адрес:
+
+_kommitet_po_etike@fix-price.ru                                    _kommitet_po_etike@fix-price.ru
+
+_Ethics_and_Compliance_Committee                                   _Комитет_по_этике_и_Комплаенсу
+
+22. Whistleblower Policy                                           22. Политика в отношении лиц,
+                                                                   сообщающих о нарушениях
+22.1. Nothing contained herein is intended to limit the rights     22.1. Никакие положения настоящей Политики не
+of a Group employee to voluntarily communicate with any            направлены на ограничение прав сотрудника Группы на
+law enforcement agency, file a claim or report, or otherwise       добровольное общение с любым правоохранительным
+participate in an investigation as provided, protected or          органом, подачу иска или сообщения, а также на другое
+guaranteed by the Applicable Law. In accordance with the           участие в расследовании, как это предусматривается,
+Anti-Money Laundering and Anti-Corruption Policy, an               защищается или гарантируется Применимым
+employee of the Group does not need to obtain an approval          Законодательством. В соответствии с Политикой по
+from anyone in the Group prior to any such communication,          Противодействию Отмыванию Доходов и Антикоррупционной
+message, claim, disclosure or participation, and they are          Политикой, сотруднику Группы не нужно получать
+not required to notify anyone in the Group that such               предварительное одобрение кого-либо в Группе до любого
+communication, message, claim or participation took place.         такого сообщения, информирования, претензии, раскрытия
+                                                                   или участия, и он не обязан уведомлять кого-либо в Группе о
+                                                                   том, что такое сообщение, информирование, претензия или
+                                                                   участие имели место.
+
+23. Anti-Retaliation Policy                                        23. Политика недопущения
+                                                                   преследований
+23.1. The Group acknowledges that every employee plays             23.1. Группа признает, что каждый сотрудник играет
+a critical role in ensuring business integrity and raising         важнейшую роль в обеспечении добросовестности бизнеса и
+awareness of any existing or potential breach of such              привлечении внимания к любому существующему или
+integrity. To ensure that employees fulfill this responsibility,   потенциальному нарушению этой добросовестности. Для
+the Group strictly prohibits any retaliation against anyone        обеспечения выполнения сотрудниками этой обязанности
+
+
+
+
+                                                                                                                             11
+who makes a good faith report of a potential violation           Группа строго запрещает любые преследования в отношении
+hereof, regardless of whom such a report relates to.             лиц, добросовестно сообщающих о возможном нарушении
+                                                                 настоящей Политики, вне зависимости от того, к кому это
+                                                                 сообщение относится.
+
+23.2. In addition, the Group employees may have certain          23.2. Кроме того, у сотрудников Группы могут быть
+responsibilities in relation to reporting legal, compliance,     определенные обязанности в связи с сообщением о
+ethical or other issues to regulatory, administrative or other   правовых, комплаенс, этических или иных вопросах в
+government or self-regulatory bodies. Nothing contained          регулирующие, административные или другие
+herein is intended to limit these responsibilities or any        государственные органы или органы саморегулирования.
+protection measures that may be applied in connection with       Никакие положения настоящей Политики не предназначены
+reporting potential violations.                                  для ограничения этих обязанностей или любых мер защиты,
+                                                                 применимых в связи с сообщением о возможных нарушениях.
+
+24. Policy Violation                                             24. Нарушение политики
+24.1. The Group takes this Policy and obligations                24.1. Группа очень серьезно относится к настоящей Политике
+established herein very seriously and will take any              и установленным обязательствам по ней и будет принимать
+disciplinary or preventive action that is deemed appropriate     любые дисциплинарные или профилактические меры,
+to remedy the existing or potential violations hereof.           которые представляются целесообразными для устранения
+Violation hereof may also constitute a violation of the law,     существующих или потенциальных нарушений настоящей
+which may entail criminal or civil liability for the violating   Политики. Нарушение настоящей Политики может также
+employee and for the Group as a whole.                           являться нарушением закона, которое может повлечь за
+                                                                 собой уголовную или гражданско-правовую ответственность
+                                                                 для сотрудника в частности, так и для Группы в целом.
+
+24.2. Any violation hereof will be considered a violation, as    24.2. Любое нарушение настоящей Политики будет считаться
+if it were a violation of the applicable Employee employment     нарушением, как если бы это было нарушение
+contract.                                                        соответствующего трудового договора Сотрудника.
+
+25. Who Is Responsible for                                       25. Кто отвечает за эту
+This Policy                                                      политику
+25.1. The executives of each of the Group companies and          25.1. Руководители каждой из компаний Группы, а также
+their designated individuals or committees are ultimately        назначенные ими лица или комитеты несут конечную
+responsible for the implementation hereof.                       ответственность за выполнение настоящей Политики.
+
+26. Monitoring and Audit of                                      26. Мониторинг и проверка
+Compliance                                                       выполнения
+26.1. The Ethics and Compliance Committee will monitor           26.1. Комитет по Этике и Комплаенсу будет отслеживать
+the effectiveness and check the implementation hereof,           эффективность и проводить проверку выполнения настоящей
+regularly reviewing its relevance, adequacy and efficiency.      Политики, регулярно рассматривая ее уместность,
+Any identified improvements will be implemented as soon          адекватность и эффективность. Любые выявленные
+as possible. The internal control systems and procedures         усовершенствования будут вноситься в кратчайшие сроки.
+will be regularly reviewed to ensure they are efficient          Системы и процедуры внутреннего контроля будут
+against bribery and corruption.                                  подвергаться регулярным проверкам в целях обеспечения их
+                                                                 эффективности в борьбе со взяточничеством и коррупцией.
+
+26.2. The Group employees are invited to provide their           26.2. Сотрудникам Группы предлагается представлять свои
+comments on the implementation of this Policy and suggest        комментарии по выполнению требований настоящей
+the ways to improve it. Comments, suggestions and                Политики и предлагать пути ее совершенствования.
+requests should be directed to the Ethics and Compliance         Комментарии, предложения и запросы следует направлять в
+Committee.                                                       Комитет по Этике и Комплаенсу.
+
+27. Location of the Policy and                                   27. Местонахождение политики
+Its Disclosure                                                   и раскрытие информации о ней
+27.1. The text hereof is available on the Group’s intranet       27.1. Текст настоящей Политики доступен на интранет-сайте
+site. It also contains the contact details of the Ethics and     Группы. Там же можно найти контактную информацию
+Compliance Committee.                                            Комитета по Этике и Комплаенсу.
+
+27.2. This Policy may be disclosed to all interested parties:    27.2. Настоящая Политика может раскрываться всем
+customers, suppliers, subcontractors or Employees acting         заинтересованным сторонам: заказчикам, поставщикам,
+on behalf of the Group.                                          субподрядчикам или Сотрудникам, действующим от имени
+                                                                 Группы.
+
+
+
+
+                                                                                                                             12
+27.3. There may be circumstances, in which the Group is         27.3. Могут быть обстоятельства, при которых Группа
+required to disclose this Policy, for example, in connection    обязана раскрыть настоящую Политику, например, в связи с
+with a response to a Request for Proposal (RFP).                ответом на Запрос о предоставлении коммерческого
+                                                                предложения (RFP).
+
+28. Other Group Policies                                        28. Другие политики группы
+28.1. Amendments hereto should be read in conjunction           28.1.Дополнения к настоящей Политике должны
+with all respective Group policies and procedures and           рассматриваться в сочетании со всеми соответствующими
+supplement them.                                                политиками и процедурами Группы и дополнять их.
+
+28.2. The interpretation and application of the Policy by the   28.2. Интерпретация и применение положений Политики
+Group Ethics & Compliance Committee will be final and           Комитетом по Этике и Комплаенсу Группы будет
+binding on all parties. The Group reserves the right to         окончательной и обязательной для всех сторон. Группа
+change, supplement or cancel any provision of the Policy at     оставляет за собой право изменять, дополнять или
+any time with or without notice to the Employees.               упразднять любое положение Политики в любой момент
+                                                                времени с уведомлением или без уведомления Сотрудников.
+
+
+
+Appendix No. 1. Warning Signs Приложение №1.
+                              Предупреждающие признаки
+The following are the warning signs that indicate potential     Ниже перечислены предупреждающие признаки,
+improper payments. These signs do not serve as evidence         указывающие на возможность совершения неправомерных
+of improper payment, and not all signs are equally relevant     платежей. Данные признаки не являются доказательством
+to the situation in question. However, they indicate that       неправомерного платежа, и не все признаки в равной степени
+closer attention should be given to the person or situation     имеют отношение к рассматриваемой ситуации. Тем не
+the employee is dealing with, especially when it comes to       менее они указывают на то, что следует уделить более
+government agencies, government organizations,                  пристальное внимание человеку или ситуации, с которой вы
+candidates for political office, representatives of political   имеете дело, особенно, если речь идет о государственных
+parties. If you have any questions or concerns about any        органах, правительственной организации, кандидатах на
+money transfer, please contact your manager or the Ethics       политический пост, представителях политических партий.
+Committee.                                                      Если у вас возникли вопросы или сомнения по поводу какого-
+                                                                либо денежного перевода, обратитесь к вашему
+                                                                руководителю или в Комитет по этике.
+
+Warning signs about the person or entity you are dealing        Предупреждающие признаки о физическом или юридическом
+with (Business Partner) include the following:                  лице, с которым вы имеете дело («Деловой партнер»),
+                                                                включают в себя:
+
+•          The Business Partner’s behavior is considered        •        Поведение делового партнера расценивается, как
+immoral, illegal, unlawful, or they have been involved in       аморальное, незаконное, неправомерное, или он был
+investigations related to dishonesty.                           замечен в расследованиях, связанных с не
+                                                                добропорядочностью.
+
+•          The Business Partner has no experience with          •         У Делового партнера нет опыта работы с данной
+these products, in this area or industry, or does not have      продукцией, в данной области или промышленности, либо у
+qualified personnel or appropriate equipment to perform the     него нет квалифицированного персонала или
+services under the contract.                                    соответствующего оборудования для выполнения услуг по
+                                                                договору.
+
+•         The Business Partner seeks to provide services        •       Деловой партнер стремится к оказанию услуг без
+without a contract.                                             заключения договора.
+
+•          The Business Partner requests excessive or           •        Деловой партнер запрашивает чрезмерную или
+overvalued compensation or commission, or requires              завышенную компенсацию или комиссионное
+additional payments in excess of the actual value of all or     вознаграждение, либо требует дополнительных выплат сверх
+some of the items or services provided.                         действительной стоимости всех или некоторых объектов или
+                                                                предоставленных услуг.
+
+•         The Business Partner seeks to provide services        •        Деловой партнер стремится оказать услуги,
+that are not appropriate or necessary.                          которые не являются целесообразными или необходимыми.
+
+•         Employees working for a Business Partner entity       •        Сотрудники, работающие в компании Делового
+are closely related or have family or business relationships    партнера, тесно связаны либо состоят в родственных или
+with the authorities in the area of the Group’s business.       деловых отношениях с представителями властей в области
+                                                                деятельности Группы.
+
+
+
+
+                                                                                                                           13
+•         A representative of the authorities is a director,     •        Представитель власти является директором,
+senior executive or senior officer or member of the              руководителем высшего звена или высокопоставленным
+Business Partner entity.                                         сотрудником, либо участником компании Делового партнера.
+
+•          The Business Partner or a representative of the       •        Деловой партнер или представитель власти
+authorities has recommended or insisted on the Group’s           порекомендовал или настоял на сотрудничестве Группы с
+cooperation with a specific consultant or representative, or     конкретным консультантом или представителем, либо
+has insisted on a transaction between the Group company          настоял на совершении сделки между компанией Группы и
+and a third party under the current transaction.                 третьим лицом в рамках текущей сделки.
+
+•         During the verification process, the Business          •       Во время процесса проверки Деловой партнер
+Partner provides false information, makes conflicting            предоставляет ложные сведения, делает противоречивые
+statements, or refuses to provide important information.         заявления или отказывается предоставлять важную
+                                                                 информацию.
+
+•         The Business Partner is reluctant to provide           •       Деловой партнер неохотно предоставляет
+information on possible illegal payments or refuses to agree     информацию о возможных неправомерных платежах или
+on contractual clauses prohibiting corrupt or illegal            отказывается согласовать положения договора,
+payments.                                                        запрещающие коррупционные или неправомерные платежи.
+
+•            The Business Partner asks for an unusual            •         Деловой партнер просит о необычном способе
+payment method or financial transaction (for example, large      оплаты или о заключении финансовой сделки (например,
+upfront payments, cash or non-cash transactions that are         большие авансовые платежи, оплата наличными или в виде
+difficult to trace, payments to bank accounts in other           безналичных операций, которые сложно проследить, оплата
+countries where the Business Partner does not have               на счета банков в других странах, где у Делового партнера
+businesses, or to accounts of third parties, especially in the   нет предприятий, или на счета третьих лиц, особенно в
+countries where banking secrecy is in effect, or payment to      странах, где действует банковская тайна, или оплата на
+unofficial accounts).                                            неофициальные счета).
+
+•         The transaction involves fictitious companies that     •       Сделка подразумевает участие фиктивных
+do not carry out real commercial activities.                     компаний, у которых не осуществляется реальная
+                                                                 коммерческая деятельность.
+
+•        The Business Partner seeks reimbursement of             •        Деловой партнер стремится к возмещению
+expenses without documenting them, or asks for                   расходов, не подтверждая их документально, или просит о
+compensation for a too large an amount.                          компенсации слишком большой суммы.
+
+•           The Business Partner or one of its                   •        Деловой партнер или один из его представителей
+representatives or employees requests that its identity and      или сотрудников просит сохранить в тайне его личность и
+activities be kept confidential.                                 деятельность.
+
+•         Any part of the transaction violates the Law.          •        Любая часть сделки нарушает законодательство.
+
+•          The Business Partner has no competitive               •       У Делового партнера нет конкурентных
+advantage other than the ability to influence government         преимуществ кроме возможности оказывать влияние на
+decisions.                                                       решения, принимаемые правительством.
+
+
+
+Appendix No. 2. Conflicts of                                     Приложение №2. Процедура по
+Interest Settlement Procedure                                    урегулированию конфликта
+for Group Companies                                              интересов в компаниях Группы
+1. Activity and Scope                                            1.Описываемая деятельность и область применения
+
+This document sets out basic principles and procedures for       Настоящий документ устанавливает основные принципы и
+timely and complete disclosure of a potential conflict of        процедуры своевременного и полного раскрытия
+interest that may arise in connection with the performance       потенциального конфликта интересов, который может
+of official duties.                                              возникнуть в связи с исполнением сотрудниками служебных
+                                                                 обязанностей.
+
+The activities regulated hereby apply to all employees of        Деятельность, регламентированная настоящей процедурой,
+the Group and persons authorized to act on behalf of the         распространяется на всех сотрудников Группы и лиц,
+Group.                                                           уполномоченных действовать от имени Группы.
+
+2. General Provisions                                            2. Общие положения
+
+The procedure has been developed in order to formalize           Процедура разработана в целях формализации подхода
+the Company’s approach to identifying and resolving              Компании к выявлению и разрешению конфликта интересов в
+conflicts of interest in the companies of the Group.             компаниях Группы.
+
+
+
+
+                                                                                                                             14
+The objectives of the procedure include the following:              К задачам процедуры относятся:
+
+- creation of mechanisms to identify conflicts of interest or       - создание механизмов по выявлению конфликта интересов
+potential conflict of interest                                      или потенциального конфликта интересов;
+
+- development of standard rules of conduct for employees            - выработка стандартных правил поведения сотрудников в
+in the event of a conflict of interest or a potential conflict of   случае возникновения или выявления конфликта интересов
+interest                                                            или потенциального конфликта интересов;
+
+- identification of effective ways to resolve a conflict of         - определение эффективных путей разрешения конфликта
+interest.                                                           интересов.
+
+All employees and representatives of the Group shall be             Все сотрудники и представители Группы должны
+guided in their activities by the standards of conduct              руководствоваться в своей деятельности установленными
+established by this document and shall comply with the              настоящим документом стандартами поведения и соблюдать
+rules adopted in the Group.                                         принятые в Группе правила.
+
+3. Settlement of Conflicts of Interest in the Group                 3. Урегулирование конфликта интересов в компаниях Группы
+Companies
+
+3.1. Identification of a conflict of interest                       3.1. Выявление конфликта интересов
+
+It is impossible to identify all situations that could give rise    Невозможно определить все ситуации, которые могут
+to a conflict of interest. However, there are certain               привести к конфликту интересов. Тем не менее, существуют
+situations that could lead to a conflict of interest.               определенные ситуации, которые могут привести к конфликту
+                                                                    интересов.
+
+3.2. The situations that could lead to a conflict of interest       3.2. Ситуации, которые могут привести к конфликту
+are as follows:                                                     интересов:
+
+- direct or indirect material interest of the employee in the       - Прямая или косвенная материальная заинтересованность
+business operations of the Group companies,                         сотрудника в бизнес-операциях компаний Группы;
+
+- involvement of an employee in legal proceedings                   - Вовлечение сотрудника в судебное разбирательство по
+regarding property claims as a party opposing the Group             поводу имущественных претензий в качестве стороны,
+company, or an interest in a court decision, which is               противостоящей компании Группы, либо заинтересованность
+unfavorable for the Group company,                                  в вынесении судебного решения, негативного для компании
+                                                                    Группы;
+
+- significant financial interest of the employee in relation to a   - Существенная финансовая заинтересованность сотрудника
+third party (including suppliers, buyers, competitors) that         по отношению к третьей стороне, включая поставщиков,
+has a joint business with the Group company, or is                  покупателей, конкурентов, которая ведет совместную
+interested in joint operations, or is a competitor,                 деятельность с компанией Группы, либо заинтересована в
+                                                                    ведении совместной деятельности или же является
+                                                                    конкурентом.
+
+- issuance to or receipt by an employee of a loan for/from          - Выдача или получение сотрудником займа для/от лиц,
+persons who are counterparties of the Group company, with           которые являются контрагентами компании Группы, за
+the exception of credit institutions and other financial            исключением кредитных учреждений и иных финансовых
+institutions,                                                       организаций.
+
+- participation in transactions for the acquisition of              - Участие в сделках по приобретению долей/акций
+participatory interests / shares of a legal entity, the             юридического лица, приобретение которого или
+acquisition or merger of which is being considered by the           слияние/присоединение к которому рассматривается
+Group,                                                              Группой.
+
+- personal use of business opportunities that the employee          - Личное использование бизнес-возможностей, о которых
+becomes aware of in connection with activities in the Group         сотруднику становится известно в связи с деятельностью в
+company equals a proposal to a third party to use such              компании Группы, равно предложению использовать такие
+opportunities, without prior offering such opportunities to the     возможности третьему лицу, без предварительного
+Group company,                                                      предложения таких возможностей компании Группы.
+
+- personal use of corporate property, information or position       - Использование корпоративной собственности, информации
+held in the Group company,                                          или должности, занимаемой в компании Группы, в личных
+                                                                    целях.
+
+- acting as an officer, consultant or member of any level of        - Осуществление деятельности в качестве должностного
+governing bodies in another organization that is a                  лица, консультанта или члена органов управления любого
+competitor or carries out joint operations with the Group           уровня в другой организации, которая является конкурентом
+company without prior approval from the Ethics and                  или осуществляет совместную деятельность с компанией
+Compliance Committee,                                               Группы без предварительного согласования с Комитетом по
+                                                                    этике и комплаенсу.
+
+
+
+
+                                                                                                                                15
+- the employee or family members of the employee having             - Осуществление сотрудником или членами семьи
+business in the same area as the Group’s core business              сотрудника предпринимательской деятельности по
+(retail),                                                           направлению основной деятельности Группы (розничная
+                                                                    торговля).
+
+- activities of the employee and/or related persons that            - Деятельность сотрудника и/или связанных с ним лиц,
+compete with the activities of the Group.                           конкурирующая с деятельностью Группы.
+
+3.1.2. Methods to identify a conflict of interest:                  3.1.2. Методы выявления конфликта интересов:
+
+- identification of situations that can lead to a conflict of       - Распознавание ситуаций, способных привести к конфликту
+interest or a potential conflict of interest by the Legal           интересов или потенциальному конфликту интересов,
+Service, Audit Office, Business Assistance Service. In              Юридической службой, Контрольно-ревизионным
+particular, at the stage of negotiating tender procedures and       управлением, Службой содействия бизнесу. В частности, на
+contracts and counterparty due diligence,                           этапе согласования тендерных процедур и договоров и
+                                                                    осуществления проверки контрагентов.
+
+- an employee’s declaration about situations that could lead        - Заявление сотрудником о ситуациях, способных привести к
+to a conflict of interest or a potential conflict of interest.      конфликту интересов или потенциальному конфликту
+                                                                    интересов.
+
+3.2. Prevention and resolution of a conflict of interest            3.2. Профилактика и пути разрешения конфликта интересов
+
+The Group seeks to prevent conflicts of interest. The main          Группа стремится предупреждать возникновение конфликта
+prevention tool is the disclosure of information regarding:         интересов. Основным инструментом предупреждения
+                                                                    является раскрытие информации в отношении:
+
+- the operations of the Group,                                      - деятельности Группы;
+
+- the situations that lead or could lead to a conflict of           - ситуаций, приводящих или способных привести к конфликту
+interest,                                                           интересов
+
+- ways to resolve such situations.                                  - путей разрешения таких ситуаций.
+
+Disclosure of the existence of a conflict of interest: in the       Раскрытие факта существования конфликта интересов: при
+event of a conflict of interest or a potential conflict of          возникновении ситуации конфликта интересов или
+interest, the employee shall inform the Ethics and                  потенциального конфликта интересов сотрудник обязан
+Compliance Committee. The employees can contact the                 проинформировать Комитет по Этике и Комплаенсу.
+Ethics and Compliance Committee by sending a message                Связаться с Комитетом по Этике и Комплаенсу можно
+(report).                                                           написав сообщение (обращение).
+
+E-mail: _kommitet_po_etike@fix-price.ru;                            Электронный адрес: _kommitet_po_etike@fix-price.ru;
+
+_Ethics_and_Compliance_Committee                                    _Комитет_по_этике_и_Комплаенсу
+
+
+
+Appendix No. 3. Declaration of                                      Приложение №3. Декларация об
+Reviewing and Compliance                                            ознакомлении и согласии с
+with the Business Ethics Policy                                     требованиями Политики в
+                                                                    области деловой этики
+I, (full name)                                                      Я, (ФИО)
+
+confirm that I have received and familiarized myself with the       подтверждаю, что получил (а) и ознакомился (ась) с
+Fix Price Business Ethics Policy, including Appendix 1 –            Политикой в области деловой этики Fix Price, включающей
+Warning Signs and Appendix 2 – Conflicts of Interest                Приложение 1 – Предупреждающие признаки и Приложение
+Settlement Procedure (hereinafter, the Policy). I understand        2 - Процедура по разрешению конфликта интересов (далее –
+that it is my responsibility to act in accordance with the          Политика). Я понимаю, что обязан (а) действовать в
+Policy.                                                             соответствии с Политикой.
+
+I guarantee that I have never attempted and will not attempt        Я гарантирую, что никогда не предпринимал (а) и не
+to violate the Policy. In particular, I confirm that I will never   предприму попыток нарушения норм Политики. В частности,
+offer or accept bribes or improper payments in connection           я подтверждаю, что никогда не предложу и не приму взяток
+with my activities at ___________________.                          или неправомерных платежей в связи с моей деятельностью
+                                                                    в ___________________.
+
+I confirm that I have no conflicts of interest (other than          Я подтверждаю отсутствие конфликта интересов (кроме
+those listed in clause A below) in relation to myself and           перечисленных в пункте А ниже) в отношении себя и
+persons associated with me.                                         связанных со мною лиц.
+
+
+
+
+                                                                                                                                16
+If I become aware of a violation of the Policy, or if I have          Если мне станет известно о нарушении норма Политики, или
+suspicions of possible violations, I will immediately report          если у меня возникнут подозрения о возможных нарушениях,
+this to the Ethics and Compliance Committee.                          я незамедлительно сообщу об этом в Комитет по Этике и
+                                                                      Комплаенсу.
+
+I have been informed that all issues related to the                   Я предупрежден (а), что все вопросы, связанные с
+requirements of this Policy can be discussed with the                 требованиями данной Политики, можно обсудить с членами
+members of the Ethics and Compliance Committee.                       Комитета по Этике и Комплаенсу.
+
+
+
+I hereby inform about the existing conflicts of interest and/or       Сообщаю о существующих конфликтах интересов и/или
+situations leading to conflicts of interest.                          ситуациях приводящих к конфликтам интересов.
+
+
+
+++++++++++++++++++++++++++++++                                        ++++++++++++++++++++++++++++++
+
+
+
+А. If there is a conflict of interest, or situations that lead to a   А. При наличии конфликта интересов, либо ситуаций,
+conflict of interest, please specify those in arbitrary form          приводящих к конфликту интересов, указать в произвольной
+below:                                                                форме ниже:
+
+Date:                                        Signature:               Дата:                              Подпись:
+
+
+
+
+                                                                                                                                 17
+29. Document Version Control
+29. Контроль версий документа
+
+
+Document status    Document revision   Effective / cancelation date   Notes
+
+Basic              01                  __.__._______                  Initial version
+
+
+Статус документа   Ревизия документа   Дата ввода в действие /        Примечания
+                                       отмены
+
+Базовый            01                  __.__._______                  Начальная редакция
+
+
+
+
+                                                                                           18
+
