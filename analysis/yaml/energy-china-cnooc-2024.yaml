@@ -1,0 +1,630 @@
+document_id: "energy-china-cnooc-2024"
+company_name: "CNOOC"
+country: "China"
+industry: "Energy"
+source_path: "Ethics_Codes_txt_files/Energy_China_CNOOC_2024.txt"
+source_language: "en"
+document_type: "code_of_conduct"
+review_status: "completed"
+topic_analyses:
+  -
+    topic_id: "competitor_relations"
+    principles:
+      -
+        principle_code: "COMP01"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "COMP01_explicit_section"
+      -
+        principle_code: "COMP02"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "COMP03"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "COMP03_explicit_section"
+      -
+        principle_code: "COMP04"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "COMP05"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "COMP06"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "COMP07"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "COMP08"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "COMP08_explicit_section"
+      -
+        principle_code: "COMP09"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "COMP10"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+    key_excerpts:
+      -
+        excerpt_id: "COMP01_explicit_section"
+        original: "...shall not maliciously steal or abuse competitors' trade secrets."
+        translated_ru: "...shall not maliciously steal or abuse competitors' trade secrets."
+        section_title: "Fair Trade and Competition"
+        relevance_comment: "Direct prohibition on obtaining competitor trade secrets."
+      -
+        excerpt_id: "COMP03_explicit_section"
+        original: "...shall not reach any agreement or arrangement with competitors ... to reduce fierce competition with competitors."
+        translated_ru: "...shall not reach any agreement or arrangement with competitors ... to reduce fierce competition with competitors."
+        section_title: "Fair Trade and Competition"
+        relevance_comment: "Direct prohibition of collusion/anti-competitive arrangements."
+      -
+        excerpt_id: "COMP08_explicit_section"
+        original: "...shall not make false statements about competitors' business activities."
+        translated_ru: "...shall not make false statements about competitors' business activities."
+        section_title: "Fair Trade and Competition"
+        relevance_comment: "Direct ban on false disparaging statements about competitors."
+    other_principles: []
+  -
+    topic_id: "hotline_principles"
+    principles:
+      -
+        principle_code: "HOT01"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "HOT02"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "HOT03"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "HOT03_explicit_section"
+      -
+        principle_code: "HOT04"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "HOT05"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "HOT06"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "HOT06_explicit_section"
+      -
+        principle_code: "HOT07"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "HOT08"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "HOT09"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "HOT10"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+    key_excerpts:
+      -
+        excerpt_id: "HOT03_explicit_section"
+        original: "The Company will protect and award whistle-blowers, and will not tolerate any retaliation against whistle-blowers."
+        translated_ru: "The Company will protect and award whistle-blowers, and will not tolerate any retaliation against whistle-blowers."
+        section_title: "Speak Up 8.5"
+        relevance_comment: "Explicit non-retaliation protection."
+      -
+        excerpt_id: "HOT06_explicit_section"
+        original: "Employees have the obligation to report actual, perceived or potential illegal or unethical behavior."
+        translated_ru: "Employees have the obligation to report actual, perceived or potential illegal or unethical behavior."
+        section_title: "Speak Up 8.1"
+        relevance_comment: "Explicit duty to report violations."
+    other_principles: []
+  -
+    topic_id: "company_to_supplier"
+    principles:
+      -
+        principle_code: "CtoS01"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "CtoS01_explicit_section"
+      -
+        principle_code: "CtoS02"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "CtoS03"
+        principle_status: "brief_mention"
+        evidence_excerpt_ids:
+          - "CtoS03_brief_mention"
+      -
+        principle_code: "CtoS04"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "CtoS05"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "CtoS06"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "CtoS07"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+    key_excerpts:
+      -
+        excerpt_id: "CtoS01_explicit_section"
+        original: "The Company shall perform appropriate due diligence on suppliers, intermediaries, and other business partners."
+        translated_ru: "The Company shall perform appropriate due diligence on suppliers, intermediaries, and other business partners."
+        section_title: "5.1 Compliance Due Diligence"
+        relevance_comment: "Supplier/partner selection based on due diligence."
+      -
+        excerpt_id: "CtoS03_brief_mention"
+        original: "No employee shall intervene or interfere with such matters as supplier admission, bidding and contracting."
+        translated_ru: "No employee shall intervene or interfere with such matters as supplier admission, bidding and contracting."
+        section_title: "5.5 No Conflict of Interest"
+        relevance_comment: "Prevents abusive influence over suppliers/tenders."
+    other_principles: []
+  -
+    topic_id: "worker_to_company"
+    principles:
+      -
+        principle_code: "WtoC01"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "WtoC02"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "WtoC02_explicit_section"
+      -
+        principle_code: "WtoC03"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "WtoC03_explicit_section"
+      -
+        principle_code: "WtoC04"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "WtoC04_explicit_section"
+      -
+        principle_code: "WtoC05"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "WtoC05_explicit_section"
+      -
+        principle_code: "WtoC06"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "WtoC07"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "WtoC08"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "WtoC09"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "WtoC10"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "WtoC10_explicit_section"
+    key_excerpts:
+      -
+        excerpt_id: "WtoC02_explicit_section"
+        original: "Employees shall not use corporate assets and information for their personal gain or the benefits of others."
+        translated_ru: "Employees shall not use corporate assets and information for their personal gain or the benefits of others."
+        section_title: "5.5 No Conflict of Interest"
+        relevance_comment: "Explicit safeguard of company assets."
+      -
+        excerpt_id: "WtoC03_explicit_section"
+        original: "Any non-public company information ... must be treated as confidential and proprietary to the Company."
+        translated_ru: "Any non-public company information ... must be treated as confidential and proprietary to the Company."
+        section_title: "3.6 Company Information and Personal Privacy"
+        relevance_comment: "Explicit confidentiality duty."
+      -
+        excerpt_id: "WtoC04_explicit_section"
+        original: "The Company respects Intellectual Property rights ... You must follow the Company’s standards on Intellectual Property."
+        translated_ru: "The Company respects Intellectual Property rights ... You must follow the Company’s standards on Intellectual Property."
+        section_title: "3.5/3.6 Protection of Intellectual Property"
+        relevance_comment: "Explicit IP protection requirement."
+      -
+        excerpt_id: "WtoC05_explicit_section"
+        original: "Employees must abide by applicable laws and regulations ..."
+        translated_ru: "Employees must abide by applicable laws and regulations ..."
+        section_title: "4.1 Abiding by Laws and Regulations"
+        relevance_comment: "Explicit legal compliance duty."
+      -
+        excerpt_id: "WtoC10_explicit_section"
+        original: "We must maintain the Company’s reputation."
+        translated_ru: "We must maintain the Company’s reputation."
+        section_title: "3.5 Protection of Reputation"
+        relevance_comment: "Explicit duty to preserve company reputation."
+    other_principles: []
+  -
+    topic_id: "company_to_investors"
+    principles:
+      -
+        principle_code: "CtoI01"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "CtoI02"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "CtoI03"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "CtoI03_explicit_section"
+      -
+        principle_code: "CtoI04"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "CtoI05"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "CtoI05_explicit_section"
+      -
+        principle_code: "CtoI06"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "CtoI07"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "CtoI08"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+    key_excerpts:
+      -
+        excerpt_id: "CtoI03_explicit_section"
+        original: "We ensure the accuracy and completeness of our business records."
+        translated_ru: "We ensure the accuracy and completeness of our business records."
+        section_title: "3.7 Financial Reporting and Public Disclosure"
+        relevance_comment: "Explicit requirement for accurate and complete reporting."
+      -
+        excerpt_id: "CtoI05_explicit_section"
+        original: "Insider trading is illegal and strictly prohibited by CNOOC Limited."
+        translated_ru: "Insider trading is illegal and strictly prohibited by CNOOC Limited."
+        section_title: "3.3 No Insider Dealing"
+        relevance_comment: "Explicit prohibition of insider trading."
+    other_principles: []
+  -
+    topic_id: "company_to_people"
+    principles:
+      -
+        principle_code: "CtoP01"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "CtoP02"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "CtoP02_explicit_section"
+      -
+        principle_code: "CtoP03"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "CtoP03_explicit_section"
+      -
+        principle_code: "CtoP04"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "CtoP04_explicit_section"
+      -
+        principle_code: "CtoP05"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "CtoP06"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "CtoP07"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "CtoP08"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "CtoP08_explicit_section"
+      -
+        principle_code: "CtoP09"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "CtoP09_explicit_section"
+      -
+        principle_code: "CtoP10"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+    key_excerpts:
+      -
+        excerpt_id: "CtoP02_explicit_section"
+        original: "The Company emphasizes on maintaining good communication with ... the communities in which it operates."
+        translated_ru: "The Company emphasizes on maintaining good communication with ... the communities in which it operates."
+        section_title: "5.4 HSE"
+        relevance_comment: "Explicit commitment to open relations with local communities."
+      -
+        excerpt_id: "CtoP03_explicit_section"
+        original: "...respect for the indigenous people and the communities ... respect their culture, lawful rights and interests."
+        translated_ru: "...respect for the indigenous people and the communities ... respect their culture, lawful rights and interests."
+        section_title: "5.4 HSE"
+        relevance_comment: "Explicit respect for indigenous/local community rights."
+      -
+        excerpt_id: "CtoP04_explicit_section"
+        original: "The Company is committed to building long-term social contribution ..."
+        translated_ru: "The Company is committed to building long-term social contribution ..."
+        section_title: "5.4 HSE"
+        relevance_comment: "Explicit contribution to long-term social development."
+      -
+        excerpt_id: "CtoP08_explicit_section"
+        original: "...avoid negative impact on ecosystems and biodiversity..."
+        translated_ru: "...avoid negative impact on ecosystems and biodiversity..."
+        section_title: "5.4 HSE"
+        relevance_comment: "Explicit commitment to prevent harmful impacts on population/environment."
+      -
+        excerpt_id: "CtoP09_explicit_section"
+        original: "...using communication methods that are consistent with local customs and practices..."
+        translated_ru: "...using communication methods that are consistent with local customs and practices..."
+        section_title: "5.4 HSE"
+        relevance_comment: "Explicit respect for local traditions and practices."
+    other_principles: []
+  -
+    topic_id: "company_to_buyer"
+    principles:
+      -
+        principle_code: "CtoB01"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "CtoB02"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "CtoB03"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "CtoB04"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "CtoB05"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "CtoB05_explicit_section"
+      -
+        principle_code: "CtoB06"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "CtoB07"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "CtoB08"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "CtoB09"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+    key_excerpts:
+      -
+        excerpt_id: "CtoB05_explicit_section"
+        original: "We are committed to conducting business in an honest and ethical manner..."
+        translated_ru: "We are committed to conducting business in an honest and ethical manner..."
+        section_title: "3.4 Anti-Bribery and Corruption"
+        relevance_comment: "Explicit legal and ethical conduct standard."
+    other_principles: []
+  -
+    topic_id: "worker_to_worker"
+    principles:
+      -
+        principle_code: "WtoW01"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "WtoW01_explicit_section"
+      -
+        principle_code: "WtoW02"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "WtoW03"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "WtoW04"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "WtoW05"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "WtoW06"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "WtoW07"
+        principle_status: "brief_mention"
+        evidence_excerpt_ids:
+          - "WtoW07_brief_mention"
+      -
+        principle_code: "WtoW08"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "WtoW08_explicit_section"
+    key_excerpts:
+      -
+        excerpt_id: "WtoW01_explicit_section"
+        original: "Employees shall not physically or verbally intimidate or humiliate others."
+        translated_ru: "Employees shall not physically or verbally intimidate or humiliate others."
+        section_title: "5.3 Rights and Interests of Employees"
+        relevance_comment: "Explicit respectful conduct norm among colleagues."
+      -
+        excerpt_id: "WtoW07_brief_mention"
+        original: "You have the duty to protect your own health, safety and wellbeing, and the health, safety and wellbeing of your coworkers..."
+        translated_ru: "You have the duty to protect your own health, safety and wellbeing, and the health, safety and wellbeing of your coworkers..."
+        section_title: "3.2 People and Safety"
+        relevance_comment: "Brief but direct colleague safety duty."
+      -
+        excerpt_id: "WtoW08_explicit_section"
+        original: "If a person acts ... as harassment, the employees shall speak up and stop such behavior."
+        translated_ru: "If a person acts ... as harassment, the employees shall speak up and stop such behavior."
+        section_title: "5.3.8"
+        relevance_comment: "Explicit duty to point out colleagues’ violations."
+    other_principles: []
+  -
+    topic_id: "manager_to_worker"
+    principles:
+      -
+        principle_code: "MtoW01"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "MtoW01_explicit_section"
+      -
+        principle_code: "MtoW02"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "MtoW03"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "MtoW04"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "MtoW05"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "MtoW06"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+    key_excerpts:
+      -
+        excerpt_id: "MtoW01_explicit_section"
+        original: "The Company ... prohibits discrimination ... and evaluate and promote employees according to their abilities and performance."
+        translated_ru: "The Company ... prohibits discrimination ... and evaluate and promote employees according to their abilities and performance."
+        section_title: "5.3 Rights and Interests of Employees"
+        relevance_comment: "Managers are bound to ensure equal treatment and fair decisions."
+    other_principles: []
+  -
+    topic_id: "company_to_worker"
+    principles:
+      -
+        principle_code: "CtoW01"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "CtoW02"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "CtoW02_explicit_section"
+      -
+        principle_code: "CtoW03"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "CtoW03_explicit_section"
+      -
+        principle_code: "CtoW04"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "CtoW05"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "CtoW06"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "CtoW06_explicit_section"
+      -
+        principle_code: "CtoW07"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "CtoW08"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "CtoW09"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "CtoW10"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+    key_excerpts:
+      -
+        excerpt_id: "CtoW02_explicit_section"
+        original: "The Company shall ensure ... labor remuneration ... social insurance ... and shall not ... circumvent its legal obligations to employees."
+        translated_ru: "The Company shall ensure ... labor remuneration ... social insurance ... and shall not ... circumvent its legal obligations to employees."
+        section_title: "5.3.2"
+        relevance_comment: "Explicit fair labor remuneration and protections."
+      -
+        excerpt_id: "CtoW03_explicit_section"
+        original: "We are committed to providing a safe, healthy and productive work environment aligned with laws and regulations..."
+        translated_ru: "We are committed to providing a safe, healthy and productive work environment aligned with laws and regulations..."
+        section_title: "3.2 People and Safety"
+        relevance_comment: "Explicit safe and healthy working conditions."
+      -
+        excerpt_id: "CtoW06_explicit_section"
+        original: "The Company ... has a zero-tolerance policy for discrimination ..."
+        translated_ru: "The Company ... has a zero-tolerance policy for discrimination ..."
+        section_title: "Annex 1 People and Safety"
+        relevance_comment: "Explicit non-discrimination in workplace policy."
+    other_principles: []
+  -
+    topic_id: "worker_to_manager"
+    principles:
+      -
+        principle_code: "WtoM01"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "WtoM02"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "WtoM03"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "WtoM04"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "WtoM05"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "WtoM06"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+    key_excerpts:
+      []
+    other_principles: []

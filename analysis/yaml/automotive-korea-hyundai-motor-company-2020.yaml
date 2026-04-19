@@ -1,0 +1,668 @@
+document_id: "automotive-korea-hyundai-motor-company-2020"
+company_name: "Hyundai Motor Company"
+country: "Korea"
+industry: "Automotive"
+source_path: "Ethics_Codes_txt_files/Automotive_Korea_Hyundai Motor Company_2020.txt"
+source_language: "en"
+document_type: "code_of_conduct"
+review_status: "completed"
+topic_analyses:
+  -
+    topic_id: "competitor_relations"
+    principles:
+      -
+        principle_code: "COMP01"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "COMP02"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "COMP03"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "COMP03_explicit_section"
+      -
+        principle_code: "COMP04"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "COMP05"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "COMP06"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "COMP07"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "COMP07_explicit_section"
+      -
+        principle_code: "COMP08"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "COMP09"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "COMP10"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+    key_excerpts:
+      -
+        excerpt_id: "COMP03_explicit_section"
+        original: "We shall not engage in activities with other businesses that would restrict fair competition ... including ... price fixing, bid rigging, or improper market allocation."
+        translated_ru: "Прямой запрет картельных практик и сговора с конкурентами."
+        section_title: "Fair Competition and Trade"
+        relevance_comment: "Подтверждение статуса explicit_section для принципа COMP03."
+      -
+        excerpt_id: "COMP07_explicit_section"
+        original: "We shall protect the trade secrets of suppliers ... and shall not infringe on the intellectual property rights of other companies or individuals."
+        translated_ru: "Зафиксировано уважение коммерческой тайны и ИС других компаний."
+        section_title: "Fair Competition and Trade"
+        relevance_comment: "Подтверждение статуса explicit_section для принципа COMP07."
+    other_principles: []
+  -
+    topic_id: "hotline_principles"
+    principles:
+      -
+        principle_code: "HOT01"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "HOT01_explicit_section"
+      -
+        principle_code: "HOT02"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "HOT03"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "HOT03_explicit_section"
+      -
+        principle_code: "HOT04"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "HOT05"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "HOT06"
+        principle_status: "brief_mention"
+        evidence_excerpt_ids:
+          - "HOT06_brief_mention"
+      -
+        principle_code: "HOT07"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "HOT08"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "HOT09"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "HOT10"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+    key_excerpts:
+      -
+        excerpt_id: "HOT01_explicit_section"
+        original: "organizations implementing this Ethics Charter and Code of Conduct shall develop a reporting system that is internally and externally accessible 24 hours a day."
+        translated_ru: "Определена постоянно доступная система сообщений о нарушениях."
+        section_title: "Management System"
+        relevance_comment: "Подтверждение статуса explicit_section для принципа HOT01."
+      -
+        excerpt_id: "HOT03_explicit_section"
+        original: "shall protect the identity of whistleblowers and take any and all measures necessary to protect them from unreasonable treatment, discrimination and retaliation."
+        translated_ru: "Прямо закреплена защита заявителей от дискриминации и репрессий."
+        section_title: "Whistleblower Protection"
+        relevance_comment: "Подтверждение статуса explicit_section для принципа HOT03."
+      -
+        excerpt_id: "HOT06_brief_mention"
+        original: "Governance and Reporting ... establish appropriate organizational and reporting systems to prevent ethical risks."
+        translated_ru: "Обязанность сообщать описана через систему reporting, но не как персональный императив каждому сотруднику."
+        section_title: "Management System"
+        relevance_comment: "Подтверждение статуса brief_mention для принципа HOT06."
+    other_principles: []
+  -
+    topic_id: "company_to_supplier"
+    principles:
+      -
+        principle_code: "CtoS01"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "CtoS01_explicit_section"
+      -
+        principle_code: "CtoS02"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "CtoS03"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "CtoS03_explicit_section"
+      -
+        principle_code: "CtoS04"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "CtoS05"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "CtoS06"
+        principle_status: "brief_mention"
+        evidence_excerpt_ids:
+          - "CtoS06_brief_mention"
+      -
+        principle_code: "CtoS07"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+    key_excerpts:
+      -
+        excerpt_id: "CtoS01_explicit_section"
+        original: "We shall seek fair and mutually beneficial relationships with our suppliers."
+        translated_ru: "Закреплён критерий справедливого и взаимовыгодного выбора/работы с поставщиками."
+        section_title: "Fair Competition and Trade"
+        relevance_comment: "Подтверждение статуса explicit_section для принципа CtoS01."
+      -
+        excerpt_id: "CtoS03_explicit_section"
+        original: "We shall not engage in activities that would disrupt fair competition ... such as abusing our market dominance or trading position."
+        translated_ru: "Прямо запрещено злоупотребление рыночной властью в торговых отношениях."
+        section_title: "Fair Competition and Trade"
+        relevance_comment: "Подтверждение статуса explicit_section для принципа CtoS03."
+      -
+        excerpt_id: "CtoS06_brief_mention"
+        original: "Procurement ... fair and mutually beneficial relationships with our suppliers."
+        translated_ru: "Есть ориентация на устойчивое партнёрство, но без детальных механизмов."
+        section_title: "Fair Competition and Trade"
+        relevance_comment: "Подтверждение статуса brief_mention для принципа CtoS06."
+    other_principles: []
+  -
+    topic_id: "worker_to_company"
+    principles:
+      -
+        principle_code: "WtoC01"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "WtoC02"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "WtoC02_explicit_section"
+      -
+        principle_code: "WtoC03"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "WtoC04"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "WtoC05"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "WtoC05_explicit_section"
+      -
+        principle_code: "WtoC06"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "WtoC07"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "WtoC08"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "WtoC09"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "WtoC10"
+        principle_status: "brief_mention"
+        evidence_excerpt_ids:
+          - "WtoC10_brief_mention"
+    key_excerpts:
+      -
+        excerpt_id: "WtoC02_explicit_section"
+        original: "Executives and employees shall do their utmost ... and use the Company assets and facilities only for the purposes of fulfilling their duties."
+        translated_ru: "Активы компании разрешено использовать только для рабочих целей."
+        section_title: "Ethics for Executives and Employees"
+        relevance_comment: "Подтверждение статуса explicit_section для принципа WtoC02."
+      -
+        excerpt_id: "WtoC05_explicit_section"
+        original: "executives and employees ... should comply with local laws and perform their duties in accordance with the Ethics Charter and Code of Conduct."
+        translated_ru: "Прямое требование соблюдать законы и внутренние нормы."
+        section_title: "Coverage"
+        relevance_comment: "Подтверждение статуса explicit_section для принципа WtoC05."
+      -
+        excerpt_id: "WtoC10_brief_mention"
+        original: "to become a reliable partner for diverse stakeholders and increase value for our customers."
+        translated_ru: "Сохранение репутации компании присутствует как ценностная установка, но без детального протокола."
+        section_title: "Preface"
+        relevance_comment: "Подтверждение статуса brief_mention для принципа WtoC10."
+    other_principles: []
+  -
+    topic_id: "company_to_investors"
+    principles:
+      -
+        principle_code: "CtoI01"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "CtoI02"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "CtoI03"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "CtoI03_explicit_section"
+      -
+        principle_code: "CtoI04"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "CtoI05"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "CtoI05_explicit_section"
+      -
+        principle_code: "CtoI06"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "CtoI07"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "CtoI08"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+    key_excerpts:
+      -
+        excerpt_id: "CtoI03_explicit_section"
+        original: "We shall make financial and non-financial information publicly available, in accordance with all applicable laws and regulations."
+        translated_ru: "Закреплено своевременное раскрытие финансовой и нефинансовой информации."
+        section_title: "Commitment to Sustainability"
+        relevance_comment: "Подтверждение статуса explicit_section для принципа CtoI03."
+      -
+        excerpt_id: "CtoI05_explicit_section"
+        original: "We shall not leak insider secrets ... nor use such illicit gains for the purpose of pursuing individual interest."
+        translated_ru: "Прямой запрет инсайдерской торговли и утечки инсайдерской информации."
+        section_title: "Ethics for Executives and Employees"
+        relevance_comment: "Подтверждение статуса explicit_section для принципа CtoI05."
+    other_principles: []
+  -
+    topic_id: "company_to_people"
+    principles:
+      -
+        principle_code: "CtoP01"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "CtoP01_explicit_section"
+      -
+        principle_code: "CtoP02"
+        principle_status: "brief_mention"
+        evidence_excerpt_ids:
+          - "CtoP02_brief_mention"
+      -
+        principle_code: "CtoP03"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "CtoP04"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "CtoP04_explicit_section"
+      -
+        principle_code: "CtoP05"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "CtoP06"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "CtoP07"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "CtoP08"
+        principle_status: "brief_mention"
+        evidence_excerpt_ids:
+          - "CtoP08_brief_mention"
+      -
+        principle_code: "CtoP09"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "CtoP10"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+    key_excerpts:
+      -
+        excerpt_id: "CtoP01_explicit_section"
+        original: "We shall contribute to sustainable development by fulfilling our social & environmental responsibilities as a member of society."
+        translated_ru: "Компания прямо фиксирует ESG-обязательства в части экологии и социальной ответственности."
+        section_title: "Commitment to Sustainability"
+        relevance_comment: "Подтверждение статуса explicit_section для принципа CtoP01."
+      -
+        excerpt_id: "CtoP02_brief_mention"
+        original: "diverse stakeholders may prosper together in harmony."
+        translated_ru: "Есть общий ориентир на открытое взаимодействие со стейкхолдерами, но без операционализации."
+        section_title: "Five Guiding Principles"
+        relevance_comment: "Подтверждение статуса brief_mention для принципа CtoP02."
+      -
+        excerpt_id: "CtoP04_explicit_section"
+        original: "Philanthropy ... committed to identifying the social problems facing our society and humanity, and to finding solutions for these issues."
+        translated_ru: "Прямое обязательство по социальным программам и развитию сообщества."
+        section_title: "Commitment to Sustainability"
+        relevance_comment: "Подтверждение статуса explicit_section для принципа CtoP04."
+      -
+        excerpt_id: "CtoP08_brief_mention"
+        original: "implementing responsible actions to minimize any negative impacts on the environment in all management areas."
+        translated_ru: "Снижение негативных эффектов на среду проживания населения упомянуто как обязательство."
+        section_title: "Commitment to Sustainability"
+        relevance_comment: "Подтверждение статуса brief_mention для принципа CtoP08."
+    other_principles: []
+  -
+    topic_id: "company_to_buyer"
+    principles:
+      -
+        principle_code: "CtoB01"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "CtoB01_explicit_section"
+      -
+        principle_code: "CtoB02"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "CtoB02_explicit_section"
+      -
+        principle_code: "CtoB03"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "CtoB04"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "CtoB05"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "CtoB05_explicit_section"
+      -
+        principle_code: "CtoB06"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "CtoB07"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "CtoB07_explicit_section"
+      -
+        principle_code: "CtoB08"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "CtoB08_explicit_section"
+      -
+        principle_code: "CtoB09"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "CtoB09_explicit_section"
+    key_excerpts:
+      -
+        excerpt_id: "CtoB01_explicit_section"
+        original: "We shall provide safe products, exceptional services and accurate information."
+        translated_ru: "Прямо закреплено обязательство по безопасным продуктам и сервисам."
+        section_title: "Five Guiding Principles"
+        relevance_comment: "Подтверждение статуса explicit_section для принципа CtoB01."
+      -
+        excerpt_id: "CtoB02_explicit_section"
+        original: "providing them with correct and useful information regarding our products and services, and shall not provide falsified or exaggerated information."
+        translated_ru: "Прямо предписано предоставление полной и достоверной информации клиентам."
+        section_title: "Realization of Customer Value"
+        relevance_comment: "Подтверждение статуса explicit_section для принципа CtoB02."
+      -
+        excerpt_id: "CtoB05_explicit_section"
+        original: "conduct business ethically with parties that engage in contractual relationships with us."
+        translated_ru: "Закреплено требование этичного и законного взаимодействия с контрагентами и клиентами."
+        section_title: "Five Guiding Principles"
+        relevance_comment: "Подтверждение статуса explicit_section для принципа CtoB05."
+      -
+        excerpt_id: "CtoB07_explicit_section"
+        original: "We shall listen carefully to customers feedback on our products and services."
+        translated_ru: "Прямо предусмотрены каналы обратной связи от клиентов."
+        section_title: "Realization of Customer Value"
+        relevance_comment: "Подтверждение статуса explicit_section для принципа CtoB07."
+      -
+        excerpt_id: "CtoB08_explicit_section"
+        original: "shall comply with the laws and regulations applicable to protecting customers personal information."
+        translated_ru: "Прямо закреплена защита персональных данных клиентов."
+        section_title: "Realization of Customer Value"
+        relevance_comment: "Подтверждение статуса explicit_section для принципа CtoB08."
+      -
+        excerpt_id: "CtoB09_explicit_section"
+        original: "implement appropriate measures to ensure the safety and quality of our products and services."
+        translated_ru: "Прямо закреплена ответственность за безопасность и качество продуктов/услуг."
+        section_title: "Realization of Customer Value"
+        relevance_comment: "Подтверждение статуса explicit_section для принципа CtoB09."
+    other_principles: []
+  -
+    topic_id: "worker_to_worker"
+    principles:
+      -
+        principle_code: "WtoW01"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "WtoW01_explicit_section"
+      -
+        principle_code: "WtoW02"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "WtoW03"
+        principle_status: "brief_mention"
+        evidence_excerpt_ids:
+          - "WtoW03_brief_mention"
+      -
+        principle_code: "WtoW04"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "WtoW05"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "WtoW06"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "WtoW07"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "WtoW08"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+    key_excerpts:
+      -
+        excerpt_id: "WtoW01_explicit_section"
+        original: "We ban any and all activities ... such as verbal abuse, sexual harassment, mental or physical coercion."
+        translated_ru: "Прямо запрещены оскорбления и харассмент между коллегами."
+        section_title: "Respect for Executives and Employees"
+        relevance_comment: "Подтверждение статуса explicit_section для принципа WtoW01."
+      -
+        excerpt_id: "WtoW03_brief_mention"
+        original: "we provide fair working conditions and safe working environments."
+        translated_ru: "Командное взаимодействие подразумевается через общую норму fair working conditions, но без явного механизма."
+        section_title: "Five Guiding Principles"
+        relevance_comment: "Подтверждение статуса brief_mention для принципа WtoW03."
+    other_principles: []
+  -
+    topic_id: "manager_to_worker"
+    principles:
+      -
+        principle_code: "MtoW01"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "MtoW01_explicit_section"
+      -
+        principle_code: "MtoW02"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "MtoW03"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "MtoW04"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "MtoW05"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "MtoW06"
+        principle_status: "brief_mention"
+        evidence_excerpt_ids:
+          - "MtoW06_brief_mention"
+    key_excerpts:
+      -
+        excerpt_id: "MtoW01_explicit_section"
+        original: "Managers responsible for ensuring compliance ... supporting and managing all relevant executives, employees and stakeholders."
+        translated_ru: "Закреплена управленческая обязанность ответственного отношения к подчинённым."
+        section_title: "Manager Responsibility"
+        relevance_comment: "Подтверждение статуса explicit_section для принципа MtoW01."
+      -
+        excerpt_id: "MtoW06_brief_mention"
+        original: "clearly determine roles and responsibilities in this respect."
+        translated_ru: "Есть требование прозрачности распределения ролей и ответственности руководства."
+        section_title: "Governance and Reporting"
+        relevance_comment: "Подтверждение статуса brief_mention для принципа MtoW06."
+    other_principles: []
+  -
+    topic_id: "company_to_worker"
+    principles:
+      -
+        principle_code: "CtoW01"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "CtoW01_explicit_section"
+      -
+        principle_code: "CtoW02"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "CtoW02_explicit_section"
+      -
+        principle_code: "CtoW03"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "CtoW03_explicit_section"
+      -
+        principle_code: "CtoW04"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "CtoW05"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "CtoW06"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "CtoW06_explicit_section"
+      -
+        principle_code: "CtoW07"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "CtoW08"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "CtoW09"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "CtoW10"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+    key_excerpts:
+      -
+        excerpt_id: "CtoW01_explicit_section"
+        original: "we provide fair working conditions and safe working environments."
+        translated_ru: "Прямо заявлены справедливые условия труда."
+        section_title: "Five Guiding Principles"
+        relevance_comment: "Подтверждение статуса explicit_section для принципа CtoW01."
+      -
+        excerpt_id: "CtoW02_explicit_section"
+        original: "maintain working environments safe from occupational accidents, injuries, disasters, disease and contagion."
+        translated_ru: "Прямо закреплена безопасность условий труда."
+        section_title: "Respect for Executives and Employees"
+        relevance_comment: "Подтверждение статуса explicit_section для принципа CtoW02."
+      -
+        excerpt_id: "CtoW03_explicit_section"
+        original: "shall provide appropriate training to assist executives and employees in respecting and implementing the content and spirit of this Ethics Charter and Code of Conduct."
+        translated_ru: "Прямо закреплены обучение и развитие компетенций сотрудников по этике и комплаенсу."
+        section_title: "Training"
+        relevance_comment: "Подтверждение статуса explicit_section для принципа CtoW03."
+      -
+        excerpt_id: "CtoW06_explicit_section"
+        original: "We forbid discrimination against executives and employees based on nationality, place of birth, race, gender, age, culture, religion, disability, education, political affiliation, personal tastes, or any other factors."
+        translated_ru: "Прямой запрет дискриминации сотрудников."
+        section_title: "Respect for Executives and Employees"
+        relevance_comment: "Подтверждение статуса explicit_section для принципа CtoW06."
+    other_principles: []
+  -
+    topic_id: "worker_to_manager"
+    principles:
+      -
+        principle_code: "WtoM01"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "WtoM02"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "WtoM03"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "WtoM04"
+        principle_status: "brief_mention"
+        evidence_excerpt_ids:
+          - "WtoM04_brief_mention"
+      -
+        principle_code: "WtoM05"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "WtoM06"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+    key_excerpts:
+      -
+        excerpt_id: "WtoM04_brief_mention"
+        original: "reporting system that is internally and externally accessible 24 hours a day."
+        translated_ru: "Есть канал для выражения несогласия/сообщений, но без детального описания культуры диалога с руководителем."
+        section_title: "Internal Control"
+        relevance_comment: "Подтверждение статуса brief_mention для принципа WtoM04."
+    other_principles: []
+notes: []
+limitations:
+  - "OCR-источник содержит опечатки; спорные места интерпретированы по смыслу и маркировались консервативно."
+analyst_summary_ru: "Кодекс структурирован по разделам и даёт высокое покрытие по клиентским, комплаенс- и трудовым принципам."

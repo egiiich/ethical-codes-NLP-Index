@@ -1,0 +1,611 @@
+document_id: "finance-indonesia-bank-aladin-syariah-2023"
+company_name: "Bank Aladin Syariah"
+country: "Indonesia"
+industry: "Finance"
+source_path: "Ethics_Codes_txt_files/Finance_Indonesia_Bank Aladin Syariah_2023.txt"
+source_language: "en"
+document_type: "code_of_conduct"
+review_status: "completed"
+topic_analyses:
+  -
+    topic_id: "competitor_relations"
+    principles:
+      -
+        principle_code: "COMP01"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "COMP02"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "COMP03"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "COMP03_explicit_section"
+      -
+        principle_code: "COMP04"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "COMP05"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "COMP06"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "COMP07"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "COMP08"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "COMP09"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "COMP10"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+    key_excerpts:
+      -
+        excerpt_id: "COMP03_explicit_section"
+        original: "Avoid situations that create any potential for unlawful anti-competitive or collusive conduct."
+        translated_ru: "Сотрудники обязаны избегать любых антиконкурентных и сговорных практик."
+        section_title: "Fair Competition"
+        relevance_comment: "Прямой антимонопольный запрет."
+    other_principles: []
+  -
+    topic_id: "hotline_principles"
+    principles:
+      -
+        principle_code: "HOT01"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "HOT02"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "HOT03"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "HOT03_explicit_section"
+      -
+        principle_code: "HOT04"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "HOT04_explicit_section"
+      -
+        principle_code: "HOT05"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "HOT05_explicit_section"
+      -
+        principle_code: "HOT06"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "HOT06_explicit_section"
+      -
+        principle_code: "HOT07"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "HOT08"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "HOT09"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "HOT10"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+    key_excerpts:
+      -
+        excerpt_id: "HOT03_explicit_section"
+        original: "Bank Aladin Syariah does not tolerate any retaliation, discrimination, or harassment against the whistleblower."
+        translated_ru: "Кодекс прямо запрещает реталиацию/преследование в отношении заявителя."
+        section_title: "Speaking and raising concerns"
+        relevance_comment: "Прямой запрет преследования заявителей."
+      -
+        excerpt_id: "HOT04_explicit_section"
+        original: "the Bank’s senior management will ensure that any information given is treated with a high degree of confidentiality."
+        translated_ru: "Информация от заявителя обрабатывается с высокой степенью конфиденциальности."
+        section_title: "Speaking and raising concerns"
+        relevance_comment: "Прямая защита анонимности/конфиденциальности заявителя."
+      -
+        excerpt_id: "HOT05_explicit_section"
+        original: "Disciplinary action, up to and including termination of employment will be imposed on Aladiners ... based on the degree of the deviation/violation."
+        translated_ru: "По сообщениям о нарушениях предусмотрены дисциплинарные меры вплоть до увольнения."
+        section_title: "Speaking and raising concerns"
+        relevance_comment: "Прямое подтверждение обязательного реагирования на нарушения."
+      -
+        excerpt_id: "HOT06_explicit_section"
+        original: "Immediately report unacceptable conduct, and promptly escalate violations or potential violations of law ... or this Code."
+        translated_ru: "Сотрудники обязаны немедленно сообщать и эскалировать нарушения/риски нарушений."
+        section_title: "Responsibility of Aladiners"
+        relevance_comment: "Прямая обязанность сообщения о нарушениях."
+    other_principles: []
+  -
+    topic_id: "company_to_supplier"
+    principles:
+      -
+        principle_code: "CtoS01"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "CtoS01_explicit_section"
+      -
+        principle_code: "CtoS02"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "CtoS02_explicit_section"
+      -
+        principle_code: "CtoS03"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "CtoS04"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "CtoS05"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "CtoS06"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "CtoS07"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "CtoS07_explicit_section"
+    key_excerpts:
+      -
+        excerpt_id: "CtoS01_explicit_section"
+        original: "Purchase all goods and services based on price, quality, availability, terms, and service."
+        translated_ru: "Закупки должны основываться на объективных критериях цены, качества и условий."
+        section_title: "Supplier/Vendor Relationships"
+        relevance_comment: "Прямой критерий эффективности выбора поставщиков."
+      -
+        excerpt_id: "CtoS02_explicit_section"
+        original: "Ensure equal and fair treatment during the supplier selection process."
+        translated_ru: "В процессе выбора поставщиков требуется равное и справедливое отношение."
+        section_title: "Supplier/Vendor Relationships"
+        relevance_comment: "Прямой принцип равного доступа поставщиков."
+      -
+        excerpt_id: "CtoS07_explicit_section"
+        original: "Not lead suppliers or vendors to believe that they can inappropriately influence any procurement decisions at the Bank."
+        translated_ru: "Запрещено создавать возможности для неэтичного влияния поставщиков на закупочные решения."
+        section_title: "Supplier/Vendor Relationships"
+        relevance_comment: "Прямой запрет манипулирования закупочным процессом."
+    other_principles: []
+  -
+    topic_id: "worker_to_company"
+    principles:
+      -
+        principle_code: "WtoC01"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "WtoC02"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "WtoC02_explicit_section"
+      -
+        principle_code: "WtoC03"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "WtoC03_explicit_section"
+      -
+        principle_code: "WtoC04"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "WtoC05"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "WtoC05_explicit_section"
+      -
+        principle_code: "WtoC06"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "WtoC07"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "WtoC08"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "WtoC09"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "WtoC10"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "WtoC10_explicit_section"
+    key_excerpts:
+      -
+        excerpt_id: "WtoC02_explicit_section"
+        original: "The Bank’s assets should be used only in relation to conducting the Bank’s business."
+        translated_ru: "Активы банка допускается использовать только для задач банка."
+        section_title: "Safeguarding the Bank’s Interests"
+        relevance_comment: "Прямой принцип целевого использования активов."
+      -
+        excerpt_id: "WtoC03_explicit_section"
+        original: "maintain the confidentiality, and protect, treat, and safeguard all Classified Information as if they are part of your own secret."
+        translated_ru: "Сотрудник обязан сохранять и защищать всю классифицированную информацию банка."
+        section_title: "Data Security and Privacy"
+        relevance_comment: "Прямое требование конфиденциальности."
+      -
+        excerpt_id: "WtoC05_explicit_section"
+        original: "make the right decisions and take appropriate actions that are consistent with applicable laws, regulations ..."
+        translated_ru: "Кодекс требует принимать решения в соответствии с применимыми законами и нормами."
+        section_title: "Objectives and Scope"
+        relevance_comment: "Прямое требование правового комплаенса."
+      -
+        excerpt_id: "WtoC10_explicit_section"
+        original: "continued efforts in securing trust and protecting our reputation"
+        translated_ru: "Сотрудники обязаны поддерживать доверие и защищать репутацию банка."
+        section_title: "Foreword"
+        relevance_comment: "Прямой принцип защиты деловой репутации."
+    other_principles: []
+  -
+    topic_id: "company_to_investors"
+    principles:
+      -
+        principle_code: "CtoI01"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "CtoI02"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "CtoI03"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "CtoI04"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "CtoI05"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "CtoI06"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "CtoI07"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "CtoI08"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+    key_excerpts:
+    other_principles: []
+  -
+    topic_id: "company_to_people"
+    principles:
+      -
+        principle_code: "CtoP01"
+        principle_status: "brief_mention"
+        evidence_excerpt_ids:
+          - "CtoP01_brief_mention"
+      -
+        principle_code: "CtoP02"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "CtoP03"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "CtoP04"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "CtoP05"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "CtoP06"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "CtoP07"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "CtoP08"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "CtoP09"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "CtoP10"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+    key_excerpts:
+      -
+        excerpt_id: "CtoP01_brief_mention"
+        original: "The Code is based on Bank Aladin Syariah’s core values and sustainability principles."
+        translated_ru: "Кодекс основан на принципах устойчивого развития, что кратко поддерживает ESG-ориентацию."
+        section_title: "Objectives and Scope"
+        relevance_comment: "Краткое подтверждение ESG-направленности."
+    other_principles: []
+  -
+    topic_id: "company_to_buyer"
+    principles:
+      -
+        principle_code: "CtoB01"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "CtoB01_explicit_section"
+      -
+        principle_code: "CtoB02"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "CtoB02_explicit_section"
+      -
+        principle_code: "CtoB03"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "CtoB04"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "CtoB05"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "CtoB05_explicit_section"
+      -
+        principle_code: "CtoB06"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "CtoB07"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "CtoB08"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "CtoB08_explicit_section"
+      -
+        principle_code: "CtoB09"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+    key_excerpts:
+      -
+        excerpt_id: "CtoB01_explicit_section"
+        original: "Provide fair and equitable access to products, services, facilities and privileges provided by the Bank."
+        translated_ru: "Банк обязан обеспечивать клиентам справедливый и равный доступ к продуктам и услугам."
+        section_title: "Fair Treatment"
+        relevance_comment: "Прямой клиентоориентированный принцип."
+      -
+        excerpt_id: "CtoB02_explicit_section"
+        original: "Inform customers and potential customers about options that may be appropriate for them, and explain terms and features in a fair and balanced way."
+        translated_ru: "Клиентам должна предоставляться понятная и сбалансированная информация об условиях и опциях."
+        section_title: "Fair Treatment"
+        relevance_comment: "Прямой принцип информационной прозрачности для клиентов."
+      -
+        excerpt_id: "CtoB05_explicit_section"
+        original: "Act in accordance with the highest standards of personal and professional integrity, honesty and ethical conduct."
+        translated_ru: "Сотрудники обязаны действовать с максимальной честностью и этичностью."
+        section_title: "Responsibility of Aladiners"
+        relevance_comment: "Прямой этический стандарт обслуживания и взаимодействия."
+      -
+        excerpt_id: "CtoB08_explicit_section"
+        original: "When in doubt, assume all information received is confidential."
+        translated_ru: "Любая клиентская/банковская информация по умолчанию рассматривается как конфиденциальная."
+        section_title: "Data Security and Privacy"
+        relevance_comment: "Прямое требование защиты клиентских данных."
+    other_principles: []
+  -
+    topic_id: "worker_to_worker"
+    principles:
+      -
+        principle_code: "WtoW01"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "WtoW01_explicit_section"
+      -
+        principle_code: "WtoW02"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "WtoW03"
+        principle_status: "brief_mention"
+        evidence_excerpt_ids:
+          - "WtoW03_brief_mention"
+      -
+        principle_code: "WtoW04"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "WtoW05"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "WtoW06"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "WtoW07"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "WtoW08"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+    key_excerpts:
+      -
+        excerpt_id: "WtoW01_explicit_section"
+        original: "Treat colleagues with respect and dignity."
+        translated_ru: "Сотрудники обязаны относиться к коллегам с уважением и достоинством."
+        section_title: "Conducive Working Environment"
+        relevance_comment: "Прямой принцип уважительной коммуникации."
+      -
+        excerpt_id: "WtoW03_brief_mention"
+        original: "Encourage his/her subordinates to work collaboratively."
+        translated_ru: "В кодексе зафиксирована важность совместной работы и коллаборации."
+        section_title: "Responsibility of Manager"
+        relevance_comment: "Краткое подтверждение командного взаимодействия."
+    other_principles: []
+  -
+    topic_id: "manager_to_worker"
+    principles:
+      -
+        principle_code: "MtoW01"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "MtoW02"
+        principle_status: "brief_mention"
+        evidence_excerpt_ids:
+          - "MtoW02_brief_mention"
+      -
+        principle_code: "MtoW03"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "MtoW03_explicit_section"
+      -
+        principle_code: "MtoW04"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "MtoW04_explicit_section"
+      -
+        principle_code: "MtoW05"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "MtoW06"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+    key_excerpts:
+      -
+        excerpt_id: "MtoW02_brief_mention"
+        original: "Encourage his/her subordinates to work collaboratively."
+        translated_ru: "Руководитель должен развивать совместную работу команды."
+        section_title: "Responsibility of Manager"
+        relevance_comment: "Краткое подтверждение управленческой поддержки развития командной работы."
+      -
+        excerpt_id: "MtoW03_explicit_section"
+        original: "Remind his/her subordinates of the importance of treating each other with respect."
+        translated_ru: "Руководитель обязан формировать уважительное отношение в команде."
+        section_title: "Responsibility of Manager"
+        relevance_comment: "Прямое требование уважения достоинства подчинённых."
+      -
+        excerpt_id: "MtoW04_explicit_section"
+        original: "foster a work environment where they feel comfortable doing so."
+        translated_ru: "Руководитель должен создавать среду, где подчинённые могут безопасно высказывать concerns."
+        section_title: "Responsibility of Manager"
+        relevance_comment: "Прямой принцип открытого диалога без страха последствий."
+    other_principles: []
+  -
+    topic_id: "company_to_worker"
+    principles:
+      -
+        principle_code: "CtoW01"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "CtoW02"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "CtoW03"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "CtoW03_explicit_section"
+      -
+        principle_code: "CtoW04"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "CtoW05"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "CtoW06"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "CtoW06_explicit_section"
+      -
+        principle_code: "CtoW07"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "CtoW08"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "CtoW09"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "CtoW10"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+    key_excerpts:
+      -
+        excerpt_id: "CtoW03_explicit_section"
+        original: "fostering a diverse, inclusive and safe workplace is essential to our success."
+        translated_ru: "Компания прямо декларирует безопасную и инклюзивную рабочую среду."
+        section_title: "Foreword"
+        relevance_comment: "Прямой принцип безопасных условий труда."
+      -
+        excerpt_id: "CtoW06_explicit_section"
+        original: "Work together without discrimination based on race, gender, ethnicity, religion, age, disability, marital status, citizenship ..."
+        translated_ru: "Запрещена дискриминация по личным признакам в рабочем процессе."
+        section_title: "Conducive Working Environment"
+        relevance_comment: "Прямой антидискриминационный принцип."
+    other_principles: []
+  -
+    topic_id: "worker_to_manager"
+    principles:
+      -
+        principle_code: "WtoM01"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "WtoM02"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "WtoM03"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "WtoM04"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "WtoM05"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "WtoM06"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+    key_excerpts:
+    other_principles: []
+notes: []
+limitations: []
+analyst_summary_ru: "Кодекс Bank Aladin Syariah детально покрывает комплаенс, конкуренцию, антикоррупцию, конфиденциальность, KYC/AML, закупки, speak-up и защиту работников."

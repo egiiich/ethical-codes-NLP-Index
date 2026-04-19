@@ -1,0 +1,541 @@
+document_id: "energy-russia-transneft-2024"
+company_name: "Transneft"
+country: "Russia"
+industry: "Energy"
+source_path: "Ethics_Codes_txt_files/Energy_Russia_Transneft_2024.txt"
+source_language: "ru"
+document_type: "functional_equivalent_needs_review"
+review_status: "completed"
+topic_analyses:
+  -
+    topic_id: "competitor_relations"
+    principles:
+      -
+        principle_code: "COMP01"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "COMP02"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "COMP03"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "COMP04"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "COMP05"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "COMP06"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "COMP07"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "COMP08"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "COMP09"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "COMP10"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+    key_excerpts: []
+    other_principles: []
+  -
+    topic_id: "hotline_principles"
+    principles:
+      -
+        principle_code: "HOT01"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "HOT02"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "HOT02_explicit_section"
+      -
+        principle_code: "HOT03"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "HOT03_explicit_section"
+      -
+        principle_code: "HOT04"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "HOT05"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "HOT06"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "HOT06_explicit_section"
+      -
+        principle_code: "HOT07"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "HOT08"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "HOT09"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "HOT10"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+    key_excerpts:
+      -
+        excerpt_id: "HOT02_explicit_section"
+        original: "Нарушение конфиденциальности такого сообщения является отдельным нарушением принципов настоящего Кодекса этики."
+        translated_ru: "Нарушение конфиденциальности сообщений о нарушениях прямо запрещено."
+        section_title: "5.2 Соблюдение требований Кодекса этики"
+        relevance_comment: "Прямое требование защищать конфиденциальность материалов сообщения."
+      -
+        excerpt_id: "HOT03_explicit_section"
+        original: "Группа «Транснефть» гарантирует отсутствие негативных последствий для любого работника, сообщившего о нарушениях положений Кодекса этики."
+        translated_ru: "Компания гарантирует защиту работника от негативных последствий за сообщение о нарушении."
+        section_title: "5.2 Соблюдение требований Кодекса этики"
+        relevance_comment: "Прямой запрет реталиации."
+      -
+        excerpt_id: "HOT06_explicit_section"
+        original: "Для сообщений о фактах нарушения ... действуют специальные каналы информирования, размещенные на официальном сайте ... в разделе «Противодействие коррупции»."
+        translated_ru: "Для сообщений о нарушениях предусмотрены официальные каналы информирования."
+        section_title: "5.2 Соблюдение требований Кодекса этики"
+        relevance_comment: "Прямой механизм обязательного информирования о нарушениях."
+    other_principles: []
+  -
+    topic_id: "company_to_supplier"
+    principles:
+      -
+        principle_code: "CtoS01"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "CtoS02"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "CtoS03"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "CtoS04"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "CtoS05"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "CtoS06"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "CtoS07"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+    key_excerpts: []
+    other_principles: []
+  -
+    topic_id: "worker_to_company"
+    principles:
+      -
+        principle_code: "WtoC01"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "WtoC02"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "WtoC03"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "WtoC03_explicit_section"
+      -
+        principle_code: "WtoC04"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "WtoC05"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "WtoC05_explicit_section"
+      -
+        principle_code: "WtoC06"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "WtoC07"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "WtoC08"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "WtoC09"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "WtoC10"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "WtoC10_explicit_section"
+    key_excerpts:
+      -
+        excerpt_id: "WtoC03_explicit_section"
+        original: "...обеспечивать сохранность и защиту любой конфиденциальной информации, включая ... инсайдерскую информацию группы «Транснефть»."
+        translated_ru: "Сотрудники обязаны защищать конфиденциальную и инсайдерскую информацию компании."
+        section_title: "3.2 Нормы делового поведения"
+        relevance_comment: "Прямое требование информационной безопасности."
+      -
+        excerpt_id: "WtoC05_explicit_section"
+        original: "...соблюдать запреты, ограничения и требования, установленные законодательством Российской Федерации и внутренними нормативными документами..."
+        translated_ru: "Сотрудники обязаны соблюдать законодательство и внутренние нормы компании."
+        section_title: "3.2 Нормы делового поведения"
+        relevance_comment: "Прямое требование законопослушного поведения."
+      -
+        excerpt_id: "WtoC10_explicit_section"
+        original: "Действия работников должны соответствовать целям поддержания позитивного имиджа группы «Транснефть»."
+        translated_ru: "Сотрудники обязаны поддерживать позитивный имидж и репутацию компании."
+        section_title: "3.1 Этические принципы"
+        relevance_comment: "Прямой акцент на защите репутации компании."
+    other_principles: []
+  -
+    topic_id: "company_to_investors"
+    principles:
+      -
+        principle_code: "CtoI01"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "CtoI02"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "CtoI03"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "CtoI04"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "CtoI05"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "CtoI06"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "CtoI07"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "CtoI08"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+    key_excerpts: []
+    other_principles: []
+  -
+    topic_id: "company_to_people"
+    principles:
+      -
+        principle_code: "CtoP01"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "CtoP02"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "CtoP03"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "CtoP04"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "CtoP05"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "CtoP06"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "CtoP07"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "CtoP08"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "CtoP08_explicit_section"
+      -
+        principle_code: "CtoP09"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "CtoP09_explicit_section"
+      -
+        principle_code: "CtoP10"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+    key_excerpts:
+      -
+        excerpt_id: "CtoP08_explicit_section"
+        original: "...безопасности, охраны труда, здоровья, окружающей среды..."
+        translated_ru: "Кодекс включает обязательные нормы по безопасности труда и окружающей среде."
+        section_title: "5.1 Соблюдение требований Кодекса этики"
+        relevance_comment: "Прямой принцип предотвращения вреда людям и окружающей среде."
+      -
+        excerpt_id: "CtoP09_explicit_section"
+        original: "...уважительно относиться к обычаям и традициям народов России и других государств, учитывать культурные ... особенности..."
+        translated_ru: "Компания требует уважения локальных традиций и культурных особенностей."
+        section_title: "3.2 Нормы делового поведения"
+        relevance_comment: "Прямое уважение местных традиций и контекста."
+    other_principles: []
+  -
+    topic_id: "company_to_buyer"
+    principles:
+      -
+        principle_code: "CtoB01"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "CtoB02"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "CtoB03"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "CtoB04"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "CtoB05"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "CtoB06"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "CtoB07"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "CtoB08"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "CtoB09"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+    key_excerpts: []
+    other_principles: []
+  -
+    topic_id: "worker_to_worker"
+    principles:
+      -
+        principle_code: "WtoW01"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "WtoW01_explicit_section"
+      -
+        principle_code: "WtoW02"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "WtoW03"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "WtoW04"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "WtoW05"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "WtoW06"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "WtoW07"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "WtoW08"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+    key_excerpts:
+      -
+        excerpt_id: "WtoW01_explicit_section"
+        original: "Уважение. Взаимное уважение и доверие, доброжелательность и сотрудничество ..."
+        translated_ru: "Взаимное уважение и сотрудничество объявлены обязательной нормой поведения работников."
+        section_title: "3.1 Этические принципы"
+        relevance_comment: "Прямой принцип уважительного взаимодействия коллег."
+    other_principles: []
+  -
+    topic_id: "manager_to_worker"
+    principles:
+      -
+        principle_code: "MtoW01"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "MtoW01_explicit_section"
+      -
+        principle_code: "MtoW02"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "MtoW03"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "MtoW04"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "MtoW04_explicit_section"
+      -
+        principle_code: "MtoW05"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "MtoW06"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+    key_excerpts:
+      -
+        excerpt_id: "MtoW01_explicit_section"
+        original: "...не допускать ... проявлений дискриминации ... при приеме на работу, установлении условий оплаты труда, назначении на вышестоящие должности..."
+        translated_ru: "Руководителям прямо запрещено допускать дискриминацию подчиненных."
+        section_title: "3.2.2 Дополнительные требования к руководителям"
+        relevance_comment: "Прямое требование равного отношения руководителя к подчиненным."
+      -
+        excerpt_id: "MtoW04_explicit_section"
+        original: "...создавать атмосферу открытости в деловом общении..."
+        translated_ru: "Руководитель обязан поддерживать открытую коммуникационную среду в коллективе."
+        section_title: "3.2.2 Дополнительные требования к руководителям"
+        relevance_comment: "Прямой принцип культуры открытого диалога."
+    other_principles: []
+  -
+    topic_id: "company_to_worker"
+    principles:
+      -
+        principle_code: "CtoW01"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "CtoW02"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "CtoW03"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "CtoW03_explicit_section"
+      -
+        principle_code: "CtoW04"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "CtoW05"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "CtoW06"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "CtoW06_explicit_section"
+      -
+        principle_code: "CtoW07"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "CtoW08"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "CtoW09"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "CtoW10"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "CtoW10_explicit_section"
+    key_excerpts:
+      -
+        excerpt_id: "CtoW03_explicit_section"
+        original: "...обеспечивать безопасность труда и условий, отвечающих требованиям охраны и гигиены труда..."
+        translated_ru: "Компания/руководство обязаны обеспечивать безопасные и гигиенические условия труда."
+        section_title: "3.2.2 Дополнительные требования к руководителям"
+        relevance_comment: "Прямое требование безопасных условий труда."
+      -
+        excerpt_id: "CtoW06_explicit_section"
+        original: "...не допускать ... проявлений дискриминации ..."
+        translated_ru: "Запрет дискриминации закреплен как обязательная норма работодателя."
+        section_title: "3.2.2 Дополнительные требования к руководителям"
+        relevance_comment: "Прямой антидискриминационный принцип."
+      -
+        excerpt_id: "CtoW10_explicit_section"
+        original: "...уважать права работников на участие в профсоюзной деятельности."
+        translated_ru: "Кодекс прямо закрепляет уважение права работников на профсоюзную деятельность."
+        section_title: "3.2.2 Дополнительные требования к руководителям"
+        relevance_comment: "Прямое признание свободы объединений работников."
+    other_principles: []
+  -
+    topic_id: "worker_to_manager"
+    principles:
+      -
+        principle_code: "WtoM01"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "WtoM02"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "WtoM03"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "WtoM04"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "WtoM05"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "WtoM06"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+    key_excerpts: []
+    other_principles: []
+notes: []
+limitations: []
+analyst_summary_ru: "Анализ выполнен последовательно по всем темам; статусы выставлены по явным формулировкам исходных текстов."
