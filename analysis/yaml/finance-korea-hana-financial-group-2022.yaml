@@ -1,0 +1,506 @@
+document_id: "finance-korea-hana-financial-group-2022"
+company_name: "Hana Financial Group"
+country: "Korea"
+industry: "Finance"
+source_path: "Ethics_Codes_txt_files/Finance_Korea_Hana Financial Group_2022.txt"
+source_language: "en"
+document_type: "code_of_conduct"
+review_status: "completed"
+topic_analyses:
+  - topic_id: "competitor_relations"
+    principles:
+      - principle_code: "COMP01"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "COMP01_explicit_section"
+      - principle_code: "COMP02"
+        principle_status: "brief_mention"
+        evidence_excerpt_ids:
+          - "COMP02_brief_mention"
+      - principle_code: "COMP03"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "COMP04"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "COMP05"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "COMP06"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "COMP07"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "COMP08"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "COMP09"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "COMP10"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+    key_excerpts:
+      - excerpt_id: "COMP01_explicit_section"
+        original: "It competes fairly by complying with the fair-trade laws and regulations."
+        translated_ru: "Перевод: It competes fairly by complying with the fair-trade laws and regulations."
+        section_title: "Code section"
+        relevance_comment: "Подтверждение принципа COMP01."
+      - excerpt_id: "COMP02_brief_mention"
+        original: "It contributes to the establishment of a sound market economic order based on fair and free competition among enterprises."
+        translated_ru: "Перевод: It contributes to the establishment of a sound market economic order based on fair and free competition among enterprises."
+        section_title: "Code section"
+        relevance_comment: "Подтверждение принципа COMP02."
+    other_principles: []
+  - topic_id: "hotline_principles"
+    principles:
+      - principle_code: "HOT01"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "HOT02"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "HOT03"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "HOT03_explicit_section"
+      - principle_code: "HOT04"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "HOT04_explicit_section"
+      - principle_code: "HOT05"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "HOT06"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "HOT06_explicit_section"
+      - principle_code: "HOT07"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "HOT08"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "HOT09"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "HOT10"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+    key_excerpts:
+      - excerpt_id: "HOT03_explicit_section"
+        original: "...deploying active protective measures, such as maintaining the strict confidentiality of whistleblowers and prohibiting the imposition of any disadvantages against them."
+        translated_ru: "Перевод: ...deploying active protective measures, such as maintaining the strict confidentiality of whistleblowers and prohibiting the imposition of any disadvantages against them."
+        section_title: "Code section"
+        relevance_comment: "Подтверждение принципа HOT03."
+      - excerpt_id: "HOT04_explicit_section"
+        original: "...maintaining the strict confidentiality of whistleblowers..."
+        translated_ru: "Перевод: ...maintaining the strict confidentiality of whistleblowers..."
+        section_title: "Code section"
+        relevance_comment: "Подтверждение принципа HOT04."
+      - excerpt_id: "HOT06_explicit_section"
+        original: "We report the matter to the Ethics or Compliance department ... if we become aware of any such improper conduct."
+        translated_ru: "Перевод: We report the matter to the Ethics or Compliance department ... if we become aware of any such improper conduct."
+        section_title: "Code section"
+        relevance_comment: "Подтверждение принципа HOT06."
+    other_principles: []
+  - topic_id: "company_to_supplier"
+    principles:
+      - principle_code: "CtoS01"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoS02"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoS03"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "CtoS03_explicit_section"
+      - principle_code: "CtoS04"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoS05"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoS06"
+        principle_status: "brief_mention"
+        evidence_excerpt_ids:
+          - "CtoS06_brief_mention"
+      - principle_code: "CtoS07"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+    key_excerpts:
+      - excerpt_id: "CtoS03_explicit_section"
+        original: "...without making any unreasonable demands that exploit our advantageous position."
+        translated_ru: "Перевод: ...without making any unreasonable demands that exploit our advantageous position."
+        section_title: "Code section"
+        relevance_comment: "Подтверждение принципа CtoS03."
+      - excerpt_id: "CtoS06_brief_mention"
+        original: "It actively shares an ethical culture based on mutual respect and cooperates with its partners to ensure mutual growth."
+        translated_ru: "Перевод: It actively shares an ethical culture based on mutual respect and cooperates with its partners to ensure mutual growth."
+        section_title: "Code section"
+        relevance_comment: "Подтверждение принципа CtoS06."
+    other_principles: []
+  - topic_id: "worker_to_company"
+    principles:
+      - principle_code: "WtoC01"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "WtoC02"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "WtoC02_explicit_section"
+      - principle_code: "WtoC03"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "WtoC03_explicit_section"
+      - principle_code: "WtoC04"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "WtoC05"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "WtoC05_explicit_section"
+      - principle_code: "WtoC06"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "WtoC07"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "WtoC08"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "WtoC09"
+        principle_status: "brief_mention"
+        evidence_excerpt_ids:
+          - "WtoC09_brief_mention"
+      - principle_code: "WtoC10"
+        principle_status: "brief_mention"
+        evidence_excerpt_ids:
+          - "WtoC10_brief_mention"
+    key_excerpts:
+      - excerpt_id: "WtoC02_explicit_section"
+        original: "We transparently use ... and protect all tangible and intangible company assets."
+        translated_ru: "Перевод: We transparently use ... and protect all tangible and intangible company assets."
+        section_title: "Code section"
+        relevance_comment: "Подтверждение принципа WtoC02."
+      - excerpt_id: "WtoC03_explicit_section"
+        original: "We will neither use nor provide to any third parties important internal or confidential information acquired in the course of performing our duties."
+        translated_ru: "Перевод: We will neither use nor provide to any third parties important internal or confidential information acquired in the course of performing our duties."
+        section_title: "Code section"
+        relevance_comment: "Подтверждение принципа WtoC03."
+      - excerpt_id: "WtoC05_explicit_section"
+        original: "...duly understanding and complying with the laws and regulations related to our work."
+        translated_ru: "Перевод: ...duly understanding and complying with the laws and regulations related to our work."
+        section_title: "Code section"
+        relevance_comment: "Подтверждение принципа WtoC05."
+      - excerpt_id: "WtoC09_brief_mention"
+        original: "We will continue with our personal development efforts to secure competitiveness and expertise."
+        translated_ru: "Перевод: We will continue with our personal development efforts to secure competitiveness and expertise."
+        section_title: "Code section"
+        relevance_comment: "Подтверждение принципа WtoC09."
+      - excerpt_id: "WtoC10_brief_mention"
+        original: "We use social media responsibly while abstaining from any unethical behavior ... that may damage the reputation of others."
+        translated_ru: "Перевод: We use social media responsibly while abstaining from any unethical behavior ... that may damage the reputation of others."
+        section_title: "Code section"
+        relevance_comment: "Подтверждение принципа WtoC10."
+    other_principles: []
+  - topic_id: "company_to_investors"
+    principles:
+      - principle_code: "CtoI01"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "CtoI01_explicit_section"
+      - principle_code: "CtoI02"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoI03"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "CtoI03_explicit_section"
+      - principle_code: "CtoI04"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoI05"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoI06"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoI07"
+        principle_status: "brief_mention"
+        evidence_excerpt_ids:
+          - "CtoI07_brief_mention"
+      - principle_code: "CtoI08"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+    key_excerpts:
+      - excerpt_id: "CtoI01_explicit_section"
+        original: "It treats all its shareholders fairly and equally, and considers all the interest of its shareholders in a balanced manner."
+        translated_ru: "Перевод: It treats all its shareholders fairly and equally, and considers all the interest of its shareholders in a balanced manner."
+        section_title: "Code section"
+        relevance_comment: "Подтверждение принципа CtoI01."
+      - excerpt_id: "CtoI03_explicit_section"
+        original: "It provides the shareholders with accurate and up-to-date information in accordance with the relevant statutes and regulations."
+        translated_ru: "Перевод: It provides the shareholders with accurate and up-to-date information in accordance with the relevant statutes and regulations."
+        section_title: "Code section"
+        relevance_comment: "Подтверждение принципа CtoI03."
+      - excerpt_id: "CtoI07_brief_mention"
+        original: "It treats all its shareholders fairly and equally."
+        translated_ru: "Перевод: It treats all its shareholders fairly and equally."
+        section_title: "Code section"
+        relevance_comment: "Подтверждение принципа CtoI07."
+    other_principles: []
+  - topic_id: "company_to_people"
+    principles:
+      - principle_code: "CtoP01"
+        principle_status: "brief_mention"
+        evidence_excerpt_ids:
+          - "CtoP01_brief_mention"
+      - principle_code: "CtoP02"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoP03"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoP04"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "CtoP04_explicit_section"
+      - principle_code: "CtoP05"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoP06"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoP07"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoP08"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoP09"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoP10"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+    key_excerpts:
+      - excerpt_id: "CtoP01_brief_mention"
+        original: "It extensively considers its environmental impacts throughout all the processes related to its provision of financial products and services."
+        translated_ru: "Перевод: It extensively considers its environmental impacts throughout all the processes related to its provision of financial products and services."
+        section_title: "Code section"
+        relevance_comment: "Подтверждение принципа CtoP01."
+      - excerpt_id: "CtoP04_explicit_section"
+        original: "It carries out corporate social responsibility and various other activities to enhance the socio-economic values of its local communities and their members."
+        translated_ru: "Перевод: It carries out corporate social responsibility and various other activities to enhance the socio-economic values of its local communities and their members."
+        section_title: "Code section"
+        relevance_comment: "Подтверждение принципа CtoP04."
+    other_principles: []
+  - topic_id: "company_to_buyer"
+    principles:
+      - principle_code: "CtoB01"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "CtoB01_explicit_section"
+      - principle_code: "CtoB02"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "CtoB02_explicit_section"
+      - principle_code: "CtoB03"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoB04"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoB05"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoB06"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoB07"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "CtoB07_explicit_section"
+      - principle_code: "CtoB08"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "CtoB08_explicit_section"
+      - principle_code: "CtoB09"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+    key_excerpts:
+      - excerpt_id: "CtoB01_explicit_section"
+        original: "Hana Financial Group considers its customers first in its standards for behavior and judgment."
+        translated_ru: "Перевод: Hana Financial Group considers its customers first in its standards for behavior and judgment."
+        section_title: "Code section"
+        relevance_comment: "Подтверждение принципа CtoB01."
+      - excerpt_id: "CtoB02_explicit_section"
+        original: "It recommends suitable products and services to its customers along with accurate explanations."
+        translated_ru: "Перевод: It recommends suitable products and services to its customers along with accurate explanations."
+        section_title: "Code section"
+        relevance_comment: "Подтверждение принципа CtoB02."
+      - excerpt_id: "CtoB07_explicit_section"
+        original: "Hana Financial Group actively gathers opinions from its customers and strives to resolve customers' complaints promptly and accurately."
+        translated_ru: "Перевод: Hana Financial Group actively gathers opinions from its customers and strives to resolve customers' complaints promptly and accurately."
+        section_title: "Code section"
+        relevance_comment: "Подтверждение принципа CtoB07."
+      - excerpt_id: "CtoB08_explicit_section"
+        original: "...safeguard their assets and information with the fiduciary duty of a fair administrator."
+        translated_ru: "Перевод: ...safeguard their assets and information with the fiduciary duty of a fair administrator."
+        section_title: "Code section"
+        relevance_comment: "Подтверждение принципа CtoB08."
+    other_principles: []
+  - topic_id: "worker_to_worker"
+    principles:
+      - principle_code: "WtoW01"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "WtoW01_explicit_section"
+      - principle_code: "WtoW02"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "WtoW03"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "WtoW03_explicit_section"
+      - principle_code: "WtoW04"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "WtoW05"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "WtoW06"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "WtoW07"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "WtoW08"
+        principle_status: "brief_mention"
+        evidence_excerpt_ids:
+          - "WtoW08_brief_mention"
+    key_excerpts:
+      - excerpt_id: "WtoW01_explicit_section"
+        original: "We do not discriminate against anyone ... while developing an embracing inclusive culture that respects diversity."
+        translated_ru: "Перевод: We do not discriminate against anyone ... while developing an embracing inclusive culture that respects diversity."
+        section_title: "Code section"
+        relevance_comment: "Подтверждение принципа WtoW01."
+      - excerpt_id: "WtoW03_explicit_section"
+        original: "We cooperate with each other based on mutual respect and communication to promote the development of the entire Group."
+        translated_ru: "Перевод: We cooperate with each other based on mutual respect and communication to promote the development of the entire Group."
+        section_title: "Code section"
+        relevance_comment: "Подтверждение принципа WtoW03."
+      - excerpt_id: "WtoW08_brief_mention"
+        original: "We report the matter to the Ethics or Compliance department ... if we become aware of any such improper conduct."
+        translated_ru: "Перевод: We report the matter to the Ethics or Compliance department ... if we become aware of any such improper conduct."
+        section_title: "Code section"
+        relevance_comment: "Подтверждение принципа WtoW08."
+    other_principles: []
+  - topic_id: "manager_to_worker"
+    principles:
+      - principle_code: "MtoW01"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "MtoW02"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "MtoW03"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "MtoW04"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "MtoW05"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "MtoW06"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+    key_excerpts:
+    other_principles: []
+  - topic_id: "company_to_worker"
+    principles:
+      - principle_code: "CtoW01"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoW02"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "CtoW02_explicit_section"
+      - principle_code: "CtoW03"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "CtoW03_explicit_section"
+      - principle_code: "CtoW04"
+        principle_status: "brief_mention"
+        evidence_excerpt_ids:
+          - "CtoW04_brief_mention"
+      - principle_code: "CtoW05"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoW06"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "CtoW06_explicit_section"
+      - principle_code: "CtoW07"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoW08"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoW09"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoW10"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+    key_excerpts:
+      - excerpt_id: "CtoW02_explicit_section"
+        original: "It also evaluates the employees based on fair standards to compensate them in a reasonable fashion."
+        translated_ru: "Перевод: It also evaluates the employees based on fair standards to compensate them in a reasonable fashion."
+        section_title: "Code section"
+        relevance_comment: "Подтверждение принципа CtoW02."
+      - excerpt_id: "CtoW03_explicit_section"
+        original: "...strive to generate a safe and comfortable work environment."
+        translated_ru: "Перевод: ...strive to generate a safe and comfortable work environment."
+        section_title: "Code section"
+        relevance_comment: "Подтверждение принципа CtoW03."
+      - excerpt_id: "CtoW04_brief_mention"
+        original: "It strives to help its employees to realize themselves within a healthy work-life balance while enjoying a happy life with their families."
+        translated_ru: "Перевод: It strives to help its employees to realize themselves within a healthy work-life balance while enjoying a happy life with their families."
+        section_title: "Code section"
+        relevance_comment: "Подтверждение принципа CtoW04."
+      - excerpt_id: "CtoW06_explicit_section"
+        original: "We do not discriminate against anyone on any grounds, such as origin or gender."
+        translated_ru: "Перевод: We do not discriminate against anyone on any grounds, such as origin or gender."
+        section_title: "Code section"
+        relevance_comment: "Подтверждение принципа CtoW06."
+    other_principles: []
+  - topic_id: "worker_to_manager"
+    principles:
+      - principle_code: "WtoM01"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "WtoM02"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "WtoM03"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "WtoM04"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "WtoM05"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "WtoM06"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+    key_excerpts:
+    other_principles: []
+notes: []
+limitations: []
+analyst_summary_ru: "Анализ обновлен с полным покрытием evidence для всех не-absent принципов."

@@ -1,0 +1,541 @@
+document_id: "finance-indonesia-bni-2026"
+company_name: "BNI"
+country: "Indonesia"
+industry: "Finance"
+source_path: "Ethics_Codes_txt_files/Finance_Indonesia_BNI_2026.txt"
+source_language: "en"
+document_type: "code_of_conduct"
+review_status: "needs_human_review"
+topic_analyses:
+  -
+    topic_id: "competitor_relations"
+    principles:
+      -
+        principle_code: "COMP01"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "COMP02"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "COMP03"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "COMP04"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "COMP05"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "COMP06"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "COMP07"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "COMP08"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "COMP09"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "COMP10"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+    key_excerpts:
+    other_principles: []
+  -
+    topic_id: "hotline_principles"
+    principles:
+      -
+        principle_code: "HOT01"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "HOT01_explicit_section"
+      -
+        principle_code: "HOT02"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "HOT03"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "HOT04"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "HOT04_explicit_section"
+      -
+        principle_code: "HOT05"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "HOT05_explicit_section"
+      -
+        principle_code: "HOT06"
+        principle_status: "brief_mention"
+        evidence_excerpt_ids:
+          - "HOT06_brief_mention"
+      -
+        principle_code: "HOT07"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "HOT08"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "HOT09"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "HOT10"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+    key_excerpts:
+      -
+        excerpt_id: "HOT01_explicit_section"
+        original: "Every employee can report any deviation from the Code of Ethics."
+        translated_ru: "Каждый сотрудник имеет доступ к каналу сообщений о нарушениях кодекса."
+        section_title: "Efforts to Implement and Enforce the Code of Ethics Through Various Media"
+        relevance_comment: "Прямой универсальный доступ работников к процедуре сообщения."
+      -
+        excerpt_id: "HOT04_explicit_section"
+        original: "the reporter's identity is guaranteed to be protected."
+        translated_ru: "Личность заявителя гарантированно защищается."
+        section_title: "Efforts to Implement and Enforce the Code of Ethics Through Various Media"
+        relevance_comment: "Прямая гарантия защиты личности заявителя."
+      -
+        excerpt_id: "HOT05_explicit_section"
+        original: "Any violation of the Code of Ethics will be subject to sanctions by applicable regulations."
+        translated_ru: "Любое нарушение кодекса влечёт санкции в соответствии с правилами."
+        section_title: "Efforts to Implement and Enforce the Code of Ethics Through Various Media"
+        relevance_comment: "Подтверждение обязательного реагирования на нарушения."
+      -
+        excerpt_id: "HOT06_brief_mention"
+        original: "Every employee can report any deviation from the Code of Ethics."
+        translated_ru: "Сообщение о нарушениях прямо разрешено каждому сотруднику, что кратко поддерживает обязанность эскалации."
+        section_title: "Efforts to Implement and Enforce the Code of Ethics Through Various Media"
+        relevance_comment: "Краткое подтверждение принципа сообщения о нарушениях."
+    other_principles: []
+  -
+    topic_id: "company_to_supplier"
+    principles:
+      -
+        principle_code: "CtoS01"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "CtoS02"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "CtoS03"
+        principle_status: "brief_mention"
+        evidence_excerpt_ids:
+          - "CtoS03_brief_mention"
+      -
+        principle_code: "CtoS04"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "CtoS05"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "CtoS06"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "CtoS07"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "CtoS07_explicit_section"
+    key_excerpts:
+      -
+        excerpt_id: "CtoS03_brief_mention"
+        original: "Prevent abuse of authority and collusive practices that can harm the procurement process."
+        translated_ru: "Запрещено злоупотребление полномочиями в закупках, что кратко отражает недопустимость давления на поставщиков."
+        section_title: "Code of Conduct Relating to Vendors"
+        relevance_comment: "Краткое подтверждение этичного отношения к поставщикам в закупках."
+      -
+        excerpt_id: "CtoS07_explicit_section"
+        original: "They do not influence each other directly or indirectly, which may cause unfair business competition."
+        translated_ru: "Запрещено влияние на решения, приводящее к недобросовестной конкуренции при закупке."
+        section_title: "Code of Conduct Relating to Vendors"
+        relevance_comment: "Прямой запрет манипулятивных практик в тендерном/закупочном процессе."
+    other_principles: []
+  -
+    topic_id: "worker_to_company"
+    principles:
+      -
+        principle_code: "WtoC01"
+        principle_status: "brief_mention"
+        evidence_excerpt_ids:
+          - "WtoC01_brief_mention"
+      -
+        principle_code: "WtoC02"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "WtoC02_explicit_section"
+      -
+        principle_code: "WtoC03"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "WtoC03_explicit_section"
+      -
+        principle_code: "WtoC04"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "WtoC05"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "WtoC05_explicit_section"
+      -
+        principle_code: "WtoC06"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "WtoC07"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "WtoC08"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "WtoC09"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "WtoC10"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "WtoC10_explicit_section"
+    key_excerpts:
+      -
+        excerpt_id: "WtoC01_brief_mention"
+        original: "Act Professionally by prioritizing the values of work culture Beliefs and Core Values AKHLAK."
+        translated_ru: "Профессиональное поведение закреплено как базовая обязанность сотрудника."
+        section_title: "Principles of Code of Ethics"
+        relevance_comment: "Краткое подтверждение стандарта качества труда."
+      -
+        excerpt_id: "WtoC02_explicit_section"
+        original: "Not using BNI assets for personal interest."
+        translated_ru: "Запрещено использовать активы компании в личных целях."
+        section_title: "Principles of Code of Ethics"
+        relevance_comment: "Прямое требование сохранности и целевого использования активов."
+      -
+        excerpt_id: "WtoC03_explicit_section"
+        original: "Maintain bank confidentiality and job confidentiality."
+        translated_ru: "Сотрудники обязаны сохранять банковскую и должностную тайну."
+        section_title: "Principles of Code of Ethics"
+        relevance_comment: "Прямой принцип конфиденциальности."
+      -
+        excerpt_id: "WtoC05_explicit_section"
+        original: "Compliance with the Code of Ethics reflects the Bank's commitment to complying with legal regulations."
+        translated_ru: "Соблюдение кодекса прямо связано с соблюдением правовых норм."
+        section_title: "Efforts to Implement and Enforce the Code of Ethics Through Various Media"
+        relevance_comment: "Прямое требование правового комплаенса."
+      -
+        excerpt_id: "WtoC10_explicit_section"
+        original: "implement the highest ethical standards to increase the positive outlook and strengthen the Bank's reputation in the eyes of stakeholders."
+        translated_ru: "Кодекс ориентирован на укрепление репутации банка через высокие этические стандарты."
+        section_title: "Code of Ethics Applies to All Levels of Organization"
+        relevance_comment: "Прямое указание на защиту репутации компании."
+    other_principles: []
+  -
+    topic_id: "company_to_investors"
+    principles:
+      -
+        principle_code: "CtoI01"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "CtoI02"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "CtoI03"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "CtoI04"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "CtoI05"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "CtoI06"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "CtoI07"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "CtoI08"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+    key_excerpts:
+    other_principles: []
+  -
+    topic_id: "company_to_people"
+    principles:
+      -
+        principle_code: "CtoP01"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "CtoP02"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "CtoP03"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "CtoP04"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "CtoP05"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "CtoP06"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "CtoP07"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "CtoP08"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "CtoP09"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "CtoP10"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+    key_excerpts:
+    other_principles: []
+  -
+    topic_id: "company_to_buyer"
+    principles:
+      -
+        principle_code: "CtoB01"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "CtoB02"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "CtoB03"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "CtoB04"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "CtoB05"
+        principle_status: "brief_mention"
+        evidence_excerpt_ids:
+          - "CtoB05_brief_mention"
+      -
+        principle_code: "CtoB06"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "CtoB07"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "CtoB08"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "CtoB09"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+    key_excerpts:
+      -
+        excerpt_id: "CtoB05_brief_mention"
+        original: "The Code also clearly describes the permissible and impermissible attitudes or interactions between employees, customers, and other stakeholders."
+        translated_ru: "Для взаимодействия с клиентами закреплены допустимые/недопустимые модели поведения."
+        section_title: "Code of Ethics"
+        relevance_comment: "Краткое подтверждение этических стандартов в отношениях с клиентами."
+    other_principles: []
+  -
+    topic_id: "worker_to_worker"
+    principles:
+      -
+        principle_code: "WtoW01"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "WtoW01_explicit_section"
+      -
+        principle_code: "WtoW02"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "WtoW03"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "WtoW04"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "WtoW05"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "WtoW06"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "WtoW07"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "WtoW08"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+    key_excerpts:
+      -
+        excerpt_id: "WtoW01_explicit_section"
+        original: "Maintain good relationships among fellow BNI Hi-Movers."
+        translated_ru: "Сотрудники обязаны поддерживать хорошие отношения между коллегами."
+        section_title: "Principles of Code of Ethics"
+        relevance_comment: "Прямой принцип уважительной коммуникации внутри коллектива."
+    other_principles: []
+  -
+    topic_id: "manager_to_worker"
+    principles:
+      -
+        principle_code: "MtoW01"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "MtoW02"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "MtoW03"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "MtoW04"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "MtoW05"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "MtoW06"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+    key_excerpts:
+    other_principles: []
+  -
+    topic_id: "company_to_worker"
+    principles:
+      -
+        principle_code: "CtoW01"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "CtoW02"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "CtoW03"
+        principle_status: "brief_mention"
+        evidence_excerpt_ids:
+          - "CtoW03_brief_mention"
+      -
+        principle_code: "CtoW04"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "CtoW05"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "CtoW06"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "CtoW07"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "CtoW08"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "CtoW09"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "CtoW10"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+    key_excerpts:
+      -
+        excerpt_id: "CtoW03_brief_mention"
+        original: "BNI is committed to creating an anti-corruption culture for all employees by providing a conducive, healthy, and free working environment."
+        translated_ru: "Компания декларирует здоровую и благоприятную рабочую среду для сотрудников."
+        section_title: "Code of Conduct Relating to Anti-Corruption"
+        relevance_comment: "Краткое подтверждение безопасных/здоровых условий труда."
+    other_principles: []
+  -
+    topic_id: "worker_to_manager"
+    principles:
+      -
+        principle_code: "WtoM01"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "WtoM02"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "WtoM03"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "WtoM04"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "WtoM05"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "WtoM06"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+    key_excerpts:
+    other_principles: []
+notes: []
+limitations: []
+analyst_summary_ru: "Документ содержит существенные положения по комплаенсу, конфиденциальности, активам, антикоррупции и каналам WBS, но представлен как фрагмент отчётности (не полный текст кодекса), поэтому выставлен needs_human_review."

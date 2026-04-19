@@ -1,0 +1,518 @@
+document_id: "finance-korea-woori-financial-group-2025"
+company_name: "Woori Financial Group"
+country: "Korea"
+industry: "Finance"
+source_path: "Ethics_Codes_txt_files/Finance_Korea_Woori Financial Group_2025.txt"
+source_language: "en"
+document_type: "code_of_conduct"
+review_status: "completed"
+topic_analyses:
+  - topic_id: "competitor_relations"
+    principles:
+      - principle_code: "COMP01"
+        principle_status: "brief_mention"
+        evidence_excerpt_ids:
+          - "COMP01_brief_mention"
+      - principle_code: "COMP02"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "COMP03"
+        principle_status: "brief_mention"
+        evidence_excerpt_ids:
+          - "COMP03_brief_mention"
+      - principle_code: "COMP04"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "COMP05"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "COMP06"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "COMP07"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "COMP08"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "COMP09"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "COMP10"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+    key_excerpts:
+      - excerpt_id: "COMP01_brief_mention"
+        original: "...will take the lead in establishing a fair financial environment in accordance with the overall laws and market order."
+        translated_ru: "Компания декларирует создание справедливой финансовой среды и соблюдение рыночного порядка."
+        section_title: "Section 4. Ethics for the Nation and Society"
+        relevance_comment: "Краткое подтверждение добросовестной конкуренции."
+      - excerpt_id: "COMP03_brief_mention"
+        original: "We do not engage in all monopolistic or anti-competitive acts."
+        translated_ru: "Сотрудникам запрещены монополистические и антиконкурентные действия."
+        section_title: "Article 17"
+        relevance_comment: "Краткое подтверждение запрета антиконкурентного поведения."
+    other_principles: []
+  - topic_id: "hotline_principles"
+    principles:
+      - principle_code: "HOT01"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "HOT02"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "HOT02_explicit_section"
+      - principle_code: "HOT03"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "HOT03_explicit_section"
+      - principle_code: "HOT04"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "HOT05"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "HOT06"
+        principle_status: "brief_mention"
+        evidence_excerpt_ids:
+          - "HOT06_brief_mention"
+      - principle_code: "HOT07"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "HOT08"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "HOT09"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "HOT10"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+    key_excerpts:
+      - excerpt_id: "HOT02_explicit_section"
+        original: "...we will ensure the strict confidentiality of the reporter..."
+        translated_ru: "При сообщении о нарушении гарантируется строгая конфиденциальность заявителя."
+        section_title: "Section 3. Ethics for Employees"
+        relevance_comment: "Прямой принцип конфиденциальности в системе сообщений."
+      - excerpt_id: "HOT03_explicit_section"
+        original: "...guarantee that no disadvantage arises as a result of their act of reporting the violation."
+        translated_ru: "Компания гарантирует отсутствие негативных последствий для работника, сообщившего о нарушении."
+        section_title: "Section 3. Ethics for Employees"
+        relevance_comment: "Прямой запрет реталиации."
+      - excerpt_id: "HOT06_brief_mention"
+        original: "Employees who receive unfair instructions or requests shall not comply with them."
+        translated_ru: "Сотрудник обязан не исполнять неправомерные указания и сообщать о нарушениях по процедуре."
+        section_title: "Article 9"
+        relevance_comment: "Краткое подтверждение обязанности реагировать на нарушения."
+    other_principles: []
+  - topic_id: "company_to_supplier"
+    principles:
+      - principle_code: "CtoS01"
+        principle_status: "brief_mention"
+        evidence_excerpt_ids:
+          - "CtoS01_brief_mention"
+      - principle_code: "CtoS02"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoS03"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "CtoS03_explicit_section"
+      - principle_code: "CtoS04"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoS05"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoS06"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "CtoS06_explicit_section"
+      - principle_code: "CtoS07"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+    key_excerpts:
+      - excerpt_id: "CtoS01_brief_mention"
+        original: "...ensuring that the selection of suppliers goes through a fair and transparent process."
+        translated_ru: "Выбор поставщиков должен проходить через справедливую и прозрачную процедуру."
+        section_title: "Section 5. Ethics for Partner Companies"
+        relevance_comment: "Краткое подтверждение принципов выбора поставщиков."
+      - excerpt_id: "CtoS03_explicit_section"
+        original: "We do not impose unreasonable or unfair transactions on our partners..."
+        translated_ru: "Компания запрещает навязывать партнерам необоснованные и несправедливые условия."
+        section_title: "Section 5. Ethics for Partner Companies"
+        relevance_comment: "Прямой запрет злоупотребления в отношениях с партнерами."
+      - excerpt_id: "CtoS06_explicit_section"
+        original: "We shall establish a co-prosperity relationship with partners ... cooperate with them for mutual growth based on mutual respect."
+        translated_ru: "Закрепляется курс на долгосрочное взаимовыгодное развитие с партнерами."
+        section_title: "Section 5. Ethics for Partner Companies"
+        relevance_comment: "Прямой принцип устойчивого партнерства."
+    other_principles: []
+  - topic_id: "worker_to_company"
+    principles:
+      - principle_code: "WtoC01"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "WtoC02"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "WtoC02_explicit_section"
+      - principle_code: "WtoC03"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "WtoC03_explicit_section"
+      - principle_code: "WtoC04"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "WtoC05"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "WtoC05_explicit_section"
+      - principle_code: "WtoC06"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "WtoC07"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "WtoC08"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "WtoC09"
+        principle_status: "brief_mention"
+        evidence_excerpt_ids:
+          - "WtoC09_brief_mention"
+      - principle_code: "WtoC10"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "WtoC10_explicit_section"
+    key_excerpts:
+      - excerpt_id: "WtoC02_explicit_section"
+        original: "Employees shall not utilize the tangible or intangible assets of the company ... for any purpose other than their intended business purposes."
+        translated_ru: "Активы компании (материальные и нематериальные) нельзя использовать вне служебных целей."
+        section_title: "Section 2. Work Ethics for Employees"
+        relevance_comment: "Прямое требование по защите активов."
+      - excerpt_id: "WtoC03_explicit_section"
+        original: "Employees shall refrain from ... providing undisclosed information to a third party without proper process."
+        translated_ru: "Запрещено передавать третьим лицам непубличную информацию без установленной процедуры."
+        section_title: "Section 2. Work Ethics for Employees"
+        relevance_comment: "Прямой принцип конфиденциальности и инфобезопасности."
+      - excerpt_id: "WtoC05_explicit_section"
+        original: "Employees of group companies ... adhere to ... all laws and regulations governing the behavior of group companies."
+        translated_ru: "Сотрудники обязаны соблюдать применимые законы и внутренние требования группы."
+        section_title: "Section 1. Mutual Cooperation among Group Companies"
+        relevance_comment: "Прямой комплаенс-принцип."
+      - excerpt_id: "WtoC09_brief_mention"
+        original: "All employees are well-acquainted with their roles and duties ... by strengthening their professionalism."
+        translated_ru: "Сотрудники должны развивать профессионализм и выполнять обязанности на высоком уровне."
+        section_title: "Section 2. Work Ethics for Employees"
+        relevance_comment: "Краткое подтверждение профстандарта."
+      - excerpt_id: "WtoC10_explicit_section"
+        original: "Employees ... their individual actions shape the ethical reputation of Woori Financial Group."
+        translated_ru: "Кодекс прямо связывает действия сотрудников с репутацией группы."
+        section_title: "Section 2. Work Ethics for Employees"
+        relevance_comment: "Прямое требование по защите деловой репутации."
+    other_principles: []
+  - topic_id: "company_to_investors"
+    principles:
+      - principle_code: "CtoI01"
+        principle_status: "brief_mention"
+        evidence_excerpt_ids:
+          - "CtoI01_brief_mention"
+      - principle_code: "CtoI02"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoI03"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "CtoI03_explicit_section"
+      - principle_code: "CtoI04"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "CtoI04_explicit_section"
+      - principle_code: "CtoI05"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoI06"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoI07"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "CtoI07_explicit_section"
+      - principle_code: "CtoI08"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+    key_excerpts:
+      - excerpt_id: "CtoI01_brief_mention"
+        original: "Woori Financial Group upholds its shareholders' rights and strives to provide shareholders with the utmost value."
+        translated_ru: "Компания декларирует защиту прав акционеров и стремление к созданию для них ценности."
+        section_title: "Section 2. Ethics for Shareholders"
+        relevance_comment: "Краткое подтверждение принципа прав акционеров."
+      - excerpt_id: "CtoI03_explicit_section"
+        original: "We shall furnish essential information to shareholders in a timely and fair manner..."
+        translated_ru: "Существенная информация должна предоставляться акционерам своевременно и справедливо."
+        section_title: "Section 2. Ethics for Shareholders"
+        relevance_comment: "Прямой принцип раскрытия информации."
+      - excerpt_id: "CtoI04_explicit_section"
+        original: "...realize the equitable value ... by means of rational decision-making and transparent management activities."
+        translated_ru: "Управленческие решения и деятельность должны быть рациональными и прозрачными."
+        section_title: "Section 2. Ethics for Shareholders"
+        relevance_comment: "Прямой принцип прозрачности управления."
+      - excerpt_id: "CtoI07_explicit_section"
+        original: "All shareholders shall be treated equitably and equally ..."
+        translated_ru: "Все акционеры должны рассматриваться справедливо и равноправно."
+        section_title: "Section 2. Ethics for Shareholders"
+        relevance_comment: "Прямой принцип защиты миноритарных акционеров."
+    other_principles: []
+  - topic_id: "company_to_people"
+    principles:
+      - principle_code: "CtoP01"
+        principle_status: "brief_mention"
+        evidence_excerpt_ids:
+          - "CtoP01_brief_mention"
+      - principle_code: "CtoP02"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoP03"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoP04"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "CtoP04_explicit_section"
+      - principle_code: "CtoP05"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoP06"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoP07"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoP08"
+        principle_status: "brief_mention"
+        evidence_excerpt_ids:
+          - "CtoP08_brief_mention"
+      - principle_code: "CtoP09"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoP10"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+    key_excerpts:
+      - excerpt_id: "CtoP01_brief_mention"
+        original: "...actively engaging in environmental conservation activities."
+        translated_ru: "Компания обязуется участвовать в природоохранных инициативах."
+        section_title: "Section 4. Ethics for the Nation and Society"
+        relevance_comment: "Краткое ESG-упоминание."
+      - excerpt_id: "CtoP04_explicit_section"
+        original: "We shall promote various projects that contribute to the socio-economic value of the community and its members."
+        translated_ru: "Компания развивает проекты, повышающие социально-экономическую ценность сообществ."
+        section_title: "Section 4. Ethics for the Nation and Society"
+        relevance_comment: "Прямой вклад в развитие регионов."
+      - excerpt_id: "CtoP08_brief_mention"
+        original: "...develop safe, reliable, and innovative financial services ..."
+        translated_ru: "Подчеркивается ориентация на безопасные и надежные финансовые сервисы."
+        section_title: "Section 1. Ethics for Customers"
+        relevance_comment: "Краткое подтверждение общественной безопасности услуг."
+    other_principles: []
+  - topic_id: "company_to_buyer"
+    principles:
+      - principle_code: "CtoB01"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "CtoB01_explicit_section"
+      - principle_code: "CtoB02"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoB03"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "CtoB03_explicit_section"
+      - principle_code: "CtoB04"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoB05"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoB06"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoB07"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoB08"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "CtoB08_explicit_section"
+      - principle_code: "CtoB09"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+    key_excerpts:
+      - excerpt_id: "CtoB01_explicit_section"
+        original: "Woori Financial Group considers the happiness and trust of its customers to be its first priority."
+        translated_ru: "Приоритетом компании объявлены доверие и благополучие клиентов."
+        section_title: "Section 1. Ethics for Customers"
+        relevance_comment: "Прямой клиент-ориентированный принцип."
+      - excerpt_id: "CtoB03_explicit_section"
+        original: "...continuously endeavor to offer the best financial services."
+        translated_ru: "Компания обязуется постоянно улучшать и предлагать лучшие финансовые услуги."
+        section_title: "Section 1. Ethics for Customers"
+        relevance_comment: "Прямое подтверждение качества сервиса."
+      - excerpt_id: "CtoB08_explicit_section"
+        original: "We uphold the privacy of customer information and avoid any behaviors that might jeopardize customer interests."
+        translated_ru: "Кодекс прямо требует защиты приватности данных клиентов."
+        section_title: "Section 1. Ethics for Customers"
+        relevance_comment: "Прямой принцип защиты клиентских данных."
+    other_principles: []
+  - topic_id: "worker_to_worker"
+    principles:
+      - principle_code: "WtoW01"
+        principle_status: "brief_mention"
+        evidence_excerpt_ids:
+          - "WtoW01_brief_mention"
+      - principle_code: "WtoW02"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "WtoW03"
+        principle_status: "brief_mention"
+        evidence_excerpt_ids:
+          - "WtoW03_brief_mention"
+      - principle_code: "WtoW04"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "WtoW05"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "WtoW06"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "WtoW07"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "WtoW08"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+    key_excerpts:
+      - excerpt_id: "WtoW01_brief_mention"
+        original: "Employees ... establish the positive organizational culture ... by showing respect and consideration for each other..."
+        translated_ru: "Сотрудники должны проявлять взаимное уважение и корректное отношение друг к другу."
+        section_title: "Section 2. Work Ethics for Employees"
+        relevance_comment: "Краткое подтверждение уважительной коммуникации коллег."
+      - excerpt_id: "WtoW03_brief_mention"
+        original: "...foster synergies between business domains by efficiently utilizing management resources..."
+        translated_ru: "Поощряется совместная работа и кооперация между подразделениями группы."
+        section_title: "Section 1. Mutual Cooperation among Group Companies"
+        relevance_comment: "Краткое подтверждение командной работы."
+    other_principles: []
+  - topic_id: "manager_to_worker"
+    principles:
+      - principle_code: "MtoW01"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "MtoW02"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "MtoW03"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "MtoW04"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "MtoW05"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "MtoW06"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+    key_excerpts:
+    other_principles: []
+  - topic_id: "company_to_worker"
+    principles:
+      - principle_code: "CtoW01"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoW02"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "CtoW02_explicit_section"
+      - principle_code: "CtoW03"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "CtoW03_explicit_section"
+      - principle_code: "CtoW04"
+        principle_status: "brief_mention"
+        evidence_excerpt_ids:
+          - "CtoW04_brief_mention"
+      - principle_code: "CtoW05"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoW06"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "CtoW06_explicit_section"
+      - principle_code: "CtoW07"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoW08"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoW09"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoW10"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+    key_excerpts:
+      - excerpt_id: "CtoW02_explicit_section"
+        original: "...evaluate and compensate them fairly and reasonably based on their skills and performance."
+        translated_ru: "Сотрудники оцениваются и вознаграждаются справедливо по навыкам и результатам."
+        section_title: "Section 3. Ethics for Employees"
+        relevance_comment: "Прямой принцип справедливой оплаты."
+      - excerpt_id: "CtoW03_explicit_section"
+        original: "We will establish an environment that allows a balance between work and personal life ... promote the health and safety of all our employees."
+        translated_ru: "Компания создает среду с балансом work-life и акцентом на здоровье и безопасность сотрудников."
+        section_title: "Section 3. Ethics for Employees"
+        relevance_comment: "Прямой принцип безопасных условий труда."
+      - excerpt_id: "CtoW04_brief_mention"
+        original: "...allows a balance between work and personal life..."
+        translated_ru: "Подтверждается забота о благополучии сотрудников через work-life баланс."
+        section_title: "Section 3. Ethics for Employees"
+        relevance_comment: "Краткое упоминание благополучия работников."
+      - excerpt_id: "CtoW06_explicit_section"
+        original: "Employees ... refraining discrimination based on affiliation and origin."
+        translated_ru: "Кодекс прямо запрещает дискриминацию по принадлежности и происхождению."
+        section_title: "Section 2. Work Ethics for Employees"
+        relevance_comment: "Прямой антидискриминационный стандарт."
+    other_principles: []
+  - topic_id: "worker_to_manager"
+    principles:
+      - principle_code: "WtoM01"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "WtoM02"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "WtoM03"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "WtoM04"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "WtoM05"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "WtoM06"
+        principle_status: "brief_mention"
+        evidence_excerpt_ids:
+          - "WtoM06_brief_mention"
+    key_excerpts:
+      - excerpt_id: "WtoM06_brief_mention"
+        original: "Employees who receive unfair instructions or requests shall not comply with them."
+        translated_ru: "Сотрудник обязан отказаться от выполнения неэтичного/незаконного указания."
+        section_title: "Article 9"
+        relevance_comment: "Краткое подтверждение отказа от неправомерных поручений."
+    other_principles: []
+notes: []
+limitations: []
+analyst_summary_ru: "Кодекс Woori подробно покрывает отношения с клиентами, акционерами, сотрудниками, партнерами и обществом; качество и полнота позволяют выставить completed."

@@ -1,0 +1,429 @@
+document_id: "finance-russia-pochtabank-2017"
+company_name: "PochtaBank"
+country: "Russia"
+industry: "Finance"
+source_path: "Ethics_Codes_txt_files/Finance_Russia_PochtaBank_2017.txt"
+source_language: "ru"
+document_type: "functional_equivalent_needs_review"
+review_status: "needs_human_review"
+topic_analyses:
+  - topic_id: "competitor_relations"
+    principles:
+      - principle_code: "COMP01"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "COMP02"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "COMP03"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "COMP04"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "COMP05"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "COMP06"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "COMP07"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "COMP08"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "COMP09"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "COMP10"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+    key_excerpts:
+    other_principles: []
+  - topic_id: "hotline_principles"
+    principles:
+      - principle_code: "HOT01"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "HOT02"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "HOT03"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "HOT04"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "HOT05"
+        principle_status: "brief_mention"
+        evidence_excerpt_ids:
+          - "HOT05_brief_mention"
+      - principle_code: "HOT06"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "HOT06_explicit_section"
+      - principle_code: "HOT07"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "HOT08"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "HOT09"
+        principle_status: "brief_mention"
+        evidence_excerpt_ids:
+          - "HOT09_brief_mention"
+      - principle_code: "HOT10"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+    key_excerpts:
+      - excerpt_id: "HOT05_brief_mention"
+        original: "Все вопросы и сообщения ... о нарушениях ... рассматриваются тщательно и объективно..."
+        translated_ru: "Все сообщения о нарушениях подлежат обязательному объективному рассмотрению."
+        section_title: "16. Нарушение настоящего Кодекса"
+        relevance_comment: "Краткое подтверждение обязательной реакции на нарушения."
+      - excerpt_id: "HOT06_explicit_section"
+        original: "Работники ... доводят до сведения ... об известных им фактах ... нарушений ... в том числе сообщения могут быть направлены на «Горячую линию по нарушениям и злоупотреблениям»."
+        translated_ru: "Работники обязаны сообщать о нарушениях, включая направление сообщений на горячую линию."
+        section_title: "16. Нарушение настоящего Кодекса"
+        relevance_comment: "Прямая обязанность сообщения о нарушениях."
+      - excerpt_id: "HOT09_brief_mention"
+        original: "Работнику ... должна быть предоставлена возможность изложить свое видение произошедших событий до принятия окончательного решения..."
+        translated_ru: "Участнику предоставляется возможность изложить свою позицию до принятия решения."
+        section_title: "16. Нарушение настоящего Кодекса"
+        relevance_comment: "Краткое подтверждение процессуальных гарантий."
+    other_principles: []
+  - topic_id: "company_to_supplier"
+    principles:
+      - principle_code: "CtoS01"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoS02"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoS03"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoS04"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoS05"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoS06"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoS07"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+    key_excerpts:
+    other_principles: []
+  - topic_id: "worker_to_company"
+    principles:
+      - principle_code: "WtoC01"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "WtoC02"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "WtoC02_explicit_section"
+      - principle_code: "WtoC03"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "WtoC03_explicit_section"
+      - principle_code: "WtoC04"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "WtoC05"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "WtoC05_explicit_section"
+      - principle_code: "WtoC06"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "WtoC07"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "WtoC08"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "WtoC09"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "WtoC10"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "WtoC10_explicit_section"
+    key_excerpts:
+      - excerpt_id: "WtoC02_explicit_section"
+        original: "Работникам следует разумно и продуктивно использовать имущество БАНКА, предотвращать его использование не по назначению или утрату."
+        translated_ru: "Сотрудники обязаны бережно использовать имущество банка и предотвращать его утрату/нецелевое применение."
+        section_title: "9. Обеспечение сохранности имущества БАНКА"
+        relevance_comment: "Прямой принцип защиты активов."
+      - excerpt_id: "WtoC03_explicit_section"
+        original: "...защищать компьютерные системы, базы данных, средства связи и письменные материалы от ... доступа третьих лиц."
+        translated_ru: "Кодекс прямо требует защищать информационные системы и данные от несанкционированного доступа."
+        section_title: "9. Обеспечение сохранности имущества БАНКА"
+        relevance_comment: "Прямой принцип информационной безопасности."
+      - excerpt_id: "WtoC05_explicit_section"
+        original: "Каждый ... Работник должен соблюдать законодательство тех стран, в которых он ... выполняет должностные обязанности."
+        translated_ru: "Сотрудники обязаны соблюдать применимое законодательство стран присутствия банка."
+        section_title: "14. Соблюдение законодательства"
+        relevance_comment: "Прямой комплаенс-принцип."
+      - excerpt_id: "WtoC10_explicit_section"
+        original: "Работник ... не принимает компрометирующие знаки внимания ... во избежание возникновения репутационных рисков для БАНКА."
+        translated_ru: "Сотрудник обязан избегать действий, создающих репутационные риски для банка."
+        section_title: "12. Предупреждение репутационных рисков"
+        relevance_comment: "Прямой принцип защиты репутации."
+    other_principles: []
+  - topic_id: "company_to_investors"
+    principles:
+      - principle_code: "CtoI01"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoI02"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoI03"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "CtoI03_explicit_section"
+      - principle_code: "CtoI04"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoI05"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoI06"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoI07"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoI08"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+    key_excerpts:
+      - excerpt_id: "CtoI03_explicit_section"
+        original: "БАНК обеспечивает раскрытие информации о своей деятельности ... на основе принципов достоверности, регулярности, оперативности..."
+        translated_ru: "Банк обязуется раскрывать информацию достоверно, регулярно и оперативно."
+        section_title: "13. Раскрытие информации"
+        relevance_comment: "Прямой принцип прозрачности и раскрытия информации."
+    other_principles: []
+  - topic_id: "company_to_people"
+    principles:
+      - principle_code: "CtoP01"
+        principle_status: "brief_mention"
+        evidence_excerpt_ids:
+          - "CtoP01_brief_mention"
+      - principle_code: "CtoP02"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoP03"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoP04"
+        principle_status: "brief_mention"
+        evidence_excerpt_ids:
+          - "CtoP04_brief_mention"
+      - principle_code: "CtoP05"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoP06"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoP07"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoP08"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoP09"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoP10"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+    key_excerpts:
+      - excerpt_id: "CtoP01_brief_mention"
+        original: "БАНК стремится бережно относиться к окружающей среде..."
+        translated_ru: "Банк декларирует экологическую ответственность и бережное отношение к ресурсам."
+        section_title: "8. Банк и общество"
+        relevance_comment: "Краткое ESG-упоминание."
+      - excerpt_id: "CtoP04_brief_mention"
+        original: "БАНК определяет приоритетные направления поддержки населения территорий своего присутствия..."
+        translated_ru: "Банк заявляет о поддержке населения в регионах присутствия."
+        section_title: "8. Банк и общество"
+        relevance_comment: "Краткое подтверждение общественной направленности."
+    other_principles: []
+  - topic_id: "company_to_buyer"
+    principles:
+      - principle_code: "CtoB01"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoB02"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoB03"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "CtoB03_explicit_section"
+      - principle_code: "CtoB04"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoB05"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoB06"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoB07"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoB08"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoB09"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+    key_excerpts:
+      - excerpt_id: "CtoB03_explicit_section"
+        original: "Работники БАНКА предоставляют качественный банковский сервис..."
+        translated_ru: "Сотрудники обязаны обеспечивать качественный банковский сервис."
+        section_title: "7. Корпоративный стиль"
+        relevance_comment: "Прямой принцип качества обслуживания клиентов."
+    other_principles: []
+  - topic_id: "worker_to_worker"
+    principles:
+      - principle_code: "WtoW01"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "WtoW01_explicit_section"
+      - principle_code: "WtoW02"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "WtoW03"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "WtoW04"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "WtoW05"
+        principle_status: "brief_mention"
+        evidence_excerpt_ids:
+          - "WtoW05_brief_mention"
+      - principle_code: "WtoW06"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "WtoW07"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "WtoW08"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+    key_excerpts:
+      - excerpt_id: "WtoW01_explicit_section"
+        original: "Работник БАНКА независимо от уровня ... общения с клиентом вежлив, доброжелателен, отзывчив."
+        translated_ru: "Кодекс требует уважительного и корректного стиля коммуникации."
+        section_title: "7. Корпоративный стиль"
+        relevance_comment: "Прямой стандарт уважительного общения."
+      - excerpt_id: "WtoW05_brief_mention"
+        original: "Более опытные работники БАНКА должны оказывать помощь менее опытным..."
+        translated_ru: "Более опытные сотрудники должны помогать менее опытным коллегам."
+        section_title: "7. Корпоративный стиль"
+        relevance_comment: "Краткое подтверждение обмена опытом."
+    other_principles: []
+  - topic_id: "manager_to_worker"
+    principles:
+      - principle_code: "MtoW01"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "MtoW02"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "MtoW03"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "MtoW04"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "MtoW05"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "MtoW06"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+    key_excerpts:
+    other_principles: []
+  - topic_id: "company_to_worker"
+    principles:
+      - principle_code: "CtoW01"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoW02"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoW03"
+        principle_status: "brief_mention"
+        evidence_excerpt_ids:
+          - "CtoW03_brief_mention"
+      - principle_code: "CtoW04"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoW05"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoW06"
+        principle_status: "brief_mention"
+        evidence_excerpt_ids:
+          - "CtoW06_brief_mention"
+      - principle_code: "CtoW07"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoW08"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoW09"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoW10"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+    key_excerpts:
+      - excerpt_id: "CtoW03_brief_mention"
+        original: "Работники БАНКА должны взаимодействовать и оказывать помощь другим работникам..."
+        translated_ru: "Рабочая среда строится на взаимопомощи и кооперации между подразделениями."
+        section_title: "7. Корпоративный стиль"
+        relevance_comment: "Краткое подтверждение условий здоровой рабочей среды."
+      - excerpt_id: "CtoW06_brief_mention"
+        original: "Работнику ... избегать ... abusive language, sexual expressions, or vulgar language."
+        translated_ru: "Кодекс запрещает оскорбительное/сексуализированное высказывание и дискриминационное поведение."
+        section_title: "Article 5"
+        relevance_comment: "Краткое подтверждение недопустимости дискриминационного поведения."
+    other_principles: []
+  - topic_id: "worker_to_manager"
+    principles:
+      - principle_code: "WtoM01"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "WtoM02"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "WtoM03"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "WtoM04"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "WtoM05"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "WtoM06"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+    key_excerpts:
+    other_principles: []
+notes: []
+limitations:
+  - "Часть источника фрагментирована/усечена; требуется верификация по исходному PDF."
+analyst_summary_ru: "Источник содержит фрагменты кодекса и внутреннего документа с высокой детализацией, но текст частично обрезан и смешан; классификация выполнена как functional_equivalent_needs_review с needs_human_review."

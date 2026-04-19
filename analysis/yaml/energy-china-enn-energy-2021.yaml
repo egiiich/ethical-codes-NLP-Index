@@ -1,0 +1,595 @@
+document_id: "energy-china-enn-energy-2021"
+company_name: "ENN Energy"
+country: "China"
+industry: "Energy"
+source_path: "Ethics_Codes_txt_files/Energy_China_ENN Energy_2021.txt"
+source_language: "en"
+document_type: "code_of_conduct"
+review_status: "completed"
+topic_analyses:
+  -
+    topic_id: "competitor_relations"
+    principles:
+      -
+        principle_code: "COMP01"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "COMP02"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "COMP03"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "COMP03_explicit_section"
+      -
+        principle_code: "COMP04"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "COMP05"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "COMP06"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "COMP07"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "COMP08"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "COMP08_explicit_section"
+      -
+        principle_code: "COMP09"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "COMP10"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+    key_excerpts:
+      -
+        excerpt_id: "COMP03_explicit_section"
+        original: "The Company never enters into monopolistic agreements ... including ... fixing or changing the prices of commodities."
+        translated_ru: "Компания никогда не заключает монополистических соглашений, включая фиксацию или изменение цен."
+        section_title: "3.4 Anti-monopoly"
+        relevance_comment: "Прямой запрет картелей/сговоров."
+      -
+        excerpt_id: "COMP08_explicit_section"
+        original: "it is prohibited to make up, disseminate false information or harm the reputation of competitors."
+        translated_ru: "Запрещено распространять ложную информацию и вредить репутации конкурентов."
+        section_title: "3.3 Prohibition of Improper Competition"
+        relevance_comment: "Прямой запрет ложных и порочащих заявлений о конкурентах."
+    other_principles: []
+  -
+    topic_id: "hotline_principles"
+    principles:
+      -
+        principle_code: "HOT01"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "HOT02"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "HOT03"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "HOT03_explicit_section"
+      -
+        principle_code: "HOT04"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "HOT05"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "HOT06"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "HOT06_explicit_section"
+      -
+        principle_code: "HOT07"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "HOT08"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "HOT09"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "HOT10"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+    key_excerpts:
+      -
+        excerpt_id: "HOT03_explicit_section"
+        original: "Never retaliate or allow others to retaliate against the employees for reporting misconduct."
+        translated_ru: "Никогда не допускать ответных мер против сотрудников за сообщение о нарушениях."
+        section_title: "Foreword"
+        relevance_comment: "Прямой запрет реталиации."
+      -
+        excerpt_id: "HOT06_explicit_section"
+        original: "ENN Energy expects and encourages employees ... to report any acts that may violate laws, regulations, company systems and the Code."
+        translated_ru: "ENN Energy ожидает и поощряет сообщение о любых действиях, которые могут нарушать законы, правила компании и Кодекс."
+        section_title: "9. Reporting and Whistleblowing"
+        relevance_comment: "Прямая обязанность/ожидание сообщения о нарушениях."
+    other_principles: []
+  -
+    topic_id: "company_to_supplier"
+    principles:
+      -
+        principle_code: "CtoS01"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "CtoS01_explicit_section"
+      -
+        principle_code: "CtoS02"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "CtoS03"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "CtoS04"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "CtoS05"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "CtoS06"
+        principle_status: "brief_mention"
+        evidence_excerpt_ids:
+          - "CtoS06_brief_mention"
+      -
+        principle_code: "CtoS07"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+    key_excerpts:
+      -
+        excerpt_id: "CtoS01_explicit_section"
+        original: "In selecting business partners, we will strictly evaluate the qualification, integrity and compliance performance of business partners."
+        translated_ru: "При выборе партнёров проводится строгая оценка квалификации, добросовестности и комплаенс-показателей."
+        section_title: "3.1 Engagement with business partners"
+        relevance_comment: "Прямые критерии выбора поставщиков и партнеров."
+      -
+        excerpt_id: "CtoS06_brief_mention"
+        original: "ENN Energy seeks to cooperate with business partners who share the same standards with us."
+        translated_ru: "ENN Energy стремится сотрудничать с партнёрами, разделяющими наши стандарты."
+        section_title: "3.1 Engagement with business partners"
+        relevance_comment: "Упоминание ориентации на устойчивое ценностное партнёрство."
+    other_principles: []
+  -
+    topic_id: "worker_to_company"
+    principles:
+      -
+        principle_code: "WtoC01"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "WtoC02"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "WtoC02_explicit_section"
+      -
+        principle_code: "WtoC03"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "WtoC03_explicit_section"
+      -
+        principle_code: "WtoC04"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "WtoC04_explicit_section"
+      -
+        principle_code: "WtoC05"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "WtoC05_explicit_section"
+      -
+        principle_code: "WtoC06"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "WtoC07"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "WtoC08"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "WtoC09"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "WtoC10"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "WtoC10_explicit_section"
+    key_excerpts:
+      -
+        excerpt_id: "WtoC02_explicit_section"
+        original: "employees should not use the Company’s assets and information for personal purposes."
+        translated_ru: "Сотрудники не должны использовать активы и информацию компании в личных целях."
+        section_title: "1.2 Avoid Conflicts of Interest"
+        relevance_comment: "Прямая защита активов от личного использования."
+      -
+        excerpt_id: "WtoC03_explicit_section"
+        original: "Employees ... protect the Company’s confidentiality."
+        translated_ru: "Сотрудники обязаны защищать конфиденциальность компании."
+        section_title: "Basic Requirements"
+        relevance_comment: "Прямое требование конфиденциальности."
+      -
+        excerpt_id: "WtoC04_explicit_section"
+        original: "While protecting the Company’s intellectual property rights, we shall also respect the intellectual property rights of others."
+        translated_ru: "Защищая ИС компании, мы также должны уважать ИС других лиц."
+        section_title: "5.2 Protection of Intellectual Property Rights"
+        relevance_comment: "Прямые правила защиты ИС."
+      -
+        excerpt_id: "WtoC05_explicit_section"
+        original: "All units and employees ... shall strictly abide by the laws and regulations ..."
+        translated_ru: "Все подразделения и сотрудники обязаны строго соблюдать применимые законы и нормы."
+        section_title: "Basic Requirements"
+        relevance_comment: "Явное требование соблюдения законодательства."
+      -
+        excerpt_id: "WtoC10_explicit_section"
+        original: "Employees should ... maintain the reputation of the Company."
+        translated_ru: "Сотрудники должны поддерживать репутацию компании."
+        section_title: "Basic Requirements"
+        relevance_comment: "Явная обязанность поддержания деловой репутации."
+    other_principles: []
+  -
+    topic_id: "company_to_investors"
+    principles:
+      -
+        principle_code: "CtoI01"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "CtoI02"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "CtoI03"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "CtoI03_explicit_section"
+      -
+        principle_code: "CtoI04"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "CtoI05"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "CtoI06"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "CtoI07"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "CtoI08"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+    key_excerpts:
+      -
+        excerpt_id: "CtoI03_explicit_section"
+        original: "information to be disclosed should be ... true, accurate, complete and timely."
+        translated_ru: "Раскрываемая информация должна быть достоверной, точной, полной и своевременной."
+        section_title: "6.3 Information Disclosure in Accordance with Laws"
+        relevance_comment: "Прямой стандарт раскрытия информации и отчетности."
+    other_principles: []
+  -
+    topic_id: "company_to_people"
+    principles:
+      -
+        principle_code: "CtoP01"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "CtoP02"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "CtoP03"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "CtoP04"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "CtoP04_explicit_section"
+      -
+        principle_code: "CtoP05"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "CtoP06"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "CtoP07"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "CtoP08"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "CtoP09"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "CtoP09_explicit_section"
+      -
+        principle_code: "CtoP10"
+        principle_status: "brief_mention"
+        evidence_excerpt_ids:
+          - "CtoP10_brief_mention"
+    key_excerpts:
+      -
+        excerpt_id: "CtoP04_explicit_section"
+        original: "ENN Energy is committed to improving ... and promoting economic and social development of the communities in which it operates."
+        translated_ru: "ENN Energy содействует экономическому и социальному развитию сообществ присутствия."
+        section_title: "4.2 Support Community Public Welfare"
+        relevance_comment: "Прямой вклад в развитие регионов присутствия."
+      -
+        excerpt_id: "CtoP09_explicit_section"
+        original: "ENN Energy respects the religious beliefs, interests and customs of different regions and nationalities."
+        translated_ru: "ENN Energy уважает религиозные убеждения, интересы и обычаи разных регионов и национальностей."
+        section_title: "4.3 Respect Local Customs and Religious Belief"
+        relevance_comment: "Прямое уважение традиций местных сообществ."
+      -
+        excerpt_id: "CtoP10_brief_mention"
+        original: "strongly encourages employees to support community welfare through ... various industry development associations."
+        translated_ru: "Компания активно поощряет участие сотрудников в благотворительности и отраслевых ассоциациях."
+        section_title: "4.2 Support Community Public Welfare"
+        relevance_comment: "Краткое упоминание участия в объединениях общественной направленности."
+    other_principles: []
+  -
+    topic_id: "company_to_buyer"
+    principles:
+      -
+        principle_code: "CtoB01"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "CtoB01_explicit_section"
+      -
+        principle_code: "CtoB02"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "CtoB03"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "CtoB04"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "CtoB05"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "CtoB06"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "CtoB07"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "CtoB07_explicit_section"
+      -
+        principle_code: "CtoB08"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "CtoB09"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+    key_excerpts:
+      -
+        excerpt_id: "CtoB01_explicit_section"
+        original: "We are committed to providing consumers with safe, reliable and high-quality products and services."
+        translated_ru: "Мы привержены предоставлению потребителям безопасных, надёжных и качественных продуктов и услуг."
+        section_title: "3.5 Protect Consumer Rights and Interests"
+        relevance_comment: "Прямая ориентация на удовлетворение потребностей потребителей."
+      -
+        excerpt_id: "CtoB07_explicit_section"
+        original: "We take consumer feedback seriously and continuously improve our products and services."
+        translated_ru: "Мы серьёзно относимся к обратной связи от потребителей и постоянно улучшаем продукты и услуги."
+        section_title: "3.5 Protect Consumer Rights and Interests"
+        relevance_comment: "Прямое поддержание обратной связи с клиентами."
+    other_principles: []
+  -
+    topic_id: "worker_to_worker"
+    principles:
+      -
+        principle_code: "WtoW01"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "WtoW01_explicit_section"
+      -
+        principle_code: "WtoW02"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "WtoW03"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "WtoW04"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "WtoW05"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "WtoW06"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "WtoW07"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "WtoW08"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+    key_excerpts:
+      -
+        excerpt_id: "WtoW01_explicit_section"
+        original: "Employees should respect, trust and help each other, and should not insult or harass others."
+        translated_ru: "Сотрудники должны уважать, доверять и помогать друг другу, не оскорблять и не домогаться других."
+        section_title: "1.4 Maintain Good Working Atmosphere"
+        relevance_comment: "Явное требование уважительного поведения коллег."
+    other_principles: []
+  -
+    topic_id: "manager_to_worker"
+    principles:
+      -
+        principle_code: "MtoW01"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "MtoW01_explicit_section"
+      -
+        principle_code: "MtoW02"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "MtoW03"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "MtoW04"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "MtoW05"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "MtoW06"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+    key_excerpts:
+      -
+        excerpt_id: "MtoW01_explicit_section"
+        original: "business leaders ... should proactively take the lead to promote the compliance of all employees."
+        translated_ru: "Руководители обязаны подавать пример и продвигать комплаенс среди сотрудников."
+        section_title: "Foreword"
+        relevance_comment: "Руководители обязаны обеспечивать корректные стандарты отношения и поведения."
+    other_principles: []
+  -
+    topic_id: "company_to_worker"
+    principles:
+      -
+        principle_code: "CtoW01"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "CtoW02"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "CtoW02_explicit_section"
+      -
+        principle_code: "CtoW03"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "CtoW03_explicit_section"
+      -
+        principle_code: "CtoW04"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "CtoW05"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "CtoW06"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "CtoW06_explicit_section"
+      -
+        principle_code: "CtoW07"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "CtoW08"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "CtoW09"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "CtoW10"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+    key_excerpts:
+      -
+        excerpt_id: "CtoW02_explicit_section"
+        original: "strictly follows the principles of legality, fairness, equality ... when signing ... labour relations."
+        translated_ru: "При трудовых отношениях строго соблюдаются принципы законности, справедливости и равенства."
+        section_title: "1.1 Ensure Fair Treatment"
+        relevance_comment: "Прямой стандарт справедливых трудовых условий/оплаты."
+      -
+        excerpt_id: "CtoW03_explicit_section"
+        original: "must provide ... safe working environment, safety training ... and protective measures."
+        translated_ru: "Должны обеспечиваться безопасная рабочая среда, обучение безопасности и защитные меры."
+        section_title: "2.3 Caring for Employees’ Safety and Health"
+        relevance_comment: "Прямые безопасные условия труда."
+      -
+        excerpt_id: "CtoW06_explicit_section"
+        original: "ENN Energy never discriminates against ... employees on the basis of race ... gender ... age ..."
+        translated_ru: "ENN Energy не допускает дискриминации работников по расе, полу, возрасту и др. признакам."
+        section_title: "1.1 Ensure Fair Treatment"
+        relevance_comment: "Прямой запрет дискриминации."
+    other_principles: []
+  -
+    topic_id: "worker_to_manager"
+    principles:
+      -
+        principle_code: "WtoM01"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "WtoM02"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "WtoM03"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "WtoM04"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "WtoM05"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "WtoM06"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+    key_excerpts:
+      []
+    other_principles: []

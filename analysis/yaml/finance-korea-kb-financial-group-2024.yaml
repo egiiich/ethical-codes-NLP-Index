@@ -1,0 +1,488 @@
+document_id: "finance-korea-kb-financial-group-2024"
+company_name: "KB Financial Group"
+country: "Korea"
+industry: "Finance"
+source_path: "Ethics_Codes_txt_files/Finance_Korea_KB Financial Group_2024.txt"
+source_language: "en"
+document_type: "code_of_conduct"
+review_status: "completed"
+topic_analyses:
+  - topic_id: "competitor_relations"
+    principles:
+      - principle_code: "COMP01"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "COMP01_explicit_section"
+      - principle_code: "COMP02"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "COMP03"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "COMP04"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "COMP05"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "COMP06"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "COMP07"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "COMP08"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "COMP09"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "COMP10"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+    key_excerpts:
+      - excerpt_id: "COMP01_explicit_section"
+        original: "KB Financial Group is committed to promoting fair and free market competition ... and fully complying with fair-trade laws and regulations."
+        translated_ru: "Группа прямо требует честной конкуренции и соблюдения антимонопольных правил."
+        section_title: "Chapter 4: Ethics on Competitors and Partners"
+        relevance_comment: "Подтверждает принцип добросовестной конкуренции."
+    other_principles: []
+  - topic_id: "hotline_principles"
+    principles:
+      - principle_code: "HOT01"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "HOT02"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "HOT03"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "HOT04"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "HOT05"
+        principle_status: "brief_mention"
+        evidence_excerpt_ids:
+          - "HOT05_brief_mention"
+      - principle_code: "HOT06"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "HOT06_explicit_section"
+      - principle_code: "HOT07"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "HOT08"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "HOT09"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "HOT10"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+    key_excerpts:
+      - excerpt_id: "HOT05_brief_mention"
+        original: "Should violation of employee ethics guidelines occur, KB Financial Group must strive to prevent a reoccurrence ... through thorough investigation ..."
+        translated_ru: "При нарушениях этики компания обязуется проводить тщательное разбирательство и профилактику повторов."
+        section_title: "Chapter 7: Employee Code of Conduct"
+        relevance_comment: "Упоминается обязательная реакция на нарушения."
+      - excerpt_id: "HOT06_explicit_section"
+        original: "Employees and staff of KB Financial Group must report to the ethics department any attempt to force behavior in violation ... or upon witnessing such behavior."
+        translated_ru: "Сотрудники обязаны сообщать в отдел этики о попытках нарушений и о замеченных нарушениях."
+        section_title: "Chapter 7: Employee Code of Conduct"
+        relevance_comment: "Прямая обязанность сообщения о нарушениях."
+    other_principles: []
+  - topic_id: "company_to_supplier"
+    principles:
+      - principle_code: "CtoS01"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoS02"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoS03"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "CtoS03_explicit_section"
+      - principle_code: "CtoS04"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoS05"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoS06"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "CtoS06_explicit_section"
+      - principle_code: "CtoS07"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+    key_excerpts:
+      - excerpt_id: "CtoS03_explicit_section"
+        original: "We do not make unfair demands by using our preferred market position."
+        translated_ru: "Запрещено предъявлять несправедливые требования, используя более сильную рыночную позицию."
+        section_title: "Chapter 4: Ethics on Competitors and Partners"
+        relevance_comment: "Прямой запрет злоупотребления рыночной властью к партнерам."
+      - excerpt_id: "CtoS06_explicit_section"
+        original: "KB Financial Group pursues joint win-win growth and development by building mutual trust and cooperative relationships with our suppliers through fair and transparent business practices."
+        translated_ru: "Компания ориентируется на долгосрочное взаимовыгодное и кооперативное партнерство с поставщиками."
+        section_title: "Chapter 4: Ethics on Competitors and Partners"
+        relevance_comment: "Прямой принцип устойчивого партнерства."
+    other_principles: []
+  - topic_id: "worker_to_company"
+    principles:
+      - principle_code: "WtoC01"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "WtoC02"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "WtoC02_explicit_section"
+      - principle_code: "WtoC03"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "WtoC03_explicit_section"
+      - principle_code: "WtoC04"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "WtoC05"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "WtoC05_explicit_section"
+      - principle_code: "WtoC06"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "WtoC07"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "WtoC08"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "WtoC09"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "WtoC09_explicit_section"
+      - principle_code: "WtoC10"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+    key_excerpts:
+      - excerpt_id: "WtoC02_explicit_section"
+        original: "Employees ... must use the physical assets, intellectual property rights, confidential business information and all other ... assets belonging to the company solely for the purpose of enhancing the company’s business value."
+        translated_ru: "Активы компании разрешено использовать только в интересах бизнеса и повышения ее ценности."
+        section_title: "Chapter 7: Employee Code of Conduct"
+        relevance_comment: "Прямое требование по защите и целевому использованию активов."
+      - excerpt_id: "WtoC03_explicit_section"
+        original: "Employees ... must not unlawfully provide private or undisclosed information encountered during the course of their business activities to outside parties."
+        translated_ru: "Запрещено незаконно передавать внешним лицам непубличную и конфиденциальную информацию."
+        section_title: "Chapter 7: Employee Code of Conduct"
+        relevance_comment: "Прямой принцип конфиденциальности."
+      - excerpt_id: "WtoC05_explicit_section"
+        original: "Employees ... comply with all work-related rules and regulations, upholding basic social values and integrity."
+        translated_ru: "Сотрудники обязаны соблюдать все рабочие правила и законодательные требования."
+        section_title: "Chapter 7: Employee Code of Conduct"
+        relevance_comment: "Прямой комплаенс-принцип."
+      - excerpt_id: "WtoC09_explicit_section"
+        original: "KB Financial Group ... operating a wide range of training programs for building professional expertise."
+        translated_ru: "Группа поддерживает профессиональное развитие и экспертизу через системные программы обучения."
+        section_title: "Chapter 6: Ethics on Employees and Staff"
+        relevance_comment: "Поддержание высокого профессионального уровня."
+    other_principles: []
+  - topic_id: "company_to_investors"
+    principles:
+      - principle_code: "CtoI01"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "CtoI01_explicit_section"
+      - principle_code: "CtoI02"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoI03"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "CtoI03_explicit_section"
+      - principle_code: "CtoI04"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "CtoI04_explicit_section"
+      - principle_code: "CtoI05"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoI06"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoI07"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "CtoI07_explicit_section"
+      - principle_code: "CtoI08"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+    key_excerpts:
+      - excerpt_id: "CtoI01_explicit_section"
+        original: "KB Financial Group protects the rights of our shareholders and investors, respecting their rightful demands and suggestions."
+        translated_ru: "Компания защищает права акционеров и инвесторов и уважает их законные требования."
+        section_title: "Chapter 2: Ethics on Shareholders and Investors"
+        relevance_comment: "Прямое закрепление прав инвесторов."
+      - excerpt_id: "CtoI03_explicit_section"
+        original: "We disclose our business information ... in complete, unbiased, timely and accurate and easily understandable manner."
+        translated_ru: "Раскрытие информации осуществляется полно, объективно, своевременно и точно."
+        section_title: "Chapter 2: Ethics on Shareholders and Investors"
+        relevance_comment: "Прямой стандарт раскрытия информации."
+      - excerpt_id: "CtoI04_explicit_section"
+        original: "...building trust through a transparent and reasonable decision-making process..."
+        translated_ru: "Процесс принятия решений должен быть прозрачным и обоснованным."
+        section_title: "Chapter 2: Ethics on Shareholders and Investors"
+        relevance_comment: "Прямой принцип прозрачного принятия решений."
+      - excerpt_id: "CtoI07_explicit_section"
+        original: "...engages with all of our shareholders fairly and equally, whether they be minor or major shareholders..."
+        translated_ru: "Группа обязуется к равному и справедливому отношению к миноритарным и мажоритарным акционерам."
+        section_title: "Chapter 2: Ethics on Shareholders and Investors"
+        relevance_comment: "Прямой принцип защиты миноритариев."
+    other_principles: []
+  - topic_id: "company_to_people"
+    principles:
+      - principle_code: "CtoP01"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoP02"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoP03"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoP04"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "CtoP04_explicit_section"
+      - principle_code: "CtoP05"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoP06"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoP07"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoP08"
+        principle_status: "brief_mention"
+        evidence_excerpt_ids:
+          - "CtoP08_brief_mention"
+      - principle_code: "CtoP09"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoP10"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+    key_excerpts:
+      - excerpt_id: "CtoP04_explicit_section"
+        original: "...fulfilling our corporate social responsibility by supporting education and the culture and arts and engaging in ... community service activities."
+        translated_ru: "Компания развивает регионы через социальные, образовательные и культурные инициативы."
+        section_title: "Chapter 3: Ethics on Civic and Social Duties"
+        relevance_comment: "Прямой вклад в социально-экономическое развитие."
+      - excerpt_id: "CtoP08_brief_mention"
+        original: "KB Financial Group ... strives to maintain the highest level of disaster and crisis prevention and awareness."
+        translated_ru: "Компания стремится к высокому уровню предотвращения аварий и кризисов."
+        section_title: "Chapter 3: Ethics on Civic and Social Duties"
+        relevance_comment: "Краткое подтверждение предотвращения рисков для общества."
+    other_principles: []
+  - topic_id: "company_to_buyer"
+    principles:
+      - principle_code: "CtoB01"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "CtoB01_explicit_section"
+      - principle_code: "CtoB02"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoB03"
+        principle_status: "brief_mention"
+        evidence_excerpt_ids:
+          - "CtoB03_brief_mention"
+      - principle_code: "CtoB04"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoB05"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "CtoB05_explicit_section"
+      - principle_code: "CtoB06"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoB07"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoB08"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "CtoB08_explicit_section"
+      - principle_code: "CtoB09"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+    key_excerpts:
+      - excerpt_id: "CtoB01_explicit_section"
+        original: "KB Financial Group places the top priority on our customers ... and deliver customer delight by providing excellence in financial products and services."
+        translated_ru: "Интересы клиентов являются главным приоритетом при оказании услуг."
+        section_title: "Chapter 1: Ethics on Customers"
+        relevance_comment: "Прямой клиент-ориентированный принцип."
+      - excerpt_id: "CtoB03_brief_mention"
+        original: "Employees and staff ... engaging in ethical marketing activities building on a strong foundation of expert financial knowledge."
+        translated_ru: "Качество обслуживания поддерживается профессиональной экспертизой и этичным взаимодействием с клиентом."
+        section_title: "Chapter 1: Ethics on Customers"
+        relevance_comment: "Краткое указание на высокий стандарт сервиса."
+      - excerpt_id: "CtoB05_explicit_section"
+        original: "...does not engage in any immoral or unethical practices that infringe upon the rights of our customers."
+        translated_ru: "Компания прямо запрещает неэтичные практики, нарушающие права клиентов."
+        section_title: "Chapter 1: Ethics on Customers"
+        relevance_comment: "Прямое требование действовать в рамках права и этики."
+      - excerpt_id: "CtoB08_explicit_section"
+        original: "KB Financial Group is committed to safeguarding the property, security and personal information of our customers."
+        translated_ru: "Компания обязуется защищать имущество, безопасность и персональные данные клиентов."
+        section_title: "Chapter 1: Ethics on Customers"
+        relevance_comment: "Прямой принцип защиты данных клиентов."
+    other_principles: []
+  - topic_id: "worker_to_worker"
+    principles:
+      - principle_code: "WtoW01"
+        principle_status: "brief_mention"
+        evidence_excerpt_ids:
+          - "WtoW01_brief_mention"
+      - principle_code: "WtoW02"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "WtoW03"
+        principle_status: "brief_mention"
+        evidence_excerpt_ids:
+          - "WtoW03_brief_mention"
+      - principle_code: "WtoW04"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "WtoW05"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "WtoW06"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "WtoW07"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "WtoW08"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+    key_excerpts:
+      - excerpt_id: "WtoW01_brief_mention"
+        original: "...build an open organizational culture based on seamless communication and mutual respect regardless of position."
+        translated_ru: "Кодекс требует уважительной коммуникации между сотрудниками независимо от должности."
+        section_title: "Chapter 7: Employee Code of Conduct"
+        relevance_comment: "Краткое подтверждение уважительного взаимодействия коллег."
+      - excerpt_id: "WtoW03_brief_mention"
+        original: "...striving together to build an open organizational culture based on seamless communication and mutual respect..."
+        translated_ru: "Подчеркивается совместная работа и открытая коммуникация внутри коллектива."
+        section_title: "Chapter 7: Employee Code of Conduct"
+        relevance_comment: "Краткое подтверждение командной работы."
+    other_principles: []
+  - topic_id: "manager_to_worker"
+    principles:
+      - principle_code: "MtoW01"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "MtoW02"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "MtoW03"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "MtoW04"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "MtoW05"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "MtoW06"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+    key_excerpts:
+    other_principles: []
+  - topic_id: "company_to_worker"
+    principles:
+      - principle_code: "CtoW01"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoW02"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "CtoW02_explicit_section"
+      - principle_code: "CtoW03"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "CtoW03_explicit_section"
+      - principle_code: "CtoW04"
+        principle_status: "brief_mention"
+        evidence_excerpt_ids:
+          - "CtoW04_brief_mention"
+      - principle_code: "CtoW05"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoW06"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "CtoW06_explicit_section"
+      - principle_code: "CtoW07"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoW08"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoW09"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoW10"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+    key_excerpts:
+      - excerpt_id: "CtoW02_explicit_section"
+        original: "...guarantee equal opportunities ... and fair compensation based on equitable assessment of performance."
+        translated_ru: "Компания гарантирует справедливую компенсацию по итогам объективной оценки результатов."
+        section_title: "Chapter 6: Ethics on Employees and Staff"
+        relevance_comment: "Прямой принцип справедливой оплаты."
+      - excerpt_id: "CtoW03_explicit_section"
+        original: "...maintains a sound working environment for ensuring the health and safety of our employees."
+        translated_ru: "Компания обязуется обеспечивать безопасную и здоровую рабочую среду."
+        section_title: "Chapter 6: Ethics on Employees and Staff"
+        relevance_comment: "Прямой принцип безопасности труда."
+      - excerpt_id: "CtoW04_brief_mention"
+        original: "...provides the right conditions for maintaining work-life balance..."
+        translated_ru: "Компания поддерживает условия для баланса работы и личной жизни."
+        section_title: "Chapter 6: Ethics on Employees and Staff"
+        relevance_comment: "Краткое упоминание заботы о благополучии."
+      - excerpt_id: "CtoW06_explicit_section"
+        original: "We do not discriminate based on place of birth, family background, educational background, gender, religion, age, disability or marital status."
+        translated_ru: "Прямо запрещается дискриминация по происхождению, полу, религии, возрасту, инвалидности и другим признакам."
+        section_title: "Chapter 6: Ethics on Employees and Staff"
+        relevance_comment: "Прямой антидискриминационный стандарт."
+    other_principles: []
+  - topic_id: "worker_to_manager"
+    principles:
+      - principle_code: "WtoM01"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "WtoM02"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "WtoM03"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "WtoM04"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "WtoM05"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "WtoM06"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+    key_excerpts:
+    other_principles: []
+notes: []
+limitations: []
+analyst_summary_ru: "Кодекс KB покрывает ключевые блоки: права клиентов, права инвесторов, fair competition, supplier fairness, комплаенс и защита данных. Степень покрытия достаточна для completed."

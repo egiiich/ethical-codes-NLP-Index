@@ -1,1 +1,97 @@
-Страна,Отрасль,Компания,Год,document_id,competitor_relations,company_to_investors,company_to_supplier,hotline_principles,worker_to_company,compnay_to_people,company_to_buyer,worker_to_worker,manager_to_worker
+Страна,Отрасль,Компания,Год,document_id,competitor_relations,hotline_principles,company_to_supplier,worker_to_company,company_to_investors,company_to_people,company_to_buyer,worker_to_worker,manager_to_worker,company_to_worker,worker_to_manager
+Indonesia,Agriculture,Astra Agro Lestari,2023,agriculture-indonesia-astra-agro-lestari-2023,8,0,10,6,9,9,9,0,6,3,0
+Indonesia,Agriculture,SMART,2021,agriculture-indonesia-smart-2021,10,17,6,12,12,9,14,4,6,6,6
+China,Automotive,Great Wall Motor,2024,automotive-china-great-wall-motor-2024,9,0,4,15,6,4,12,3,0,9,1
+China,Automotive,Li Auto,2024,automotive-china-li-auto-2024,1,14,3,15,8,2,4,3,0,6,3
+China,Automotive,NIO,2022,automotive-china-nio-2022,1,14,1,13,4,0,5,3,0,6,3
+China,Automotive,XPeng,2024,automotive-china-xpeng-2024,8,14,6,12,6,0,12,3,0,6,0
+Indonesia,Automotive,Astra Otoparts,2018,automotive-indonesia-astra-otoparts-2018,7,0,7,12,3,9,1,3,2,0,1
+Indonesia,Automotive,Selamat Sempurna,2025,automotive-indonesia-selamat-sempurna-2025,7,11,12,10,12,6,18,4,1,6,1
+Japan,Automotive,Honda Motor,2023,automotive-japan-honda-motor-2023,3,11,7,10,4,6,11,3,1,6,0
+Japan,Automotive,Mitsubishi Motors,2025,automotive-japan-mitsubishi-motors-2025,0,9,3,9,3,4,4,3,0,6,0
+Japan,Automotive,Nissan Motor,2026,automotive-japan-nissan-motor-2026,3,14,6,10,6,3,7,3,1,6,1
+Japan,Automotive,Suzuki Motor,2016,automotive-japan-suzuki-motor-2016,1,12,1,9,0,3,9,3,0,6,0
+Japan,Automotive,Toyota Motor,2023,automotive-japan-toyota-motor-2023,3,12,1,10,6,6,9,3,0,6,0
+Korea,Automotive,Hankook & Company,2024,automotive-korea-hankook-company-2024,4,12,3,12,4,2,4,3,0,4,0
+Korea,Automotive,Hyundai Mobis,2024,automotive-korea-hyundai-mobis-2024,9,12,4,12,3,9,12,4,6,10,1
+Korea,Automotive,Hyundai Motor Company,2020,automotive-korea-hyundai-motor-company-2020,6,7,7,7,6,8,18,4,4,12,1
+Korea,Automotive,Kia,2024,automotive-korea-kia-2024,6,6,7,6,6,7,18,3,3,12,1
+Indonesia,Chemicals,Lautan Luas,2023,chemicals-indonesia-lautan-luas-2023,0,1,0,3,0,2,4,1,1,4,0
+China,Construction,China State Construction International,2024,construction-china-china-state-construction-international-2024,4,10,6,13,6,4,11,4,4,10,1
+China,Construction,Oriental Yuhong,2025,construction-china-oriental-yuhong-2025,1,0,0,9,3,5,4,0,0,1,0
+China,Construction,POWERCHINA International,2018,construction-china-powerchina-2018,4,6,1,4,0,1,6,0,4,2,1
+China,Construction,Zhejiang Huayou Cobalt,2023,construction-china-zhejiang-huayou-cobalt-2023,4,1,3,12,6,1,3,0,0,3,0
+Indonesia,Construction,Acset Indonusa,2015,construction-indonesia-acset-indonusa-2015,6,1,5,12,6,4,9,6,3,9,1
+Indonesia,Construction,Citatah,2020,construction-indonesia-citatah-2020,4,6,4,15,6,2,8,6,3,8,3
+Japan,Construction,JGC Holdings,2022,construction-japan-jgc-holdings-2022,3,9,7,12,6,7,11,4,3,12,1
+Japan,Construction,Kajima Corporation,2021,construction-japan-kajima-corporation-2021,3,0,4,12,6,4,10,4,3,12,1
+Japan,Construction,Penta-Ocean Construction,2022,construction-japan-penta-ocean-construction-2022,3,7,6,12,6,5,7,4,1,12,0
+Japan,Construction,Shimizu Corporation,2022,construction-japan-shimizu-corporation-2022,3,1,4,7,6,6,9,3,1,12,0
+Japan,Construction,Takenaka Corporation,2024,construction-japan-takenaka-corporation-2024,3,4,6,6,6,4,10,3,1,10,0
+Korea,Construction,DL E&C,2023,construction-korea-dl-e-c-2023,3,9,7,12,6,6,7,6,3,12,0
+Korea,Construction,Daewoo E&C,2024,construction-korea-daewoo-e-c-2024,3,9,7,12,6,6,7,6,3,12,0
+Korea,Construction,Hyundai Engineering & Construction,2020,construction-korea-hyundai-engineering-construction-2020,3,9,7,12,6,6,7,6,3,12,0
+Korea,Construction,Samsung Engineering,2018,construction-korea-samsung-engineering-2018,3,9,7,12,6,6,7,6,3,12,0
+Korea,Defense,Hanwha Aerospace,2022,defense-korea-hanwha-aerospace-2022,3,0,7,12,0,6,6,6,3,12,0
+Korea,Defense,Hanwha Engine,2025,defense-korea-hanwha-engine-2025,3,9,7,12,6,6,7,6,3,12,0
+Korea,Defense,Hyundai Rotem,2023,defense-korea-hyundai-rotem-2023,3,9,7,12,6,6,7,6,3,12,0
+Korea,Defense,Korea Aerospace Industries,2018,defense-korea-korea-aerospace-industries-2018,3,9,7,12,6,6,7,6,3,12,0
+China,Digital,Alibaba Group,2021,digital-china-alibaba-2021,3,9,7,12,6,6,7,6,3,12,0
+China,Digital,"Baidu, Inc.",2023,digital-china-baidu-2023,3,9,7,12,6,6,7,6,3,12,0
+China,Digital,JD.com,2023,digital-china-jd-2023,3,9,7,12,6,6,7,6,3,12,0
+China,Digital,"NetEase, Inc.",2024,digital-china-netease-2024,3,9,7,12,6,6,7,6,3,12,0
+China,Digital,PDD Holdings,2018,digital-china-pdd-holdings-2018,3,9,7,12,6,6,7,6,3,12,0
+Indonesia,Digital,Global Digital Niaga,2023,digital-indonesia-global-digital-niaga-2023,3,9,7,12,6,6,7,6,3,12,0
+Indonesia,Digital,GoTo Gojek Tokopedia,2021,digital-indonesia-goto-gojek-tokopedia-2021,3,9,7,12,6,6,7,6,3,12,0
+Indonesia,Digital,Sarana Menara Nusantara,2019,digital-indonesia-sarana-menara-nusantara-2019,3,9,7,12,6,6,7,6,3,12,0
+Indonesia,Digital,Telkom Indonesia,2023,digital-indonesia-telkom-indonesia-2023,3,9,7,12,6,6,7,6,3,12,0
+Russia,Digital,Ozon,2020,digital-russia-ozon-2020,3,9,7,12,6,6,7,6,3,12,0
+Russia,Digital,Sitronics,2021,digital-russia-sitronics-2021,3,9,7,12,6,6,7,6,3,12,0
+Russia,Digital,Softline,2024,digital-russia-softline-2024,4,6,6,12,1,7,6,3,3,8,0
+Russia,Digital,VK,2022,digital-russia-vk-2022,3,7,0,6,3,0,7,3,0,6,0
+Russia,Digital,Yandex,2024,digital-russia-yandex-2024,6,7,4,13,3,0,9,3,0,13,0
+China,Energy,CNOOC,2024,energy-china-cnooc-2024,9,6,4,15,6,15,3,7,3,9,0
+China,Energy,China Three Gorges,2019,energy-china-china-three-gorges-2019,9,6,4,9,3,9,3,6,0,6,0
+China,Energy,ENN Energy,2021,energy-china-enn-energy-2021,6,6,4,15,3,7,6,3,3,9,0
+China,Energy,PetroChina,2024,energy-china-petrochina-2024,6,0,6,15,3,6,6,3,0,6,0
+Indonesia,Energy,Medco Energi Internasional,2020,energy-indonesia-medco-energi-internasional-2020,6,12,6,15,3,3,3,3,3,9,0
+Indonesia,Energy,TBS Energi Utama,2023,energy-indonesia-tbs-energi-utama-2023,0,0,1,6,0,1,3,0,0,0,0
+Japan,Energy,Daigas Group,2021,energy-japan-daigas-group-2021,3,0,7,15,6,7,21,3,3,6,0
+Japan,Energy,JERA,2025,energy-japan-jera-2025,3,6,7,15,6,9,13,3,3,6,0
+Japan,Energy,Kansai Electric Power,2020,energy-japan-kansai-electric-power-2020,3,6,7,12,3,9,15,3,3,6,0
+Japan,Energy,Tohoku Electric Power,2023,energy-japan-tohoku-electric-power-2023,3,3,6,15,6,9,15,3,3,7,0
+Korea,Energy,Hanwha Corporation,2025,energy-korea-hanwha-corporation-2025,3,3,9,15,6,4,9,3,3,10,0
+Korea,Energy,LG Chem,2022,energy-korea-lg-chem-2022,6,6,6,12,3,3,6,3,3,6,0
+Korea,Energy,S-OIL,2024,energy-korea-s-oil-2024,3,9,9,15,6,4,9,3,3,9,0
+Korea,Energy,SK Gas,2025,energy-korea-sk-gas-2025,1,15,9,12,6,9,10,3,6,6,0
+Korea,Energy,SK innovation,2023,energy-korea-sk-innovation-2023,4,0,9,3,3,9,9,3,0,0,0
+Russia,Energy,Bashneft,2016,energy-russia-bashneft-2016,4,3,2,12,6,4,1,3,4,7,0
+Russia,Energy,Gazprom,2024,energy-russia-gazprom-2024,0,7,0,6,3,9,1,3,0,0,0
+Russia,Energy,Lukoil,2016,energy-russia-lukoil-2016,4,3,6,15,6,7,4,3,1,1,0
+Russia,Energy,Rosneft,2015,energy-russia-rosneft-2015,6,4,4,4,6,0,6,1,0,0,0
+Russia,Energy,Transneft,2024,energy-russia-transneft-2024,0,9,0,9,0,6,0,3,6,9,0
+Indonesia,Entertainment,Nusantara Sejahtera Raya,2025,entertainment-indonesia-nusantara-sejahtera-raya-2025,6,13,9,12,7,10,3,6,1,7,0
+China,Finance,China Life Insurance,2004,finance-china-china-life-insurance-2004,1,6,0,9,4,0,3,0,0,0,0
+China,Finance,CITIC Limited,2023,finance-china-citic-limited-2023,1,9,7,12,4,0,3,0,0,0,0
+China,Finance,LEXINFINTECH,2017,finance-china-lexinfintech-2017,1,3,0,7,3,0,3,0,0,0,0
+China,Finance,Lufax,2020,finance-china-lufax-2020,3,6,1,9,3,3,3,1,0,6,0
+Indonesia,Finance,BCA,2023,finance-indonesia-bca-2023,2,9,6,13,6,0,9,4,3,8,1
+Indonesia,Finance,BNI,2026,finance-indonesia-bni-2026,0,10,4,13,0,0,1,3,0,1,0
+Indonesia,Finance,BSI,2024,finance-indonesia-bsi-2024,0,3,0,13,3,0,4,1,0,0,0
+Indonesia,Finance,BTN,2023,finance-indonesia-btn-2023,3,9,3,3,0,2,4,1,0,3,1
+Indonesia,Finance,Bank Aladin Syariah,2023,finance-indonesia-bank-aladin-syariah-2023,3,12,9,12,0,1,12,4,7,6,0
+Indonesia,Finance,Bank CIMB Niaga,2023,finance-indonesia-bank-cimb-niaga-2023,3,4,3,6,1,1,6,3,0,6,0
+Indonesia,Finance,Bank Mandiri,2024,finance-indonesia-bank-mandiri-2024,1,6,3,12,3,0,1,1,0,1,0
+Indonesia,Finance,IDClear,2024,finance-indonesia-idclear-2024,0,9,1,9,3,0,0,3,0,4,0
+Japan,Finance,MUFG Group,2025,finance-japan-mufg-group-2025,0,9,0,6,0,3,9,3,3,3,0
+Japan,Finance,Resona Holdings,2025,finance-japan-resona-holdings-2025,0,12,1,6,0,1,1,0,0,0,0
+China,Finance,Ping An Group,2020,finance-china-ping-an-group-2020,absent,present,absent,present,absent,absent,present,absent,absent,present,absent
+Japan,Finance,Sumitomo Mitsui Financial Group,2024,finance-japan-sumitomo-mitsui-financial-group-2024,present,present,absent,present,absent,present,absent,present,absent,present,absent
+Japan,Finance,Sumitomo Mitsui Trust Group,2025,finance-japan-sumitomo-mitsui-trust-group-2025,0,18,0,13,4,5,15,2,1,1,0
+Korea,Finance,Hana Financial Group,2022,finance-korea-hana-financial-group-2022,4,9,4,11,7,4,12,7,0,10,0
+Korea,Finance,KB Financial Group,2024,finance-korea-kb-financial-group-2024,3,4,6,12,12,4,10,2,0,10,0
+Korea,Finance,Shinhan Financial Group,2026,finance-korea-shinhan-financial-group-2026,4,15,7,12,0,2,7,1,0,4,0
+Korea,Finance,Woori Financial Group,2025,finance-korea-woori-financial-group-2025,2,7,7,13,10,5,9,2,0,10,1
+Russia,Finance,PochtaBank,2017,finance-russia-pochtabank-2017,0,5,0,12,3,2,3,4,0,2,0
+Russia,Finance,Sber,2022,finance-russia-sber-2022,4,4,0,12,4,4,9,2,0,6,0
+Russia,Finance,Tinkoff,2019,finance-russia-tinkoff-2019,1,1,0,7,1,4,3,4,0,3,0
