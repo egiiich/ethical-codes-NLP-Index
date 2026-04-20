@@ -139,16 +139,16 @@ mining-indonesia-petrosea-2024,Petrosea,Indonesia,Mining,Ethics_Codes_txt_files/
 mining-indonesia-timah-2021,TIMAH,Indonesia,Mining,Ethics_Codes_txt_files/Mining_Indonesia_TIMAH_2021.txt,en,txt,code_of_conduct,completed
 mining-indonesia-united-tractors-2023,United Tractors,Indonesia,Mining,Ethics_Codes_txt_files/Mining_Indonesia_United Tractors_2023.txt,en,txt,code_of_conduct,completed
 mining-russia-alrosa-2021,Alrosa,Russia,Mining,Ethics_Codes_txt_files/Mining_Russia_Alrosa_2021.txt,ru,txt,functional_equivalent_needs_review,completed
-mining-russia-mechel-2020,Mechel,Russia,Mining,Ethics_Codes_txt_files/Mining_Russia_Mechel_2020.txt,ru,txt,functional_equivalent_needs_review,not_started
-mining-russia-polymetal-2021,Polymetal,Russia,Mining,Ethics_Codes_txt_files/Mining_Russia_Polymetal_2021.txt,ru,txt,functional_equivalent_needs_review,not_started
-mining-russia-uralkaliy-2023,Uralkaliy,Russia,Mining,Ethics_Codes_txt_files/Mining_Russia_Uralkaliy_2023.txt,ru,txt,functional_equivalent_needs_review,not_started
-mining-russia-yugk-2021,YUGK,Russia,Mining,Ethics_Codes_txt_files/Mining_Russia_YUGK_2021.txt,ru,txt,functional_equivalent_needs_review,not_started
-pharma-china-shanghai-fosun-pharmaceutical-2023,Shanghai Fosun Pharmaceutical,China,Pharma,Ethics_Codes_txt_files/Pharma_China_Shanghai Fosun Pharmaceutical_2023.txt,en,txt,code_of_conduct,not_started
-pharma-china-sinovac-biotech-ltd-2006,Sinovac Biotech Ltd,China,Pharma,Ethics_Codes_txt_files/Pharma_China_Sinovac Biotech Ltd_2006.txt,en,txt,code_of_conduct,not_started
-pharma-china-wuxi-apptec-2021,WuXi AppTec,China,Pharma,Ethics_Codes_txt_files/Pharma_China_WuXi AppTec_2021.txt,en,txt,code_of_conduct,not_started
-pharma-china-wuxi-biologics-2024,WuXi Biologics,China,Pharma,Ethics_Codes_txt_files/Pharma_China_WuXi Biologics_2024.txt,en,txt,code_of_conduct,not_started
-pharma-china-zai-lab-2020,Zai Lab,China,Pharma,Ethics_Codes_txt_files/Pharma_China_Zai Lab_2020.txt,en,txt,code_of_conduct,not_started
-pharma-indonesia-kalbe-farma-2025,Kalbe Farma,Indonesia,Pharma,Ethics_Codes_txt_files/Pharma_Indonesia_Kalbe Farma_2025.txt,en,txt,code_of_conduct,not_started
+mining-russia-mechel-2020,Mechel,Russia,Mining,Ethics_Codes_txt_files/Mining_Russia_Mechel_2020.txt,ru,txt,functional_equivalent_needs_review,needs_human_review
+mining-russia-polymetal-2021,Polymetal,Russia,Mining,Ethics_Codes_txt_files/Mining_Russia_Polymetal_2021.txt,ru,txt,functional_equivalent_needs_review,completed
+mining-russia-uralkaliy-2023,Uralkaliy,Russia,Mining,Ethics_Codes_txt_files/Mining_Russia_Uralkaliy_2023.txt,ru,txt,functional_equivalent_needs_review,needs_human_review
+mining-russia-yugk-2021,YUGK,Russia,Mining,Ethics_Codes_txt_files/Mining_Russia_YUGK_2021.txt,ru,txt,functional_equivalent_needs_review,completed
+pharma-china-shanghai-fosun-pharmaceutical-2023,Shanghai Fosun Pharmaceutical,China,Pharma,Ethics_Codes_txt_files/Pharma_China_Shanghai Fosun Pharmaceutical_2023.txt,en,txt,code_of_conduct,completed
+pharma-china-sinovac-biotech-ltd-2006,Sinovac Biotech Ltd,China,Pharma,Ethics_Codes_txt_files/Pharma_China_Sinovac Biotech Ltd_2006.txt,en,txt,code_of_conduct,completed
+pharma-china-wuxi-apptec-2021,WuXi AppTec,China,Pharma,Ethics_Codes_txt_files/Pharma_China_WuXi AppTec_2021.txt,en,txt,code_of_conduct,completed
+pharma-china-wuxi-biologics-2024,WuXi Biologics,China,Pharma,Ethics_Codes_txt_files/Pharma_China_WuXi Biologics_2024.txt,en,txt,code_of_conduct,completed
+pharma-china-zai-lab-2020,Zai Lab,China,Pharma,Ethics_Codes_txt_files/Pharma_China_Zai Lab_2020.txt,en,txt,code_of_conduct,completed
+pharma-indonesia-kalbe-farma-2025,Kalbe Farma,Indonesia,Pharma,Ethics_Codes_txt_files/Pharma_Indonesia_Kalbe Farma_2025.txt,en,txt,code_of_conduct,completed
 pharma-indonesia-tempo-scan-pacific-2022,Tempo Scan Pacific,Indonesia,Pharma,Ethics_Codes_txt_files/Pharma_Indonesia_Tempo Scan Pacific_2022.txt,en,txt,code_of_conduct,not_started
 pharma-japan-astellas-pharma-inc-2025,Astellas Pharma Inc.,Japan,Pharma,Ethics_Codes_txt_files/Pharma_Japan_Astellas Pharma Inc._2025.txt,en,txt,code_of_conduct,not_started
 pharma-japan-daiichi-sankyo-co-2020,Daiichi Sankyo Co.,Japan,Pharma,Ethics_Codes_txt_files/Pharma_Japan_Daiichi Sankyo Co._2020.txt,en,txt,code_of_conduct,not_started
