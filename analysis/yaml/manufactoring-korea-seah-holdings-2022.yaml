@@ -1,0 +1,695 @@
+document_id: "manufactoring-korea-seah-holdings-2022"
+company_name: "SeAH Holdings"
+country: "Korea"
+industry: "Manufactoring"
+source_path: "Ethics_Codes_txt_files/Manufactoring_Korea_SeAH Holdings_2022.txt"
+source_language: "en"
+document_type: "code_of_conduct"
+review_status: "completed"
+topic_analyses:
+  -
+    topic_id: "competitor_relations"
+    principles:
+      -
+        principle_code: "COMP01"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "COMP02"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "COMP03"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "COMP03_explicit_section"
+      -
+        principle_code: "COMP04"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "COMP05"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "COMP06"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "COMP07"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "COMP08"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "COMP09"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "COMP10"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+    key_excerpts:
+      -
+        excerpt_id: "COMP03_explicit_section"
+        original: "SeAH respects the order of the free market economy that pursues fair and transparent competition."
+        translated_ru: "Компания закрепляет честную и прозрачную конкуренцию как базовый принцип."
+        section_title: "Ethics Charter Preamble"
+        relevance_comment: "Подтверждение статуса для принципа COMP03."
+    other_principles: []
+  -
+    topic_id: "hotline_principles"
+    principles:
+      -
+        principle_code: "HOT01"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "HOT01_explicit_section"
+      -
+        principle_code: "HOT02"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "HOT03"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "HOT04"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "HOT05"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "HOT05_explicit_section"
+      -
+        principle_code: "HOT06"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "HOT06_explicit_section"
+      -
+        principle_code: "HOT07"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "HOT08"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "HOT09"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "HOT10"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+    key_excerpts:
+      -
+        excerpt_id: "HOT01_explicit_section"
+        original: "If you have witnessed ... any violation ... you shall immediately report such violation ... to the Ethics Management Department."
+        translated_ru: "Кодекс устанавливает обязательный канал и процедуру сообщения о нарушениях."
+        section_title: "Chapter 8 Reporting and Taking Measures"
+        relevance_comment: "Подтверждение статуса для принципа HOT01."
+      -
+        excerpt_id: "HOT05_explicit_section"
+        original: "Disciplinary action shall apply to any conduct violating the Code of Ethics ..."
+        translated_ru: "За любое нарушение кодекса предусмотрено обязательное дисциплинарное реагирование."
+        section_title: "Chapter 8 Reporting and Taking Measures"
+        relevance_comment: "Подтверждение статуса для принципа HOT05."
+      -
+        excerpt_id: "HOT06_explicit_section"
+        original: "you shall immediately report such violation ... within 3 business days."
+        translated_ru: "Сотрудник обязан незамедлительно сообщить о нарушении в установленный срок."
+        section_title: "Chapter 8 Reporting and Taking Measures"
+        relevance_comment: "Подтверждение статуса для принципа HOT06."
+    other_principles: []
+  -
+    topic_id: "company_to_supplier"
+    principles:
+      -
+        principle_code: "CtoS01"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "CtoS01_explicit_section"
+      -
+        principle_code: "CtoS02"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "CtoS02_explicit_section"
+      -
+        principle_code: "CtoS03"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "CtoS03_explicit_section"
+      -
+        principle_code: "CtoS04"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "CtoS05"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "CtoS06"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "CtoS06_explicit_section"
+      -
+        principle_code: "CtoS07"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "CtoS07_explicit_section"
+    key_excerpts:
+      -
+        excerpt_id: "CtoS01_explicit_section"
+        original: "SeAH guarantees its business partners equal opportunity to participate in transactions."
+        translated_ru: "Поставщикам гарантируется равный доступ к участию в сделках."
+        section_title: "Code of Ethics Chapter 2"
+        relevance_comment: "Подтверждение статуса для принципа CtoS01."
+      -
+        excerpt_id: "CtoS02_explicit_section"
+        original: "...equal opportunity to participate in transactions and to set reasonable transaction terms and conditions..."
+        translated_ru: "Кодекс требует равных условий участия и разумных условий сделок."
+        section_title: "Code of Ethics Chapter 2"
+        relevance_comment: "Подтверждение статуса для принципа CtoS02."
+      -
+        excerpt_id: "CtoS03_explicit_section"
+        original: "SeAH ... does not engage in any form of unfair conduct using its superior bargaining position."
+        translated_ru: "Запрещено злоупотреблять переговорной/рыночной силой в отношении поставщиков."
+        section_title: "Code of Ethics Chapter 2"
+        relevance_comment: "Подтверждение статуса для принципа CtoS03."
+      -
+        excerpt_id: "CtoS06_explicit_section"
+        original: "...promotes mutual growth by establishing mutual trust through transparent transactions."
+        translated_ru: "Компания ориентирована на долгосрочное взаимное развитие с поставщиками."
+        section_title: "Code of Ethics Chapter 2"
+        relevance_comment: "Подтверждение статуса для принципа CtoS06."
+      -
+        excerpt_id: "CtoS07_explicit_section"
+        original: "You shall not ... favor or discriminate a specific company ... preferring school or regional ties..."
+        translated_ru: "Прямо запрещены фаворитизм и манипуляции при выборе контрагентов."
+        section_title: "Chapter 4 Lack of Transparency in the Selection of Business Partners"
+        relevance_comment: "Подтверждение статуса для принципа CtoS07."
+    other_principles: []
+  -
+    topic_id: "worker_to_company"
+    principles:
+      -
+        principle_code: "WtoC01"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "WtoC02"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "WtoC02_explicit_section"
+      -
+        principle_code: "WtoC03"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "WtoC03_explicit_section"
+      -
+        principle_code: "WtoC04"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "WtoC04_explicit_section"
+      -
+        principle_code: "WtoC05"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "WtoC05_explicit_section"
+      -
+        principle_code: "WtoC06"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "WtoC07"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "WtoC08"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "WtoC09"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "WtoC10"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "WtoC10_explicit_section"
+    key_excerpts:
+      -
+        excerpt_id: "WtoC02_explicit_section"
+        original: "executives and employees ... do not use business hours or company products for personal use."
+        translated_ru: "Активы и ресурсы компании запрещено использовать в личных целях."
+        section_title: "Code of Ethics Chapter 4"
+        relevance_comment: "Подтверждение статуса для принципа WtoC02."
+      -
+        excerpt_id: "WtoC03_explicit_section"
+        original: "do not disclose or utilize the business information of customers or the company ... for personal gain."
+        translated_ru: "Сотрудникам запрещено раскрывать или использовать служебную информацию в личных интересах."
+        section_title: "Code of Ethics Chapter 4"
+        relevance_comment: "Подтверждение статуса для принципа WtoC03."
+      -
+        excerpt_id: "WtoC04_explicit_section"
+        original: "Leakage of product drawings, trade secret and information ... for personal profit-making purposes ... Prohibited."
+        translated_ru: "Запрещено использовать/утекать интеллектуальные активы компании в личных целях."
+        section_title: "Chapter 5 Misappropriation of Company Assets"
+        relevance_comment: "Подтверждение статуса для принципа WtoC04."
+      -
+        excerpt_id: "WtoC05_explicit_section"
+        original: "SeAH ... complies with all laws and regulations of Korea and aboard where it conducts business."
+        translated_ru: "Прямо закреплено соблюдение законов и нормативных требований во всех юрисдикциях."
+        section_title: "Code of Ethics Chapter 1"
+        relevance_comment: "Подтверждение статуса для принципа WtoC05."
+      -
+        excerpt_id: "WtoC10_explicit_section"
+        original: "You shall ... protect SeAH’s reputation even in your private life."
+        translated_ru: "Сотрудники обязаны защищать репутацию компании даже вне работы."
+        section_title: "Chapter 7 Other Code of Ethics"
+        relevance_comment: "Подтверждение статуса для принципа WtoC10."
+    other_principles: []
+  -
+    topic_id: "company_to_investors"
+    principles:
+      -
+        principle_code: "CtoI01"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "CtoI02"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "CtoI03"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "CtoI03_explicit_section"
+      -
+        principle_code: "CtoI04"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "CtoI05"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "CtoI06"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "CtoI07"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "CtoI08"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+    key_excerpts:
+      -
+        excerpt_id: "CtoI03_explicit_section"
+        original: "SeAH ... provides the necessary information [to shareholders and investors] in a timely manner."
+        translated_ru: "Компания обязуется своевременно раскрывать инвесторам необходимую информацию."
+        section_title: "Code of Ethics Chapter 2"
+        relevance_comment: "Подтверждение статуса для принципа CtoI03."
+    other_principles: []
+  -
+    topic_id: "company_to_people"
+    principles:
+      -
+        principle_code: "CtoP01"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "CtoP02"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "CtoP03"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "CtoP04"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "CtoP04_explicit_section"
+      -
+        principle_code: "CtoP05"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "CtoP06"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "CtoP07"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "CtoP08"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "CtoP08_explicit_section"
+      -
+        principle_code: "CtoP09"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "CtoP10"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+    key_excerpts:
+      -
+        excerpt_id: "CtoP04_explicit_section"
+        original: "SeAH fulfills its responsibilities ... by contributing to national development through job creation ..."
+        translated_ru: "Компания закрепляет вклад в развитие общества через занятость и социальные обязанности."
+        section_title: "Code of Ethics Chapter 1"
+        relevance_comment: "Подтверждение статуса для принципа CtoP04."
+      -
+        excerpt_id: "CtoP08_explicit_section"
+        original: "SeAH complies with the laws ... related to environmental protection, and strives to prevent ... pollution."
+        translated_ru: "Компания обязуется предотвращать загрязнение и соблюдать экологические нормы."
+        section_title: "Code of Ethics Chapter 1"
+        relevance_comment: "Подтверждение статуса для принципа CtoP08."
+    other_principles: []
+  -
+    topic_id: "company_to_buyer"
+    principles:
+      -
+        principle_code: "CtoB01"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "CtoB01_explicit_section"
+      -
+        principle_code: "CtoB02"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "CtoB02_explicit_section"
+      -
+        principle_code: "CtoB03"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "CtoB04"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "CtoB05"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "CtoB06"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "CtoB07"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "CtoB08"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "CtoB08_explicit_section"
+      -
+        principle_code: "CtoB09"
+        principle_status: "brief_mention"
+        evidence_excerpt_ids:
+          - "CtoB09_brief_mention"
+    key_excerpts:
+      -
+        excerpt_id: "CtoB01_explicit_section"
+        original: "SeAH respects its customers and endeavors to provide products and services that the customers need."
+        translated_ru: "Компания ориентируется на потребности клиентов и удовлетворение их запросов."
+        section_title: "Code of Ethics Chapter 2"
+        relevance_comment: "Подтверждение статуса для принципа CtoB01."
+      -
+        excerpt_id: "CtoB02_explicit_section"
+        original: "SeAH ... shall actively disclose information that customers should, or need to, know."
+        translated_ru: "Компания обязуется раскрывать клиентам значимую информацию."
+        section_title: "Code of Ethics Chapter 2"
+        relevance_comment: "Подтверждение статуса для принципа CtoB02."
+      -
+        excerpt_id: "CtoB08_explicit_section"
+        original: "do not disclose or utilize the business information of customers ... for personal gain."
+        translated_ru: "Защита клиентской информации и запрет ее нецелевого использования закреплены прямо."
+        section_title: "Code of Ethics Chapter 4"
+        relevance_comment: "Подтверждение статуса для принципа CtoB08."
+      -
+        excerpt_id: "CtoB09_brief_mention"
+        original: "SeAH prioritizes protecting the interests of its customers."
+        translated_ru: "Кодекс закрепляет защиту интересов клиентов, включая аспект безопасности."
+        section_title: "Code of Ethics Chapter 2"
+        relevance_comment: "Подтверждение статуса для принципа CtoB09."
+    other_principles: []
+  -
+    topic_id: "worker_to_worker"
+    principles:
+      -
+        principle_code: "WtoW01"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "WtoW01_explicit_section"
+      -
+        principle_code: "WtoW02"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "WtoW03"
+        principle_status: "brief_mention"
+        evidence_excerpt_ids:
+          - "WtoW03_brief_mention"
+      -
+        principle_code: "WtoW04"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "WtoW04_explicit_section"
+      -
+        principle_code: "WtoW05"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "WtoW06"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "WtoW07"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "WtoW08"
+        principle_status: "brief_mention"
+        evidence_excerpt_ids:
+          - "WtoW08_brief_mention"
+    key_excerpts:
+      -
+        excerpt_id: "WtoW01_explicit_section"
+        original: "executives and employees respect each other, observe basic etiquette necessary for workplaces."
+        translated_ru: "Коллеги обязаны уважать друг друга и соблюдать профессиональную этику общения."
+        section_title: "Code of Ethics Chapter 4"
+        relevance_comment: "Подтверждение статуса для принципа WtoW01."
+      -
+        excerpt_id: "WtoW03_brief_mention"
+        original: "You shall share information with your supervisor, colleagues and others departments and actively cooperate with them."
+        translated_ru: "Закреплена обязанность сотрудничества и совместной работы между коллегами."
+        section_title: "Chapter 7 Other Code of Ethics"
+        relevance_comment: "Подтверждение статуса для принципа WtoW03."
+      -
+        excerpt_id: "WtoW04_explicit_section"
+        original: "You shall share information with your supervisor, colleagues and others departments."
+        translated_ru: "Сотрудник обязан не скрывать важную рабочую информацию от коллег и смежных подразделений."
+        section_title: "Chapter 7 Other Code of Ethics"
+        relevance_comment: "Подтверждение статуса для принципа WtoW04."
+      -
+        excerpt_id: "WtoW08_brief_mention"
+        original: "If you have witnessed ... any violation ... by any other executive or employee ... you shall immediately report such violation."
+        translated_ru: "Сотрудник должен сообщать о нарушениях коллег."
+        section_title: "Chapter 8 Reporting and Taking Measures"
+        relevance_comment: "Подтверждение статуса для принципа WtoW08."
+    other_principles: []
+  -
+    topic_id: "manager_to_worker"
+    principles:
+      -
+        principle_code: "MtoW01"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "MtoW01_explicit_section"
+      -
+        principle_code: "MtoW02"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "MtoW02_explicit_section"
+      -
+        principle_code: "MtoW03"
+        principle_status: "brief_mention"
+        evidence_excerpt_ids:
+          - "MtoW03_brief_mention"
+      -
+        principle_code: "MtoW04"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "MtoW04_explicit_section"
+      -
+        principle_code: "MtoW05"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "MtoW06"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+    key_excerpts:
+      -
+        excerpt_id: "MtoW01_explicit_section"
+        original: "SeAH does not discriminate against employees based on gender, religion, age, educational background, place of origin, disability."
+        translated_ru: "Руководство обязано обеспечивать недискриминационное отношение к подчиненным."
+        section_title: "Code of Ethics Chapter 3"
+        relevance_comment: "Подтверждение статуса для принципа MtoW01."
+      -
+        excerpt_id: "MtoW02_explicit_section"
+        original: "SeAH establishes a system that enables its executives and employees to develop ... and provides equal opportunities."
+        translated_ru: "Руководители обязаны поддерживать развитие и равный доступ к возможностям роста."
+        section_title: "Code of Ethics Chapter 3"
+        relevance_comment: "Подтверждение статуса для принципа MtoW02."
+      -
+        excerpt_id: "MtoW03_brief_mention"
+        original: "if you are a manager, you are obligated to manage and supervise your subordinates."
+        translated_ru: "Руководитель обязан корректно управлять подчиненными и не допускать пренебрежения их интересами."
+        section_title: "Chapter 7 Other Code of Ethics"
+        relevance_comment: "Подтверждение статуса для принципа MtoW03."
+      -
+        excerpt_id: "MtoW04_explicit_section"
+        original: "SeAH creates a system in which employees can freely express their opinions to management and do not suffer any disadvantages."
+        translated_ru: "Руководство обязано поддерживать открытую среду для свободного выражения мнений без санкций."
+        section_title: "Code of Ethics Chapter 3"
+        relevance_comment: "Подтверждение статуса для принципа MtoW04."
+    other_principles: []
+  -
+    topic_id: "company_to_worker"
+    principles:
+      -
+        principle_code: "CtoW01"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "CtoW02"
+        principle_status: "brief_mention"
+        evidence_excerpt_ids:
+          - "CtoW02_brief_mention"
+      -
+        principle_code: "CtoW03"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "CtoW03_explicit_section"
+      -
+        principle_code: "CtoW04"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "CtoW05"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "CtoW06"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "CtoW06_explicit_section"
+      -
+        principle_code: "CtoW07"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "CtoW08"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "CtoW09"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "CtoW09_explicit_section"
+      -
+        principle_code: "CtoW10"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+    key_excerpts:
+      -
+        excerpt_id: "CtoW02_brief_mention"
+        original: "SeAH ... treats employees fairly according to their abilities and achievements."
+        translated_ru: "В кодексе закреплена справедливость в отношении оценки вклада работников."
+        section_title: "Code of Ethics Chapter 3"
+        relevance_comment: "Подтверждение статуса для принципа CtoW02."
+      -
+        excerpt_id: "CtoW03_explicit_section"
+        original: "SeAH ... creates a safe and comfortable working environment to create a good workplace."
+        translated_ru: "Компания обязуется обеспечивать безопасные и комфортные условия труда."
+        section_title: "Code of Ethics Chapter 3"
+        relevance_comment: "Подтверждение статуса для принципа CtoW03."
+      -
+        excerpt_id: "CtoW06_explicit_section"
+        original: "SeAH does not discriminate against employees based on gender ... disability, etc."
+        translated_ru: "Компания прямо запрещает дискриминацию сотрудников."
+        section_title: "Code of Ethics Chapter 3"
+        relevance_comment: "Подтверждение статуса для принципа CtoW06."
+      -
+        excerpt_id: "CtoW09_explicit_section"
+        original: "employees can freely express their opinions to management and do not suffer any disadvantages."
+        translated_ru: "Закреплен постоянный канал обратной связи сотрудников без риска наказания."
+        section_title: "Code of Ethics Chapter 3"
+        relevance_comment: "Подтверждение статуса для принципа CtoW09."
+    other_principles: []
+  -
+    topic_id: "worker_to_manager"
+    principles:
+      -
+        principle_code: "WtoM01"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "WtoM02"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "WtoM02_explicit_section"
+      -
+        principle_code: "WtoM03"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "WtoM03_explicit_section"
+      -
+        principle_code: "WtoM04"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "WtoM05"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "WtoM06"
+        principle_status: "brief_mention"
+        evidence_excerpt_ids:
+          - "WtoM06_brief_mention"
+    key_excerpts:
+      -
+        excerpt_id: "WtoM02_explicit_section"
+        original: "You shall not make false reports to the management ..."
+        translated_ru: "Запрещено вводить руководство в заблуждение через ложную отчетность."
+        section_title: "Chapter 6 Falsification of Documents or Figures and False Reporting"
+        relevance_comment: "Подтверждение статуса для принципа WtoM02."
+      -
+        excerpt_id: "WtoM03_explicit_section"
+        original: "You shall faithfully perform the duties assigned to you in accordance with SeAH’s policies ..."
+        translated_ru: "Сотрудники обязаны добросовестно исполнять порученные обязанности."
+        section_title: "Chapter 7 Other Code of Ethics"
+        relevance_comment: "Подтверждение статуса для принципа WtoM03."
+      -
+        excerpt_id: "WtoM06_brief_mention"
+        original: "If you feel an ethical conflict ... Does it comply with the company’s Code of Ethics? Is there any legal issue?"
+        translated_ru: "При сомнениях сотрудник должен проверять законность и этичность поручения, а не выполнять его автоматически."
+        section_title: "Appendix Self-diagnosis for Ethical Decision Making"
+        relevance_comment: "Подтверждение статуса для принципа WtoM06."
+    other_principles: []
+notes: []
+limitations: []
+analyst_summary_ru: "Анализ выполнен последовательно по всем темам и принципам; цитаты сохранены в оригинале, переводы и выводы — на русском языке."

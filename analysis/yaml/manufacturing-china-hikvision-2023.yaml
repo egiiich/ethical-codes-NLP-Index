@@ -1,0 +1,667 @@
+document_id: "manufacturing-china-hikvision-2023"
+company_name: "Hikvision"
+country: "China"
+industry: "Manufacturing"
+source_path: "Ethics_Codes_txt_files/Manufacturing_China_Hikvision_2023.txt"
+source_language: "zh"
+document_type: "code_of_conduct"
+review_status: "completed"
+topic_analyses:
+  -
+    topic_id: "competitor_relations"
+    principles:
+      -
+        principle_code: "COMP01"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "COMP02"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "COMP03"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "COMP03_explicit_section"
+      -
+        principle_code: "COMP04"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "COMP05"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "COMP06"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "COMP07"
+        principle_status: "brief_mention"
+        evidence_excerpt_ids:
+          - "COMP07_brief_mention"
+      -
+        principle_code: "COMP08"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "COMP09"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "COMP10"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+    key_excerpts:
+      -
+        excerpt_id: "COMP03_explicit_section"
+        original: "We should maintain business ethics in the market competition ... and avoid the participation or implementation of monopoly and other behaviors that restrict and hinder fair market competition."
+        translated_ru: "Компания прямо запрещает монополистические практики и требует честной конкуренции."
+        section_title: "4.3 Fair Competition"
+        relevance_comment: "Подтверждение статуса для принципа COMP03."
+      -
+        excerpt_id: "COMP07_brief_mention"
+        original: "Employees shall understand and abide by laws and regulations concerning ... intellectual property rights, respect and avoid improper use of others’ intellectual property rights."
+        translated_ru: "Кодекс кратко закрепляет уважение интеллектуальной собственности конкурентов и иных компаний."
+        section_title: "5.2 Respect and Protect Intellectual Property"
+        relevance_comment: "Подтверждение статуса для принципа COMP07."
+    other_principles: []
+  -
+    topic_id: "hotline_principles"
+    principles:
+      -
+        principle_code: "HOT01"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "HOT01_explicit_section"
+      -
+        principle_code: "HOT02"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "HOT03"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "HOT03_explicit_section"
+      -
+        principle_code: "HOT04"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "HOT05"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "HOT06"
+        principle_status: "brief_mention"
+        evidence_excerpt_ids:
+          - "HOT06_brief_mention"
+      -
+        principle_code: "HOT07"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "HOT08"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "HOT09"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "HOT10"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+    key_excerpts:
+      -
+        excerpt_id: "HOT01_explicit_section"
+        original: "Internal Audit Department (Email: jubao@hikvision.com; Hotline: 0571-86611816) ... Compliance Department (Email: compliance@hikvision.com)."
+        translated_ru: "Кодекс закрепляет формальные каналы горячей линии и комплаенс-каналы для сообщений."
+        section_title: "7.2 Disclose Problems and Report Violations"
+        relevance_comment: "Подтверждение статуса для принципа HOT01."
+      -
+        excerpt_id: "HOT03_explicit_section"
+        original: "We protect any bona fide reporters, and no one shall retaliate against any bona fide reporters."
+        translated_ru: "Прямо запрещена реталиация против добросовестных заявителей."
+        section_title: "7.3 Anti-retaliation Policy"
+        relevance_comment: "Подтверждение статуса для принципа HOT03."
+      -
+        excerpt_id: "HOT06_brief_mention"
+        original: "We welcome ... reports on possible violations of laws and regulations, the Code or the supporting rules of Hikvision."
+        translated_ru: "Сотрудники должны сообщать о возможных нарушениях по установленным каналам."
+        section_title: "7.2 Disclose Problems and Report Violations"
+        relevance_comment: "Подтверждение статуса для принципа HOT06."
+    other_principles: []
+  -
+    topic_id: "company_to_supplier"
+    principles:
+      -
+        principle_code: "CtoS01"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "CtoS01_explicit_section"
+      -
+        principle_code: "CtoS02"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "CtoS03"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "CtoS03_explicit_section"
+      -
+        principle_code: "CtoS04"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "CtoS05"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "CtoS06"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "CtoS06_explicit_section"
+      -
+        principle_code: "CtoS07"
+        principle_status: "brief_mention"
+        evidence_excerpt_ids:
+          - "CtoS07_brief_mention"
+    key_excerpts:
+      -
+        excerpt_id: "CtoS01_explicit_section"
+        original: "Hikvision is committed to establishing mutually beneficial relationships with our customers and partners."
+        translated_ru: "Компания закрепляет взаимовыгодные отношения с партнерами и поставщиками."
+        section_title: "4.1 Treat Customers and Partners"
+        relevance_comment: "Подтверждение статуса для принципа CtoS01."
+      -
+        excerpt_id: "CtoS03_explicit_section"
+        original: "employees shall not directly or indirectly offer ... or obtain illegitimate benefits."
+        translated_ru: "Запрещены коррупционные практики и незаконные выгоды в отношениях с партнерами."
+        section_title: "4.2 Clean Construction"
+        relevance_comment: "Подтверждение статуса для принципа CtoS03."
+      -
+        excerpt_id: "CtoS06_explicit_section"
+        original: "The company advocates conducting business dealings with partners in a fair, honest and respectful manner."
+        translated_ru: "Компания прямо ориентируется на честное и уважительное долгосрочное взаимодействие с партнёрами."
+        section_title: "4.1 Treat Customers and Partners"
+        relevance_comment: "Подтверждение статуса для принципа CtoS06."
+      -
+        excerpt_id: "CtoS07_brief_mention"
+        original: "we expect our suppliers to comply with all applicable laws and regulations ..."
+        translated_ru: "Поставщики обязаны соблюдать нормы и ответственность по цепочке поставок."
+        section_title: "4.1 Treat Customers and Partners"
+        relevance_comment: "Подтверждение статуса для принципа CtoS07."
+    other_principles: []
+  -
+    topic_id: "worker_to_company"
+    principles:
+      -
+        principle_code: "WtoC01"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "WtoC02"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "WtoC02_explicit_section"
+      -
+        principle_code: "WtoC03"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "WtoC03_explicit_section"
+      -
+        principle_code: "WtoC04"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "WtoC04_explicit_section"
+      -
+        principle_code: "WtoC05"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "WtoC05_explicit_section"
+      -
+        principle_code: "WtoC06"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "WtoC07"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "WtoC08"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "WtoC09"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "WtoC10"
+        principle_status: "brief_mention"
+        evidence_excerpt_ids:
+          - "WtoC10_brief_mention"
+    key_excerpts:
+      -
+        excerpt_id: "WtoC02_explicit_section"
+        original: "All employees shall use the company assets only for legitimate business purposes."
+        translated_ru: "Сотрудники обязаны использовать активы компании только для законных рабочих целей."
+        section_title: "5.1 Protect Company Assets"
+        relevance_comment: "Подтверждение статуса для принципа WtoC02."
+      -
+        excerpt_id: "WtoC03_explicit_section"
+        original: "we must comply with ... privacy and information security to protect our confidential information."
+        translated_ru: "Сотрудники обязаны защищать конфиденциальную информацию компании."
+        section_title: "5.1 Protect Company Assets and Confidential Information"
+        relevance_comment: "Подтверждение статуса для принципа WtoC03."
+      -
+        excerpt_id: "WtoC04_explicit_section"
+        original: "Employees shall understand and abide by laws and regulations concerning trade secrets ... and other intellectual property rights."
+        translated_ru: "Кодекс прямо требует от сотрудников защищать ИС и коммерческие тайны компании."
+        section_title: "5.2 Respect and Protect Intellectual Property"
+        relevance_comment: "Подтверждение статуса для принципа WtoC04."
+      -
+        excerpt_id: "WtoC05_explicit_section"
+        original: "The company shall comply with the laws, regulations, policies ... and applicable international standards."
+        translated_ru: "Сотрудники обязаны действовать в рамках законов, регуляций и международных стандартов."
+        section_title: "2.2 Compliance Management"
+        relevance_comment: "Подтверждение статуса для принципа WtoC05."
+      -
+        excerpt_id: "WtoC10_brief_mention"
+        original: "感谢您为公司的信誉和长远发展做出的不懈努力！"
+        translated_ru: "Кодекс связывает поведение сотрудников с защитой репутации и долгосрочного развития компании."
+        section_title: "Chief Compliance Officer Message"
+        relevance_comment: "Подтверждение статуса для принципа WtoC10."
+    other_principles: []
+  -
+    topic_id: "company_to_investors"
+    principles:
+      -
+        principle_code: "CtoI01"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "CtoI02"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "CtoI03"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "CtoI04"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "CtoI05"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "CtoI05_explicit_section"
+      -
+        principle_code: "CtoI06"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "CtoI07"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "CtoI08"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+    key_excerpts:
+      -
+        excerpt_id: "CtoI05_explicit_section"
+        original: "the company prohibits the improper use and disclosure of insider information."
+        translated_ru: "Прямо запрещено использование инсайдерской информации."
+        section_title: "5.4 No insider Trading"
+        relevance_comment: "Подтверждение статуса для принципа CtoI05."
+    other_principles: []
+  -
+    topic_id: "company_to_people"
+    principles:
+      -
+        principle_code: "CtoP01"
+        principle_status: "brief_mention"
+        evidence_excerpt_ids:
+          - "CtoP01_brief_mention"
+      -
+        principle_code: "CtoP02"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "CtoP03"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "CtoP04"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "CtoP04_explicit_section"
+      -
+        principle_code: "CtoP05"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "CtoP06"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "CtoP07"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "CtoP08"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "CtoP08_explicit_section"
+      -
+        principle_code: "CtoP09"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "CtoP10"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+    key_excerpts:
+      -
+        excerpt_id: "CtoP01_brief_mention"
+        original: "Hikvision is committed to integrating corporate social responsibility and sustainable development concepts into our business."
+        translated_ru: "Кодекс фиксирует ESG/устойчивое развитие как часть корпоративной модели."
+        section_title: "2.4 Social Responsibility"
+        relevance_comment: "Подтверждение статуса для принципа CtoP01."
+      -
+        excerpt_id: "CtoP04_explicit_section"
+        original: "undertaking social development with innovative products and services."
+        translated_ru: "Компания прямо берет на себя ответственность за социальное развитие."
+        section_title: "2.4 Social Responsibility"
+        relevance_comment: "Подтверждение статуса для принципа CtoP04."
+      -
+        excerpt_id: "CtoP08_explicit_section"
+        original: "The company continues to support environmental protection and biodiversity with innovative products and solutions."
+        translated_ru: "Прямо закреплена обязанность поддерживать экологию и биоразнообразие."
+        section_title: "6 Undertake Social Responsibility and Environmental Protection"
+        relevance_comment: "Подтверждение статуса для принципа CtoP08."
+    other_principles: []
+  -
+    topic_id: "company_to_buyer"
+    principles:
+      -
+        principle_code: "CtoB01"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "CtoB01_explicit_section"
+      -
+        principle_code: "CtoB02"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "CtoB02_explicit_section"
+      -
+        principle_code: "CtoB03"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "CtoB04"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "CtoB05"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "CtoB06"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "CtoB07"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "CtoB08"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "CtoB08_explicit_section"
+      -
+        principle_code: "CtoB09"
+        principle_status: "brief_mention"
+        evidence_excerpt_ids:
+          - "CtoB09_brief_mention"
+    key_excerpts:
+      -
+        excerpt_id: "CtoB01_explicit_section"
+        original: "In our marketing activities ... we should display our products and services fairly and accurately."
+        translated_ru: "Компания требует создавать клиентскую ценность через честное и качественное представление продуктов/услуг."
+        section_title: "4.1 Treat Customers and Partners"
+        relevance_comment: "Подтверждение статуса для принципа CtoB01."
+      -
+        excerpt_id: "CtoB02_explicit_section"
+        original: "we should display our products and services fairly and accurately."
+        translated_ru: "Кодекс закрепляет обязанность предоставлять клиентам корректную и точную информацию о продуктах."
+        section_title: "4.1 Treat Customers and Partners"
+        relevance_comment: "Подтверждение статуса для принципа CtoB02."
+      -
+        excerpt_id: "CtoB08_explicit_section"
+        original: "We must strictly comply with the laws ... to protect ... personal information ... of employees, customers, or anyone else."
+        translated_ru: "Кодекс прямо требует защищать персональные данные клиентов."
+        section_title: "3.6 Respect Personal Privacy and Protect Personal Information"
+        relevance_comment: "Подтверждение статуса для принципа CtoB08."
+      -
+        excerpt_id: "CtoB09_brief_mention"
+        original: "including but not limited to ... consumer protection ..."
+        translated_ru: "Кодекс включает защиту прав потребителей как часть комплаенса компании."
+        section_title: "4 Conduct Business with Integrity and Compliance"
+        relevance_comment: "Подтверждение статуса для принципа CtoB09."
+    other_principles: []
+  -
+    topic_id: "worker_to_worker"
+    principles:
+      -
+        principle_code: "WtoW01"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "WtoW01_explicit_section"
+      -
+        principle_code: "WtoW02"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "WtoW03"
+        principle_status: "brief_mention"
+        evidence_excerpt_ids:
+          - "WtoW03_brief_mention"
+      -
+        principle_code: "WtoW04"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "WtoW05"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "WtoW06"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "WtoW07"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "WtoW08"
+        principle_status: "brief_mention"
+        evidence_excerpt_ids:
+          - "WtoW08_brief_mention"
+    key_excerpts:
+      -
+        excerpt_id: "WtoW01_explicit_section"
+        original: "Hikvision is committed to creating and maintaining a work atmosphere of honesty, integrity, mutual respect and trust."
+        translated_ru: "Коллеги должны поддерживать атмосферу взаимного уважения и доверия."
+        section_title: "3.1 Good Working Environment"
+        relevance_comment: "Подтверждение статуса для принципа WtoW01."
+      -
+        excerpt_id: "WtoW03_brief_mention"
+        original: "We strive to adhere an open and honest way of communication."
+        translated_ru: "Кодекс поощряет открытую и честную коммуникацию между коллегами."
+        section_title: "3.1 Good Working Environment"
+        relevance_comment: "Подтверждение статуса для принципа WtoW03."
+      -
+        excerpt_id: "WtoW08_brief_mention"
+        original: "If any employee encounters ... he or she can report and appeal ..."
+        translated_ru: "Сотрудник обязан сообщать о нарушениях коллег и небезопасном поведении."
+        section_title: "3.3 Anti-Harassment"
+        relevance_comment: "Подтверждение статуса для принципа WtoW08."
+    other_principles: []
+  -
+    topic_id: "manager_to_worker"
+    principles:
+      -
+        principle_code: "MtoW01"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "MtoW01_explicit_section"
+      -
+        principle_code: "MtoW02"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "MtoW03"
+        principle_status: "brief_mention"
+        evidence_excerpt_ids:
+          - "MtoW03_brief_mention"
+      -
+        principle_code: "MtoW04"
+        principle_status: "brief_mention"
+        evidence_excerpt_ids:
+          - "MtoW04_brief_mention"
+      -
+        principle_code: "MtoW05"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "MtoW06"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+    key_excerpts:
+      -
+        excerpt_id: "MtoW01_explicit_section"
+        original: "provides equal work opportunities for job seekers and employees."
+        translated_ru: "Руководство обязано обеспечивать равные возможности для сотрудников."
+        section_title: "3.2 Equality, Non-discrimination"
+        relevance_comment: "Подтверждение статуса для принципа MtoW01."
+      -
+        excerpt_id: "MtoW03_brief_mention"
+        original: "Hikvision insists on creating a positive, respectful, and non-harassing working environment for all employees."
+        translated_ru: "Руководитель обязан поддерживать уважительное обращение без унижений и харассмента."
+        section_title: "3.3 Anti-Harassment"
+        relevance_comment: "Подтверждение статуса для принципа MtoW03."
+      -
+        excerpt_id: "MtoW04_brief_mention"
+        original: "In the condition of protecting the privacy of the reporter, the Company will respond positively ..."
+        translated_ru: "Руководство должно обеспечивать открытую среду для безопасного выражения проблем."
+        section_title: "3.3 Anti-Harassment"
+        relevance_comment: "Подтверждение статуса для принципа MtoW04."
+    other_principles: []
+  -
+    topic_id: "company_to_worker"
+    principles:
+      -
+        principle_code: "CtoW01"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "CtoW02"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "CtoW03"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "CtoW03_explicit_section"
+      -
+        principle_code: "CtoW04"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "CtoW05"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "CtoW06"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "CtoW06_explicit_section"
+      -
+        principle_code: "CtoW07"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "CtoW08"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "CtoW09"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "CtoW10"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+    key_excerpts:
+      -
+        excerpt_id: "CtoW03_explicit_section"
+        original: "maintaining a healthy, safe and efficient working environment."
+        translated_ru: "Компания обязуется обеспечивать безопасные и здоровые условия труда."
+        section_title: "3.1 Good Working Environment"
+        relevance_comment: "Подтверждение статуса для принципа CtoW03."
+      -
+        excerpt_id: "CtoW06_explicit_section"
+        original: "do not allow discrimination or harassment ... on grounds of race, color, religion, gender ..."
+        translated_ru: "Прямой запрет дискриминации сотрудников по защищаемым признакам."
+        section_title: "3.2 Equality, Non-discrimination"
+        relevance_comment: "Подтверждение статуса для принципа CtoW06."
+    other_principles: []
+  -
+    topic_id: "worker_to_manager"
+    principles:
+      -
+        principle_code: "WtoM01"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "WtoM02"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "WtoM03"
+        principle_status: "brief_mention"
+        evidence_excerpt_ids:
+          - "WtoM03_brief_mention"
+      -
+        principle_code: "WtoM04"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "WtoM05"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "WtoM06"
+        principle_status: "brief_mention"
+        evidence_excerpt_ids:
+          - "WtoM06_brief_mention"
+    key_excerpts:
+      -
+        excerpt_id: "WtoM03_brief_mention"
+        original: "every employee has the responsibility to understand and comply with all applicable laws and regulations."
+        translated_ru: "Сотрудник обязан добросовестно исполнять требования и нормы компании."
+        section_title: "4 Conduct Business with Integrity and Compliance"
+        relevance_comment: "Подтверждение статуса для принципа WtoM03."
+      -
+        excerpt_id: "WtoM06_brief_mention"
+        original: "If you believe that the requirements of the Code conflict with local laws, please contact the Legal and Compliance Department."
+        translated_ru: "При сомнениях сотрудник должен эскалировать вопрос и не действовать вне рамок закона/этики."
+        section_title: "4 Conduct Business with Integrity and Compliance"
+        relevance_comment: "Подтверждение статуса для принципа WtoM06."
+    other_principles: []
+notes: []
+limitations: []
+analyst_summary_ru: "Анализ выполнен последовательно по всем темам и принципам; цитаты оставлены в оригинале документа, перевод и выводы — на русском языке."
