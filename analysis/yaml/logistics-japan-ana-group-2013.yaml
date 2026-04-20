@@ -1,0 +1,454 @@
+document_id: "logistics-japan-ana-group-2013"
+company_name: "ANA Group"
+country: "Japan"
+industry: "Logistics"
+source_path: "Ethics_Codes_txt_files/Logistics_Japan_ANA Group_2013.txt"
+source_language: "en"
+document_type: "code_of_conduct"
+review_status: "completed"
+topic_analyses:
+  - topic_id: "competitor_relations"
+    principles:
+      - principle_code: "COMP01"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "COMP02"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "COMP03"
+        principle_status: "brief_mention"
+        evidence_excerpt_ids:
+          - "COMP03_brief_mention"
+      - principle_code: "COMP04"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "COMP05"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "COMP06"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "COMP07"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "COMP07_explicit_section"
+      - principle_code: "COMP08"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "COMP09"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "COMP10"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+    key_excerpts:
+      - excerpt_id: "COMP03_brief_mention"
+        original: "while pursuing profit through fair competition."
+        translated_ru: "при одновременном стремлении к прибыли через добросовестную конкуренцию."
+        section_title: "Our Way"
+        relevance_comment: "Подтверждение статуса brief_mention для принципа COMP03."
+      - excerpt_id: "COMP07_explicit_section"
+        original: "We will respect and will not infringeviolate the intellectual property rights of others."
+        translated_ru: "Мы будем уважать и не нарушать права интеллектуальной собственности других лиц."
+        section_title: "Business Partner/Competitor Relations"
+        relevance_comment: "Подтверждение статуса explicit_section для принципа COMP07."
+    other_principles: []
+  - topic_id: "hotline_principles"
+    principles:
+      - principle_code: "HOT01"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "HOT02"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "HOT03"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "HOT04"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "HOT05"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "HOT06"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "HOT07"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "HOT08"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "HOT09"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "HOT10"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+    key_excerpts: []
+    other_principles: []
+  - topic_id: "company_to_supplier"
+    principles:
+      - principle_code: "CtoS01"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "CtoS01_explicit_section"
+      - principle_code: "CtoS02"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoS03"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoS04"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoS05"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoS06"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoS07"
+        principle_status: "brief_mention"
+        evidence_excerpt_ids:
+          - "CtoS07_brief_mention"
+    key_excerpts:
+      - excerpt_id: "CtoS01_explicit_section"
+        original: "We will exhibit fair, equitable, and transparent purchase behavior based on economic rationality."
+        translated_ru: "Мы будем демонстрировать справедливое, равноправное и прозрачное закупочное поведение на основе экономической рациональности."
+        section_title: "Business Partner/Competitor Relations"
+        relevance_comment: "Подтверждение статуса explicit_section для принципа CtoS01."
+      - excerpt_id: "CtoS07_brief_mention"
+        original: "We will not give/receive personal benefit to/from business partners."
+        translated_ru: "Мы не будем предоставлять/получать личную выгоду от/для бизнес-партнёров."
+        section_title: "Business Partner/Competitor Relations"
+        relevance_comment: "Подтверждение статуса brief_mention для принципа CtoS07."
+    other_principles: []
+  - topic_id: "worker_to_company"
+    principles:
+      - principle_code: "WtoC01"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "WtoC02"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "WtoC03"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "WtoC03_explicit_section"
+      - principle_code: "WtoC04"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "WtoC05"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "WtoC05_explicit_section"
+      - principle_code: "WtoC06"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "WtoC07"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "WtoC08"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "WtoC09"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "WtoC10"
+        principle_status: "brief_mention"
+        evidence_excerpt_ids:
+          - "WtoC10_brief_mention"
+    key_excerpts:
+      - excerpt_id: "WtoC03_explicit_section"
+        original: "We will rigidly manage customer information ... and prevent information leaks or abuse."
+        translated_ru: "Мы будем строго управлять клиентской информацией ... и предотвращать утечки или злоупотребления."
+        section_title: "Customer Relations"
+        relevance_comment: "Подтверждение статуса explicit_section для принципа WtoC03."
+      - excerpt_id: "WtoC05_explicit_section"
+        original: "We place the highest priority on safety ... and choose compliance with laws, regulations,and corporate ethics ..."
+        translated_ru: "Мы ставим безопасность наивысшим приоритетом и выбираем соблюдение законов, норм и корпоративной этики."
+        section_title: "Our Way"
+        relevance_comment: "Подтверждение статуса explicit_section для принципа WtoC05."
+      - excerpt_id: "WtoC10_brief_mention"
+        original: "Our goal is to meet the expectations for security and trust by stakeholders..."
+        translated_ru: "Наша цель — соответствовать ожиданиям заинтересованных сторон в части безопасности и доверия."
+        section_title: "Our Way"
+        relevance_comment: "Подтверждение статуса brief_mention для принципа WtoC10."
+    other_principles: []
+  - topic_id: "company_to_investors"
+    principles:
+      - principle_code: "CtoI01"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoI02"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoI03"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "CtoI03_explicit_section"
+      - principle_code: "CtoI04"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoI05"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "CtoI05_explicit_section"
+      - principle_code: "CtoI06"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoI07"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoI08"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+    key_excerpts:
+      - excerpt_id: "CtoI03_explicit_section"
+        original: "We will endeavor to disclose information to shareholders and investors appropriately and on a timely basis."
+        translated_ru: "Мы будем стремиться раскрывать информацию акционерам и инвесторам надлежащим образом и своевременно."
+        section_title: "Shareholder/Investor Relations"
+        relevance_comment: "Подтверждение статуса explicit_section для принципа CtoI03."
+      - excerpt_id: "CtoI05_explicit_section"
+        original: "...to achieve full accountability."
+        translated_ru: "...для достижения полной подотчётности."
+        section_title: "Shareholder/Investor Relations"
+        relevance_comment: "Подтверждение статуса explicit_section для принципа CtoI05."
+    other_principles: []
+  - topic_id: "company_to_people"
+    principles:
+      - principle_code: "CtoP01"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoP02"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "CtoP02_explicit_section"
+      - principle_code: "CtoP03"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoP04"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "CtoP04_explicit_section"
+      - principle_code: "CtoP05"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoP06"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoP07"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoP08"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoP09"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "CtoP09_explicit_section"
+      - principle_code: "CtoP10"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+    key_excerpts:
+      - excerpt_id: "CtoP02_explicit_section"
+        original: "We will be actively involved in the local communities and contribute to the activities or development of the community."
+        translated_ru: "Мы будем активно участвовать в жизни местных сообществ и содействовать их деятельности и развитию."
+        section_title: "Public Relations"
+        relevance_comment: "Подтверждение статуса explicit_section для принципа CtoP02."
+      - excerpt_id: "CtoP04_explicit_section"
+        original: "We will resolutely confront the powers and groups that threaten the order and safety of citizens."
+        translated_ru: "Мы решительно противостоим силам и группам, угрожающим порядку и безопасности граждан."
+        section_title: "Public Relations"
+        relevance_comment: "Подтверждение статуса explicit_section для принципа CtoP04."
+      - excerpt_id: "CtoP09_explicit_section"
+        original: "We will observe laws and regulations related to imports and exports as a member of the international society."
+        translated_ru: "Мы будем соблюдать законы и нормы, связанные с импортом и экспортом, как член международного сообщества."
+        section_title: "Public Relations"
+        relevance_comment: "Подтверждение статуса explicit_section для принципа CtoP09."
+    other_principles: []
+  - topic_id: "company_to_buyer"
+    principles:
+      - principle_code: "CtoB01"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "CtoB01_explicit_section"
+      - principle_code: "CtoB02"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoB03"
+        principle_status: "brief_mention"
+        evidence_excerpt_ids:
+          - "CtoB03_brief_mention"
+      - principle_code: "CtoB04"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoB05"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "CtoB05_explicit_section"
+      - principle_code: "CtoB06"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoB07"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoB08"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "CtoB08_explicit_section"
+      - principle_code: "CtoB09"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+    key_excerpts:
+      - excerpt_id: "CtoB01_explicit_section"
+        original: "We will ensure safety ... and provide safe services and products ..."
+        translated_ru: "Мы обеспечим безопасность ... и будем предоставлять безопасные услуги и продукты ..."
+        section_title: "Customer Relations"
+        relevance_comment: "Подтверждение статуса explicit_section для принципа CtoB01."
+      - excerpt_id: "CtoB03_brief_mention"
+        original: "We will provide customers with appropriate information on our services and products."
+        translated_ru: "Мы будем предоставлять клиентам надлежащую информацию о наших услугах и продуктах."
+        section_title: "Customer Relations"
+        relevance_comment: "Подтверждение статуса brief_mention для принципа CtoB03."
+      - excerpt_id: "CtoB05_explicit_section"
+        original: "...provide safe services and products perceived as useful for society that result in customer satisfaction..."
+        translated_ru: "...предоставлять безопасные услуги и продукты, полезные обществу и обеспечивающие удовлетворённость клиентов..."
+        section_title: "Customer Relations"
+        relevance_comment: "Подтверждение статуса explicit_section для принципа CtoB05."
+      - excerpt_id: "CtoB08_explicit_section"
+        original: "We will not present misleading representation or unjustifiable premiums."
+        translated_ru: "Мы не будем допускать вводящих в заблуждение представлений или необоснованных премий."
+        section_title: "Customer Relations"
+        relevance_comment: "Подтверждение статуса explicit_section для принципа CtoB08."
+    other_principles: []
+  - topic_id: "worker_to_worker"
+    principles:
+      - principle_code: "WtoW01"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "WtoW01_explicit_section"
+      - principle_code: "WtoW02"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "WtoW03"
+        principle_status: "brief_mention"
+        evidence_excerpt_ids:
+          - "WtoW03_brief_mention"
+      - principle_code: "WtoW04"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "WtoW05"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "WtoW06"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "WtoW07"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "WtoW08"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+    key_excerpts:
+      - excerpt_id: "WtoW01_explicit_section"
+        original: "We will respect each executive and employee as an individual and foster a fair, equitable, free and vigorous corporate culture."
+        translated_ru: "Мы будем уважать каждого руководителя и сотрудника как личность и развивать справедливую и свободную корпоративную культуру."
+        section_title: "Employee Relations"
+        relevance_comment: "Подтверждение статуса explicit_section для принципа WtoW01."
+      - excerpt_id: "WtoW03_brief_mention"
+        original: "We will strongly encourage communication within the ANA Group..."
+        translated_ru: "Мы будем активно поощрять коммуникацию внутри ANA Group..."
+        section_title: "Employee Relations"
+        relevance_comment: "Подтверждение статуса brief_mention для принципа WtoW03."
+    other_principles: []
+  - topic_id: "manager_to_worker"
+    principles:
+      - principle_code: "MtoW01"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "MtoW02"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "MtoW03"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "MtoW04"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "MtoW05"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "MtoW06"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+    key_excerpts: []
+    other_principles: []
+  - topic_id: "company_to_worker"
+    principles:
+      - principle_code: "CtoW01"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoW02"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoW03"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoW04"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoW05"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoW06"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "CtoW06_explicit_section"
+      - principle_code: "CtoW07"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoW08"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoW09"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoW10"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+    key_excerpts:
+      - excerpt_id: "CtoW06_explicit_section"
+        original: "We will not illegally discriminate ... We will not tolerate harassment..."
+        translated_ru: "Мы не будем допускать незаконной дискриминации ... Мы не будем терпеть домогательства..."
+        section_title: "Employee Relations"
+        relevance_comment: "Подтверждение статуса explicit_section для принципа CtoW06."
+    other_principles: []
+  - topic_id: "worker_to_manager"
+    principles:
+      - principle_code: "WtoM01"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "WtoM02"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "WtoM03"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "WtoM04"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "WtoM05"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "WtoM06"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+    key_excerpts: []
+    other_principles: []
+notes:
+  - "Date of analysis: 19.04.2026"
+  - "Analysis model: GPT 5.3-Codex"
+limitations: []
+analyst_summary_ru: "Кодекс ANA Group полноценно покрывает безопасность, отношения с партнёрами, инвесторскую прозрачность и комплаенс; механизмы hotline раскрыты ограниченно."
