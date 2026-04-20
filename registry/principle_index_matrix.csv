@@ -4,7 +4,7 @@ Indonesia,Agriculture,SMART,2021,agriculture-indonesia-smart-2021,10,17,6,12,12,
 China,Automotive,Great Wall Motor,2024,automotive-china-great-wall-motor-2024,9,0,4,15,6,4,12,3,0,9,1
 China,Automotive,Li Auto,2024,automotive-china-li-auto-2024,1,14,3,15,8,2,4,3,0,6,3
 China,Automotive,NIO,2022,automotive-china-nio-2022,1,14,1,13,4,0,5,3,0,6,3
-China,Automotive,XPeng,2024,automotive-china-xpeng-2024,8,14,6,12,6,0,12,3,0,6,0
+China,Automotive,XPeng,2024,automotive-china-xpeng-2024,8,14,6,12,6,0,12,3,0,7,0
 Indonesia,Automotive,Astra Otoparts,2018,automotive-indonesia-astra-otoparts-2018,7,0,7,12,3,9,1,3,2,0,1
 Indonesia,Automotive,Selamat Sempurna,2025,automotive-indonesia-selamat-sempurna-2025,7,11,12,10,12,6,18,4,1,6,1
 Japan,Automotive,Honda Motor,2023,automotive-japan-honda-motor-2023,3,11,7,10,4,6,11,3,1,6,0
@@ -179,3 +179,10 @@ Korea,Telecom,SK Telecom,2023,telecom-korea-sk-telecom-2023,1,0,9,3,7,6,9,3,0,7,
 Japan,Telecom,Internet Initiative Japan,2025,telecom-japan-internet-initiative-japan-2025,4,18,5,12,6,1,6,0,0,0,1
 Korea,Retail,LOTTE Shopping,2025,retail-korea-lotte-shopping-2025,3,18,13,15,7,10,21,7,1,9,1
 Russia,Telecom,МегаФон,2018,telecom-russia-megafon-2018,4,13,7,15,6,5,15,6,0,7,1
+Russia,Pharma,Imeda,2020,pharma-russia-imeda-2020,1,0,0,1,0,2,9,0,0,0,0
+Korea,Retail,LOTTE Corporation,2025,retail-korea-lotte-corporation-2025,14,16,14,13,15,10,20,8,7,8,3
+Korea,Retail,LX Pantos,2022,retail-korea-lx-pantos-2022,13,4,13,9,13,1,21,1,7,7,2
+Russia,Retail,Lenta,2021,retail-russia-lenta-2021,9,16,11,8,2,0,21,5,5,7,2
+Russia,Retail,Magnit,2019,retail-russia-magnit-2019,2,11,2,7,1,1,0,4,2,3,2
+Russia,Retail,X5,2015,retail-russia-x5-2015,12,11,5,10,1,1,4,4,4,4,2
+Russia,Retali,FixPrice,2022,retali-russia-fixprice-2022,4,3,3,7,1,1,1,3,2,6,1
