@@ -1,0 +1,653 @@
+document_id: "manufacturing-indonesia-pabrik-kertas-tjiwi-kimia-2023"
+company_name: "Pabrik Kertas Tjiwi Kimia"
+country: "Indonesia"
+industry: "Manufacturing"
+source_path: "Ethics_Codes_txt_files/Manufacturing_Indonesia_Pabrik Kertas Tjiwi Kimia_2023.txt"
+source_language: "en"
+document_type: "code_of_conduct"
+review_status: "completed"
+topic_analyses:
+  -
+    topic_id: "competitor_relations"
+    principles:
+      -
+        principle_code: "COMP01"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "COMP02"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "COMP03"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "COMP03_explicit_section"
+      -
+        principle_code: "COMP04"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "COMP05"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "COMP06"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "COMP07"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "COMP08"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "COMP09"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "COMP10"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+    key_excerpts:
+      -
+        excerpt_id: "COMP03_explicit_section"
+        original: "We prohibit any engagement in anti-competitive practices, including an agreement with competitors to fix the price, rigs bid, or restrict supplies."
+        translated_ru: "Прямо запрещены антиконкурентные соглашения по ценам, торгам и ограничению поставок."
+        section_title: "Section 3 – Avoidance of Anti-Competitive Conduct"
+        relevance_comment: "Подтверждение статуса для принципа COMP03."
+    other_principles: []
+  -
+    topic_id: "hotline_principles"
+    principles:
+      -
+        principle_code: "HOT01"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "HOT01_explicit_section"
+      -
+        principle_code: "HOT02"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "HOT02_explicit_section"
+      -
+        principle_code: "HOT03"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "HOT03_explicit_section"
+      -
+        principle_code: "HOT04"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "HOT05"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "HOT06"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "HOT06_explicit_section"
+      -
+        principle_code: "HOT07"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "HOT08"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "HOT09"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "HOT10"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+    key_excerpts:
+      -
+        excerpt_id: "HOT01_explicit_section"
+        original: "Integrated Call Center (ICC) is a 24/7 Speak Up channel ..."
+        translated_ru: "Кодекс закрепляет круглосуточный канал горячей линии для сообщений."
+        section_title: "Speak Up – How can you Speak Up?"
+        relevance_comment: "Подтверждение статуса для принципа HOT01."
+      -
+        excerpt_id: "HOT02_explicit_section"
+        original: "your report will be kept confidential following the applicable policies and regulations."
+        translated_ru: "Конфиденциальность сообщений гарантируется внутренними правилами."
+        section_title: "Integrated Call Center (ICC)"
+        relevance_comment: "Подтверждение статуса для принципа HOT02."
+      -
+        excerpt_id: "HOT03_explicit_section"
+        original: "The Company does not tolerate any forms of retaliation against anyone who reports any violations in good faith."
+        translated_ru: "Прямо запрещены любые формы реталиации в отношении добросовестных заявителей."
+        section_title: "Zero Tolerance on Retaliation"
+        relevance_comment: "Подтверждение статуса для принципа HOT03."
+      -
+        excerpt_id: "HOT06_explicit_section"
+        original: "you are responsible to submit a report when you see any unethical behaviour ... and potential violations of our BCOC."
+        translated_ru: "Сотрудник обязан сообщать о неэтичном поведении и возможных нарушениях BCOC."
+        section_title: "Speak Up – When should you Speak Up?"
+        relevance_comment: "Подтверждение статуса для принципа HOT06."
+    other_principles: []
+  -
+    topic_id: "company_to_supplier"
+    principles:
+      -
+        principle_code: "CtoS01"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "CtoS01_explicit_section"
+      -
+        principle_code: "CtoS02"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "CtoS03"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "CtoS03_explicit_section"
+      -
+        principle_code: "CtoS04"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "CtoS05"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "CtoS06"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "CtoS06_explicit_section"
+      -
+        principle_code: "CtoS07"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+    key_excerpts:
+      -
+        excerpt_id: "CtoS01_explicit_section"
+        original: "The Company is committed to acting fairly in selecting our suppliers and customers."
+        translated_ru: "Отбор поставщиков должен происходить на справедливой основе."
+        section_title: "Section 3 – Maintaining Long-Term and Sustainable Relationship"
+        relevance_comment: "Подтверждение статуса для принципа CtoS01."
+      -
+        excerpt_id: "CtoS03_explicit_section"
+        original: "Do not solicit or accept bribes or kickbacks from anyone who is seeking to do business with the Company."
+        translated_ru: "Запрещено принимать/вымогать взятки и откаты от контрагентов."
+        section_title: "Section 3 – Avoidance of Anti-Competitive Conduct"
+        relevance_comment: "Подтверждение статуса для принципа CtoS03."
+      -
+        excerpt_id: "CtoS06_explicit_section"
+        original: "Maintaining Long-Term and Sustainable Relationship ..."
+        translated_ru: "Кодекс прямо ориентирован на долгосрочные и устойчивые отношения с бизнес-партнерами."
+        section_title: "Section 3 – Business Partners"
+        relevance_comment: "Подтверждение статуса для принципа CtoS06."
+    other_principles: []
+  -
+    topic_id: "worker_to_company"
+    principles:
+      -
+        principle_code: "WtoC01"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "WtoC02"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "WtoC02_explicit_section"
+      -
+        principle_code: "WtoC03"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "WtoC03_explicit_section"
+      -
+        principle_code: "WtoC04"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "WtoC04_explicit_section"
+      -
+        principle_code: "WtoC05"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "WtoC05_explicit_section"
+      -
+        principle_code: "WtoC06"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "WtoC07"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "WtoC08"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "WtoC09"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "WtoC10"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "WtoC10_explicit_section"
+    key_excerpts:
+      -
+        excerpt_id: "WtoC02_explicit_section"
+        original: "You should only use the Company’s assets for business purposes."
+        translated_ru: "Активы компании разрешено использовать только в деловых целях."
+        section_title: "Section 5 – Asset Protections, Records, and Financial Integrity"
+        relevance_comment: "Подтверждение статуса для принципа WtoC02."
+      -
+        excerpt_id: "WtoC03_explicit_section"
+        original: "Any company’s information/data can be deemed confidential. Do not share ... without prior approval."
+        translated_ru: "Информация компании признается конфиденциальной и не подлежит разглашению без разрешения."
+        section_title: "Section 5 – Protection to the Company's Assets"
+        relevance_comment: "Подтверждение статуса для принципа WtoC03."
+      -
+        excerpt_id: "WtoC04_explicit_section"
+        original: "We are also responsible for safeguarding our Company’s intellectual property and for respecting the intellectual property of others."
+        translated_ru: "Сотрудники обязаны защищать ИС компании и уважать ИС третьих лиц."
+        section_title: "Section 5 – Asset Protections"
+        relevance_comment: "Подтверждение статуса для принципа WtoC04."
+      -
+        excerpt_id: "WtoC05_explicit_section"
+        original: "We all have to respect the law, act with integrity and honesty in all matters."
+        translated_ru: "Сотрудники обязаны соблюдать закон и действовать добросовестно."
+        section_title: "What is the BCOC and Why Do We Have It?"
+        relevance_comment: "Подтверждение статуса для принципа WtoC05."
+      -
+        excerpt_id: "WtoC10_explicit_section"
+        original: "Our daily conduct is the key to upholding the Company’s reputation."
+        translated_ru: "Поведение сотрудников напрямую связано с поддержанием репутации компании."
+        section_title: "What is the BCOC and Why Do We Have It?"
+        relevance_comment: "Подтверждение статуса для принципа WtoC10."
+    other_principles: []
+  -
+    topic_id: "company_to_investors"
+    principles:
+      -
+        principle_code: "CtoI01"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "CtoI02"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "CtoI03"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "CtoI04"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "CtoI05"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "CtoI05_explicit_section"
+      -
+        principle_code: "CtoI06"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "CtoI07"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "CtoI08"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+    key_excerpts:
+      -
+        excerpt_id: "CtoI05_explicit_section"
+        original: "Insider dealing is strictly prohibited in the Company."
+        translated_ru: "Инсайдерские сделки в компании прямо запрещены."
+        section_title: "Section 5 – Avoidance of Insider Dealing"
+        relevance_comment: "Подтверждение статуса для принципа CtoI05."
+    other_principles: []
+  -
+    topic_id: "company_to_people"
+    principles:
+      -
+        principle_code: "CtoP01"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "CtoP02"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "CtoP03"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "CtoP04"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "CtoP04_explicit_section"
+      -
+        principle_code: "CtoP05"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "CtoP06"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "CtoP07"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "CtoP08"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "CtoP08_explicit_section"
+      -
+        principle_code: "CtoP09"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "CtoP10"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+    key_excerpts:
+      -
+        excerpt_id: "CtoP04_explicit_section"
+        original: "We are committed to being a trusted partner to the communities ... and contribute to those communities’ development."
+        translated_ru: "Компания прямо обязуется способствовать развитию локальных сообществ."
+        section_title: "Section 4 – Engagement with Communities"
+        relevance_comment: "Подтверждение статуса для принципа CtoP04."
+      -
+        excerpt_id: "CtoP08_explicit_section"
+        original: "Environment protection is one of the targets ... The Company fully supports ... protecting the environment."
+        translated_ru: "Компания прямо закрепляет приоритет охраны окружающей среды."
+        section_title: "Section 4 – Environmental Protection"
+        relevance_comment: "Подтверждение статуса для принципа CtoP08."
+    other_principles: []
+  -
+    topic_id: "company_to_buyer"
+    principles:
+      -
+        principle_code: "CtoB01"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "CtoB01_explicit_section"
+      -
+        principle_code: "CtoB02"
+        principle_status: "brief_mention"
+        evidence_excerpt_ids:
+          - "CtoB02_brief_mention"
+      -
+        principle_code: "CtoB03"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "CtoB04"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "CtoB05"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "CtoB06"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "CtoB07"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "CtoB08"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "CtoB09"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "CtoB09_explicit_section"
+    key_excerpts:
+      -
+        excerpt_id: "CtoB01_explicit_section"
+        original: "Our daily conduct is the key to upholding the Company’s reputation among employees, suppliers, customers, competitors, communities, and other stakeholders."
+        translated_ru: "Кодекс связывает ежедневное поведение сотрудников с поддержанием ценности для клиентов и иных стейкхолдеров."
+        section_title: "What is the BCOC and Why Do We Have It?"
+        relevance_comment: "Подтверждение статуса для принципа CtoB01."
+      -
+        excerpt_id: "CtoB02_brief_mention"
+        original: "we all act consistently with the Company’s values."
+        translated_ru: "Кодекс требует единых стандартов честности и корректности в коммуникации с клиентами."
+        section_title: "What is the BCOC and Why Do We Have It?"
+        relevance_comment: "Подтверждение статуса для принципа CtoB02."
+      -
+        excerpt_id: "CtoB09_explicit_section"
+        original: "Midea is dedicated to delivering products and services that meet or exceed customer expectations in terms of quality, reliability, safety, and value."
+        translated_ru: "Продукты и услуги должны соответствовать или превосходить ожидания по качеству и безопасности."
+        section_title: "Section 15.2 Responsible Use of Resources ..."
+        relevance_comment: "Подтверждение статуса для принципа CtoB09."
+    other_principles: []
+  -
+    topic_id: "worker_to_worker"
+    principles:
+      -
+        principle_code: "WtoW01"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "WtoW01_explicit_section"
+      -
+        principle_code: "WtoW02"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "WtoW03"
+        principle_status: "brief_mention"
+        evidence_excerpt_ids:
+          - "WtoW03_brief_mention"
+      -
+        principle_code: "WtoW04"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "WtoW05"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "WtoW06"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "WtoW07"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "WtoW07_explicit_section"
+      -
+        principle_code: "WtoW08"
+        principle_status: "brief_mention"
+        evidence_excerpt_ids:
+          - "WtoW08_brief_mention"
+    key_excerpts:
+      -
+        excerpt_id: "WtoW01_explicit_section"
+        original: "All employees, customers, vendors, and business partners should be treated with courtesy and respect at all times."
+        translated_ru: "Сотрудники обязаны уважительно взаимодействовать с коллегами и внешними сторонами."
+        section_title: "Section 1 – Safe Working Environment"
+        relevance_comment: "Подтверждение статуса для принципа WtoW01."
+      -
+        excerpt_id: "WtoW03_brief_mention"
+        original: "The Company is committed to a working environment that promotes diversity, inclusion, and equal opportunity."
+        translated_ru: "Кодекс поддерживает командное взаимодействие в инклюзивной и доверительной среде."
+        section_title: "Section 1 – Our People"
+        relevance_comment: "Подтверждение статуса для принципа WtoW03."
+      -
+        excerpt_id: "WtoW07_explicit_section"
+        original: "Promptly report any pain, discomfort, accidents, or anything else that might present a risk to the health and safety of any person."
+        translated_ru: "Сотрудники обязаны оперативно сообщать о рисках для безопасности коллег."
+        section_title: "Section 2 – Workplace Health, Safety, and Security"
+        relevance_comment: "Подтверждение статуса для принципа WtoW07."
+      -
+        excerpt_id: "WtoW08_brief_mention"
+        original: "As our employee, you are responsible to submit a report when you see any unethical behaviour."
+        translated_ru: "Сотрудники обязаны сообщать о нарушениях этики, включая нарушения коллег."
+        section_title: "Speak Up – When should you Speak Up?"
+        relevance_comment: "Подтверждение статуса для принципа WtoW08."
+    other_principles: []
+  -
+    topic_id: "manager_to_worker"
+    principles:
+      -
+        principle_code: "MtoW01"
+        principle_status: "brief_mention"
+        evidence_excerpt_ids:
+          - "MtoW01_brief_mention"
+      -
+        principle_code: "MtoW02"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "MtoW02_explicit_section"
+      -
+        principle_code: "MtoW03"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "MtoW04"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "MtoW04_explicit_section"
+      -
+        principle_code: "MtoW05"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "MtoW06"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+    key_excerpts:
+      -
+        excerpt_id: "MtoW01_brief_mention"
+        original: "As a supervisor ... ensure all your team members read, understand, and be familiar with our BCOC."
+        translated_ru: "Руководитель обязан обеспечивать справедливые правила и единые требования ко всем подчиненным."
+        section_title: "What is Our Responsibility for the BCOC?"
+        relevance_comment: "Подтверждение статуса для принципа MtoW01."
+      -
+        excerpt_id: "MtoW02_explicit_section"
+        original: "You are responsible for helping your team members understand our BCOC."
+        translated_ru: "Руководитель обязан развивать сотрудников через обучение требованиям кодекса."
+        section_title: "As a supervisor ... additional responsibilities"
+        relevance_comment: "Подтверждение статуса для принципа MtoW02."
+      -
+        excerpt_id: "MtoW04_explicit_section"
+        original: "Encourage your team members and other parties to Speak Up."
+        translated_ru: "Руководитель должен поддерживать культуру открытого диалога и безопасного выражения проблем."
+        section_title: "As a supervisor ... additional responsibilities"
+        relevance_comment: "Подтверждение статуса для принципа MtoW04."
+    other_principles: []
+  -
+    topic_id: "company_to_worker"
+    principles:
+      -
+        principle_code: "CtoW01"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "CtoW02"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "CtoW03"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "CtoW03_explicit_section"
+      -
+        principle_code: "CtoW04"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "CtoW05"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "CtoW06"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "CtoW06_explicit_section"
+      -
+        principle_code: "CtoW07"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "CtoW08"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "CtoW09"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "CtoW10"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+    key_excerpts:
+      -
+        excerpt_id: "CtoW03_explicit_section"
+        original: "The Company ... ensure safe working conditions."
+        translated_ru: "Компания обязуется обеспечивать безопасные условия труда."
+        section_title: "Section 1 – Safe Working Environment"
+        relevance_comment: "Подтверждение статуса для принципа CtoW03."
+      -
+        excerpt_id: "CtoW06_explicit_section"
+        original: "Decisions regarding our employees and applicants must always be based on merit ..."
+        translated_ru: "Компания закрепляет равные возможности и запрет дискриминации."
+        section_title: "Section 1 – Equal Opportunity"
+        relevance_comment: "Подтверждение статуса для принципа CtoW06."
+    other_principles: []
+  -
+    topic_id: "worker_to_manager"
+    principles:
+      -
+        principle_code: "WtoM01"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "WtoM02"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "WtoM03"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "WtoM03_explicit_section"
+      -
+        principle_code: "WtoM04"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "WtoM05"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "WtoM06"
+        principle_status: "brief_mention"
+        evidence_excerpt_ids:
+          - "WtoM06_brief_mention"
+    key_excerpts:
+      -
+        excerpt_id: "WtoM03_explicit_section"
+        original: "Consistently act and behave in accordance with the Company’s values and BCOC."
+        translated_ru: "Сотрудник обязан добросовестно исполнять требования кодекса и поручения руководства."
+        section_title: "What is Our Responsibility for the BCOC?"
+        relevance_comment: "Подтверждение статуса для принципа WtoM03."
+      -
+        excerpt_id: "WtoM06_brief_mention"
+        original: "You should also ask questions whenever you are in doubt or have an ethical dilemma in making a decision at work."
+        translated_ru: "При сомнениях сотрудник обязан запросить разъяснение и не действовать в нарушение этики."
+        section_title: "Speak Up – When should you Speak Up?"
+        relevance_comment: "Подтверждение статуса для принципа WtoM06."
+    other_principles: []
+notes: []
+limitations: []
+analyst_summary_ru: "Анализ проведён последовательно по всем темам; оригинальные цитаты сохранены, переводы и выводы даны на русском языке."
