@@ -1,0 +1,702 @@
+document_id: "manufacturing-china-haier-2022"
+company_name: "Haier"
+country: "China"
+industry: "Manufacturing"
+source_path: "Ethics_Codes_txt_files/Manufacturing_China_Haier_2022.txt"
+source_language: "en"
+document_type: "code_of_conduct"
+review_status: "completed"
+topic_analyses:
+  -
+    topic_id: "competitor_relations"
+    principles:
+      -
+        principle_code: "COMP01"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "COMP02"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "COMP03"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "COMP03_explicit_section"
+      -
+        principle_code: "COMP04"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "COMP05"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "COMP06"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "COMP07"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "COMP08"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "COMP08_explicit_section"
+      -
+        principle_code: "COMP09"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "COMP10"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+    key_excerpts:
+      -
+        excerpt_id: "COMP03_explicit_section"
+        original: "Employees shall not put any formal or informal agreements on pricing, production, clients or markets with competitors."
+        translated_ru: "Сотрудникам прямо запрещены картельные соглашения с конкурентами."
+        section_title: "7. Relations with Competitors"
+        relevance_comment: "Подтверждение статуса для принципа COMP03."
+      -
+        excerpt_id: "COMP08_explicit_section"
+        original: "Employees shall not defame or maliciously attack competitors."
+        translated_ru: "Прямо запрещены клевета и дискредитация конкурентов."
+        section_title: "7. Relations with Competitors"
+        relevance_comment: "Подтверждение статуса для принципа COMP08."
+    other_principles: []
+  -
+    topic_id: "hotline_principles"
+    principles:
+      -
+        principle_code: "HOT01"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "HOT01_explicit_section"
+      -
+        principle_code: "HOT02"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "HOT02_explicit_section"
+      -
+        principle_code: "HOT03"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "HOT03_explicit_section"
+      -
+        principle_code: "HOT04"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "HOT05"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "HOT06"
+        principle_status: "brief_mention"
+        evidence_excerpt_ids:
+          - "HOT06_brief_mention"
+      -
+        principle_code: "HOT07"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "HOT08"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "HOT09"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "HOT10"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+    key_excerpts:
+      -
+        excerpt_id: "HOT01_explicit_section"
+        original: "Compliance Hotline ... where reporting can be anonymous."
+        translated_ru: "Кодекс закрепляет горячую линию и возможность анонимного сообщения."
+        section_title: "1. Introduction / Reporting Allegations"
+        relevance_comment: "Подтверждение статуса для принципа HOT01."
+      -
+        excerpt_id: "HOT02_explicit_section"
+        original: "The department ... shall keep the personal information ... confidential."
+        translated_ru: "Персональные данные заявителя должны сохраняться конфиденциально."
+        section_title: "1. Introduction / Reporting Allegations"
+        relevance_comment: "Подтверждение статуса для принципа HOT02."
+      -
+        excerpt_id: "HOT03_explicit_section"
+        original: "Haier Europe will not tolerate threatening or retaliatory acts against any individual who reports a violation in good faith."
+        translated_ru: "Запрещены репрессии против добросовестного заявителя."
+        section_title: "1. Introduction / Reporting Allegations"
+        relevance_comment: "Подтверждение статуса для принципа HOT03."
+      -
+        excerpt_id: "HOT06_brief_mention"
+        original: "Employees may report any suspicious breach of conduct ..."
+        translated_ru: "Есть требование и каналы сообщения о подозрительных нарушениях."
+        section_title: "1. Introduction / Reporting Allegations"
+        relevance_comment: "Подтверждение статуса для принципа HOT06."
+    other_principles: []
+  -
+    topic_id: "company_to_supplier"
+    principles:
+      -
+        principle_code: "CtoS01"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "CtoS01_explicit_section"
+      -
+        principle_code: "CtoS02"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "CtoS02_explicit_section"
+      -
+        principle_code: "CtoS03"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "CtoS03_explicit_section"
+      -
+        principle_code: "CtoS04"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "CtoS05"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "CtoS06"
+        principle_status: "brief_mention"
+        evidence_excerpt_ids:
+          - "CtoS06_brief_mention"
+      -
+        principle_code: "CtoS07"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "CtoS07_explicit_section"
+    key_excerpts:
+      -
+        excerpt_id: "CtoS01_explicit_section"
+        original: "select the optimal suppliers in the Company's best interests ..."
+        translated_ru: "Отбор поставщиков должен проводиться по оптимальности и интересам компании."
+        section_title: "6. Supplier Relations"
+        relevance_comment: "Подтверждение статуса для принципа CtoS01."
+      -
+        excerpt_id: "CtoS02_explicit_section"
+        original: "establishing a globally open, transparent, quick and efficient procurement platform."
+        translated_ru: "Закреплены прозрачные и открытые процедуры закупок."
+        section_title: "6. Supplier Relations"
+        relevance_comment: "Подтверждение статуса для принципа CtoS02."
+      -
+        excerpt_id: "CtoS03_explicit_section"
+        original: "Employees are prohibited from exerting ... undue influence, or offer preferential treatment to specific suppliers."
+        translated_ru: "Прямо запрещено злоупотребление влиянием в отношении поставщиков."
+        section_title: "6. Supplier Relations"
+        relevance_comment: "Подтверждение статуса для принципа CtoS03."
+      -
+        excerpt_id: "CtoS06_brief_mention"
+        original: "Haier Europe works with first-class supplier[s] ..."
+        translated_ru: "Кодекс ориентирован на устойчивое сотрудничество с надежными поставщиками."
+        section_title: "6. Supplier Relations"
+        relevance_comment: "Подтверждение статуса для принципа CtoS06."
+      -
+        excerpt_id: "CtoS07_explicit_section"
+        original: "Employees are prohibited ... to specific suppliers."
+        translated_ru: "Запрещены преференции отдельным поставщикам и необъективный выбор."
+        section_title: "6. Supplier Relations"
+        relevance_comment: "Подтверждение статуса для принципа CtoS07."
+    other_principles: []
+  -
+    topic_id: "worker_to_company"
+    principles:
+      -
+        principle_code: "WtoC01"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "WtoC02"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "WtoC02_explicit_section"
+      -
+        principle_code: "WtoC03"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "WtoC03_explicit_section"
+      -
+        principle_code: "WtoC04"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "WtoC04_explicit_section"
+      -
+        principle_code: "WtoC05"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "WtoC05_explicit_section"
+      -
+        principle_code: "WtoC06"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "WtoC07"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "WtoC08"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "WtoC09"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "WtoC10"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "WtoC10_explicit_section"
+    key_excerpts:
+      -
+        excerpt_id: "WtoC02_explicit_section"
+        original: "Employees shall ... protect the Company's property ... prevent waste, damage, loss, misuse."
+        translated_ru: "Сотрудники обязаны защищать активы компании от потерь и злоупотреблений."
+        section_title: "4. Company Assets"
+        relevance_comment: "Подтверждение статуса для принципа WtoC02."
+      -
+        excerpt_id: "WtoC03_explicit_section"
+        original: "Employees shall not disclose confidential information regarding Haier Europe."
+        translated_ru: "Сотрудникам запрещено разглашение конфиденциальной информации компании."
+        section_title: "4. Company Assets"
+        relevance_comment: "Подтверждение статуса для принципа WtoC03."
+      -
+        excerpt_id: "WtoC04_explicit_section"
+        original: "Employees shall apply for the registration of new invention-creations ... to protect the Company's intellectual property."
+        translated_ru: "Кодекс прямо закрепляет защиту и оформление ИС компании."
+        section_title: "4. Protection of Intellectual Property"
+        relevance_comment: "Подтверждение статуса для принципа WtoC04."
+      -
+        excerpt_id: "WtoC05_explicit_section"
+        original: "Employees shall act in compliance with laws, regulations and best practices."
+        translated_ru: "Сотрудники обязаны соблюдать законы, регуляции и внутренние требования."
+        section_title: "2. Observing Laws & Regulations"
+        relevance_comment: "Подтверждение статуса для принципа WtoC05."
+      -
+        excerpt_id: "WtoC10_explicit_section"
+        original: "Employees should resolutely stop anyone from damaging the Company's brand and reputation."
+        translated_ru: "Сотрудники обязаны защищать бренд и репутацию компании."
+        section_title: "4. Company Assets"
+        relevance_comment: "Подтверждение статуса для принципа WtoC10."
+    other_principles: []
+  -
+    topic_id: "company_to_investors"
+    principles:
+      -
+        principle_code: "CtoI01"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "CtoI02"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "CtoI03"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "CtoI03_explicit_section"
+      -
+        principle_code: "CtoI04"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "CtoI05"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "CtoI05_explicit_section"
+      -
+        principle_code: "CtoI06"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "CtoI07"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "CtoI08"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+    key_excerpts:
+      -
+        excerpt_id: "CtoI03_explicit_section"
+        original: "All information communicated to the media, investors and public must be accurate."
+        translated_ru: "Компания обязуется к точному и достоверному раскрытию информации инвесторам и общественности."
+        section_title: "9. Relations with Investors and Media"
+        relevance_comment: "Подтверждение статуса для принципа CtoI03."
+      -
+        excerpt_id: "CtoI05_explicit_section"
+        original: "All employees are prohibited from participating in any kind of insider trading."
+        translated_ru: "Инсайдерская торговля для сотрудников прямо запрещена."
+        section_title: "4. Conflict of interest / Insider Trading"
+        relevance_comment: "Подтверждение статуса для принципа CtoI05."
+    other_principles: []
+  -
+    topic_id: "company_to_people"
+    principles:
+      -
+        principle_code: "CtoP01"
+        principle_status: "brief_mention"
+        evidence_excerpt_ids:
+          - "CtoP01_brief_mention"
+      -
+        principle_code: "CtoP02"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "CtoP03"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "CtoP04"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "CtoP05"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "CtoP06"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "CtoP07"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "CtoP08"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "CtoP08_explicit_section"
+      -
+        principle_code: "CtoP09"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "CtoP10"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+    key_excerpts:
+      -
+        excerpt_id: "CtoP01_brief_mention"
+        original: "Haier Europe actively implements the concept of ESG ..."
+        translated_ru: "Зафиксирована приверженность ESG и устойчивому развитию."
+        section_title: "3. Our Employees and Workplace / ESG and Sustainable Development"
+        relevance_comment: "Подтверждение статуса для принципа CtoP01."
+      -
+        excerpt_id: "CtoP08_explicit_section"
+        original: "We shall utilize energy, water and other resources efficiently, and reduce pollution."
+        translated_ru: "Компания закрепляет предотвращение экологического ущерба и снижение загрязнений."
+        section_title: "3. Protecting ecology and environment"
+        relevance_comment: "Подтверждение статуса для принципа CtoP08."
+    other_principles: []
+  -
+    topic_id: "company_to_buyer"
+    principles:
+      -
+        principle_code: "CtoB01"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "CtoB01_explicit_section"
+      -
+        principle_code: "CtoB02"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "CtoB02_explicit_section"
+      -
+        principle_code: "CtoB03"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "CtoB04"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "CtoB05"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "CtoB06"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "CtoB07"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "CtoB08"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "CtoB08_explicit_section"
+      -
+        principle_code: "CtoB09"
+        principle_status: "brief_mention"
+        evidence_excerpt_ids:
+          - "CtoB09_brief_mention"
+    key_excerpts:
+      -
+        excerpt_id: "CtoB01_explicit_section"
+        original: "Employees should strive to meet customer needs and create the best customer experience."
+        translated_ru: "Компания требует системно создавать лучшую клиентскую ценность и опыт."
+        section_title: "5. Relations with Customers"
+        relevance_comment: "Подтверждение статуса для принципа CtoB01."
+      -
+        excerpt_id: "CtoB02_explicit_section"
+        original: "Employees ... not make false or misleading statements."
+        translated_ru: "Запрещены ложные и вводящие в заблуждение заявления для клиентов."
+        section_title: "5. Relations with Customers"
+        relevance_comment: "Подтверждение статуса для принципа CtoB02."
+      -
+        excerpt_id: "CtoB08_explicit_section"
+        original: "Haier Europe respects rights regarding privacy of individuals (including employees, clients, users and suppliers)."
+        translated_ru: "Кодекс закрепляет защиту персональных данных клиентов и пользователей."
+        section_title: "3. Protecting Individual Privacy"
+        relevance_comment: "Подтверждение статуса для принципа CtoB08."
+      -
+        excerpt_id: "CtoB09_brief_mention"
+        original: "protect the legitimate rights and interests of consumers."
+        translated_ru: "Принцип защиты интересов потребителей покрывает аспект безопасности для клиента."
+        section_title: "5. Protecting Customer Interests"
+        relevance_comment: "Подтверждение статуса для принципа CtoB09."
+    other_principles: []
+  -
+    topic_id: "worker_to_worker"
+    principles:
+      -
+        principle_code: "WtoW01"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "WtoW01_explicit_section"
+      -
+        principle_code: "WtoW02"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "WtoW03"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "WtoW03_explicit_section"
+      -
+        principle_code: "WtoW04"
+        principle_status: "brief_mention"
+        evidence_excerpt_ids:
+          - "WtoW04_brief_mention"
+      -
+        principle_code: "WtoW05"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "WtoW06"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "WtoW07"
+        principle_status: "brief_mention"
+        evidence_excerpt_ids:
+          - "WtoW07_brief_mention"
+      -
+        principle_code: "WtoW08"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+    key_excerpts:
+      -
+        excerpt_id: "WtoW01_explicit_section"
+        original: "We ... create a working environment with mutual respect ... free from prejudice and harassment."
+        translated_ru: "Закреплено уважительное взаимодействие и запрет харассмента между коллегами."
+        section_title: "3. Promote a healthy culture"
+        relevance_comment: "Подтверждение статуса для принципа WtoW01."
+      -
+        excerpt_id: "WtoW03_explicit_section"
+        original: "The Company encourages active cooperation amongst all employees ..."
+        translated_ru: "Прямо закреплена командная работа и сотрудничество между подразделениями."
+        section_title: "3. Emphasizing teamwork"
+        relevance_comment: "Подтверждение статуса для принципа WtoW03."
+      -
+        excerpt_id: "WtoW04_brief_mention"
+        original: "we shall complete handover procedures as required."
+        translated_ru: "Требуется передавать рабочую информацию при ротации/уходе сотрудника."
+        section_title: "3. Finishing work handover as required"
+        relevance_comment: "Подтверждение статуса для принципа WtoW04."
+      -
+        excerpt_id: "WtoW07_brief_mention"
+        original: "employees may stop working ... to prevent personal injuries and property losses."
+        translated_ru: "Сотрудники обязаны реагировать на риски для безопасности коллег и окружающих."
+        section_title: "3. Proper handling events related to HSE"
+        relevance_comment: "Подтверждение статуса для принципа WtoW07."
+    other_principles: []
+  -
+    topic_id: "manager_to_worker"
+    principles:
+      -
+        principle_code: "MtoW01"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "MtoW01_explicit_section"
+      -
+        principle_code: "MtoW02"
+        principle_status: "brief_mention"
+        evidence_excerpt_ids:
+          - "MtoW02_brief_mention"
+      -
+        principle_code: "MtoW03"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "MtoW04"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "MtoW04_explicit_section"
+      -
+        principle_code: "MtoW05"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "MtoW06"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+    key_excerpts:
+      -
+        excerpt_id: "MtoW01_explicit_section"
+        original: "Haier Europe offers equal opportunities to everyone ... refrain from discriminating ..."
+        translated_ru: "Руководство обязано обеспечивать равные возможности и отсутствие дискриминации."
+        section_title: "3. Treating employees fairly"
+        relevance_comment: "Подтверждение статуса для принципа MtoW01."
+      -
+        excerpt_id: "MtoW02_brief_mention"
+        original: "Management shall ... help employees realize self-improvement, maximize their value."
+        translated_ru: "Руководство обязано содействовать развитию и росту подчиненных."
+        section_title: "1. Introduction / Responsibility of Management"
+        relevance_comment: "Подтверждение статуса для принципа MtoW02."
+      -
+        excerpt_id: "MtoW04_explicit_section"
+        original: "Management shall create an environment for fair competition and a positive atmosphere."
+        translated_ru: "Руководитель обязан формировать открытую и здоровую рабочую среду."
+        section_title: "1. Introduction / Responsibility of Management"
+        relevance_comment: "Подтверждение статуса для принципа MtoW04."
+    other_principles: []
+  -
+    topic_id: "company_to_worker"
+    principles:
+      -
+        principle_code: "CtoW01"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "CtoW02"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "CtoW03"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "CtoW03_explicit_section"
+      -
+        principle_code: "CtoW04"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "CtoW05"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "CtoW06"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "CtoW06_explicit_section"
+      -
+        principle_code: "CtoW07"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "CtoW08"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "CtoW09"
+        principle_status: "brief_mention"
+        evidence_excerpt_ids:
+          - "CtoW09_brief_mention"
+      -
+        principle_code: "CtoW10"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+    key_excerpts:
+      -
+        excerpt_id: "CtoW03_explicit_section"
+        original: "Haier Europe endeavors to establish and maintain a healthy and safe workplace."
+        translated_ru: "Компания обязуется поддерживать безопасные и здоровые условия труда."
+        section_title: "3. Maintaining a healthy and safe workplace"
+        relevance_comment: "Подтверждение статуса для принципа CtoW03."
+      -
+        excerpt_id: "CtoW06_explicit_section"
+        original: "prevent any type of discrimination or harassment."
+        translated_ru: "Компания прямо запрещает дискриминацию и харассмент."
+        section_title: "3. Anti-Discrimination and Anti-Harassment"
+        relevance_comment: "Подтверждение статуса для принципа CtoW06."
+      -
+        excerpt_id: "CtoW09_brief_mention"
+        original: "employees ... are also welcome to make suggestions through their direct supervisors."
+        translated_ru: "Кодекс предусматривает каналы обратной связи работников через руководителей."
+        section_title: "2. System and process optimization"
+        relevance_comment: "Подтверждение статуса для принципа CtoW09."
+    other_principles: []
+  -
+    topic_id: "worker_to_manager"
+    principles:
+      -
+        principle_code: "WtoM01"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "WtoM02"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "WtoM02_explicit_section"
+      -
+        principle_code: "WtoM03"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "WtoM03_explicit_section"
+      -
+        principle_code: "WtoM04"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "WtoM05"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "WtoM06"
+        principle_status: "brief_mention"
+        evidence_excerpt_ids:
+          - "WtoM06_brief_mention"
+    key_excerpts:
+      -
+        excerpt_id: "WtoM02_explicit_section"
+        original: "Operational and financial information and data must be true, accurate, complete."
+        translated_ru: "Сотрудник обязан предоставлять руководству достоверную и полную информацию."
+        section_title: "4. Providing true and accurate records and reports"
+        relevance_comment: "Подтверждение статуса для принципа WtoM02."
+      -
+        excerpt_id: "WtoM03_explicit_section"
+        original: "employees ... shall perform their duties accordingly."
+        translated_ru: "Сотрудники обязаны добросовестно исполнять обязанности по процессам компании."
+        section_title: "2. Observing the Company's Policies & Processes"
+        relevance_comment: "Подтверждение статуса для принципа WtoM03."
+      -
+        excerpt_id: "WtoM06_brief_mention"
+        original: "employees shall seek advice ... and refrain from violating rules in any way."
+        translated_ru: "При сомнениях сотрудник должен эскалировать вопрос и не исполнять потенциально неэтичные действия."
+        section_title: "2. Opposition to establishment of processes without permission"
+        relevance_comment: "Подтверждение статуса для принципа WtoM06."
+    other_principles: []
+notes: []
+limitations: []
+analyst_summary_ru: "Анализ выполнен последовательно по всем темам; цитаты сохранены на языке оригинала, переводы и выводы даны на русском языке."

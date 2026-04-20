@@ -1,0 +1,681 @@
+document_id: "manufacturing-china-catl-2023"
+company_name: "CATL"
+country: "China"
+industry: "Manufacturing"
+source_path: "Ethics_Codes_txt_files/Manufacturing_China_CATL_2023.txt"
+source_language: "en"
+document_type: "code_of_conduct"
+review_status: "completed"
+topic_analyses:
+  -
+    topic_id: "competitor_relations"
+    principles:
+      -
+        principle_code: "COMP01"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "COMP02"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "COMP03"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "COMP03_explicit_section"
+      -
+        principle_code: "COMP04"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "COMP05"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "COMP06"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "COMP07"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "COMP07_explicit_section"
+      -
+        principle_code: "COMP08"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "COMP09"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "COMP10"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+    key_excerpts:
+      -
+        excerpt_id: "COMP03_explicit_section"
+        original: "CATL must have a compliant company policy ... for applicable antitrust laws and similar anti-unfair competition laws."
+        translated_ru: "Компания закрепляет обязательное соблюдение антимонопольных и анти-недобросовестных правил конкуренции."
+        section_title: "2.2.6 CATL and society"
+        relevance_comment: "Подтверждение статуса для принципа COMP03."
+      -
+        excerpt_id: "COMP07_explicit_section"
+        original: "CATL respects the intellectual property of third parties."
+        translated_ru: "Компания прямо закрепляет уважение интеллектуальной собственности конкурентов и третьих лиц."
+        section_title: "2.1.5 Protect CATL’s assets and intellectual property"
+        relevance_comment: "Подтверждение статуса для принципа COMP07."
+    other_principles: []
+  -
+    topic_id: "hotline_principles"
+    principles:
+      -
+        principle_code: "HOT01"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "HOT01_explicit_section"
+      -
+        principle_code: "HOT02"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "HOT02_explicit_section"
+      -
+        principle_code: "HOT03"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "HOT03_explicit_section"
+      -
+        principle_code: "HOT04"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "HOT05"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "HOT05_explicit_section"
+      -
+        principle_code: "HOT06"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "HOT06_explicit_section"
+      -
+        principle_code: "HOT07"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "HOT08"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "HOT09"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "HOT10"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+    key_excerpts:
+      -
+        excerpt_id: "HOT01_explicit_section"
+        original: "Hotline number: 19959356699 ... E-mail: CATL-COC@catl.com"
+        translated_ru: "Кодекс содержит формальные каналы горячей линии (телефон/почта) для сообщений."
+        section_title: "3.3 Responsibilities and obligations of COC Advisory Office"
+        relevance_comment: "Подтверждение статуса для принципа HOT01."
+      -
+        excerpt_id: "HOT02_explicit_section"
+        original: "The COC Advisory Office shall keep the information obtained ... confidential."
+        translated_ru: "Информация по сообщениям и расследованиям должна сохраняться конфиденциальной."
+        section_title: "3.3 Responsibilities and obligations of COC Advisory Office"
+        relevance_comment: "Подтверждение статуса для принципа HOT02."
+      -
+        excerpt_id: "HOT03_explicit_section"
+        original: "CATL ... will protect the informer’s personal information and prevent the informer from being framed or retaliated."
+        translated_ru: "Заявитель защищён от преследования и реталиации."
+        section_title: "3.5 Informer reporting and prevention"
+        relevance_comment: "Подтверждение статуса для принципа HOT03."
+      -
+        excerpt_id: "HOT05_explicit_section"
+        original: "Those who violate the CATL Code of Conduct will be subject to disciplinary action."
+        translated_ru: "Нарушения кодекса влекут обязательные дисциплинарные меры."
+        section_title: "3.6 Disciplinary punishment"
+        relevance_comment: "Подтверждение статуса для принципа HOT05."
+      -
+        excerpt_id: "HOT06_explicit_section"
+        original: "Employees noticing violations or suspected violations ... shall report ... to ... COC Advisory Office."
+        translated_ru: "Сотрудники обязаны сообщать о выявленных или предполагаемых нарушениях."
+        section_title: "3.5 Informer reporting and prevention"
+        relevance_comment: "Подтверждение статуса для принципа HOT06."
+    other_principles: []
+  -
+    topic_id: "company_to_supplier"
+    principles:
+      -
+        principle_code: "CtoS01"
+        principle_status: "brief_mention"
+        evidence_excerpt_ids:
+          - "CtoS01_brief_mention"
+      -
+        principle_code: "CtoS02"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "CtoS03"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "CtoS03_explicit_section"
+      -
+        principle_code: "CtoS04"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "CtoS05"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "CtoS06"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "CtoS06_explicit_section"
+      -
+        principle_code: "CtoS07"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+    key_excerpts:
+      -
+        excerpt_id: "CtoS01_brief_mention"
+        original: "Maintain a reasonable and good relationship with investors, customers and suppliers."
+        translated_ru: "Зафиксирован принцип выстраивания корректных отношений с поставщиками."
+        section_title: "2.1.2 Maintain a reasonable and good relationship"
+        relevance_comment: "Подтверждение статуса для принципа CtoS01."
+      -
+        excerpt_id: "CtoS03_explicit_section"
+        original: "All employees ... are strictly prohibited from providing or accepting benefits in the business dealings with investors, customers and suppliers."
+        translated_ru: "Запрещено получение/предоставление выгод в отношениях с поставщиками и иными контрагентами."
+        section_title: "2.1.2 Maintain a reasonable and good relationship"
+        relevance_comment: "Подтверждение статуса для принципа CtoS03."
+      -
+        excerpt_id: "CtoS06_explicit_section"
+        original: "The Company is in constant pursuit of originality, and gains ... trust and support from customers, suppliers and stakeholders."
+        translated_ru: "Компания прямо ориентируется на устойчивые отношения доверия с поставщиками."
+        section_title: "1.2 Moral philosophy"
+        relevance_comment: "Подтверждение статуса для принципа CtoS06."
+    other_principles: []
+  -
+    topic_id: "worker_to_company"
+    principles:
+      -
+        principle_code: "WtoC01"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "WtoC02"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "WtoC02_explicit_section"
+      -
+        principle_code: "WtoC03"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "WtoC03_explicit_section"
+      -
+        principle_code: "WtoC04"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "WtoC04_explicit_section"
+      -
+        principle_code: "WtoC05"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "WtoC05_explicit_section"
+      -
+        principle_code: "WtoC06"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "WtoC07"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "WtoC08"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "WtoC09"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "WtoC10"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "WtoC10_explicit_section"
+    key_excerpts:
+      -
+        excerpt_id: "WtoC02_explicit_section"
+        original: "All employees should protect CATL’s assets ... and ensure their proper use."
+        translated_ru: "Сотрудники обязаны защищать активы компании и использовать их по назначению."
+        section_title: "2.1.5 Protect CATL’s assets and intellectual property"
+        relevance_comment: "Подтверждение статуса для принципа WtoC02."
+      -
+        excerpt_id: "WtoC03_explicit_section"
+        original: "CATL’s employees are not allowed to share confidential information with anyone outside of CATL."
+        translated_ru: "Сотрудникам запрещено раскрывать конфиденциальную информацию вне компании."
+        section_title: "2.1.6 Keep secrecy of the confidential information"
+        relevance_comment: "Подтверждение статуса для принципа WtoC03."
+      -
+        excerpt_id: "WtoC04_explicit_section"
+        original: "employees should vigorously protect the intellectual property."
+        translated_ru: "Сотрудники обязаны активно защищать интеллектуальную собственность компании."
+        section_title: "2.1.5 Protect CATL’s assets and intellectual property"
+        relevance_comment: "Подтверждение статуса для принципа WtoC04."
+      -
+        excerpt_id: "WtoC05_explicit_section"
+        original: "All employees ... must act in accordance with the law under any circumstances."
+        translated_ru: "Соблюдение закона сотрудниками закреплено как обязательное требование."
+        section_title: "2.2.6 CATL and society"
+        relevance_comment: "Подтверждение статуса для принципа WtoC05."
+      -
+        excerpt_id: "WtoC10_explicit_section"
+        original: "All employees should strive to maintain and increase [brand] value."
+        translated_ru: "Сотрудники обязаны поддерживать и повышать ценность бренда компании."
+        section_title: "2.1.4 Maintain brand value of CATL"
+        relevance_comment: "Подтверждение статуса для принципа WtoC10."
+    other_principles: []
+  -
+    topic_id: "company_to_investors"
+    principles:
+      -
+        principle_code: "CtoI01"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "CtoI02"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "CtoI03"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "CtoI03_explicit_section"
+      -
+        principle_code: "CtoI04"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "CtoI05"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "CtoI05_explicit_section"
+      -
+        principle_code: "CtoI06"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "CtoI07"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "CtoI08"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+    key_excerpts:
+      -
+        excerpt_id: "CtoI03_explicit_section"
+        original: "The Company conducts ... communication with stakeholders ... and actively and fairly discloses various corporate information."
+        translated_ru: "Компания обязуется к активному и справедливому раскрытию информации стейкхолдерам и инвесторам."
+        section_title: "1.2 Moral philosophy"
+        relevance_comment: "Подтверждение статуса для принципа CtoI03."
+      -
+        excerpt_id: "CtoI05_explicit_section"
+        original: "No CATL employees may purchase, sell, or trade public securities ... when they have material information."
+        translated_ru: "Запрещена инсайдерская торговля при наличии существенной непубличной информации."
+        section_title: "2.2.6 CATL and society"
+        relevance_comment: "Подтверждение статуса для принципа CtoI05."
+    other_principles: []
+  -
+    topic_id: "company_to_people"
+    principles:
+      -
+        principle_code: "CtoP01"
+        principle_status: "brief_mention"
+        evidence_excerpt_ids:
+          - "CtoP01_brief_mention"
+      -
+        principle_code: "CtoP02"
+        principle_status: "brief_mention"
+        evidence_excerpt_ids:
+          - "CtoP02_brief_mention"
+      -
+        principle_code: "CtoP03"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "CtoP04"
+        principle_status: "brief_mention"
+        evidence_excerpt_ids:
+          - "CtoP04_brief_mention"
+      -
+        principle_code: "CtoP05"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "CtoP06"
+        principle_status: "brief_mention"
+        evidence_excerpt_ids:
+          - "CtoP06_brief_mention"
+      -
+        principle_code: "CtoP07"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "CtoP07_explicit_section"
+      -
+        principle_code: "CtoP08"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "CtoP08_explicit_section"
+      -
+        principle_code: "CtoP09"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "CtoP10"
+        principle_status: "brief_mention"
+        evidence_excerpt_ids:
+          - "CtoP10_brief_mention"
+    key_excerpts:
+      -
+        excerpt_id: "CtoP01_brief_mention"
+        original: "CATL Code of Conduct complies with the social responsibility requirements of the RBA ..."
+        translated_ru: "Кодекс привязан к международным ESG/социальным требованиям RBA."
+        section_title: "Preface"
+        relevance_comment: "Подтверждение статуса для принципа CtoP01."
+      -
+        excerpt_id: "CtoP02_brief_mention"
+        original: "The Company conducts extensive and proactive communication with stakeholders and public figures."
+        translated_ru: "Закреплено открытое взаимодействие с обществом и стейкхолдерами."
+        section_title: "1.2 Moral philosophy"
+        relevance_comment: "Подтверждение статуса для принципа CtoP02."
+      -
+        excerpt_id: "CtoP04_brief_mention"
+        original: "CATL actively performs its social responsibility and strives to contribute ... to human society."
+        translated_ru: "Компания декларирует вклад в развитие общества."
+        section_title: "2.2.6 CATL and society"
+        relevance_comment: "Подтверждение статуса для принципа CtoP04."
+      -
+        excerpt_id: "CtoP06_brief_mention"
+        original: "set up the targeted poverty alleviation fund, the orphan education assistance fund and distress relief mutual fund."
+        translated_ru: "В кодексе предусмотрены меры поддержки уязвимых групп."
+        section_title: "1.2 Moral philosophy"
+        relevance_comment: "Подтверждение статуса для принципа CtoP06."
+      -
+        excerpt_id: "CtoP07_explicit_section"
+        original: "the Company should actively carry out various cultural and sports activities and social welfare activities."
+        translated_ru: "Компания прямо обязуется поддерживать культуру, спорт и социальные программы."
+        section_title: "1.2 Moral philosophy"
+        relevance_comment: "Подтверждение статуса для принципа CtoP07."
+      -
+        excerpt_id: "CtoP08_explicit_section"
+        original: "CATL adheres to the principle of safety first ... and should ... prevent occurrence of accidents."
+        translated_ru: "Компания закрепляет принцип “safety first” и предотвращение аварий/инцидентов."
+        section_title: "2.1.1 and 2.2.5"
+        relevance_comment: "Подтверждение статуса для принципа CtoP08."
+      -
+        excerpt_id: "CtoP10_brief_mention"
+        original: "CATL ... complies with the social responsibility requirements of the RBA."
+        translated_ru: "Компания ориентируется на международную отраслевую повестку ответственного бизнеса."
+        section_title: "Preface"
+        relevance_comment: "Подтверждение статуса для принципа CtoP10."
+    other_principles: []
+  -
+    topic_id: "company_to_buyer"
+    principles:
+      -
+        principle_code: "CtoB01"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "CtoB01_explicit_section"
+      -
+        principle_code: "CtoB02"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "CtoB02_explicit_section"
+      -
+        principle_code: "CtoB03"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "CtoB04"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "CtoB05"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "CtoB06"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "CtoB07"
+        principle_status: "brief_mention"
+        evidence_excerpt_ids:
+          - "CtoB07_brief_mention"
+      -
+        principle_code: "CtoB08"
+        principle_status: "brief_mention"
+        evidence_excerpt_ids:
+          - "CtoB08_brief_mention"
+      -
+        principle_code: "CtoB09"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "CtoB09_explicit_section"
+    key_excerpts:
+      -
+        excerpt_id: "CtoB01_explicit_section"
+        original: "Provide excellent products and services, and maintain safety."
+        translated_ru: "Компания прямо обязуется предоставлять качественные и безопасные продукты/услуги."
+        section_title: "2.1.1 Provide excellent products and services"
+        relevance_comment: "Подтверждение статуса для принципа CtoB01."
+      -
+        excerpt_id: "CtoB02_explicit_section"
+        original: "The instructions for use of CATL’s products should be simple and understandable."
+        translated_ru: "Компания обязуется предоставлять потребителям понятную и достаточную информацию по использованию."
+        section_title: "2.1.1 Provide excellent products and services"
+        relevance_comment: "Подтверждение статуса для принципа CtoB02."
+      -
+        excerpt_id: "CtoB07_brief_mention"
+        original: "All CATL’s employees should always pay a close attention to the evolving market and remain sensitive to customer needs."
+        translated_ru: "Кодекс требует постоянного учета потребностей клиентов."
+        section_title: "2.1.1 Correct understanding of customer needs"
+        relevance_comment: "Подтверждение статуса для принципа CtoB07."
+      -
+        excerpt_id: "CtoB08_brief_mention"
+        original: "All non-public information in relevance with ... customers ... is confidential information."
+        translated_ru: "Информация о клиентах отнесена к защищаемой конфиденциальной информации."
+        section_title: "2.1.6 Keep secrecy of the confidential information"
+        relevance_comment: "Подтверждение статуса для принципа CtoB08."
+      -
+        excerpt_id: "CtoB09_explicit_section"
+        original: "CATL must constantly check the safety of products ... to avoid accidents and damage."
+        translated_ru: "Прямо закреплена обязанность контроля безопасности продуктов."
+        section_title: "2.1.1 Quality control"
+        relevance_comment: "Подтверждение статуса для принципа CtoB09."
+    other_principles: []
+  -
+    topic_id: "worker_to_worker"
+    principles:
+      -
+        principle_code: "WtoW01"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "WtoW02"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "WtoW03"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "WtoW04"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "WtoW05"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "WtoW06"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "WtoW07"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "WtoW08"
+        principle_status: "brief_mention"
+        evidence_excerpt_ids:
+          - "WtoW08_brief_mention"
+    key_excerpts:
+      -
+        excerpt_id: "WtoW08_brief_mention"
+        original: "Employees noticing violations ... shall report to ... COC Advisory Office."
+        translated_ru: "Сотрудники обязаны сообщать о нарушениях, в том числе допущенных коллегами."
+        section_title: "3.5 Informer reporting and prevention"
+        relevance_comment: "Подтверждение статуса для принципа WtoW08."
+    other_principles: []
+  -
+    topic_id: "manager_to_worker"
+    principles:
+      -
+        principle_code: "MtoW01"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "MtoW02"
+        principle_status: "brief_mention"
+        evidence_excerpt_ids:
+          - "MtoW02_brief_mention"
+      -
+        principle_code: "MtoW03"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "MtoW04"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "MtoW05"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "MtoW06"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+    key_excerpts:
+      -
+        excerpt_id: "MtoW02_brief_mention"
+        original: "management ... should always grasp the internal and external suggestions, and constantly improve the enterprise system."
+        translated_ru: "Руководство обязано совершенствовать систему и поддерживать развитие сотрудников через управление процессами."
+        section_title: "1.2 Moral philosophy"
+        relevance_comment: "Подтверждение статуса для принципа MtoW02."
+    other_principles: []
+  -
+    topic_id: "company_to_worker"
+    principles:
+      -
+        principle_code: "CtoW01"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "CtoW02"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "CtoW03"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "CtoW03_explicit_section"
+      -
+        principle_code: "CtoW04"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "CtoW05"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "CtoW06"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "CtoW06_explicit_section"
+      -
+        principle_code: "CtoW07"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "CtoW08"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "CtoW09"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "CtoW10"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+    key_excerpts:
+      -
+        excerpt_id: "CtoW03_explicit_section"
+        original: "CATL gives top priority to creating a safe, healthy and comfortable working environment."
+        translated_ru: "Компания обязуется обеспечивать безопасные и комфортные условия труда."
+        section_title: "2.2.4 CATL and employees"
+        relevance_comment: "Подтверждение статуса для принципа CtoW03."
+      -
+        excerpt_id: "CtoW06_explicit_section"
+        original: "CATL should not discriminate based on race, skin color ... gender identity and sexual orientation."
+        translated_ru: "Прямо закреплен запрет дискриминации сотрудников."
+        section_title: "2.2.4 CATL and employees"
+        relevance_comment: "Подтверждение статуса для принципа CtoW06."
+    other_principles: []
+  -
+    topic_id: "worker_to_manager"
+    principles:
+      -
+        principle_code: "WtoM01"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "WtoM02"
+        principle_status: "brief_mention"
+        evidence_excerpt_ids:
+          - "WtoM02_brief_mention"
+      -
+        principle_code: "WtoM03"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "WtoM04"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "WtoM05"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "WtoM06"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+    key_excerpts:
+      -
+        excerpt_id: "WtoM02_brief_mention"
+        original: "Management personnel ... report ... in an accurate, comprehensive, objective and easy-to-understand manner."
+        translated_ru: "В кодексе закреплена обязанность достоверной и полной отчетности перед руководством."
+        section_title: "2.3 Special duties of CATL’s management personnel"
+        relevance_comment: "Подтверждение статуса для принципа WtoM02."
+    other_principles: []
+notes: []
+limitations: []
+analyst_summary_ru: "Анализ выполнен последовательно по всем темам; цитаты сохранены на языке оригинала, переводы и выводы даны на русском языке."
