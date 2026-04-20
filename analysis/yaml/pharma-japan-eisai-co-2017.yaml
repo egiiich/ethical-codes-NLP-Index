@@ -1,0 +1,568 @@
+document_id: "pharma-japan-eisai-co-2017"
+company_name: "Eisai Co., Ltd."
+country: "Japan"
+industry: "Pharma"
+source_path: "Ethics_Codes_txt_files/Pharma_Japan_Eisai Co._2017.txt"
+source_language: "en"
+document_type: "code_of_conduct"
+review_status: "completed"
+topic_analyses:
+  - topic_id: "competitor_relations"
+    principles:
+      - principle_code: "COMP01"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "COMP02"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "COMP03"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "COMP03_explicit_section"
+      - principle_code: "COMP04"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "COMP05"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "COMP06"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "COMP07"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "COMP07_explicit_section"
+      - principle_code: "COMP08"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "COMP09"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "COMP10"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+    key_excerpts:
+      - excerpt_id: "COMP03_explicit_section"
+        original: "Acts or practices of unfair restraint of trade, for example, cartel, price fixing, etc. are prohibited."
+        translated_ru: "Действия, ограничивающие конкуренцию (картели, фиксация цен и т.п.), прямо запрещены."
+        section_title: "4.2 Fair trade and competition practices"
+        relevance_comment: "Прямой запрет антиконкурентного сговора."
+      - excerpt_id: "COMP07_explicit_section"
+        original: "we may not use intellectual property owned by a third party without the third party’s permission."
+        translated_ru: "Нельзя использовать интеллектуальную собственность третьих лиц без разрешения."
+        section_title: "5.2 Intellectual property"
+        relevance_comment: "Прямое уважение прав ИС конкурентов/третьих лиц."
+    other_principles: []
+  - topic_id: "hotline_principles"
+    principles:
+      - principle_code: "HOT01"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "HOT01_explicit_section"
+      - principle_code: "HOT02"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "HOT02_explicit_section"
+      - principle_code: "HOT03"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "HOT03_explicit_section"
+      - principle_code: "HOT04"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "HOT05"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "HOT05_explicit_section"
+      - principle_code: "HOT06"
+        principle_status: "brief_mention"
+        evidence_excerpt_ids:
+          - "HOT06_brief_mention"
+      - principle_code: "HOT07"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "HOT08"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "HOT09"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "HOT10"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+    key_excerpts:
+      - excerpt_id: "HOT01_explicit_section"
+        original: "By providing reporting procedures and channels, we encourage each person to ask questions or express concerns."
+        translated_ru: "Компания обеспечивает каналы и процедуры для сообщений о нарушениях и вопросах."
+        section_title: "Message from the Chief Compliance Officer"
+        relevance_comment: "Доступ работников к каналам сообщения."
+      - excerpt_id: "HOT02_explicit_section"
+        original: "a report of a compliance concern will be treated confidentially and information will be shared only in order to carry out any necessary investigation."
+        translated_ru: "Сообщение о нарушении рассматривается конфиденциально; данные раскрываются только для расследования."
+        section_title: "1.3.2 Reporting compliance concerns"
+        relevance_comment: "Конфиденциальность материалов проверки."
+      - excerpt_id: "HOT03_explicit_section"
+        original: "No one will be punished or disciplined for making a report in good faith."
+        translated_ru: "За добросовестное сообщение о нарушении запрещено наказывать заявителя."
+        section_title: "1.3.1 Policy of non-retaliation"
+        relevance_comment: "Прямой запрет преследования информаторов."
+      - excerpt_id: "HOT05_explicit_section"
+        original: "Compliance concerns should be reported promptly because the earlier the company knows about them the sooner it can investigate and take appropriate action."
+        translated_ru: "Нарушения нужно сообщать незамедлительно, чтобы компания провела расследование и приняла меры."
+        section_title: "1.3 Asking questions and reporting compliance concerns"
+        relevance_comment: "Обязательное реагирование и расследование."
+      - excerpt_id: "HOT06_brief_mention"
+        original: "Everyone has an obligation to report concerns regarding non-compliance with written standards and Eisai’s ethical standards."
+        translated_ru: "Каждый обязан сообщать о случаях несоблюдения письменных и этических стандартов."
+        section_title: "1.1 Our responsibilities"
+        relevance_comment: "Обязанность сообщать о нарушениях."
+    other_principles: []
+  - topic_id: "company_to_supplier"
+    principles:
+      - principle_code: "CtoS01"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoS02"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoS03"
+        principle_status: "brief_mention"
+        evidence_excerpt_ids:
+          - "CtoS03_brief_mention"
+      - principle_code: "CtoS04"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoS05"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoS06"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoS07"
+        principle_status: "brief_mention"
+        evidence_excerpt_ids:
+          - "CtoS07_brief_mention"
+    key_excerpts:
+      - excerpt_id: "CtoS03_brief_mention"
+        original: "we do not tolerate bribery or any other form of corrupt business behaviour"
+        translated_ru: "Компания не терпит взяточничества и коррупционного поведения в деловых отношениях."
+        section_title: "Charter of Business Conduct"
+        relevance_comment: "Краткий признак добросовестного отношения к партнёрам."
+      - excerpt_id: "CtoS07_brief_mention"
+        original: "without prior advice and/or approval from the relevant Legal Department"
+        translated_ru: "Обсуждение чувствительных условий сделок без предварительного одобрения юридической службы запрещено."
+        section_title: "4.2.3 Sensitive topics for distributors, customers and suppliers"
+        relevance_comment: "Снижение риска манипуляций условиями сделок."
+    other_principles: []
+  - topic_id: "worker_to_company"
+    principles:
+      - principle_code: "WtoC01"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "WtoC02"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "WtoC02_explicit_section"
+      - principle_code: "WtoC03"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "WtoC03_explicit_section"
+      - principle_code: "WtoC04"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "WtoC04_explicit_section"
+      - principle_code: "WtoC05"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "WtoC05_explicit_section"
+      - principle_code: "WtoC06"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "WtoC07"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "WtoC08"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "WtoC09"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "WtoC10"
+        principle_status: "brief_mention"
+        evidence_excerpt_ids:
+          - "WtoC10_brief_mention"
+    key_excerpts:
+      - excerpt_id: "WtoC02_explicit_section"
+        original: "Any loss, theft or improper use of these assets can cause serious financial loss and damage to Eisai’s business."
+        translated_ru: "Потеря, кража или ненадлежащее использование активов наносят серьёзный ущерб бизнесу."
+        section_title: "5.6 Eisai’s assets"
+        relevance_comment: "Прямое требование беречь активы компании."
+      - excerpt_id: "WtoC03_explicit_section"
+        original: "Confidential information is an important Eisai asset."
+        translated_ru: "Конфиденциальная информация является важным активом Eisai."
+        section_title: "5.3 Confidential information"
+        relevance_comment: "Прямой принцип защиты конфиденциальных данных."
+      - excerpt_id: "WtoC04_explicit_section"
+        original: "These may give rise to valuable assets in the form of intellectual property rights such as patent rights, design rights, trademark rights, copyright, know-how, and trade secrets."
+        translated_ru: "Результаты разработки формируют ценные активы ИС: патенты, товарные знаки, ноу-хау и коммерческие тайны."
+        section_title: "5.2 Intellectual property"
+        relevance_comment: "Прямой принцип защиты ИС компании."
+      - excerpt_id: "WtoC05_explicit_section"
+        original: "Compliance in Eisai means complying with written standards such as laws, regulations, Eisai policies and procedures"
+        translated_ru: "Комплаенс в Eisai означает соблюдение законов, регуляторных требований и внутренних политик."
+        section_title: "Introduction A. What is compliance in Eisai?"
+        relevance_comment: "Прямое требование соблюдать законы и правила."
+      - excerpt_id: "WtoC10_brief_mention"
+        original: "Failing to do the right thing may also damage Eisai’s business, reputation and patients."
+        translated_ru: "Неправильные действия могут нанести ущерб бизнесу и репутации Eisai."
+        section_title: "1.3 Asking questions and reporting compliance concerns"
+        relevance_comment: "Краткое указание на защиту деловой репутации."
+    other_principles: []
+  - topic_id: "company_to_investors"
+    principles:
+      - principle_code: "CtoI01"
+        principle_status: "brief_mention"
+        evidence_excerpt_ids:
+          - "CtoI01_brief_mention"
+      - principle_code: "CtoI02"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoI03"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "CtoI03_explicit_section"
+      - principle_code: "CtoI04"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoI05"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "CtoI05_explicit_section"
+      - principle_code: "CtoI06"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoI07"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoI08"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+    key_excerpts:
+      - excerpt_id: "CtoI01_brief_mention"
+        original: "We promote mutual respect and trust in our business relationships including ... shareholders, investors"
+        translated_ru: "Компания декларирует доверительные отношения с акционерами и инвесторами."
+        section_title: "Charter of Business Conduct"
+        relevance_comment: "Краткое подтверждение равного и уважительного отношения к инвесторам."
+      - excerpt_id: "CtoI03_explicit_section"
+        original: "we communicate with stakeholders, and appropriately disclose corporate information in a timely manner"
+        translated_ru: "Компания обязуется своевременно раскрывать корпоративную информацию заинтересованным сторонам."
+        section_title: "Charter of Business Conduct"
+        relevance_comment: "Прямой принцип своевременного раскрытия."
+      - excerpt_id: "CtoI05_explicit_section"
+        original: "The use of insider information for making personal decisions relating to the purchase or sale of securities or other investments is illegal."
+        translated_ru: "Использование инсайдерской информации при операциях с ценными бумагами незаконно."
+        section_title: "5.5 Insider information and trading"
+        relevance_comment: "Прямой запрет инсайдерской торговли."
+    other_principles: []
+  - topic_id: "company_to_people"
+    principles:
+      - principle_code: "CtoP01"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoP02"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoP03"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoP04"
+        principle_status: "brief_mention"
+        evidence_excerpt_ids:
+          - "CtoP04_brief_mention"
+      - principle_code: "CtoP05"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoP06"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoP07"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoP08"
+        principle_status: "brief_mention"
+        evidence_excerpt_ids:
+          - "CtoP08_brief_mention"
+      - principle_code: "CtoP09"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoP10"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+    key_excerpts:
+      - excerpt_id: "CtoP04_brief_mention"
+        original: "We are a “good corporate citizen” and support and encourage activities that contribute to society"
+        translated_ru: "Компания поддерживает инициативы, способствующие развитию общества."
+        section_title: "Eisai and society"
+        relevance_comment: "Краткий вклад в социальное развитие."
+      - excerpt_id: "CtoP08_brief_mention"
+        original: "Certain areas of our business ... are strictly regulated or may impact the environment."
+        translated_ru: "Отдельные направления деятельности строго регулируются, поскольку могут влиять на окружающую среду и безопасность."
+        section_title: "2.3 Health and safety"
+        relevance_comment: "Краткое подтверждение предотвращения общественных рисков."
+    other_principles: []
+  - topic_id: "company_to_buyer"
+    principles:
+      - principle_code: "CtoB01"
+        principle_status: "brief_mention"
+        evidence_excerpt_ids:
+          - "CtoB01_brief_mention"
+      - principle_code: "CtoB02"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoB03"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoB04"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoB05"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "CtoB05_explicit_section"
+      - principle_code: "CtoB06"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoB07"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoB08"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoB09"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "CtoB09_explicit_section"
+    key_excerpts:
+      - excerpt_id: "CtoB01_brief_mention"
+        original: "We give first thoughts to patients and their families."
+        translated_ru: "Приоритет компании — пациенты и их семьи."
+        section_title: "Charter of Business Conduct"
+        relevance_comment: "Ориентация на интересы потребителя/пациента."
+      - excerpt_id: "CtoB05_explicit_section"
+        original: "we conduct our business ... in compliance with all relevant laws and ethical standards."
+        translated_ru: "Бизнес ведётся в соответствии с применимыми законами и этическими стандартами."
+        section_title: "Charter of Business Conduct"
+        relevance_comment: "Прямой этико-правовой стандарт работы с клиентом."
+      - excerpt_id: "CtoB09_explicit_section"
+        original: "3.4 Adverse events and safety"
+        translated_ru: "Раздел кодекса отдельно посвящён нежелательным событиям и безопасности."
+        section_title: "Contents"
+        relevance_comment: "Явный фокус на безопасности продукта/лечения."
+    other_principles: []
+  - topic_id: "worker_to_worker"
+    principles:
+      - principle_code: "WtoW01"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "WtoW01_explicit_section"
+      - principle_code: "WtoW02"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "WtoW03"
+        principle_status: "brief_mention"
+        evidence_excerpt_ids:
+          - "WtoW03_brief_mention"
+      - principle_code: "WtoW04"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "WtoW05"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "WtoW06"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "WtoW07"
+        principle_status: "brief_mention"
+        evidence_excerpt_ids:
+          - "WtoW07_brief_mention"
+      - principle_code: "WtoW08"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+    key_excerpts:
+      - excerpt_id: "WtoW01_explicit_section"
+        original: "Eisai welcomes and respects diversity, and believes in the fair treatment of all people."
+        translated_ru: "Eisai уважает разнообразие и придерживается справедливого отношения ко всем."
+        section_title: "2.1 Discrimination"
+        relevance_comment: "Прямой принцип уважительного отношения между коллегами."
+      - excerpt_id: "WtoW03_brief_mention"
+        original: "Every employee has an individual responsibility to work together as a team"
+        translated_ru: "Каждый сотрудник несёт ответственность за командную работу."
+        section_title: "Message from the Chief Compliance Officer"
+        relevance_comment: "Краткий признак командного взаимодействия."
+      - excerpt_id: "WtoW07_brief_mention"
+        original: "We must immediately report any accident, or unsafe or potentially hazardous practice or condition"
+        translated_ru: "Необходимо немедленно сообщать об авариях и опасных практиках/условиях."
+        section_title: "2.3 Health and safety"
+        relevance_comment: "Краткий принцип заботы о безопасности коллег."
+    other_principles: []
+  - topic_id: "manager_to_worker"
+    principles:
+      - principle_code: "MtoW01"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "MtoW01_explicit_section"
+      - principle_code: "MtoW02"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "MtoW02_explicit_section"
+      - principle_code: "MtoW03"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "MtoW04"
+        principle_status: "brief_mention"
+        evidence_excerpt_ids:
+          - "MtoW04_brief_mention"
+      - principle_code: "MtoW05"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "MtoW06"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+    key_excerpts:
+      - excerpt_id: "MtoW01_explicit_section"
+        original: "Examples of discrimination include ... race, gender, age, disability, national origin, religion, sexual orientation, marital status."
+        translated_ru: "Запрещается дискриминация по расе, полу, возрасту, инвалидности, происхождению, религии и др."
+        section_title: "2.1 Discrimination"
+        relevance_comment: "Прямое требование равного отношения руководителей."
+      - excerpt_id: "MtoW02_explicit_section"
+        original: "Officers, directors and managers must guide and train employees under their supervision"
+        translated_ru: "Руководители обязаны направлять и обучать сотрудников в их подчинении."
+        section_title: "1.2 Additional responsibilities for officers, directors and managers"
+        relevance_comment: "Прямое содействие развитию подчинённых."
+      - excerpt_id: "MtoW04_brief_mention"
+        original: "if any of you has any concerns or problems, please speak up."
+        translated_ru: "Руководство призывает сотрудников открыто высказывать вопросы и проблемы."
+        section_title: "Message from the Chief Compliance Officer"
+        relevance_comment: "Краткий признак культуры открытого диалога."
+    other_principles: []
+  - topic_id: "company_to_worker"
+    principles:
+      - principle_code: "CtoW01"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoW02"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoW03"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "CtoW03_explicit_section"
+      - principle_code: "CtoW04"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoW05"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoW06"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "CtoW06_explicit_section"
+      - principle_code: "CtoW07"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoW08"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoW09"
+        principle_status: "brief_mention"
+        evidence_excerpt_ids:
+          - "CtoW09_brief_mention"
+      - principle_code: "CtoW10"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+    key_excerpts:
+      - excerpt_id: "CtoW03_explicit_section"
+        original: "Eisai provides a work environment that complies with health and safety laws and regulations."
+        translated_ru: "Компания обеспечивает рабочую среду, соответствующую требованиям охраны труда и безопасности."
+        section_title: "2.3 Health and safety"
+        relevance_comment: "Прямое обеспечение безопасных условий труда."
+      - excerpt_id: "CtoW06_explicit_section"
+        original: "Eisai policies are intended to encourage the professional growth and development of all employees in a workplace environment that is free from discrimination."
+        translated_ru: "Политики компании направлены на развитие сотрудников в среде, свободной от дискриминации."
+        section_title: "2.1 Discrimination"
+        relevance_comment: "Прямой антидискриминационный стандарт работодателя."
+      - excerpt_id: "CtoW09_brief_mention"
+        original: "If any of you has any concerns or problems, please speak up."
+        translated_ru: "Сотрудников поощряют открыто сообщать о проблемах и вопросах."
+        section_title: "Message from the Chief Compliance Officer"
+        relevance_comment: "Краткий механизм обратной связи от работников."
+    other_principles: []
+  - topic_id: "worker_to_manager"
+    principles:
+      - principle_code: "WtoM01"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "WtoM02"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "WtoM03"
+        principle_status: "brief_mention"
+        evidence_excerpt_ids:
+          - "WtoM03_brief_mention"
+      - principle_code: "WtoM04"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "WtoM05"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "WtoM06"
+        principle_status: "brief_mention"
+        evidence_excerpt_ids:
+          - "WtoM06_brief_mention"
+    key_excerpts:
+      - excerpt_id: "WtoM03_brief_mention"
+        original: "Our managers can help us implement the standards set out in this Handbook."
+        translated_ru: "Сотрудники должны взаимодействовать с руководителями при применении стандартов кодекса."
+        section_title: "1.1 Our responsibilities"
+        relevance_comment: "Краткое добросовестное следование рабочим указаниям."
+      - excerpt_id: "WtoM06_brief_mention"
+        original: "if we have a question or are unsure ... we should ask our manager"
+        translated_ru: "При сомнениях в этичности действий сотрудник должен обращаться к руководителю."
+        section_title: "1.1 Our responsibilities"
+        relevance_comment: "Краткий механизм отказа от неэтичных действий через эскалацию."
+    other_principles: []
+analyst_summary_ru: "Кодекс Eisai детально покрывает комплаенс, антикоррупцию, сообщения о нарушениях, защиту данных/активов, безопасность и отношения с инвесторами. Существенных лакун по ключевым процедурным разделам не обнаружено."
+principle_codes_detected:
+  - "COMP03"
+  - "COMP07"
+  - "HOT01"
+  - "HOT02"
+  - "HOT03"
+  - "HOT05"
+  - "HOT06"
+  - "CtoS03"
+  - "CtoS07"
+  - "WtoC02"
+  - "WtoC03"
+  - "WtoC04"
+  - "WtoC05"
+  - "WtoC10"
+  - "CtoI01"
+  - "CtoI03"
+  - "CtoI05"
+  - "CtoP04"
+  - "CtoP08"
+  - "CtoB01"
+  - "CtoB05"
+  - "CtoB09"
+  - "WtoW01"
+  - "WtoW03"
+  - "WtoW07"
+  - "MtoW01"
+  - "MtoW02"
+  - "MtoW04"
+  - "CtoW03"
+  - "CtoW06"
+  - "CtoW09"
+  - "WtoM03"
+  - "WtoM06"

@@ -28,7 +28,7 @@
 5. Обновить `registry/principle_presence_matrix_wide.csv`.
 6. Обновить `registry/principle_presence_matrix_long.csv` (первые 4 столбца как в wide + поля `Principle_code`, `Principle_text`, `Presence`, `Evidence`, `Date of analysis`, `Analysis model`).
 7. Обновить `registry/principle_index_matrix.csv` на основе `registry/principle_presence_matrix_wide.csv`.
-7. Выполнять синтез по теме из агрегированных YAML/матриц.
+8. Выполнять синтез по теме из агрегированных YAML/матриц.
 
 ## Базовые правила
 

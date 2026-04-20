@@ -1,0 +1,463 @@
+document_id: "retail-china-luckin-coffee-2020"
+company_name: "Luckin Coffee Inc."
+country: "China"
+industry: "Retail"
+source_path: "Ethics_Codes_txt_files/Retail_China_Luckin Coffee_2020.txt"
+source_language: "en"
+document_type: "code_of_conduct"
+review_status: "completed"
+topic_analyses:
+  - topic_id: "competitor_relations"
+    principles:
+      - principle_code: "COMP01"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "COMP02"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "COMP03"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "COMP03_explicit_section"
+      - principle_code: "COMP04"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "COMP05"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "COMP06"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "COMP07"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "COMP08"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "COMP09"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "COMP10"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+    key_excerpts:
+      - excerpt_id: "COMP03_explicit_section"
+        original: "The antitrust laws prohibit agreements among competitors on such matters as prices ... and the allocation of markets or customers."
+        translated_ru: "Антимонопольные нормы запрещают соглашения между конкурентами по ценам и разделу рынков/клиентов."
+        section_title: "VII. Compliance with Antitrust Laws"
+        relevance_comment: "Прямой запрет антиконкурентных практик."
+    other_principles: []
+  - topic_id: "hotline_principles"
+    principles:
+      - principle_code: "HOT01"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "HOT02"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "HOT03"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "HOT03_explicit_section"
+      - principle_code: "HOT04"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "HOT05"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "HOT06"
+        principle_status: "brief_mention"
+        evidence_excerpt_ids:
+          - "HOT06_brief_mention"
+      - principle_code: "HOT07"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "HOT08"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "HOT09"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "HOT10"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+    key_excerpts:
+      - excerpt_id: "HOT03_explicit_section"
+        original: "The Company may not retaliate against all employee for any of these activities"
+        translated_ru: "Компания не вправе применять ответные меры к сотруднику за сообщения о правонарушениях госорганам."
+        section_title: "Reporting Violations to a Governmental Agency"
+        relevance_comment: "Прямой запрет преследования информаторов."
+      - excerpt_id: "HOT06_brief_mention"
+        original: "Any suspected loss, misuse or theft should be reported to their manager and/or the Compliance Department"
+        translated_ru: "О подозрении на потерю, злоупотребление или кражу активов необходимо сообщать менеджеру и/или в Compliance."
+        section_title: "V. Protection and Proper Use of Company Assets"
+        relevance_comment: "Краткая обязанность сообщать о нарушениях."
+    other_principles: []
+  - topic_id: "company_to_supplier"
+    principles:
+      - principle_code: "CtoS01"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoS02"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoS03"
+        principle_status: "brief_mention"
+        evidence_excerpt_ids:
+          - "CtoS03_brief_mention"
+      - principle_code: "CtoS04"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoS05"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoS06"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoS07"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+    key_excerpts:
+      - excerpt_id: "CtoS03_brief_mention"
+        original: "we shall avoid doing business with others who intentionally and continually violate the law or the standards of this Code."
+        translated_ru: "Компания избегает деловых отношений с контрагентами, систематически нарушающими закон и кодекс."
+        section_title: "II. Doing Business with Others"
+        relevance_comment: "Краткий признак отказа от недобросовестных поставщиков/партнёров."
+    other_principles: []
+  - topic_id: "worker_to_company"
+    principles:
+      - principle_code: "WtoC01"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "WtoC02"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "WtoC02_explicit_section"
+      - principle_code: "WtoC03"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "WtoC03_explicit_section"
+      - principle_code: "WtoC04"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "WtoC04_explicit_section"
+      - principle_code: "WtoC05"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "WtoC05_explicit_section"
+      - principle_code: "WtoC06"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "WtoC07"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "WtoC08"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "WtoC09"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "WtoC10"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "WtoC10_explicit_section"
+    key_excerpts:
+      - excerpt_id: "WtoC02_explicit_section"
+        original: "The sole purpose of the Company’s equipment ... is the conduct of our business. They may only be used for Company business"
+        translated_ru: "Оборудование и ресурсы компании допускается использовать только для деловых целей компании."
+        section_title: "V. Protection and Proper Use of Company Assets"
+        relevance_comment: "Прямой принцип бережного и целевого использования активов."
+      - excerpt_id: "WtoC03_explicit_section"
+        original: "all proprietary information should be maintained in strict confidence"
+        translated_ru: "Вся служебная конфиденциальная информация должна храниться в строгой тайне."
+        section_title: "III. Protection of Confidential Proprietary Information"
+        relevance_comment: "Прямой принцип защиты конфиденциальных данных."
+      - excerpt_id: "WtoC04_explicit_section"
+        original: "We respect the property rights of other companies and their proprietary information"
+        translated_ru: "Компания требует уважать права собственности и конфиденциальную информацию других компаний."
+        section_title: "III. Protection of Confidential Proprietary Information"
+        relevance_comment: "Прямой принцип защиты ИС и прав третьих сторон."
+      - excerpt_id: "WtoC05_explicit_section"
+        original: "in full compliance with all applicable laws, rules and regulations."
+        translated_ru: "Компания обязуется вести деятельность в полном соответствии с применимыми законами и правилами."
+        section_title: "I. Compliance with Laws, Rules and Regulations"
+        relevance_comment: "Прямой правовой комплаенс."
+      - excerpt_id: "WtoC10_explicit_section"
+        original: "our reputation for integrity, professionalism and fairness."
+        translated_ru: "Репутация честности, профессионализма и справедливости названа ключевым активом компании."
+        section_title: "Introduction"
+        relevance_comment: "Прямой фокус на деловой репутации."
+    other_principles: []
+  - topic_id: "company_to_investors"
+    principles:
+      - principle_code: "CtoI01"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoI02"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoI03"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "CtoI03_explicit_section"
+      - principle_code: "CtoI04"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoI05"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "CtoI05_explicit_section"
+      - principle_code: "CtoI06"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoI07"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoI08"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+    key_excerpts:
+      - excerpt_id: "CtoI03_explicit_section"
+        original: "Our reports ... shall include full, fair, accurate, timely and understandable disclosure"
+        translated_ru: "Публичные отчёты компании должны содержать полное, точное, своевременное и понятное раскрытие."
+        section_title: "IX. Quality of Public Disclosures"
+        relevance_comment: "Прямой принцип прозрачного раскрытия для инвесторов."
+      - excerpt_id: "CtoI05_explicit_section"
+        original: "Using non-public Company information to trade in securities ... is illegal."
+        translated_ru: "Использование непубличной информации компании для операций с ценными бумагами незаконно."
+        section_title: "X. Trading on Inside Information"
+        relevance_comment: "Прямой запрет инсайдерской торговли."
+    other_principles: []
+  - topic_id: "company_to_people"
+    principles:
+      - principle_code: "CtoP01"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoP02"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoP03"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoP04"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoP05"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoP06"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoP07"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoP08"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoP09"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoP10"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+    key_excerpts:
+    other_principles: []
+  - topic_id: "company_to_buyer"
+    principles:
+      - principle_code: "CtoB01"
+        principle_status: "brief_mention"
+        evidence_excerpt_ids:
+          - "CtoB01_brief_mention"
+      - principle_code: "CtoB02"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoB03"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoB04"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoB05"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "CtoB05_explicit_section"
+      - principle_code: "CtoB06"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoB07"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoB08"
+        principle_status: "brief_mention"
+        evidence_excerpt_ids:
+          - "CtoB08_brief_mention"
+      - principle_code: "CtoB09"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+    key_excerpts:
+      - excerpt_id: "CtoB01_brief_mention"
+        original: "Each employee ... should endeavor to deal fairly with customers ... at all times"
+        translated_ru: "Сотрудники обязаны добросовестно и справедливо взаимодействовать с клиентами на постоянной основе."
+        section_title: "VI. Fair Dealing and Anti-Corruption"
+        relevance_comment: "Краткий клиентоориентированный стандарт поведения."
+      - excerpt_id: "CtoB05_explicit_section"
+        original: "Each employee has an obligation to comply with the anti-corruption and anti-bribery laws"
+        translated_ru: "Каждый сотрудник обязан соблюдать антикоррупционные и антивзяточные нормы."
+        section_title: "VI. Fair Dealing and Anti-Corruption"
+        relevance_comment: "Прямой этико-правовой стандарт взаимодействия с рынком и клиентами."
+      - excerpt_id: "CtoB08_brief_mention"
+        original: "could be harmful to the Company, its customers or its suppliers if disclosed."
+        translated_ru: "Раскрытие конфиденциальных данных может навредить клиентам и поставщикам, поэтому такие данные защищаются."
+        section_title: "III. Protection of Confidential Proprietary Information"
+        relevance_comment: "Краткое подтверждение защиты данных клиентов."
+    other_principles: []
+  - topic_id: "worker_to_worker"
+    principles:
+      - principle_code: "WtoW01"
+        principle_status: "brief_mention"
+        evidence_excerpt_ids:
+          - "WtoW01_brief_mention"
+      - principle_code: "WtoW02"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "WtoW03"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "WtoW04"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "WtoW05"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "WtoW06"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "WtoW07"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "WtoW08"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+    key_excerpts:
+      - excerpt_id: "WtoW01_brief_mention"
+        original: "Be respectful of your colleagues and all persons associated with the Company"
+        translated_ru: "Требуется уважительное отношение к коллегам и всем связанным с компанией лицам."
+        section_title: "XIII. Social Media"
+        relevance_comment: "Краткий принцип уважительной коммуникации коллег."
+    other_principles: []
+  - topic_id: "manager_to_worker"
+    principles:
+      - principle_code: "MtoW01"
+        principle_status: "brief_mention"
+        evidence_excerpt_ids:
+          - "MtoW01_brief_mention"
+      - principle_code: "MtoW02"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "MtoW03"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "MtoW04"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "MtoW05"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "MtoW06"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+    key_excerpts:
+      - excerpt_id: "MtoW01_brief_mention"
+        original: "our policy on equal opportunity, non-discrimination and fair employment applies to social media sites."
+        translated_ru: "Политика равных возможностей, недискриминации и справедливой занятости распространяется и на коммуникации в соцсетях."
+        section_title: "XIII. Social Media"
+        relevance_comment: "Краткий принцип равного отношения руководства к сотрудникам."
+    other_principles: []
+  - topic_id: "company_to_worker"
+    principles:
+      - principle_code: "CtoW01"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoW02"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoW03"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoW04"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoW05"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoW06"
+        principle_status: "brief_mention"
+        evidence_excerpt_ids:
+          - "CtoW06_brief_mention"
+      - principle_code: "CtoW07"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoW08"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoW09"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoW10"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+    key_excerpts:
+      - excerpt_id: "CtoW06_brief_mention"
+        original: "our policy on equal opportunity, non-discrimination and fair employment applies"
+        translated_ru: "Компания подтверждает действие политики недискриминации и равных возможностей."
+        section_title: "XIII. Social Media"
+        relevance_comment: "Краткий антидискриминационный стандарт работодателя."
+    other_principles: []
+  - topic_id: "worker_to_manager"
+    principles:
+      - principle_code: "WtoM01"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "WtoM02"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "WtoM03"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "WtoM04"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "WtoM05"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "WtoM06"
+        principle_status: "brief_mention"
+        evidence_excerpt_ids:
+          - "WtoM06_brief_mention"
+    key_excerpts:
+      - excerpt_id: "WtoM06_brief_mention"
+        original: "When in doubt ... contact your manager, Compliance Department and/or Legal Department ... before taking any action."
+        translated_ru: "При сомнении сотрудник должен обратиться к менеджеру, Compliance и/или юристам до совершения действия."
+        section_title: "VI. Fair Dealing and Anti-Corruption"
+        relevance_comment: "Краткий механизм отказа от потенциально неэтичных/незаконных действий."
+    other_principles: []
+analyst_summary_ru: "Кодекс Luckin 2020 содержит структурированные нормы по комплаенсу, антикоррупции, антимонопольным ограничениям, защите активов и конфиденциальности, а также по раскрытию и инсайдерским ограничениям; качество покрытия высокое, но блоки по внутренним HR-процедурам описаны кратко."
+principle_codes_detected:
+  - "COMP03"
+  - "HOT03"
+  - "HOT06"
+  - "CtoS03"
+  - "WtoC02"
+  - "WtoC03"
+  - "WtoC04"
+  - "WtoC05"
+  - "WtoC10"
+  - "CtoI03"
+  - "CtoI05"
+  - "CtoB01"
+  - "CtoB05"
+  - "CtoB08"
+  - "WtoW01"
+  - "MtoW01"
+  - "CtoW06"
+  - "WtoM06"

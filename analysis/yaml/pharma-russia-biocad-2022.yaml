@@ -1,0 +1,544 @@
+document_id: "pharma-russia-biocad-2022"
+company_name: "BIOCAD"
+country: "Russia"
+industry: "Pharma"
+source_path: "Ethics_Codes_txt_files/Pharma_Russia_Biocad_2022.txt"
+source_language: "ru"
+document_type: "code_of_conduct"
+review_status: "needs_human_review"
+topic_analyses:
+  - topic_id: "competitor_relations"
+    principles:
+      - principle_code: "COMP01"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "COMP02"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "COMP03"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "COMP04"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "COMP05"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "COMP06"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "COMP07"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "COMP08"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "COMP09"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "COMP10"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+    key_excerpts:
+    other_principles: []
+  - topic_id: "hotline_principles"
+    principles:
+      - principle_code: "HOT01"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "HOT01_explicit_section"
+      - principle_code: "HOT02"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "HOT02_explicit_section"
+      - principle_code: "HOT03"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "HOT03_explicit_section"
+      - principle_code: "HOT04"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "HOT05"
+        principle_status: "brief_mention"
+        evidence_excerpt_ids:
+          - "HOT05_brief_mention"
+      - principle_code: "HOT06"
+        principle_status: "brief_mention"
+        evidence_excerpt_ids:
+          - "HOT06_brief_mention"
+      - principle_code: "HOT07"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "HOT08"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "HOT09"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "HOT10"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+    key_excerpts:
+      - excerpt_id: "HOT01_explicit_section"
+        original: "Если ... информация о его нарушении, то вы можете обратить в Этический совет, направив письмо по адресу ethics@biocad.ru."
+        translated_ru: "Сотрудникам предоставлен прямой канал обращения в Этический совет по вопросам нарушений."
+        section_title: "Обращение председателя Этического совета"
+        relevance_comment: "Прямой доступ работников к каналу сообщений."
+      - excerpt_id: "HOT02_explicit_section"
+        original: "BIOCAD гарантирует, что персональные данные сотрудника, предоставившего информацию о нарушении Кодекса, не станут предметом огласки."
+        translated_ru: "Компания гарантирует конфиденциальность данных заявителя."
+        section_title: "Как понять не нарушаю ли я этический кодекс?"
+        relevance_comment: "Прямая гарантия конфиденциальности."
+      - excerpt_id: "HOT03_explicit_section"
+        original: "... не станут ... причиной негативных последствий, преследования или дискриминации, в отношении сотрудника, сообщившего такую информацию."
+        translated_ru: "Сообщивший о нарушении сотрудник защищен от преследования и негативных последствий."
+        section_title: "Как понять не нарушаю ли я этический кодекс?"
+        relevance_comment: "Прямой запрет реталиации."
+      - excerpt_id: "HOT05_brief_mention"
+        original: "Каждый случай нарушения кодекса рассматривается Этическим советом ... могут быть ... приняты меры ответственности."
+        translated_ru: "Каждое нарушение рассматривается, и при необходимости применяются меры ответственности."
+        section_title: "На кого распространяется Этический кодекс"
+        relevance_comment: "Краткое подтверждение обязательного реагирования."
+      - excerpt_id: "HOT06_brief_mention"
+        original: "... с информацией о его нарушении, сотрудникам следует обращаться ... в Этический совет ..."
+        translated_ru: "Сотрудники должны сообщать о нарушениях через утвержденные каналы."
+        section_title: "Этический совет"
+        relevance_comment: "Краткая норма об обязательной эскалации нарушений."
+    other_principles: []
+  - topic_id: "company_to_supplier"
+    principles:
+      - principle_code: "CtoS01"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoS02"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoS03"
+        principle_status: "brief_mention"
+        evidence_excerpt_ids:
+          - "CtoS03_brief_mention"
+      - principle_code: "CtoS04"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoS05"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoS06"
+        principle_status: "brief_mention"
+        evidence_excerpt_ids:
+          - "CtoS06_brief_mention"
+      - principle_code: "CtoS07"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+    key_excerpts:
+      - excerpt_id: "CtoS03_brief_mention"
+        original: "... вести свою деятельность добросовестно, в соответствии со строгими международными стандартами ..."
+        translated_ru: "Отношения с партнерами и контрагентами декларируются как добросовестные и соответствующие высоким стандартам."
+        section_title: "Обращение председателя совета директоров"
+        relevance_comment: "Краткая норма этичного отношения к контрагентам."
+      - excerpt_id: "CtoS06_brief_mention"
+        original: "Для нас быть надежным партнером ..."
+        translated_ru: "BIOCAD позиционирует себя как надежного долгосрочного партнера."
+        section_title: "Обращение председателя совета директоров"
+        relevance_comment: "Краткая ориентация на устойчивое партнерство."
+    other_principles: []
+  - topic_id: "worker_to_company"
+    principles:
+      - principle_code: "WtoC01"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "WtoC01_explicit_section"
+      - principle_code: "WtoC02"
+        principle_status: "brief_mention"
+        evidence_excerpt_ids:
+          - "WtoC02_brief_mention"
+      - principle_code: "WtoC03"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "WtoC03_explicit_section"
+      - principle_code: "WtoC04"
+        principle_status: "brief_mention"
+        evidence_excerpt_ids:
+          - "WtoC04_brief_mention"
+      - principle_code: "WtoC05"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "WtoC05_explicit_section"
+      - principle_code: "WtoC06"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "WtoC07"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "WtoC08"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "WtoC09"
+        principle_status: "brief_mention"
+        evidence_excerpt_ids:
+          - "WtoC09_brief_mention"
+      - principle_code: "WtoC10"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "WtoC10_explicit_section"
+    key_excerpts:
+      - excerpt_id: "WtoC01_explicit_section"
+        original: "... мы должны создавать и поддерживать самые высокие стандарты качества, и обеспечивать следование им на каждом этапе создания продукта."
+        translated_ru: "Сотрудники обязаны поддерживать высокие стандарты качества на всех этапах работы."
+        section_title: "Обращение председателя совета директоров"
+        relevance_comment: "Прямое требование качества выполняемой работы."
+      - excerpt_id: "WtoC02_brief_mention"
+        original: "Использование ресурсов компании."
+        translated_ru: "Кодекс выделяет отдельный блок о корректном использовании ресурсов компании."
+        section_title: "Оглавление"
+        relevance_comment: "Краткое подтверждение принципа сохранности активов."
+      - excerpt_id: "WtoC03_explicit_section"
+        original: "Защита конфиденциальной информации и противодействие неправомерному использованию инсайдерской информации."
+        translated_ru: "Кодекс прямо закрепляет защиту конфиденциальной информации и предотвращение утечек/злоупотреблений."
+        section_title: "Оглавление"
+        relevance_comment: "Прямой принцип конфиденциальности и инфобезопасности."
+      - excerpt_id: "WtoC04_brief_mention"
+        original: "... противодействие неправомерному использованию инсайдерской информации."
+        translated_ru: "Запрещено неправомерно использовать инсайдерскую информацию."
+        section_title: "Оглавление"
+        relevance_comment: "Краткое подтверждение защиты интеллектуальных и чувствительных данных компании."
+      - excerpt_id: "WtoC05_explicit_section"
+        original: "... каждый сотрудник BIOCAD должен знать, понимать и применять ... законодательные ... нормы."
+        translated_ru: "Сотрудник обязан соблюдать применимое законодательство и этические нормы."
+        section_title: "Обращение председателя совета директоров"
+        relevance_comment: "Прямой правовой комплаенс сотрудника."
+      - excerpt_id: "WtoC09_brief_mention"
+        original: "... возможность для повышения квалификации и реализации собственного потенциала ..."
+        translated_ru: "Компания поддерживает профессиональное развитие сотрудников."
+        section_title: "Уважение к людям"
+        relevance_comment: "Краткое подтверждение поддержки профуровня."
+      - excerpt_id: "WtoC10_explicit_section"
+        original: "... сохраняя безупречную репутацию — это ответственность, которую разделяют все сотрудники компании."
+        translated_ru: "Сохранение репутации компании — прямая ответственность сотрудников."
+        section_title: "Обращение председателя совета директоров"
+        relevance_comment: "Прямой репутационный принцип."
+    other_principles: []
+  - topic_id: "company_to_investors"
+    principles:
+      - principle_code: "CtoI01"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoI02"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoI03"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoI04"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoI05"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoI06"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoI07"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoI08"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+    key_excerpts:
+    other_principles: []
+  - topic_id: "company_to_people"
+    principles:
+      - principle_code: "CtoP01"
+        principle_status: "brief_mention"
+        evidence_excerpt_ids:
+          - "CtoP01_brief_mention"
+      - principle_code: "CtoP02"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoP03"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoP04"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "CtoP04_explicit_section"
+      - principle_code: "CtoP05"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoP06"
+        principle_status: "brief_mention"
+        evidence_excerpt_ids:
+          - "CtoP06_brief_mention"
+      - principle_code: "CtoP07"
+        principle_status: "brief_mention"
+        evidence_excerpt_ids:
+          - "CtoP07_brief_mention"
+      - principle_code: "CtoP08"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "CtoP08_explicit_section"
+      - principle_code: "CtoP09"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoP10"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+    key_excerpts:
+      - excerpt_id: "CtoP01_brief_mention"
+        original: "BIOCAD обеспечивает прозрачность и открытость ... в регулярных отчетах по устойчивому развитию, публикуемых в открытом доступе."
+        translated_ru: "Компания публично раскрывает ESG-аспекты через отчеты по устойчивому развитию."
+        section_title: "Уважение к людям"
+        relevance_comment: "Краткое подтверждение прозрачности ESG."
+      - excerpt_id: "CtoP04_explicit_section"
+        original: "... проекты компании направлены на ... развитие местных сообществ ... поддержку науки и образования ..."
+        translated_ru: "Социальные проекты компании нацелены на развитие сообществ и общественно значимых сфер."
+        section_title: "Взаимоотношения с органами государственной власти..."
+        relevance_comment: "Прямой вклад в социально-экономическое развитие."
+      - excerpt_id: "CtoP06_brief_mention"
+        original: "... направлены на повышение доступности ... препаратов, улучшение качества жизни пациентов ..."
+        translated_ru: "Компания ориентирует социальные проекты на поддержку уязвимых групп пациентов."
+        section_title: "Взаимоотношения с органами государственной власти..."
+        relevance_comment: "Краткое подтверждение поддержки уязвимых групп."
+      - excerpt_id: "CtoP07_brief_mention"
+        original: "... содействие научно-техническому прогрессу, поддержку науки и образования ..."
+        translated_ru: "Компания поддерживает науку и образование как часть общественной повестки."
+        section_title: "Взаимоотношения с органами государственной власти..."
+        relevance_comment: "Краткий общественный принцип развития науки и образования."
+      - excerpt_id: "CtoP08_explicit_section"
+        original: "... принимать всевозможные меры ... предотвращению возможного ущерба окружающей среде."
+        translated_ru: "Компания обязуется предотвращать возможный экологический ущерб."
+        section_title: "Защита животных и окружающей среды"
+        relevance_comment: "Прямой принцип предотвращения опасных последствий для населения и среды."
+    other_principles: []
+  - topic_id: "company_to_buyer"
+    principles:
+      - principle_code: "CtoB01"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "CtoB01_explicit_section"
+      - principle_code: "CtoB02"
+        principle_status: "brief_mention"
+        evidence_excerpt_ids:
+          - "CtoB02_brief_mention"
+      - principle_code: "CtoB03"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoB04"
+        principle_status: "brief_mention"
+        evidence_excerpt_ids:
+          - "CtoB04_brief_mention"
+      - principle_code: "CtoB05"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "CtoB05_explicit_section"
+      - principle_code: "CtoB06"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoB07"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoB08"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoB09"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "CtoB09_explicit_section"
+    key_excerpts:
+      - excerpt_id: "CtoB01_explicit_section"
+        original: "Миссия BIOCAD ... предоставления эффективных, безопасных и доступных ... решений ..."
+        translated_ru: "Миссия компании прямо ориентирована на интересы пациентов как потребителей."
+        section_title: "Обращение председателя совета директоров"
+        relevance_comment: "Прямая клиентоориентированность."
+      - excerpt_id: "CtoB02_brief_mention"
+        original: "Сообщать только достоверную и полную информацию о лекарственных препаратах компании ..."
+        translated_ru: "Требуется предоставлять полную и достоверную информацию о препаратах."
+        section_title: "Принципы этичного взаимодействия со специалистами и организациями здравоохранения"
+        relevance_comment: "Краткое подтверждение полноты информации о продукте."
+      - excerpt_id: "CtoB04_brief_mention"
+        original: "... предоставления ... доступных ... решений в области лекарственного обеспечения."
+        translated_ru: "Компания подчеркивает доступность решений для пациентов."
+        section_title: "Обращение председателя совета директоров"
+        relevance_comment: "Краткий принцип ценовой/экономической доступности."
+      - excerpt_id: "CtoB05_explicit_section"
+        original: "... вести свою деятельность ... в соответствии ... с законодательными нормами ..."
+        translated_ru: "Работа с продуктами и рынком ведется в соответствии с законом и этикой."
+        section_title: "Обращение председателя совета директоров"
+        relevance_comment: "Прямое соблюдение правовых и этических норм."
+      - excerpt_id: "CtoB09_explicit_section"
+        original: "... забота о безопасности своих препаратов и здоровье пациентов является одной из ключевых ценностей ..."
+        translated_ru: "Безопасность препаратов закреплена как ключевая ценность компании."
+        section_title: "Фармаконадзор"
+        relevance_comment: "Прямой принцип безопасности продукта."
+    other_principles: []
+  - topic_id: "worker_to_worker"
+    principles:
+      - principle_code: "WtoW01"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "WtoW01_explicit_section"
+      - principle_code: "WtoW02"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "WtoW03"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "WtoW04"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "WtoW05"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "WtoW06"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "WtoW07"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "WtoW07_explicit_section"
+      - principle_code: "WtoW08"
+        principle_status: "brief_mention"
+        evidence_excerpt_ids:
+          - "WtoW08_brief_mention"
+    key_excerpts:
+      - excerpt_id: "WtoW01_explicit_section"
+        original: "Поддерживать уважительную, вежливую и профессиональную коммуникацию по отношению к коллегам ..."
+        translated_ru: "Сотрудники обязаны поддерживать уважительную коммуникацию с коллегами."
+        section_title: "Уважение к людям"
+        relevance_comment: "Прямой стандарт отношений между коллегами."
+      - excerpt_id: "WtoW07_explicit_section"
+        original: "... соблюдать все необходимые нормы безопасности ... и осознавать ответственность ... за жизнь и здоровье окружающих."
+        translated_ru: "Каждый сотрудник отвечает за безопасность окружающих коллег."
+        section_title: "Уважение к людям"
+        relevance_comment: "Прямой принцип безопасности коллег."
+      - excerpt_id: "WtoW08_brief_mention"
+        original: "... если ... информация о его нарушении, ... вы можете обратиться в Этический совет ..."
+        translated_ru: "Сотрудник должен сообщать о нарушениях коллег через этические каналы."
+        section_title: "Обращение председателя Этического совета"
+        relevance_comment: "Краткое подтверждение взаимного этического контроля."
+    other_principles: []
+  - topic_id: "manager_to_worker"
+    principles:
+      - principle_code: "MtoW01"
+        principle_status: "brief_mention"
+        evidence_excerpt_ids:
+          - "MtoW01_brief_mention"
+      - principle_code: "MtoW02"
+        principle_status: "brief_mention"
+        evidence_excerpt_ids:
+          - "MtoW02_brief_mention"
+      - principle_code: "MtoW03"
+        principle_status: "brief_mention"
+        evidence_excerpt_ids:
+          - "MtoW03_brief_mention"
+      - principle_code: "MtoW04"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "MtoW05"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "MtoW06"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+    key_excerpts:
+      - excerpt_id: "MtoW01_brief_mention"
+        original: "BIOCAD ... исключить любые формы дискриминации по любым признакам ..."
+        translated_ru: "В компании закреплен принцип равного отношения и недискриминации."
+        section_title: "Уважение к людям"
+        relevance_comment: "Краткий, но прямой стандарт равного отношения."
+      - excerpt_id: "MtoW02_brief_mention"
+        original: "... возможность для повышения квалификации и реализации собственного потенциала ..."
+        translated_ru: "Управленческая система предусматривает условия для роста и развития сотрудников."
+        section_title: "Уважение к людям"
+        relevance_comment: "Краткое подтверждение содействия профессиональному росту."
+      - excerpt_id: "MtoW03_brief_mention"
+        original: "... уважать свободу, права и достоинство человека ..."
+        translated_ru: "Уважение достоинства сотрудников закреплено как обязательство команды."
+        section_title: "Уважение к людям"
+        relevance_comment: "Краткий принцип уважения личности подчиненных."
+    other_principles: []
+  - topic_id: "company_to_worker"
+    principles:
+      - principle_code: "CtoW01"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoW02"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoW03"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "CtoW03_explicit_section"
+      - principle_code: "CtoW04"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "CtoW04_explicit_section"
+      - principle_code: "CtoW05"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoW06"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "CtoW06_explicit_section"
+      - principle_code: "CtoW07"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoW08"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoW09"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoW10"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+    key_excerpts:
+      - excerpt_id: "CtoW03_explicit_section"
+        original: "Компания реализует социальную политику, направленную на предоставление комфортных и безопасных условий труда ..."
+        translated_ru: "Компания прямо закрепляет комфортные и безопасные условия труда."
+        section_title: "Уважение к людям"
+        relevance_comment: "Прямое требование по условиям труда."
+      - excerpt_id: "CtoW04_explicit_section"
+        original: "... повышение благополучия сотрудников и членов их семей."
+        translated_ru: "Социальная политика направлена на благополучие работников и их семей."
+        section_title: "Уважение к людям"
+        relevance_comment: "Прямое подтверждение заботы о благополучии."
+      - excerpt_id: "CtoW06_explicit_section"
+        original: "BIOCAD ... исключить любые формы дискриминации по любым признакам ..."
+        translated_ru: "Компания прямо запрещает дискриминацию по широкому кругу признаков."
+        section_title: "Уважение к людям"
+        relevance_comment: "Прямой недискриминационный принцип."
+    other_principles: []
+  - topic_id: "worker_to_manager"
+    principles:
+      - principle_code: "WtoM01"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "WtoM02"
+        principle_status: "brief_mention"
+        evidence_excerpt_ids:
+          - "WtoM02_brief_mention"
+      - principle_code: "WtoM03"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "WtoM04"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "WtoM05"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "WtoM06"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+    key_excerpts:
+      - excerpt_id: "WtoM02_brief_mention"
+        original: "... обязательно обсудите это с вашим руководителем и сообщите об этом в Этический совет ..."
+        translated_ru: "Сотрудник обязан открыто сообщать руководителю о потенциальном конфликте интересов."
+        section_title: "Взаимоотношения с органами государственной власти..."
+        relevance_comment: "Краткое подтверждение честной коммуникации с руководителем."
+    other_principles: []
+notes:
+  - "Кодекс содержит структурированные разделы, но OCR местами искажает фразы."
+limitations:
+  - "Часть разделов в парсинге представлена фрагментарно; выводы по ним даны консервативно."
+analyst_summary_ru: "Кодекс BIOCAD хорошо покрывает вопросы комплаенса, безопасности пациентов, антикоррупционных и коммуникационных норм, а также защиту сотрудников и общественную повестку. Из-за частичной OCR-фрагментации ряда разделов документ помечен как needs_human_review."

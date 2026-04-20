@@ -1,0 +1,554 @@
+document_id: "pharma-korea-samsung-epis-holdings-2025"
+company_name: "Samsung Epis Holdings Co., Ltd."
+country: "Korea"
+industry: "Pharma"
+source_path: "Ethics_Codes_txt_files/Pharma_Korea_Samsung Epis Holdings_2025.txt"
+source_language: "en"
+document_type: "code_of_conduct"
+review_status: "completed"
+topic_analyses:
+  - topic_id: "competitor_relations"
+    principles:
+      - principle_code: "COMP01"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "COMP01_explicit_section"
+      - principle_code: "COMP02"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "COMP03"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "COMP03_explicit_section"
+      - principle_code: "COMP04"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "COMP05"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "COMP06"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "COMP07"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "COMP08"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "COMP09"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "COMP10"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+    key_excerpts:
+      - excerpt_id: "COMP01_explicit_section"
+        original: "we will not obtain confidential business information of our competitors through improper or unlawful means."
+        translated_ru: "Компания не получает конфиденциальную информацию конкурентов незаконными или ненадлежащими способами."
+        section_title: "2-6 Fair Competition"
+        relevance_comment: "Прямой запрет добычи конфиденциальных данных конкурентов."
+      - excerpt_id: "COMP03_explicit_section"
+        original: "We will not engage in any anti-competitive conduct, including ... price-fixing"
+        translated_ru: "Компания не допускает антиконкурентного поведения, включая ценовой сговор."
+        section_title: "2-6 Fair Competition"
+        relevance_comment: "Прямой запрет антиконкурентного сговора."
+    other_principles: []
+  - topic_id: "hotline_principles"
+    principles:
+      - principle_code: "HOT01"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "HOT01_explicit_section"
+      - principle_code: "HOT02"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "HOT03"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "HOT03_explicit_section"
+      - principle_code: "HOT04"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "HOT04_explicit_section"
+      - principle_code: "HOT05"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "HOT05_explicit_section"
+      - principle_code: "HOT06"
+        principle_status: "brief_mention"
+        evidence_excerpt_ids:
+          - "HOT06_brief_mention"
+      - principle_code: "HOT07"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "HOT08"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "HOT09"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "HOT10"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+    key_excerpts:
+      - excerpt_id: "HOT01_explicit_section"
+        original: "a reporting hotline is available to all our officers and employees to raise concerns about compliance."
+        translated_ru: "Для всех сотрудников и руководителей доступна горячая линия для комплаенс-обращений."
+        section_title: "III.2 Reporting Violations"
+        relevance_comment: "Прямой доступ к каналу сообщений."
+      - excerpt_id: "HOT03_explicit_section"
+        original: "An employee reporting a suspected wrongdoing in good faith will not be subject to retaliation"
+        translated_ru: "Сотрудник, добросовестно сообщивший о нарушении, защищён от репрессий."
+        section_title: "III.3 Anti-Retaliation"
+        relevance_comment: "Прямой запрет преследования информаторов."
+      - excerpt_id: "HOT04_explicit_section"
+        original: "Anonymity will be always guaranteed."
+        translated_ru: "Анонимность сообщений всегда гарантируется."
+        section_title: "III.2 Reporting Violations"
+        relevance_comment: "Прямая гарантия анонимности."
+      - excerpt_id: "HOT05_explicit_section"
+        original: "Regardless of the method used to report concerns, they will be taken seriously and investigated thoroughly and appropriately."
+        translated_ru: "Независимо от канала, сообщения рассматриваются серьёзно и тщательно расследуются."
+        section_title: "III.2 Reporting Violations"
+        relevance_comment: "Прямое обязательное расследование нарушений."
+      - excerpt_id: "HOT06_brief_mention"
+        original: "failure to report any known wrongdoing may also be a basis for disciplinary action."
+        translated_ru: "Несообщение об известном нарушении может само по себе повлечь дисциплинарные меры."
+        section_title: "III.2 Reporting Violations"
+        relevance_comment: "Краткая обязанность сообщать о нарушениях."
+    other_principles: []
+  - topic_id: "company_to_supplier"
+    principles:
+      - principle_code: "CtoS01"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoS02"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoS03"
+        principle_status: "brief_mention"
+        evidence_excerpt_ids:
+          - "CtoS03_brief_mention"
+      - principle_code: "CtoS04"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoS05"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoS06"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "CtoS06_explicit_section"
+      - principle_code: "CtoS07"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+    key_excerpts:
+      - excerpt_id: "CtoS03_brief_mention"
+        original: "When engaging in business activities with our suppliers and service providers, we will always treat them fairly and with respect."
+        translated_ru: "Компания обязуется справедливо и уважительно относиться к поставщикам и провайдерам услуг."
+        section_title: "5-1 Fair Dealing with Suppliers and Service Providers"
+        relevance_comment: "Краткий признак недопустимости злоупотреблений в отношениях с поставщиками."
+      - excerpt_id: "CtoS06_explicit_section"
+        original: "developing mutually beneficial relationships with our suppliers and service providers is essential"
+        translated_ru: "Взаимовыгодные отношения с поставщиками и подрядчиками определены как ключевые для бизнеса."
+        section_title: "5-1 Fair Dealing with Suppliers and Service Providers"
+        relevance_comment: "Прямой принцип долгосрочного партнёрства."
+    other_principles: []
+  - topic_id: "worker_to_company"
+    principles:
+      - principle_code: "WtoC01"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "WtoC02"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "WtoC02_explicit_section"
+      - principle_code: "WtoC03"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "WtoC03_explicit_section"
+      - principle_code: "WtoC04"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "WtoC04_explicit_section"
+      - principle_code: "WtoC05"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "WtoC05_explicit_section"
+      - principle_code: "WtoC06"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "WtoC07"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "WtoC08"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "WtoC09"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "WtoC10"
+        principle_status: "brief_mention"
+        evidence_excerpt_ids:
+          - "WtoC10_brief_mention"
+    key_excerpts:
+      - excerpt_id: "WtoC02_explicit_section"
+        original: "company assets or resources will not be used for personal purposes."
+        translated_ru: "Активы и ресурсы компании не должны использоваться в личных целях."
+        section_title: "2-7 Company Assets"
+        relevance_comment: "Прямой принцип сохранности активов."
+      - excerpt_id: "WtoC03_explicit_section"
+        original: "We will fully comply with the established security procedures"
+        translated_ru: "Сотрудники обязаны полностью соблюдать установленные процедуры безопасности."
+        section_title: "1-3 Information Protection and Data Security"
+        relevance_comment: "Прямой принцип информационной безопасности."
+      - excerpt_id: "WtoC04_explicit_section"
+        original: "We must take care to protect the intellectual property of the company such as patents, trademarks, trade secrets, and copyrights"
+        translated_ru: "Сотрудники обязаны защищать интеллектуальную собственность компании: патенты, товарные знаки, коммерческие тайны и авторские права."
+        section_title: "1-3 Information Protection and Data Security"
+        relevance_comment: "Прямой принцип защиты ИС компании."
+      - excerpt_id: "WtoC05_explicit_section"
+        original: "we will comply with all applicable laws and regulations"
+        translated_ru: "Компания и сотрудники обязаны соблюдать все применимые законы и нормы."
+        section_title: "1-1 Compliance with Laws and Regulations"
+        relevance_comment: "Прямой правовой комплаенс."
+      - excerpt_id: "WtoC10_brief_mention"
+        original: "will help us navigate through difficult choices ... to build and maintain our reputation."
+        translated_ru: "Кодекс ориентирует сотрудников на поведение, поддерживающее и укрепляющее репутацию компании."
+        section_title: "I Introduction"
+        relevance_comment: "Краткий фокус на сохранении деловой репутации."
+    other_principles: []
+  - topic_id: "company_to_investors"
+    principles:
+      - principle_code: "CtoI01"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoI02"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoI03"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "CtoI03_explicit_section"
+      - principle_code: "CtoI04"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoI05"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "CtoI05_explicit_section"
+      - principle_code: "CtoI06"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoI07"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoI08"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+    key_excerpts:
+      - excerpt_id: "CtoI03_explicit_section"
+        original: "announcing major financial and corporate information in good faith and in a timely fashion."
+        translated_ru: "Компания обязуется добросовестно и своевременно раскрывать существенную финансовую и корпоративную информацию."
+        section_title: "3-1 Management Focused on Shareholder Value"
+        relevance_comment: "Прямой принцип раскрытия информации инвесторам."
+      - excerpt_id: "CtoI05_explicit_section"
+        original: "We are prohibited from trading, using or disclosing to others non-public information"
+        translated_ru: "Торговля/использование/раскрытие непубличной существенной информации запрещены."
+        section_title: "2-2 Insider Trading"
+        relevance_comment: "Прямой запрет инсайдерской торговли."
+    other_principles: []
+  - topic_id: "company_to_people"
+    principles:
+      - principle_code: "CtoP01"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoP02"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoP03"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoP04"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoP05"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoP06"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "CtoP06_explicit_section"
+      - principle_code: "CtoP07"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoP08"
+        principle_status: "brief_mention"
+        evidence_excerpt_ids:
+          - "CtoP08_brief_mention"
+      - principle_code: "CtoP09"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoP10"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+    key_excerpts:
+      - excerpt_id: "CtoP06_explicit_section"
+        original: "we may carry out charitable activities and/or make charitable donations for legitimate causes."
+        translated_ru: "Компания может проводить благотворительные инициативы и пожертвования на легитимные общественно значимые цели."
+        section_title: "5-3 Patient Support and Giving Back to the Public"
+        relevance_comment: "Прямой вклад в общественную и пациентскую повестку."
+      - excerpt_id: "CtoP08_brief_mention"
+        original: "Care for the Environment, Health and Safety"
+        translated_ru: "Кодекс выделяет отдельный принцип заботы об экологии, здоровье и безопасности."
+        section_title: "Table of Contents"
+        relevance_comment: "Краткое подтверждение фокуса на предотвращении общественных рисков."
+    other_principles: []
+  - topic_id: "company_to_buyer"
+    principles:
+      - principle_code: "CtoB01"
+        principle_status: "brief_mention"
+        evidence_excerpt_ids:
+          - "CtoB01_brief_mention"
+      - principle_code: "CtoB02"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "CtoB02_explicit_section"
+      - principle_code: "CtoB03"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoB04"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoB05"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "CtoB05_explicit_section"
+      - principle_code: "CtoB06"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoB07"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoB08"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoB09"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "CtoB09_explicit_section"
+    key_excerpts:
+      - excerpt_id: "CtoB01_brief_mention"
+        original: "improvement of the care received by patients."
+        translated_ru: "Компания связывает принципы конкуренции с улучшением помощи, получаемой пациентами."
+        section_title: "2-6 Fair Competition"
+        relevance_comment: "Краткий ориентир на интересы потребителей/пациентов."
+      - excerpt_id: "CtoB02_explicit_section"
+        original: "All information on the Company or its subsidiaries products that we convey will be up-to-date, accurate, balanced, fair, objective and verifiable."
+        translated_ru: "Вся передаваемая информация о продуктах должна быть актуальной, точной, сбалансированной и проверяемой."
+        section_title: "5-2 Product Promotion"
+        relevance_comment: "Прямой принцип полноты и качества информации для потребителей."
+      - excerpt_id: "CtoB05_explicit_section"
+        original: "Compliance with laws and ethical standards"
+        translated_ru: "Кодекс закрепляет обязательность соблюдения закона и этических стандартов."
+        section_title: "Business Principles"
+        relevance_comment: "Прямой этико-правовой стандарт работы с клиентами."
+      - excerpt_id: "CtoB09_explicit_section"
+        original: "For products that have not yet received marketing approval, we will ensure that no claims about the safety or efficacy of such unapproved products are made"
+        translated_ru: "Для неутверждённых продуктов запрещены заявления о безопасности/эффективности."
+        section_title: "5-2 Product Promotion"
+        relevance_comment: "Прямой контроль безопасности продуктовых коммуникаций."
+    other_principles: []
+  - topic_id: "worker_to_worker"
+    principles:
+      - principle_code: "WtoW01"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "WtoW01_explicit_section"
+      - principle_code: "WtoW02"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "WtoW03"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "WtoW04"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "WtoW05"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "WtoW06"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "WtoW07"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "WtoW08"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+    key_excerpts:
+      - excerpt_id: "WtoW01_explicit_section"
+        original: "We strive for a positive and harassment-free work environment. We will treat each other with dignity and respect"
+        translated_ru: "Компания требует рабочую среду без харассмента и уважительное отношение между сотрудниками."
+        section_title: "3-2 Employee Treatment"
+        relevance_comment: "Прямой принцип уважительной коммуникации."
+    other_principles: []
+  - topic_id: "manager_to_worker"
+    principles:
+      - principle_code: "MtoW01"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "MtoW01_explicit_section"
+      - principle_code: "MtoW02"
+        principle_status: "brief_mention"
+        evidence_excerpt_ids:
+          - "MtoW02_brief_mention"
+      - principle_code: "MtoW03"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "MtoW04"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "MtoW04_explicit_section"
+      - principle_code: "MtoW05"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "MtoW06"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+    key_excerpts:
+      - excerpt_id: "MtoW01_explicit_section"
+        original: "There will be no discrimination against individuals based on their race, nationality ..."
+        translated_ru: "Дискриминация по расе, национальности, возрасту, полу, убеждениям и др. не допускается."
+        section_title: "3-2 Employee Treatment"
+        relevance_comment: "Прямой принцип равного отношения руководителей."
+      - excerpt_id: "MtoW02_brief_mention"
+        original: "Supervisors will be tasked with the role of alerting and advising newcomers"
+        translated_ru: "Руководители обязаны обучать и консультировать новых сотрудников по правилам и процедурам."
+        section_title: "III.1 Compliance Guidelines"
+        relevance_comment: "Краткое подтверждение роли руководителя в развитии подчинённых."
+      - excerpt_id: "MtoW04_explicit_section"
+        original: "The Company supports a corporate culture that makes it safe for officers and employees to speak up and voice their concerns."
+        translated_ru: "Компания поддерживает культуру, в которой сотрудникам безопасно высказывать вопросы и опасения."
+        section_title: "III.3 Anti-Retaliation"
+        relevance_comment: "Прямой принцип открытого диалога от руководства."
+    other_principles: []
+  - topic_id: "company_to_worker"
+    principles:
+      - principle_code: "CtoW01"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoW02"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoW03"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "CtoW03_explicit_section"
+      - principle_code: "CtoW04"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoW05"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoW06"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "CtoW06_explicit_section"
+      - principle_code: "CtoW07"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoW08"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoW09"
+        principle_status: "brief_mention"
+        evidence_excerpt_ids:
+          - "CtoW09_brief_mention"
+      - principle_code: "CtoW10"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+    key_excerpts:
+      - excerpt_id: "CtoW03_explicit_section"
+        original: "We are committed to creating a healthy and safe working environment for our officers and employees."
+        translated_ru: "Компания обязуется создавать здоровую и безопасную рабочую среду для сотрудников."
+        section_title: "4-2 Employee Health and Safety"
+        relevance_comment: "Прямой стандарт безопасных условий труда."
+      - excerpt_id: "CtoW06_explicit_section"
+        original: "We will not tolerate harassment or discrimination in any shape or form."
+        translated_ru: "Компания не терпит дискриминацию и харассмент в любой форме."
+        section_title: "3-2 Employee Treatment"
+        relevance_comment: "Прямой антидискриминационный стандарт работодателя."
+      - excerpt_id: "CtoW09_brief_mention"
+        original: "makes it safe for officers and employees to speak up and voice their concerns."
+        translated_ru: "Сотрудникам обеспечивается безопасная среда для озвучивания проблем и опасений."
+        section_title: "III.3 Anti-Retaliation"
+        relevance_comment: "Краткий механизм регулярной обратной связи."
+    other_principles: []
+  - topic_id: "worker_to_manager"
+    principles:
+      - principle_code: "WtoM01"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "WtoM02"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "WtoM03"
+        principle_status: "brief_mention"
+        evidence_excerpt_ids:
+          - "WtoM03_brief_mention"
+      - principle_code: "WtoM04"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "WtoM05"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "WtoM06"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "WtoM06_explicit_section"
+    key_excerpts:
+      - excerpt_id: "WtoM03_brief_mention"
+        original: "must be strictly followed by all officers and employees affiliated with Samsung Epis Holdings."
+        translated_ru: "Кодекс обязателен к строгому соблюдению всеми сотрудниками и руководителями компании."
+        section_title: "I Introduction"
+        relevance_comment: "Краткий признак добросовестного следования требованиям руководства."
+      - excerpt_id: "WtoM06_explicit_section"
+        original: "Where we are faced with uncertainty, the Compliance Department and company’s legal counsels are available to assist"
+        translated_ru: "При этической/правовой неопределённости сотрудник должен обращаться в Compliance и к юристам за корректным решением."
+        section_title: "III.1 Compliance Guidelines"
+        relevance_comment: "Прямой отказ от произвольных неэтичных решений."
+    other_principles: []
+analyst_summary_ru: "Кодекс Samsung Epis Holdings 2025 структурирован и процессно ориентирован: подробно охватывает антикоррупцию, конкуренцию, защиту данных/информации, горячую линию и anti-retaliation, а также стандарты по пациентской безопасности и ESG-ответственности."
+principle_codes_detected:
+  - "COMP01"
+  - "COMP03"
+  - "HOT01"
+  - "HOT03"
+  - "HOT04"
+  - "HOT05"
+  - "HOT06"
+  - "CtoS03"
+  - "CtoS06"
+  - "WtoC02"
+  - "WtoC03"
+  - "WtoC04"
+  - "WtoC05"
+  - "WtoC10"
+  - "CtoI03"
+  - "CtoI05"
+  - "CtoP06"
+  - "CtoP08"
+  - "CtoB01"
+  - "CtoB02"
+  - "CtoB05"
+  - "CtoB09"
+  - "WtoW01"
+  - "MtoW01"
+  - "MtoW02"
+  - "MtoW04"
+  - "CtoW03"
+  - "CtoW06"
+  - "CtoW09"
+  - "WtoM03"
+  - "WtoM06"

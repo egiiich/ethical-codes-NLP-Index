@@ -1,0 +1,430 @@
+document_id: "pharma-japan-astellas-pharma-inc-2025"
+company_name: "Astellas Pharma Inc."
+country: "Japan"
+industry: "Pharma"
+source_path: "Ethics_Codes_txt_files/Pharma_Japan_Astellas Pharma Inc._2025.txt"
+source_language: "en"
+document_type: "code_of_conduct"
+review_status: "needs_human_review"
+topic_analyses:
+  - topic_id: "competitor_relations"
+    principles:
+      - principle_code: "COMP01"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "COMP02"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "COMP03"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "COMP04"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "COMP05"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "COMP06"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "COMP07"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "COMP08"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "COMP09"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "COMP10"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+    key_excerpts:
+    other_principles: []
+  - topic_id: "hotline_principles"
+    principles:
+      - principle_code: "HOT01"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "HOT01_explicit_section"
+      - principle_code: "HOT02"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "HOT03"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "HOT04"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "HOT05"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "HOT05_explicit_section"
+      - principle_code: "HOT06"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "HOT07"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "HOT08"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "HOT09"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "HOT10"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+    key_excerpts:
+      - excerpt_id: "HOT01_explicit_section"
+        original: "Astellas has a global investigation process to address employee concerns, often called a Speak Up or Whistleblowing Report."
+        translated_ru: "В компании действует глобальный процесс Speak Up/Whistleblowing для обращений сотрудников."
+        section_title: "We ensure compliance investigations are fair"
+        relevance_comment: "Прямой канал сообщений о нарушениях."
+      - excerpt_id: "HOT05_explicit_section"
+        original: "Our global investigation process ensures that reported concerns are handled in a thorough, fair, objective and respectful manner."
+        translated_ru: "Сообщения рассматриваются полно, объективно и справедливо по единым стандартам расследования."
+        section_title: "We ensure compliance investigations are fair"
+        relevance_comment: "Прямой принцип обязательного и корректного расследования."
+    other_principles: []
+  - topic_id: "company_to_supplier"
+    principles:
+      - principle_code: "CtoS01"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoS02"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoS03"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "CtoS03_explicit_section"
+      - principle_code: "CtoS04"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoS05"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoS06"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoS07"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+    key_excerpts:
+      - excerpt_id: "CtoS03_explicit_section"
+        original: "Anti-Bribery, Anti-Corruption Compliance ... We do not provide or accept any money, gifts or other benefits ... for securing an illicit business advantage."
+        translated_ru: "Компания прямо запрещает взятки/неправомерные выгоды в отношениях с контрагентами."
+        section_title: "Anti-Bribery, Anti-Corruption Compliance"
+        relevance_comment: "Прямой принцип добросовестного взаимодействия с партнерами."
+    other_principles: []
+  - topic_id: "worker_to_company"
+    principles:
+      - principle_code: "WtoC01"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "WtoC02"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "WtoC02_explicit_section"
+      - principle_code: "WtoC03"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "WtoC03_explicit_section"
+      - principle_code: "WtoC04"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "WtoC04_explicit_section"
+      - principle_code: "WtoC05"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "WtoC05_explicit_section"
+      - principle_code: "WtoC06"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "WtoC07"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "WtoC08"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "WtoC09"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "WtoC10"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+    key_excerpts:
+      - excerpt_id: "WtoC02_explicit_section"
+        original: "We use Astellas resources efficiently and securely to prevent theft, loss, or damage."
+        translated_ru: "Сотрудники обязаны эффективно и безопасно использовать ресурсы компании, предотвращая потери и ущерб."
+        section_title: "We use information systems and devices properly"
+        relevance_comment: "Прямой принцип сохранности активов."
+      - excerpt_id: "WtoC03_explicit_section"
+        original: "We keep information confidential ... We protect the confidentiality of both Astellas’ and third parties’ confidential information ..."
+        translated_ru: "Сотрудники обязаны защищать конфиденциальную информацию компании и третьих сторон."
+        section_title: "We keep information confidential"
+        relevance_comment: "Прямой принцип конфиденциальности."
+      - excerpt_id: "WtoC04_explicit_section"
+        original: "We protect intellectual property ... report it promptly ... company retains rights to these creations ..."
+        translated_ru: "Компания требует своевременно декларировать и защищать результаты интеллектуальной деятельности."
+        section_title: "We protect intellectual property"
+        relevance_comment: "Прямой принцип защиты ИС компании."
+      - excerpt_id: "WtoC05_explicit_section"
+        original: "We are truthful and compliant ... We provide clear, accurate, and timely information ..."
+        translated_ru: "Сотрудники обязаны действовать правдиво и комплаентно в публичных раскрытиях и коммуникациях."
+        section_title: "We are truthful and compliant"
+        relevance_comment: "Прямой правовой и этический комплаенс."
+    other_principles: []
+  - topic_id: "company_to_investors"
+    principles:
+      - principle_code: "CtoI01"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoI02"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoI03"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "CtoI03_explicit_section"
+      - principle_code: "CtoI04"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoI05"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "CtoI05_explicit_section"
+      - principle_code: "CtoI06"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoI07"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoI08"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+    key_excerpts:
+      - excerpt_id: "CtoI03_explicit_section"
+        original: "We provide clear, accurate, and timely information to our customers, shareholders, investors, and the public ..."
+        translated_ru: "Компания обязуется предоставлять акционерам и инвесторам ясную, точную и своевременную информацию."
+        section_title: "We are dedicated to truthful and compliant corporate disclosure"
+        relevance_comment: "Прямой принцип раскрытия информации для инвесторов."
+      - excerpt_id: "CtoI05_explicit_section"
+        original: "We do not buy or sell any company’s securities ... whenever ... we have material non-public information ..."
+        translated_ru: "Кодекс прямо запрещает сделки с ценными бумагами при наличии существенной непубличной информации."
+        section_title: "We do not share non-public information or participate in insider trading activities"
+        relevance_comment: "Прямой запрет инсайдерской торговли."
+    other_principles: []
+  - topic_id: "company_to_people"
+    principles:
+      - principle_code: "CtoP01"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoP02"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoP03"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoP04"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoP05"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoP06"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoP07"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoP08"
+        principle_status: "brief_mention"
+        evidence_excerpt_ids:
+          - "CtoP08_brief_mention"
+      - principle_code: "CtoP09"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoP10"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+    key_excerpts:
+      - excerpt_id: "CtoP08_brief_mention"
+        original: "Trust is crucial ... ensuring that patients receive safe and effective treatments."
+        translated_ru: "Компания связывает доверие общества с обеспечением безопасных и эффективных методов лечения."
+        section_title: "We are truthful and compliant"
+        relevance_comment: "Краткий принцип защиты интересов населения через безопасность терапии."
+    other_principles: []
+  - topic_id: "company_to_buyer"
+    principles:
+      - principle_code: "CtoB01"
+        principle_status: "brief_mention"
+        evidence_excerpt_ids:
+          - "CtoB01_brief_mention"
+      - principle_code: "CtoB02"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoB03"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoB04"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoB05"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoB06"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoB07"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoB08"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoB09"
+        principle_status: "brief_mention"
+        evidence_excerpt_ids:
+          - "CtoB09_brief_mention"
+    key_excerpts:
+      - excerpt_id: "CtoB01_brief_mention"
+        original: "Trust is crucial ... ensuring that patients receive safe and effective treatments."
+        translated_ru: "Фокус компании направлен на получение пациентами безопасного и эффективного лечения."
+        section_title: "We are truthful and compliant"
+        relevance_comment: "Краткий принцип ориентации на пациента."
+      - excerpt_id: "CtoB09_brief_mention"
+        original: "We process data and information responsibly ... Our dedication to integrity empowers us."
+        translated_ru: "Надёжность процессов и добросовестность рассматриваются как основа безопасных решений для пациентов."
+        section_title: "We process data and information responsibly"
+        relevance_comment: "Краткое подтверждение принципа безопасности продукта/терапии."
+    other_principles: []
+  - topic_id: "worker_to_worker"
+    principles:
+      - principle_code: "WtoW01"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "WtoW01_explicit_section"
+      - principle_code: "WtoW02"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "WtoW03"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "WtoW04"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "WtoW05"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "WtoW06"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "WtoW07"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "WtoW08"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+    key_excerpts:
+      - excerpt_id: "WtoW01_explicit_section"
+        original: "We support and respect each other."
+        translated_ru: "Уважение и поддержка коллег закреплены как базовая норма поведения."
+        section_title: "Code of Conduct values"
+        relevance_comment: "Прямой стандарт отношений между коллегами."
+    other_principles: []
+  - topic_id: "manager_to_worker"
+    principles:
+      - principle_code: "MtoW01"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "MtoW02"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "MtoW03"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "MtoW04"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "MtoW05"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "MtoW06"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+    key_excerpts:
+    other_principles: []
+  - topic_id: "company_to_worker"
+    principles:
+      - principle_code: "CtoW01"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoW02"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoW03"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoW04"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoW05"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoW06"
+        principle_status: "brief_mention"
+        evidence_excerpt_ids:
+          - "CtoW06_brief_mention"
+      - principle_code: "CtoW07"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoW08"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoW09"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoW10"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+    key_excerpts:
+      - excerpt_id: "CtoW06_brief_mention"
+        original: "We ensure that our AI technologies will promote fairness and inclusivity."
+        translated_ru: "Компания закрепляет принцип fairness/inclusivity, который поддерживает недискриминационный подход в деятельности."
+        section_title: "We use artificial intelligence ethically"
+        relevance_comment: "Краткий антидискриминационный принцип."
+    other_principles: []
+  - topic_id: "worker_to_manager"
+    principles:
+      - principle_code: "WtoM01"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "WtoM02"
+        principle_status: "brief_mention"
+        evidence_excerpt_ids:
+          - "WtoM02_brief_mention"
+      - principle_code: "WtoM03"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "WtoM04"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "WtoM05"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "WtoM06"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+    key_excerpts:
+      - excerpt_id: "WtoM02_brief_mention"
+        original: "If you believe a conflict of interest exists ... promptly contact your manager ... for guidance."
+        translated_ru: "Сотрудник обязан открыто обращаться к руководителю при риске конфликта интересов."
+        section_title: "We avoid conflicts of interest"
+        relevance_comment: "Краткое подтверждение честной коммуникации с руководителем."
+    other_principles: []
+notes:
+  - "Документ содержит современные блоки по комплаенсу, расследованиям, данным и ИИ-этике."
+limitations:
+  - "В предоставленном парсинге часть ранних разделов не полностью видна, поэтому статус выставлен консервативно."
+analyst_summary_ru: "Кодекс Astellas подробно раскрывает truthful-compliance, антикоррупционные требования, защиту данных/ИС и процесс внутренних расследований. Из-за неполной видимости части ранних разделов в OCR-парсинге присвоен needs_human_review."
