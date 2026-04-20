@@ -1,0 +1,659 @@
+document_id: "mining-indonesia-merdeka-copper-gold-2022"
+company_name: "Merdeka Copper Gold"
+country: "Indonesia"
+industry: "Mining"
+source_path: "Ethics_Codes_txt_files/Mining_Indonesia_Merdeka Copper Gold_2022.txt"
+source_language: "id/en"
+document_type: "code_of_conduct"
+review_status: "needs_human_review"
+topic_analyses:
+  -
+    topic_id: "competitor_relations"
+    principles:
+      -
+        principle_code: "COMP01"
+        principle_status: "absent"
+        evidence_excerpt_ids:
+          []
+      -
+        principle_code: "COMP02"
+        principle_status: "absent"
+        evidence_excerpt_ids:
+          []
+      -
+        principle_code: "COMP03"
+        principle_status: "absent"
+        evidence_excerpt_ids:
+          []
+      -
+        principle_code: "COMP04"
+        principle_status: "absent"
+        evidence_excerpt_ids:
+          []
+      -
+        principle_code: "COMP05"
+        principle_status: "absent"
+        evidence_excerpt_ids:
+          []
+      -
+        principle_code: "COMP06"
+        principle_status: "absent"
+        evidence_excerpt_ids:
+          []
+      -
+        principle_code: "COMP07"
+        principle_status: "absent"
+        evidence_excerpt_ids:
+          []
+      -
+        principle_code: "COMP08"
+        principle_status: "absent"
+        evidence_excerpt_ids:
+          []
+      -
+        principle_code: "COMP09"
+        principle_status: "absent"
+        evidence_excerpt_ids:
+          []
+      -
+        principle_code: "COMP10"
+        principle_status: "absent"
+        evidence_excerpt_ids:
+          []
+    key_excerpts:
+      []
+    other_principles:
+      []
+  -
+    topic_id: "hotline_principles"
+    principles:
+      -
+        principle_code: "HOT01"
+        principle_status: "brief_mention"
+        evidence_excerpt_ids:
+          - "HOT01_brief_mention"
+      -
+        principle_code: "HOT02"
+        principle_status: "absent"
+        evidence_excerpt_ids:
+          []
+      -
+        principle_code: "HOT03"
+        principle_status: "absent"
+        evidence_excerpt_ids:
+          []
+      -
+        principle_code: "HOT04"
+        principle_status: "absent"
+        evidence_excerpt_ids:
+          []
+      -
+        principle_code: "HOT05"
+        principle_status: "absent"
+        evidence_excerpt_ids:
+          []
+      -
+        principle_code: "HOT06"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "HOT06_explicit_section"
+      -
+        principle_code: "HOT07"
+        principle_status: "absent"
+        evidence_excerpt_ids:
+          []
+      -
+        principle_code: "HOT08"
+        principle_status: "absent"
+        evidence_excerpt_ids:
+          []
+      -
+        principle_code: "HOT09"
+        principle_status: "absent"
+        evidence_excerpt_ids:
+          []
+      -
+        principle_code: "HOT10"
+        principle_status: "absent"
+        evidence_excerpt_ids:
+          []
+    key_excerpts:
+      -
+        excerpt_id: "HOT01_brief_mention"
+        original: "PELAPORAN PELANGGARAN KODE ETIK REPORTING CODE OF CONDUCT VIOLATIONS"
+        translated_ru: "Кодекс содержит формализованный раздел о каналах сообщений о нарушениях."
+        section_title: "Section 6"
+        relevance_comment: "Подтверждение статуса для принципа HOT01."
+      -
+        excerpt_id: "HOT06_explicit_section"
+        original: "Pelaporan Pelanggaran atau Dugaan Pelanggaran Reporting Violations or Alleged Violations"
+        translated_ru: "Зафиксирована обязанность сообщать о нарушениях и подозрениях на нарушения."
+        section_title: "6(a)"
+        relevance_comment: "Подтверждение статуса для принципа HOT06."
+    other_principles:
+      []
+  -
+    topic_id: "company_to_supplier"
+    principles:
+      -
+        principle_code: "CtoS01"
+        principle_status: "brief_mention"
+        evidence_excerpt_ids:
+          - "CtoS01_brief_mention"
+      -
+        principle_code: "CtoS02"
+        principle_status: "absent"
+        evidence_excerpt_ids:
+          []
+      -
+        principle_code: "CtoS03"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "CtoS03_explicit_section"
+      -
+        principle_code: "CtoS04"
+        principle_status: "absent"
+        evidence_excerpt_ids:
+          []
+      -
+        principle_code: "CtoS05"
+        principle_status: "absent"
+        evidence_excerpt_ids:
+          []
+      -
+        principle_code: "CtoS06"
+        principle_status: "brief_mention"
+        evidence_excerpt_ids:
+          - "CtoS06_brief_mention"
+      -
+        principle_code: "CtoS07"
+        principle_status: "absent"
+        evidence_excerpt_ids:
+          []
+    key_excerpts:
+      -
+        excerpt_id: "CtoS01_brief_mention"
+        original: "Hubungan dengan Mitra Grup Merdeka Relationship with Merdeka Group Partners"
+        translated_ru: "Определен отдельный блок правил взаимодействия с партнерами/поставщиками группы."
+        section_title: "4(b)"
+        relevance_comment: "Подтверждение статуса для принципа CtoS01."
+      -
+        excerpt_id: "CtoS03_explicit_section"
+        original: "Anti Korupsi dan Penyuapan Anti-Corruption and Bribery"
+        translated_ru: "Прямо закреплен антикоррупционный стандарт во взаимоотношениях с контрагентами."
+        section_title: "4(c)"
+        relevance_comment: "Подтверждение статуса для принципа CtoS03."
+      -
+        excerpt_id: "CtoS06_brief_mention"
+        original: "Growth, Respect, Accountability, Excellence, dan Safety"
+        translated_ru: "Ценности компании формируют долгосрочную и ответственную модель партнерства."
+        section_title: "Statement of Commitment"
+        relevance_comment: "Подтверждение статуса для принципа CtoS06."
+    other_principles:
+      []
+  -
+    topic_id: "worker_to_company"
+    principles:
+      -
+        principle_code: "WtoC01"
+        principle_status: "absent"
+        evidence_excerpt_ids:
+          []
+      -
+        principle_code: "WtoC02"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "WtoC02_explicit_section"
+      -
+        principle_code: "WtoC03"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "WtoC03_explicit_section"
+      -
+        principle_code: "WtoC04"
+        principle_status: "absent"
+        evidence_excerpt_ids:
+          []
+      -
+        principle_code: "WtoC05"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "WtoC05_explicit_section"
+      -
+        principle_code: "WtoC06"
+        principle_status: "absent"
+        evidence_excerpt_ids:
+          []
+      -
+        principle_code: "WtoC07"
+        principle_status: "absent"
+        evidence_excerpt_ids:
+          []
+      -
+        principle_code: "WtoC08"
+        principle_status: "absent"
+        evidence_excerpt_ids:
+          []
+      -
+        principle_code: "WtoC09"
+        principle_status: "absent"
+        evidence_excerpt_ids:
+          []
+      -
+        principle_code: "WtoC10"
+        principle_status: "brief_mention"
+        evidence_excerpt_ids:
+          - "WtoC10_brief_mention"
+    key_excerpts:
+      -
+        excerpt_id: "WtoC02_explicit_section"
+        original: "PERLINDUNGAN ASET GRUP MERDEKA MERDEKA GROUP ASSET PROTECTION"
+        translated_ru: "Выделен отдельный раздел об обязательной защите активов компании."
+        section_title: "Section 5"
+        relevance_comment: "Подтверждение статуса для принципа WtoC02."
+      -
+        excerpt_id: "WtoC03_explicit_section"
+        original: "Data dan Informasi Rahasia Confidential Data and Information"
+        translated_ru: "Закреплена обязанность защиты конфиденциальных данных и информации."
+        section_title: "5(b)"
+        relevance_comment: "Подтверждение статуса для принципа WtoC03."
+      -
+        excerpt_id: "WtoC05_explicit_section"
+        original: "Compliance with Applicable Laws and Regulations"
+        translated_ru: "Соблюдение применимого законодательства закреплено как обязательство работников."
+        section_title: "1(i)"
+        relevance_comment: "Подтверждение статуса для принципа WtoC05."
+      -
+        excerpt_id: "WtoC10_brief_mention"
+        original: "will increase the value, image, and sustainable long-term business development"
+        translated_ru: "Поведение работников связано с поддержанием имиджа и репутации компании."
+        section_title: "Statement of Commitment"
+        relevance_comment: "Подтверждение статуса для принципа WtoC10."
+    other_principles:
+      []
+  -
+    topic_id: "company_to_investors"
+    principles:
+      -
+        principle_code: "CtoI01"
+        principle_status: "absent"
+        evidence_excerpt_ids:
+          []
+      -
+        principle_code: "CtoI02"
+        principle_status: "absent"
+        evidence_excerpt_ids:
+          []
+      -
+        principle_code: "CtoI03"
+        principle_status: "absent"
+        evidence_excerpt_ids:
+          []
+      -
+        principle_code: "CtoI04"
+        principle_status: "absent"
+        evidence_excerpt_ids:
+          []
+      -
+        principle_code: "CtoI05"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "CtoI05_explicit_section"
+      -
+        principle_code: "CtoI06"
+        principle_status: "absent"
+        evidence_excerpt_ids:
+          []
+      -
+        principle_code: "CtoI07"
+        principle_status: "absent"
+        evidence_excerpt_ids:
+          []
+      -
+        principle_code: "CtoI08"
+        principle_status: "absent"
+        evidence_excerpt_ids:
+          []
+    key_excerpts:
+      -
+        excerpt_id: "CtoI05_explicit_section"
+        original: "Kebijakan Perdagangan Oleh Orang Dalam Insider Trading Policy"
+        translated_ru: "Отдельный раздел прямо регулирует инсайдерские операции."
+        section_title: "4(g)"
+        relevance_comment: "Подтверждение статуса для принципа CtoI05."
+    other_principles:
+      []
+  -
+    topic_id: "company_to_people"
+    principles:
+      -
+        principle_code: "CtoP01"
+        principle_status: "absent"
+        evidence_excerpt_ids:
+          []
+      -
+        principle_code: "CtoP02"
+        principle_status: "absent"
+        evidence_excerpt_ids:
+          []
+      -
+        principle_code: "CtoP03"
+        principle_status: "absent"
+        evidence_excerpt_ids:
+          []
+      -
+        principle_code: "CtoP04"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "CtoP04_explicit_section"
+      -
+        principle_code: "CtoP05"
+        principle_status: "absent"
+        evidence_excerpt_ids:
+          []
+      -
+        principle_code: "CtoP06"
+        principle_status: "absent"
+        evidence_excerpt_ids:
+          []
+      -
+        principle_code: "CtoP07"
+        principle_status: "absent"
+        evidence_excerpt_ids:
+          []
+      -
+        principle_code: "CtoP08"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "CtoP08_explicit_section"
+      -
+        principle_code: "CtoP09"
+        principle_status: "absent"
+        evidence_excerpt_ids:
+          []
+      -
+        principle_code: "CtoP10"
+        principle_status: "absent"
+        evidence_excerpt_ids:
+          []
+    key_excerpts:
+      -
+        excerpt_id: "CtoP04_explicit_section"
+        original: "Pengembangan Masyarakat Community Development"
+        translated_ru: "Предусмотрены обязательства по развитию местных сообществ."
+        section_title: "3(b)"
+        relevance_comment: "Подтверждение статуса для принципа CtoP04."
+      -
+        excerpt_id: "CtoP08_explicit_section"
+        original: "Perlindungan Lingkungan Environmental Protection"
+        translated_ru: "Кодекс закрепляет обязательства по защите окружающей среды."
+        section_title: "3(c)"
+        relevance_comment: "Подтверждение статуса для принципа CtoP08."
+    other_principles:
+      []
+  -
+    topic_id: "company_to_buyer"
+    principles:
+      -
+        principle_code: "CtoB01"
+        principle_status: "absent"
+        evidence_excerpt_ids:
+          []
+      -
+        principle_code: "CtoB02"
+        principle_status: "absent"
+        evidence_excerpt_ids:
+          []
+      -
+        principle_code: "CtoB03"
+        principle_status: "absent"
+        evidence_excerpt_ids:
+          []
+      -
+        principle_code: "CtoB04"
+        principle_status: "absent"
+        evidence_excerpt_ids:
+          []
+      -
+        principle_code: "CtoB05"
+        principle_status: "brief_mention"
+        evidence_excerpt_ids:
+          - "CtoB05_brief_mention"
+      -
+        principle_code: "CtoB06"
+        principle_status: "absent"
+        evidence_excerpt_ids:
+          []
+      -
+        principle_code: "CtoB07"
+        principle_status: "absent"
+        evidence_excerpt_ids:
+          []
+      -
+        principle_code: "CtoB08"
+        principle_status: "absent"
+        evidence_excerpt_ids:
+          []
+      -
+        principle_code: "CtoB09"
+        principle_status: "absent"
+        evidence_excerpt_ids:
+          []
+    key_excerpts:
+      -
+        excerpt_id: "CtoB05_brief_mention"
+        original: "Hubungan yang Wajar Fair Relationship"
+        translated_ru: "Взаимодействие с внешними сторонами должно строиться на принципе справедливости."
+        section_title: "4(h)"
+        relevance_comment: "Подтверждение статуса для принципа CtoB05."
+    other_principles:
+      []
+  -
+    topic_id: "worker_to_worker"
+    principles:
+      -
+        principle_code: "WtoW01"
+        principle_status: "brief_mention"
+        evidence_excerpt_ids:
+          - "WtoW01_brief_mention"
+      -
+        principle_code: "WtoW02"
+        principle_status: "absent"
+        evidence_excerpt_ids:
+          []
+      -
+        principle_code: "WtoW03"
+        principle_status: "absent"
+        evidence_excerpt_ids:
+          []
+      -
+        principle_code: "WtoW04"
+        principle_status: "absent"
+        evidence_excerpt_ids:
+          []
+      -
+        principle_code: "WtoW05"
+        principle_status: "absent"
+        evidence_excerpt_ids:
+          []
+      -
+        principle_code: "WtoW06"
+        principle_status: "absent"
+        evidence_excerpt_ids:
+          []
+      -
+        principle_code: "WtoW07"
+        principle_status: "absent"
+        evidence_excerpt_ids:
+          []
+      -
+        principle_code: "WtoW08"
+        principle_status: "absent"
+        evidence_excerpt_ids:
+          []
+    key_excerpts:
+      -
+        excerpt_id: "WtoW01_brief_mention"
+        original: "Lingkungan Kerja yang Kondusif dan Positif Conducive and Positive Work Environment"
+        translated_ru: "Кодекс фиксирует нормы позитивной и уважительной рабочей среды."
+        section_title: "2(b)"
+        relevance_comment: "Подтверждение статуса для принципа WtoW01."
+    other_principles:
+      []
+  -
+    topic_id: "manager_to_worker"
+    principles:
+      -
+        principle_code: "MtoW01"
+        principle_status: "brief_mention"
+        evidence_excerpt_ids:
+          - "MtoW01_brief_mention"
+      -
+        principle_code: "MtoW02"
+        principle_status: "absent"
+        evidence_excerpt_ids:
+          []
+      -
+        principle_code: "MtoW03"
+        principle_status: "absent"
+        evidence_excerpt_ids:
+          []
+      -
+        principle_code: "MtoW04"
+        principle_status: "absent"
+        evidence_excerpt_ids:
+          []
+      -
+        principle_code: "MtoW05"
+        principle_status: "absent"
+        evidence_excerpt_ids:
+          []
+      -
+        principle_code: "MtoW06"
+        principle_status: "absent"
+        evidence_excerpt_ids:
+          []
+    key_excerpts:
+      -
+        excerpt_id: "MtoW01_brief_mention"
+        original: "Statement of Commitment and Implementation of the Directors and Board of Commissioners"
+        translated_ru: "Руководство берет на себя обязательства по внедрению и контролю кодекса."
+        section_title: "Commitment Statement"
+        relevance_comment: "Подтверждение статуса для принципа MtoW01."
+    other_principles:
+      []
+  -
+    topic_id: "company_to_worker"
+    principles:
+      -
+        principle_code: "CtoW01"
+        principle_status: "absent"
+        evidence_excerpt_ids:
+          []
+      -
+        principle_code: "CtoW02"
+        principle_status: "absent"
+        evidence_excerpt_ids:
+          []
+      -
+        principle_code: "CtoW03"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "CtoW03_explicit_section"
+      -
+        principle_code: "CtoW04"
+        principle_status: "absent"
+        evidence_excerpt_ids:
+          []
+      -
+        principle_code: "CtoW05"
+        principle_status: "absent"
+        evidence_excerpt_ids:
+          []
+      -
+        principle_code: "CtoW06"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "CtoW06_explicit_section"
+      -
+        principle_code: "CtoW07"
+        principle_status: "absent"
+        evidence_excerpt_ids:
+          []
+      -
+        principle_code: "CtoW08"
+        principle_status: "absent"
+        evidence_excerpt_ids:
+          []
+      -
+        principle_code: "CtoW09"
+        principle_status: "absent"
+        evidence_excerpt_ids:
+          []
+      -
+        principle_code: "CtoW10"
+        principle_status: "absent"
+        evidence_excerpt_ids:
+          []
+    key_excerpts:
+      -
+        excerpt_id: "CtoW03_explicit_section"
+        original: "Kesehatan dan Keselamatan Kerja Occupational Health and Safety"
+        translated_ru: "Закреплены нормы по охране труда и безопасности сотрудников."
+        section_title: "2(a)"
+        relevance_comment: "Подтверждение статуса для принципа CtoW03."
+      -
+        excerpt_id: "CtoW06_explicit_section"
+        original: "Kesetaraan dalam Keberagaman dan Anti Diskriminasi Equality in Diversity and Anti-Discrimination"
+        translated_ru: "Прямо закреплены принципы равенства и антидискриминации."
+        section_title: "2(c)"
+        relevance_comment: "Подтверждение статуса для принципа CtoW06."
+    other_principles:
+      []
+  -
+    topic_id: "worker_to_manager"
+    principles:
+      -
+        principle_code: "WtoM01"
+        principle_status: "absent"
+        evidence_excerpt_ids:
+          []
+      -
+        principle_code: "WtoM02"
+        principle_status: "absent"
+        evidence_excerpt_ids:
+          []
+      -
+        principle_code: "WtoM03"
+        principle_status: "brief_mention"
+        evidence_excerpt_ids:
+          - "WtoM03_brief_mention"
+      -
+        principle_code: "WtoM04"
+        principle_status: "absent"
+        evidence_excerpt_ids:
+          []
+      -
+        principle_code: "WtoM05"
+        principle_status: "absent"
+        evidence_excerpt_ids:
+          []
+      -
+        principle_code: "WtoM06"
+        principle_status: "absent"
+        evidence_excerpt_ids:
+          []
+    key_excerpts:
+      -
+        excerpt_id: "WtoM03_brief_mention"
+        original: "Subjek Kode Etik Code of Conduct Subjects"
+        translated_ru: "Все сотрудники, включая руководство, обязаны соблюдать кодекс."
+        section_title: "1(f)"
+        relevance_comment: "Подтверждение статуса для принципа WtoM03."
+    other_principles:
+      []
+notes:
+  []
+limitations:
+  - "OCR-извлечение содержит преимущественно оглавление и фрагменты, что ограничивает полноту доказательных цитат по отдельным принципам."
+analyst_summary_ru: "Анализ выполнен по всем темам на основе частично извлеченного OCR-текста; подтверждена структура кодекса и ключевые обязательства, но часть разделов требует ручной сверки."

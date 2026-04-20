@@ -1,0 +1,700 @@
+document_id: "mining-indonesia-aneka-tambang-2016"
+company_name: "Aneka Tambang"
+country: "Indonesia"
+industry: "Mining"
+source_path: "Ethics_Codes_txt_files/Mining_Indonesia_Aneka Tambang_2016.txt"
+source_language: "en"
+document_type: "code_of_conduct"
+review_status: "needs_human_review"
+topic_analyses:
+  -
+    topic_id: "competitor_relations"
+    principles:
+      -
+        principle_code: "COMP01"
+        principle_status: "absent"
+        evidence_excerpt_ids:
+          []
+      -
+        principle_code: "COMP02"
+        principle_status: "absent"
+        evidence_excerpt_ids:
+          []
+      -
+        principle_code: "COMP03"
+        principle_status: "absent"
+        evidence_excerpt_ids:
+          []
+      -
+        principle_code: "COMP04"
+        principle_status: "absent"
+        evidence_excerpt_ids:
+          []
+      -
+        principle_code: "COMP05"
+        principle_status: "absent"
+        evidence_excerpt_ids:
+          []
+      -
+        principle_code: "COMP06"
+        principle_status: "brief_mention"
+        evidence_excerpt_ids:
+          - "COMP06_brief_mention"
+      -
+        principle_code: "COMP07"
+        principle_status: "absent"
+        evidence_excerpt_ids:
+          []
+      -
+        principle_code: "COMP08"
+        principle_status: "absent"
+        evidence_excerpt_ids:
+          []
+      -
+        principle_code: "COMP09"
+        principle_status: "absent"
+        evidence_excerpt_ids:
+          []
+      -
+        principle_code: "COMP10"
+        principle_status: "absent"
+        evidence_excerpt_ids:
+          []
+    key_excerpts:
+      -
+        excerpt_id: "COMP06_brief_mention"
+        original: "Relationship with Competitors"
+        translated_ru: "В кодексе выделен отдельный блок этики отношений с конкурентами."
+        section_title: "2.1.4 Relationship with Competitors"
+        relevance_comment: "Подтверждение статуса для принципа COMP06."
+    other_principles:
+      []
+  -
+    topic_id: "hotline_principles"
+    principles:
+      -
+        principle_code: "HOT01"
+        principle_status: "brief_mention"
+        evidence_excerpt_ids:
+          - "HOT01_brief_mention"
+      -
+        principle_code: "HOT02"
+        principle_status: "absent"
+        evidence_excerpt_ids:
+          []
+      -
+        principle_code: "HOT03"
+        principle_status: "absent"
+        evidence_excerpt_ids:
+          []
+      -
+        principle_code: "HOT04"
+        principle_status: "absent"
+        evidence_excerpt_ids:
+          []
+      -
+        principle_code: "HOT05"
+        principle_status: "absent"
+        evidence_excerpt_ids:
+          []
+      -
+        principle_code: "HOT06"
+        principle_status: "brief_mention"
+        evidence_excerpt_ids:
+          - "HOT06_brief_mention"
+      -
+        principle_code: "HOT07"
+        principle_status: "absent"
+        evidence_excerpt_ids:
+          []
+      -
+        principle_code: "HOT08"
+        principle_status: "absent"
+        evidence_excerpt_ids:
+          []
+      -
+        principle_code: "HOT09"
+        principle_status: "absent"
+        evidence_excerpt_ids:
+          []
+      -
+        principle_code: "HOT10"
+        principle_status: "absent"
+        evidence_excerpt_ids:
+          []
+    key_excerpts:
+      -
+        excerpt_id: "HOT01_brief_mention"
+        original: "Guidelines and Procedure for Whistleblowing System of PT ANTAM (Persero) Tbk"
+        translated_ru: "Предусмотрен формальный канал и процедура сообщений о нарушениях."
+        section_title: "Appendix / 3.2 Violations Report"
+        relevance_comment: "Подтверждение статуса для принципа HOT01."
+      -
+        excerpt_id: "HOT06_brief_mention"
+        original: "Violations Report"
+        translated_ru: "Кодекс требует эскалации нарушений через установленный механизм отчетности."
+        section_title: "3.2 Violations Report"
+        relevance_comment: "Подтверждение статуса для принципа HOT06."
+    other_principles:
+      []
+  -
+    topic_id: "company_to_supplier"
+    principles:
+      -
+        principle_code: "CtoS01"
+        principle_status: "brief_mention"
+        evidence_excerpt_ids:
+          - "CtoS01_brief_mention"
+      -
+        principle_code: "CtoS02"
+        principle_status: "absent"
+        evidence_excerpt_ids:
+          []
+      -
+        principle_code: "CtoS03"
+        principle_status: "absent"
+        evidence_excerpt_ids:
+          []
+      -
+        principle_code: "CtoS04"
+        principle_status: "absent"
+        evidence_excerpt_ids:
+          []
+      -
+        principle_code: "CtoS05"
+        principle_status: "absent"
+        evidence_excerpt_ids:
+          []
+      -
+        principle_code: "CtoS06"
+        principle_status: "brief_mention"
+        evidence_excerpt_ids:
+          - "CtoS06_brief_mention"
+      -
+        principle_code: "CtoS07"
+        principle_status: "absent"
+        evidence_excerpt_ids:
+          []
+    key_excerpts:
+      -
+        excerpt_id: "CtoS01_brief_mention"
+        original: "2.1.3 Relationship with Suppliers"
+        translated_ru: "Отдельный раздел описывает стандарты взаимодействия с поставщиками."
+        section_title: "2.1.3 Relationship with Suppliers"
+        relevance_comment: "Подтверждение статуса для принципа CtoS01."
+      -
+        excerpt_id: "CtoS06_brief_mention"
+        original: "Synergize parTnership"
+        translated_ru: "Ценности компании ориентированы на партнерскую модель отношений."
+        section_title: "Corporate Values — BEST"
+        relevance_comment: "Подтверждение статуса для принципа CtoS06."
+    other_principles:
+      []
+  -
+    topic_id: "worker_to_company"
+    principles:
+      -
+        principle_code: "WtoC01"
+        principle_status: "absent"
+        evidence_excerpt_ids:
+          []
+      -
+        principle_code: "WtoC02"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "WtoC02_explicit_section"
+      -
+        principle_code: "WtoC03"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "WtoC03_explicit_section"
+      -
+        principle_code: "WtoC04"
+        principle_status: "brief_mention"
+        evidence_excerpt_ids:
+          - "WtoC04_brief_mention"
+      -
+        principle_code: "WtoC05"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "WtoC05_explicit_section"
+      -
+        principle_code: "WtoC06"
+        principle_status: "absent"
+        evidence_excerpt_ids:
+          []
+      -
+        principle_code: "WtoC07"
+        principle_status: "absent"
+        evidence_excerpt_ids:
+          []
+      -
+        principle_code: "WtoC08"
+        principle_status: "absent"
+        evidence_excerpt_ids:
+          []
+      -
+        principle_code: "WtoC09"
+        principle_status: "absent"
+        evidence_excerpt_ids:
+          []
+      -
+        principle_code: "WtoC10"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "WtoC10_explicit_section"
+    key_excerpts:
+      -
+        excerpt_id: "WtoC02_explicit_section"
+        original: "Monitoring and Use of Assets"
+        translated_ru: "Сотрудники обязаны контролировать и использовать активы компании по назначению."
+        section_title: "2.2.8 Monitoring and Use of Assets"
+        relevance_comment: "Подтверждение статуса для принципа WtoC02."
+      -
+        excerpt_id: "WtoC03_explicit_section"
+        original: "Confidentiality of Data and Information"
+        translated_ru: "Прямо закреплена конфиденциальность данных и информации."
+        section_title: "2.2.7 Confidentiality of Data and Information"
+        relevance_comment: "Подтверждение статуса для принципа WtoC03."
+      -
+        excerpt_id: "WtoC04_brief_mention"
+        original: "Intellectual Property Rights (IPR)"
+        translated_ru: "Кодекс отдельно защищает права интеллектуальной собственности."
+        section_title: "2.2.10 IPR"
+        relevance_comment: "Подтверждение статуса для принципа WtoC04."
+      -
+        excerpt_id: "WtoC05_explicit_section"
+        original: "comply with applicable laws and regulations"
+        translated_ru: "Соблюдение закона обязательно для всех работников компании."
+        section_title: "Declaration / 2.2.1 Compliance with Laws"
+        relevance_comment: "Подтверждение статуса для принципа WtoC05."
+      -
+        excerpt_id: "WtoC10_explicit_section"
+        original: "build, improve, and maintain a positive company image"
+        translated_ru: "Сотрудники обязаны поддерживать и укреплять репутацию компании."
+        section_title: "PIONEER — Reputation"
+        relevance_comment: "Подтверждение статуса для принципа WtoC10."
+    other_principles:
+      []
+  -
+    topic_id: "company_to_investors"
+    principles:
+      -
+        principle_code: "CtoI01"
+        principle_status: "brief_mention"
+        evidence_excerpt_ids:
+          - "CtoI01_brief_mention"
+      -
+        principle_code: "CtoI02"
+        principle_status: "absent"
+        evidence_excerpt_ids:
+          []
+      -
+        principle_code: "CtoI03"
+        principle_status: "brief_mention"
+        evidence_excerpt_ids:
+          - "CtoI03_brief_mention"
+      -
+        principle_code: "CtoI04"
+        principle_status: "absent"
+        evidence_excerpt_ids:
+          []
+      -
+        principle_code: "CtoI05"
+        principle_status: "brief_mention"
+        evidence_excerpt_ids:
+          - "CtoI05_brief_mention"
+      -
+        principle_code: "CtoI06"
+        principle_status: "absent"
+        evidence_excerpt_ids:
+          []
+      -
+        principle_code: "CtoI07"
+        principle_status: "absent"
+        evidence_excerpt_ids:
+          []
+      -
+        principle_code: "CtoI08"
+        principle_status: "brief_mention"
+        evidence_excerpt_ids:
+          - "CtoI08_brief_mention"
+    key_excerpts:
+      -
+        excerpt_id: "CtoI01_brief_mention"
+        original: "Relationship with Investors and Shareholders"
+        translated_ru: "Кодекс выделяет отдельный блок взаимодействия с инвесторами и акционерами."
+        section_title: "2.1.7 Relationship with Investors and Shareholders"
+        relevance_comment: "Подтверждение статуса для принципа CtoI01."
+      -
+        excerpt_id: "CtoI03_brief_mention"
+        original: "Material Information is information which can influence stock prices or corporate investment decision"
+        translated_ru: "Есть требование по работе с существенной информацией для инвесторов."
+        section_title: "Glossary"
+        relevance_comment: "Подтверждение статуса для принципа CtoI03."
+      -
+        excerpt_id: "CtoI05_brief_mention"
+        original: "Whistleblowing system ... indications of violations occurring within a Company."
+        translated_ru: "Комплаенс-механизмы снижают риск инсайдерских злоупотреблений."
+        section_title: "Glossary / Implementation"
+        relevance_comment: "Подтверждение статуса для принципа CtoI05."
+      -
+        excerpt_id: "CtoI08_brief_mention"
+        original: "Relationship with Creditors"
+        translated_ru: "Кодекс содержит отдельный раздел по отношениям с кредиторами."
+        section_title: "2.1.8 Relationship with Creditors"
+        relevance_comment: "Подтверждение статуса для принципа CtoI08."
+    other_principles:
+      []
+  -
+    topic_id: "company_to_people"
+    principles:
+      -
+        principle_code: "CtoP01"
+        principle_status: "absent"
+        evidence_excerpt_ids:
+          []
+      -
+        principle_code: "CtoP02"
+        principle_status: "absent"
+        evidence_excerpt_ids:
+          []
+      -
+        principle_code: "CtoP03"
+        principle_status: "absent"
+        evidence_excerpt_ids:
+          []
+      -
+        principle_code: "CtoP04"
+        principle_status: "brief_mention"
+        evidence_excerpt_ids:
+          - "CtoP04_brief_mention"
+      -
+        principle_code: "CtoP05"
+        principle_status: "absent"
+        evidence_excerpt_ids:
+          []
+      -
+        principle_code: "CtoP06"
+        principle_status: "absent"
+        evidence_excerpt_ids:
+          []
+      -
+        principle_code: "CtoP07"
+        principle_status: "absent"
+        evidence_excerpt_ids:
+          []
+      -
+        principle_code: "CtoP08"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "CtoP08_explicit_section"
+      -
+        principle_code: "CtoP09"
+        principle_status: "absent"
+        evidence_excerpt_ids:
+          []
+      -
+        principle_code: "CtoP10"
+        principle_status: "absent"
+        evidence_excerpt_ids:
+          []
+    key_excerpts:
+      -
+        excerpt_id: "CtoP04_brief_mention"
+        original: "support  community and national development"
+        translated_ru: "Компания декларирует поддержку развития сообщества и страны."
+        section_title: "Corporate Mission"
+        relevance_comment: "Подтверждение статуса для принципа CtoP04."
+      -
+        excerpt_id: "CtoP08_explicit_section"
+        original: "Mining Safety and Environment"
+        translated_ru: "Прямо закреплены стандарты безопасности и охраны окружающей среды."
+        section_title: "2.2.9 Mining Safety and Environment"
+        relevance_comment: "Подтверждение статуса для принципа CtoP08."
+    other_principles:
+      []
+  -
+    topic_id: "company_to_buyer"
+    principles:
+      -
+        principle_code: "CtoB01"
+        principle_status: "brief_mention"
+        evidence_excerpt_ids:
+          - "CtoB01_brief_mention"
+      -
+        principle_code: "CtoB02"
+        principle_status: "absent"
+        evidence_excerpt_ids:
+          []
+      -
+        principle_code: "CtoB03"
+        principle_status: "absent"
+        evidence_excerpt_ids:
+          []
+      -
+        principle_code: "CtoB04"
+        principle_status: "absent"
+        evidence_excerpt_ids:
+          []
+      -
+        principle_code: "CtoB05"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "CtoB05_explicit_section"
+      -
+        principle_code: "CtoB06"
+        principle_status: "absent"
+        evidence_excerpt_ids:
+          []
+      -
+        principle_code: "CtoB07"
+        principle_status: "absent"
+        evidence_excerpt_ids:
+          []
+      -
+        principle_code: "CtoB08"
+        principle_status: "absent"
+        evidence_excerpt_ids:
+          []
+      -
+        principle_code: "CtoB09"
+        principle_status: "absent"
+        evidence_excerpt_ids:
+          []
+    key_excerpts:
+      -
+        excerpt_id: "CtoB01_brief_mention"
+        original: "Relationship with Customers"
+        translated_ru: "Кодекс фиксирует отдельные обязательства перед клиентами."
+        section_title: "2.1.2 Relationship with Customers"
+        relevance_comment: "Подтверждение статуса для принципа CtoB01."
+      -
+        excerpt_id: "CtoB05_explicit_section"
+        original: "Business Ethics are standards ... interacting and dealing with both internal and external Stakeholders."
+        translated_ru: "Взаимодействие с клиентами и стейкхолдерами строится на этических нормах."
+        section_title: "Glossary"
+        relevance_comment: "Подтверждение статуса для принципа CtoB05."
+    other_principles:
+      []
+  -
+    topic_id: "worker_to_worker"
+    principles:
+      -
+        principle_code: "WtoW01"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "WtoW01_explicit_section"
+      -
+        principle_code: "WtoW02"
+        principle_status: "absent"
+        evidence_excerpt_ids:
+          []
+      -
+        principle_code: "WtoW03"
+        principle_status: "brief_mention"
+        evidence_excerpt_ids:
+          - "WtoW03_brief_mention"
+      -
+        principle_code: "WtoW04"
+        principle_status: "absent"
+        evidence_excerpt_ids:
+          []
+      -
+        principle_code: "WtoW05"
+        principle_status: "absent"
+        evidence_excerpt_ids:
+          []
+      -
+        principle_code: "WtoW06"
+        principle_status: "absent"
+        evidence_excerpt_ids:
+          []
+      -
+        principle_code: "WtoW07"
+        principle_status: "absent"
+        evidence_excerpt_ids:
+          []
+      -
+        principle_code: "WtoW08"
+        principle_status: "absent"
+        evidence_excerpt_ids:
+          []
+    key_excerpts:
+      -
+        excerpt_id: "WtoW01_explicit_section"
+        original: "Ethical Behavior towards Fellow Employees"
+        translated_ru: "Прямо закреплены этические нормы отношения сотрудников друг к другу."
+        section_title: "2.2.11 Ethical Behavior towards Fellow Employees"
+        relevance_comment: "Подтверждение статуса для принципа WtoW01."
+      -
+        excerpt_id: "WtoW03_brief_mention"
+        original: "improve coordination and communication regularly"
+        translated_ru: "Требуется постоянная координация и командная коммуникация."
+        section_title: "ANTAM Guiding Principles — Teamwork"
+        relevance_comment: "Подтверждение статуса для принципа WtoW03."
+    other_principles:
+      []
+  -
+    topic_id: "manager_to_worker"
+    principles:
+      -
+        principle_code: "MtoW01"
+        principle_status: "brief_mention"
+        evidence_excerpt_ids:
+          - "MtoW01_brief_mention"
+      -
+        principle_code: "MtoW02"
+        principle_status: "absent"
+        evidence_excerpt_ids:
+          []
+      -
+        principle_code: "MtoW03"
+        principle_status: "absent"
+        evidence_excerpt_ids:
+          []
+      -
+        principle_code: "MtoW04"
+        principle_status: "absent"
+        evidence_excerpt_ids:
+          []
+      -
+        principle_code: "MtoW05"
+        principle_status: "absent"
+        evidence_excerpt_ids:
+          []
+      -
+        principle_code: "MtoW06"
+        principle_status: "absent"
+        evidence_excerpt_ids:
+          []
+    key_excerpts:
+      -
+        excerpt_id: "MtoW01_brief_mention"
+        original: "ANTAM Guiding Principles ... checklist material for superiors to conduct coaching and monitoring"
+        translated_ru: "Руководители обязаны проводить коучинг и мониторинг этичного поведения подчиненных."
+        section_title: "Glossary"
+        relevance_comment: "Подтверждение статуса для принципа MtoW01."
+    other_principles:
+      []
+  -
+    topic_id: "company_to_worker"
+    principles:
+      -
+        principle_code: "CtoW01"
+        principle_status: "absent"
+        evidence_excerpt_ids:
+          []
+      -
+        principle_code: "CtoW02"
+        principle_status: "absent"
+        evidence_excerpt_ids:
+          []
+      -
+        principle_code: "CtoW03"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "CtoW03_explicit_section"
+      -
+        principle_code: "CtoW04"
+        principle_status: "absent"
+        evidence_excerpt_ids:
+          []
+      -
+        principle_code: "CtoW05"
+        principle_status: "absent"
+        evidence_excerpt_ids:
+          []
+      -
+        principle_code: "CtoW06"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "CtoW06_explicit_section"
+      -
+        principle_code: "CtoW07"
+        principle_status: "absent"
+        evidence_excerpt_ids:
+          []
+      -
+        principle_code: "CtoW08"
+        principle_status: "absent"
+        evidence_excerpt_ids:
+          []
+      -
+        principle_code: "CtoW09"
+        principle_status: "absent"
+        evidence_excerpt_ids:
+          []
+      -
+        principle_code: "CtoW10"
+        principle_status: "absent"
+        evidence_excerpt_ids:
+          []
+    key_excerpts:
+      -
+        excerpt_id: "CtoW03_explicit_section"
+        original: "create comfortable and safe work environment"
+        translated_ru: "Компания обязуется формировать безопасные условия труда."
+        section_title: "Mission / Mining Safety"
+        relevance_comment: "Подтверждение статуса для принципа CtoW03."
+      -
+        excerpt_id: "CtoW06_explicit_section"
+        original: "respect for human rights, different opinions, values, norms, and principles espoused by others"
+        translated_ru: "Закреплены принципы равного и уважительного отношения к сотрудникам."
+        section_title: "PIONEER — HarmoNy"
+        relevance_comment: "Подтверждение статуса для принципа CtoW06."
+    other_principles:
+      []
+  -
+    topic_id: "worker_to_manager"
+    principles:
+      -
+        principle_code: "WtoM01"
+        principle_status: "absent"
+        evidence_excerpt_ids:
+          []
+      -
+        principle_code: "WtoM02"
+        principle_status: "absent"
+        evidence_excerpt_ids:
+          []
+      -
+        principle_code: "WtoM03"
+        principle_status: "brief_mention"
+        evidence_excerpt_ids:
+          - "WtoM03_brief_mention"
+      -
+        principle_code: "WtoM04"
+        principle_status: "brief_mention"
+        evidence_excerpt_ids:
+          - "WtoM04_brief_mention"
+      -
+        principle_code: "WtoM05"
+        principle_status: "absent"
+        evidence_excerpt_ids:
+          []
+      -
+        principle_code: "WtoM06"
+        principle_status: "absent"
+        evidence_excerpt_ids:
+          []
+    key_excerpts:
+      -
+        excerpt_id: "WtoM03_brief_mention"
+        original: "Code of Conduct applies to all individuals ... and all ANTAM personnel sign annually"
+        translated_ru: "Сотрудники обязаны выполнять кодекс и подтверждать это ежегодно."
+        section_title: "1.1 Rationale"
+        relevance_comment: "Подтверждение статуса для принципа WtoM03."
+      -
+        excerpt_id: "WtoM04_brief_mention"
+        original: "dare to take decisions and actions by taking into account of the risks and benefits"
+        translated_ru: "Кодекс поощряет аргументированное выражение позиции и принятие решений в интересах компании."
+        section_title: "PIONEER — Professionalism"
+        relevance_comment: "Подтверждение статуса для принципа WtoM04."
+    other_principles:
+      []
+notes:
+  []
+limitations:
+  - "OCR-текст фрагментарный; существенная часть детальных разделов представлена в виде оглавления и выдержек."
+analyst_summary_ru: "Анализ выполнен по всем темам на основе OCR-документа; структура кодекса подтверждена, но часть разделов доступна неполно и требует выборочной ручной сверки."

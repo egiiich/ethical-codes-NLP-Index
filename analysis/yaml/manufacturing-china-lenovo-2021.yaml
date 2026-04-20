@@ -1,0 +1,681 @@
+document_id: "manufacturing-china-lenovo-2021"
+company_name: "Lenovo"
+country: "China"
+industry: "Manufacturing"
+source_path: "Ethics_Codes_txt_files/Manufacturing_China_Lenovo_2021.txt"
+source_language: "en"
+document_type: "code_of_conduct"
+review_status: "completed"
+topic_analyses:
+  -
+    topic_id: "competitor_relations"
+    principles:
+      -
+        principle_code: "COMP01"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "COMP02"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "COMP03"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "COMP03_explicit_section"
+      -
+        principle_code: "COMP04"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "COMP05"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "COMP06"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "COMP07"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "COMP07_explicit_section"
+      -
+        principle_code: "COMP08"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "COMP08_explicit_section"
+      -
+        principle_code: "COMP09"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "COMP10"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+    key_excerpts:
+      -
+        excerpt_id: "COMP03_explicit_section"
+        original: "No employee should enter into an agreement or discussion with any competitor that would set prices ..."
+        translated_ru: "Прямо запрещены картельные соглашения с конкурентами по ценам и рынкам."
+        section_title: "Fair Competition"
+        relevance_comment: "Подтверждение статуса для принципа COMP03."
+      -
+        excerpt_id: "COMP07_explicit_section"
+        original: "we may not use any illegal or improper means to acquire a competitor’s trade secrets."
+        translated_ru: "Запрещено незаконное получение коммерческих тайн конкурентов."
+        section_title: "Protecting Information & Intellectual Property Belonging to Others"
+        relevance_comment: "Подтверждение статуса для принципа COMP07."
+      -
+        excerpt_id: "COMP08_explicit_section"
+        original: "Do not make false or deceptive comments regarding competitors."
+        translated_ru: "Запрещены ложные и вводящие в заблуждение заявления о конкурентах."
+        section_title: "Fair Competition"
+        relevance_comment: "Подтверждение статуса для принципа COMP08."
+    other_principles: []
+  -
+    topic_id: "hotline_principles"
+    principles:
+      -
+        principle_code: "HOT01"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "HOT01_explicit_section"
+      -
+        principle_code: "HOT02"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "HOT02_explicit_section"
+      -
+        principle_code: "HOT03"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "HOT03_explicit_section"
+      -
+        principle_code: "HOT04"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "HOT05"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "HOT06"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "HOT06_explicit_section"
+      -
+        principle_code: "HOT07"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "HOT08"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "HOT09"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "HOT10"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+    key_excerpts:
+      -
+        excerpt_id: "HOT01_explicit_section"
+        original: "The LenovoLine allows you to report a concern or ask a question 24 hours a day 7 days a week."
+        translated_ru: "Кодекс закрепляет круглосуточную горячую линию для сообщений о нарушениях."
+        section_title: "The LenovoLine"
+        relevance_comment: "Подтверждение статуса для принципа HOT01."
+      -
+        excerpt_id: "HOT02_explicit_section"
+        original: "Confidentiality will be maintained to the extent possible ..."
+        translated_ru: "Конфиденциальность сообщений о нарушениях должна сохраняться в максимально возможной степени."
+        section_title: "Where to Go for Help"
+        relevance_comment: "Подтверждение статуса для принципа HOT02."
+      -
+        excerpt_id: "HOT03_explicit_section"
+        original: "Lenovo does not tolerate retaliation against any employee ... for reporting an issue."
+        translated_ru: "Прямо запрещена реталиация против заявителей."
+        section_title: "No Retaliation"
+        relevance_comment: "Подтверждение статуса для принципа HOT03."
+      -
+        excerpt_id: "HOT06_explicit_section"
+        original: "You should promptly report any conduct that seems unethical, illegal or suspicious."
+        translated_ru: "Сотрудники обязаны оперативно сообщать о неэтичном или незаконном поведении."
+        section_title: "Reporting Concerns and Seeking Guidance"
+        relevance_comment: "Подтверждение статуса для принципа HOT06."
+    other_principles: []
+  -
+    topic_id: "company_to_supplier"
+    principles:
+      -
+        principle_code: "CtoS01"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "CtoS01_explicit_section"
+      -
+        principle_code: "CtoS02"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "CtoS03"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "CtoS03_explicit_section"
+      -
+        principle_code: "CtoS04"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "CtoS05"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "CtoS06"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "CtoS06_explicit_section"
+      -
+        principle_code: "CtoS07"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+    key_excerpts:
+      -
+        excerpt_id: "CtoS01_explicit_section"
+        original: "In deciding among competing suppliers ... we should weigh the facts honestly and impartially."
+        translated_ru: "Выбор поставщиков должен происходить на основе объективных критериев и фактов."
+        section_title: "Treating Our Business Partners With Integrity"
+        relevance_comment: "Подтверждение статуса для принципа CtoS01."
+      -
+        excerpt_id: "CtoS03_explicit_section"
+        original: "We base our decisions on legitimate business-related criteria, not on personal relationships."
+        translated_ru: "Запрещено принимать решения по поставщикам на основе личной выгоды или связей."
+        section_title: "Treating Our Business Partners With Integrity"
+        relevance_comment: "Подтверждение статуса для принципа CtoS03."
+      -
+        excerpt_id: "CtoS06_explicit_section"
+        original: "We seek to do business with organizations that ... follow principles consistent with the ones in this Code."
+        translated_ru: "Компания ориентируется на устойчивые отношения с этичными и комплаентными партнёрами."
+        section_title: "Treating Our Business Partners With Integrity"
+        relevance_comment: "Подтверждение статуса для принципа CtoS06."
+    other_principles: []
+  -
+    topic_id: "worker_to_company"
+    principles:
+      -
+        principle_code: "WtoC01"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "WtoC02"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "WtoC02_explicit_section"
+      -
+        principle_code: "WtoC03"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "WtoC03_explicit_section"
+      -
+        principle_code: "WtoC04"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "WtoC04_explicit_section"
+      -
+        principle_code: "WtoC05"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "WtoC05_explicit_section"
+      -
+        principle_code: "WtoC06"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "WtoC07"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "WtoC08"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "WtoC09"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "WtoC10"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "WtoC10_explicit_section"
+    key_excerpts:
+      -
+        excerpt_id: "WtoC02_explicit_section"
+        original: "Protecting Company Assets"
+        translated_ru: "Сотрудники обязаны защищать активы компании и предотвращать их неправомерное использование."
+        section_title: "Our Investors / Protecting Company Assets"
+        relevance_comment: "Подтверждение статуса для принципа WtoC02."
+      -
+        excerpt_id: "WtoC03_explicit_section"
+        original: "Lenovo Confidential & Restricted Information"
+        translated_ru: "Кодекс закрепляет обязательность защиты конфиденциальной информации Lenovo."
+        section_title: "Contents / Lenovo Confidential & Restricted Information"
+        relevance_comment: "Подтверждение статуса для принципа WtoC03."
+      -
+        excerpt_id: "WtoC04_explicit_section"
+        original: "Lenovo Intellectual Property Rights"
+        translated_ru: "Кодекс прямо закрепляет защиту интеллектуальной собственности компании."
+        section_title: "Contents / Lenovo Intellectual Property Rights"
+        relevance_comment: "Подтверждение статуса для принципа WtoC04."
+      -
+        excerpt_id: "WtoC05_explicit_section"
+        original: "We behave honestly, by obeying the law, our policies, our Code of Conduct."
+        translated_ru: "Сотрудники обязаны соблюдать закон, кодекс и внутренние политики."
+        section_title: "How We Act With Integrity"
+        relevance_comment: "Подтверждение статуса для принципа WtoC05."
+      -
+        excerpt_id: "WtoC10_explicit_section"
+        original: "We consider the consequences of our decisions on Lenovo’s reputation."
+        translated_ru: "Сотрудники обязаны учитывать влияние решений на репутацию компании."
+        section_title: "How We Act With Integrity"
+        relevance_comment: "Подтверждение статуса для принципа WtoC10."
+    other_principles: []
+  -
+    topic_id: "company_to_investors"
+    principles:
+      -
+        principle_code: "CtoI01"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "CtoI02"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "CtoI03"
+        principle_status: "brief_mention"
+        evidence_excerpt_ids:
+          - "CtoI03_brief_mention"
+      -
+        principle_code: "CtoI04"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "CtoI05"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "CtoI05_explicit_section"
+      -
+        principle_code: "CtoI06"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "CtoI07"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "CtoI08"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+    key_excerpts:
+      -
+        excerpt_id: "CtoI03_brief_mention"
+        original: "Communications with securities or financial analysts and with shareholders are only managed by Lenovo Investor Relations."
+        translated_ru: "Кодекс фиксирует формализованное и контролируемое раскрытие информации инвесторам."
+        section_title: "External Communications/Media Relations"
+        relevance_comment: "Подтверждение статуса для принципа CtoI03."
+      -
+        excerpt_id: "CtoI05_explicit_section"
+        original: "Insider Information & Securities Trading"
+        translated_ru: "Прямой запрет инсайдерской торговли закреплен отдельным разделом кодекса."
+        section_title: "Our Investors / Insider Information & Securities Trading"
+        relevance_comment: "Подтверждение статуса для принципа CtoI05."
+    other_principles: []
+  -
+    topic_id: "company_to_people"
+    principles:
+      -
+        principle_code: "CtoP01"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "CtoP02"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "CtoP03"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "CtoP04"
+        principle_status: "brief_mention"
+        evidence_excerpt_ids:
+          - "CtoP04_brief_mention"
+      -
+        principle_code: "CtoP05"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "CtoP06"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "CtoP07"
+        principle_status: "brief_mention"
+        evidence_excerpt_ids:
+          - "CtoP07_brief_mention"
+      -
+        principle_code: "CtoP08"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "CtoP08_explicit_section"
+      -
+        principle_code: "CtoP09"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "CtoP10"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+    key_excerpts:
+      -
+        excerpt_id: "CtoP04_brief_mention"
+        original: "Lenovo ... contributions to ... economic and social development of the communities where we do business."
+        translated_ru: "Компания декларирует вклад в социально-экономическое развитие регионов присутствия."
+        section_title: "Commitment to Community"
+        relevance_comment: "Подтверждение статуса для принципа CtoP04."
+      -
+        excerpt_id: "CtoP07_brief_mention"
+        original: "Lenovo encourages ... sponsoring and participating in initiatives that contribute to a better quality of life."
+        translated_ru: "Поддерживаются инициативы, повышающие качество жизни и развитие сообщества."
+        section_title: "Commitment to Community"
+        relevance_comment: "Подтверждение статуса для принципа CtoP07."
+      -
+        excerpt_id: "CtoP08_explicit_section"
+        original: "We are committed to promoting and maintaining environmentally responsible manufacturing."
+        translated_ru: "Компания обязуется к экологически ответственной производственной деятельности."
+        section_title: "The Environment"
+        relevance_comment: "Подтверждение статуса для принципа CtoP08."
+    other_principles: []
+  -
+    topic_id: "company_to_buyer"
+    principles:
+      -
+        principle_code: "CtoB01"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "CtoB01_explicit_section"
+      -
+        principle_code: "CtoB02"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "CtoB02_explicit_section"
+      -
+        principle_code: "CtoB03"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "CtoB04"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "CtoB05"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "CtoB06"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "CtoB07"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "CtoB08"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "CtoB09"
+        principle_status: "brief_mention"
+        evidence_excerpt_ids:
+          - "CtoB09_brief_mention"
+    key_excerpts:
+      -
+        excerpt_id: "CtoB01_explicit_section"
+        original: "We wow our customers."
+        translated_ru: "Ориентация на клиента зафиксирована как один из базовых принципов поведения."
+        section_title: "Our Culture and Guiding Principles"
+        relevance_comment: "Подтверждение статуса для принципа CtoB01."
+      -
+        excerpt_id: "CtoB02_explicit_section"
+        original: "all representations ... about Lenovo products and services ... are truthful and accurate."
+        translated_ru: "Информация о продуктах и услугах должна быть правдивой и точной."
+        section_title: "Representations Regarding Lenovo Products"
+        relevance_comment: "Подтверждение статуса для принципа CtoB02."
+      -
+        excerpt_id: "CtoB09_brief_mention"
+        original: "Lenovo is committed to quality and achieving consumer satisfaction."
+        translated_ru: "Кодекс фиксирует приоритет качества и удовлетворенности потребителей."
+        section_title: "Product & Quality Service"
+        relevance_comment: "Подтверждение статуса для принципа CtoB09."
+    other_principles: []
+  -
+    topic_id: "worker_to_worker"
+    principles:
+      -
+        principle_code: "WtoW01"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "WtoW01_explicit_section"
+      -
+        principle_code: "WtoW02"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "WtoW03"
+        principle_status: "brief_mention"
+        evidence_excerpt_ids:
+          - "WtoW03_brief_mention"
+      -
+        principle_code: "WtoW04"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "WtoW05"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "WtoW06"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "WtoW07"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "WtoW07_explicit_section"
+      -
+        principle_code: "WtoW08"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+    key_excerpts:
+      -
+        excerpt_id: "WtoW01_explicit_section"
+        original: "We treat each other with fairness, dignity and respect."
+        translated_ru: "Сотрудники обязаны уважительно относиться друг к другу."
+        section_title: "How We Act With Integrity"
+        relevance_comment: "Подтверждение статуса для принципа WtoW01."
+      -
+        excerpt_id: "WtoW03_brief_mention"
+        original: "Teamwork with Integrity & Trust"
+        translated_ru: "Командная работа на основе доверия и честности — отдельная ценность компании."
+        section_title: "Our Culture and Guiding Principles"
+        relevance_comment: "Подтверждение статуса для принципа WtoW03."
+      -
+        excerpt_id: "WtoW07_explicit_section"
+        original: "immediately reporting accidents, injuries and unsafe conditions."
+        translated_ru: "Сотрудники обязаны сообщать о рисках и инцидентах, влияющих на безопасность коллег."
+        section_title: "Health, Safety & Security of Employees"
+        relevance_comment: "Подтверждение статуса для принципа WtoW07."
+    other_principles: []
+  -
+    topic_id: "manager_to_worker"
+    principles:
+      -
+        principle_code: "MtoW01"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "MtoW01_explicit_section"
+      -
+        principle_code: "MtoW02"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "MtoW02_explicit_section"
+      -
+        principle_code: "MtoW03"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "MtoW04"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "MtoW04_explicit_section"
+      -
+        principle_code: "MtoW05"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "MtoW06"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+    key_excerpts:
+      -
+        excerpt_id: "MtoW01_explicit_section"
+        original: "ensure your employees ... can raise concerns without fear of retaliation."
+        translated_ru: "Руководитель обязан обеспечивать справедливую среду и защиту подчиненных от репрессий."
+        section_title: "Additional Manager Responsibilities"
+        relevance_comment: "Подтверждение статуса для принципа MtoW01."
+      -
+        excerpt_id: "MtoW02_explicit_section"
+        original: "You will ensure that your employees and contractors complete all required ethics training."
+        translated_ru: "Руководитель обязан обеспечивать обучение и развитие сотрудников по этике и комплаенсу."
+        section_title: "Additional Manager Responsibilities"
+        relevance_comment: "Подтверждение статуса для принципа MtoW02."
+      -
+        excerpt_id: "MtoW04_explicit_section"
+        original: "As a manager ... creating a work culture that promotes integrity."
+        translated_ru: "Руководитель обязан формировать культуру открытого и этичного диалога."
+        section_title: "Additional Manager Responsibilities"
+        relevance_comment: "Подтверждение статуса для принципа MtoW04."
+    other_principles: []
+  -
+    topic_id: "company_to_worker"
+    principles:
+      -
+        principle_code: "CtoW01"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "CtoW02"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "CtoW03"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "CtoW03_explicit_section"
+      -
+        principle_code: "CtoW04"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "CtoW05"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "CtoW06"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "CtoW06_explicit_section"
+      -
+        principle_code: "CtoW07"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "CtoW08"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "CtoW09"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "CtoW10"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+    key_excerpts:
+      -
+        excerpt_id: "CtoW03_explicit_section"
+        original: "We are committed to providing a safe and healthy work environment."
+        translated_ru: "Компания обязуется обеспечивать безопасные и здоровые условия труда."
+        section_title: "Health, Safety & Security of Employees"
+        relevance_comment: "Подтверждение статуса для принципа CtoW03."
+      -
+        excerpt_id: "CtoW06_explicit_section"
+        original: "COMMITMENT TO DIVERSITY AND NON-DISCRIMINATION POLICY"
+        translated_ru: "Прямо закреплена политика недискриминации и равного отношения к сотрудникам."
+        section_title: "Our Employees / Diversity"
+        relevance_comment: "Подтверждение статуса для принципа CtoW06."
+    other_principles: []
+  -
+    topic_id: "worker_to_manager"
+    principles:
+      -
+        principle_code: "WtoM01"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "WtoM02"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "WtoM02_explicit_section"
+      -
+        principle_code: "WtoM03"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "WtoM03_explicit_section"
+      -
+        principle_code: "WtoM04"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "WtoM05"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      -
+        principle_code: "WtoM06"
+        principle_status: "brief_mention"
+        evidence_excerpt_ids:
+          - "WtoM06_brief_mention"
+    key_excerpts:
+      -
+        excerpt_id: "WtoM02_explicit_section"
+        original: "Accuracy of Business Records"
+        translated_ru: "Требуется точная и добросовестная отчетность, исключающая введение руководства в заблуждение."
+        section_title: "Our Investors / Accuracy of Business Records"
+        relevance_comment: "Подтверждение статуса для принципа WtoM02."
+      -
+        excerpt_id: "WtoM03_explicit_section"
+        original: "We honor commitments, deliver on our promises and take responsibility for decisions."
+        translated_ru: "Сотрудник обязан исполнять поручения добросовестно и нести ответственность за результат."
+        section_title: "How We Act With Integrity"
+        relevance_comment: "Подтверждение статуса для принципа WtoM03."
+      -
+        excerpt_id: "WtoM06_brief_mention"
+        original: "We should never ask or allow a third party to act ... in any way that would violate the Code."
+        translated_ru: "Сотрудник должен отказываться от неэтичных/незаконных действий и эскалировать риск."
+        section_title: "Introduction"
+        relevance_comment: "Подтверждение статуса для принципа WtoM06."
+    other_principles: []
+notes: []
+limitations: []
+analyst_summary_ru: "Анализ выполнен последовательно по всем темам и принципам; цитаты оставлены в оригинале документа, перевод и выводы — на русском языке."
