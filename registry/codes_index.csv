@@ -1,8 +1,8 @@
 document_id,company_name,country,industry,source_path,source_language,file_format,document_type,review_status
-agriculture-indonesia-astra-agro-lestari-2023,Astra Agro Lestari,Indonesia,Agriculture,Ethics_Codes_txt_files/Agriculture_Indonesia_Astra Agro Lestari_2023.txt,en,txt,code_of_conduct,not_started
-agriculture-indonesia-smart-2021,SMART,Indonesia,Agriculture,Ethics_Codes_txt_files/Agriculture_Indonesia_SMART_2021.txt,en,txt,code_of_conduct,not_started
-automotive-china-great-wall-motor-2024,Great Wall Motor,China,Automotive,Ethics_Codes_txt_files/Automotive_China_Great Wall Motor_2024.txt,en,txt,functional_equivalent_needs_review,not_started
-automotive-china-li-auto-2024,Li Auto,China,Automotive,Ethics_Codes_txt_files/Automotive_China_Li Auto_2024.txt,en,txt,code_of_conduct,not_started
+agriculture-indonesia-astra-agro-lestari-2023,Astra Agro Lestari,Indonesia,Agriculture,Ethics_Codes_txt_files/Agriculture_Indonesia_Astra Agro Lestari_2023.txt,en,txt,code_of_conduct,completed
+agriculture-indonesia-smart-2021,SMART,Indonesia,Agriculture,Ethics_Codes_txt_files/Agriculture_Indonesia_SMART_2021.txt,en,txt,code_of_conduct,completed
+automotive-china-great-wall-motor-2024,Great Wall Motor,China,Automotive,Ethics_Codes_txt_files/Automotive_China_Great Wall Motor_2024.txt,en,txt,functional_equivalent_needs_review,completed
+automotive-china-li-auto-2024,Li Auto,China,Automotive,Ethics_Codes_txt_files/Automotive_China_Li Auto_2024.txt,en,txt,code_of_conduct,completed
 automotive-china-nio-2022,NIO,China,Automotive,Ethics_Codes_txt_files/Automotive_China_NIO_2022.txt,en,txt,code_of_conduct,not_started
 automotive-china-xpeng-2024,XPeng,China,Automotive,Ethics_Codes_txt_files/Automotive_China_XPeng_2024.txt,en,txt,code_of_conduct,not_started
 automotive-indonesia-astra-otoparts-2018,Astra Otoparts,Indonesia,Automotive,Ethics_Codes_txt_files/Automotive_Indonesia_Astra Otoparts_2018.txt,en,txt,code_of_conduct,not_started
@@ -103,16 +103,16 @@ insurance-japan-sompo-holdings-2025,Sompo Holdings,Japan,Insurance,Ethics_Codes_
 insurance-japan-sumitomo-life-insurance-2022,Sumitomo Life Insurance,Japan,Insurance,Ethics_Codes_txt_files/Insurance_Japan_Sumitomo Life Insurance_2022.txt,en,txt,code_of_conduct,completed
 insurance-japan-tokio-marine-2024,Tokio Marine,Japan,Insurance,Ethics_Codes_txt_files/Insurance_Japan_Tokio Marine_2024.txt,en,txt,code_of_conduct,completed
 logistics-china-china-airlines-group-2023,China Airlines Group,China,Logistics,Ethics_Codes_txt_files/Logistics_China_China Airlines Group_2023.txt,en,txt,code_of_conduct,completed
-logistics-china-china-southern-airlines-2023,China Southern Airlines,China,Logistics,Ethics_Codes_txt_files/Logistics_China_China Southern Airlines_2023.txt,en,txt,code_of_ethics,not_started
-logistics-china-trip-com-group-2023,Trip.com Group,China,Logistics,Ethics_Codes_txt_files/Logistics_China_Trip.com Group_2023.txt,en,txt,code_of_conduct,not_started
-logistics-china-yanfeng-automotive-interiors-2024,Yanfeng Automotive Interiors,China,Logistics,Ethics_Codes_txt_files/Logistics_China_Yanfeng Automotive Interiors_2024.txt,en,txt,code_of_conduct,not_started
-logistics-indonesia-samudera-indonesia-2020,Samudera Indonesia,Indonesia,Logistics,Ethics_Codes_txt_files/Logistics_Indonesia_Samudera Indonesia_2020.txt,en,txt,code_of_conduct,not_started
-logistics-japan-ana-group-2013,ANA Group,Japan,Logistics,Ethics_Codes_txt_files/Logistics_Japan_ANA Group_2013.txt,en,txt,code_of_conduct,not_started
-logistics-japan-japan-airlines-2024,Japan Airlines,Japan,Logistics,Ethics_Codes_txt_files/Logistics_Japan_Japan Airlines_2024.txt,en,txt,code_of_conduct,not_started
-logistics-japan-kawasaki-kisen-kaisha-2025,Kawasaki Kisen Kaisha,Japan,Logistics,Ethics_Codes_txt_files/Logistics_Japan_Kawasaki Kisen Kaisha_2025.txt,en,txt,functional_equivalent_needs_review,not_started
-logistics-japan-mitsui-o-s-k-lines-2025,Mitsui O.S.K. Lines,Japan,Logistics,Ethics_Codes_txt_files/Logistics_Japan_Mitsui O.S.K. Lines_2025.txt,en,txt,functional_equivalent_needs_review,not_started
-logistics-japan-yamato-holdings-2024,Yamato Holdings,Japan,Logistics,Ethics_Codes_txt_files/Logistics_Japan_Yamato Holdings_2024.txt,en,txt,code_of_conduct,not_started
-manufactoring-korea-hyundai-steel-2020,Hyundai Steel,Korea,Manufactoring,Ethics_Codes_txt_files/Manufactoring_Korea_Hyundai Steel_2020.txt,ko,txt,code_of_conduct,not_started
+logistics-china-china-southern-airlines-2023,China Southern Airlines,China,Logistics,Ethics_Codes_txt_files/Logistics_China_China Southern Airlines_2023.txt,en,txt,code_of_ethics,needs_human_review
+logistics-china-trip-com-group-2023,Trip.com Group,China,Logistics,Ethics_Codes_txt_files/Logistics_China_Trip.com Group_2023.txt,en,txt,code_of_conduct,completed
+logistics-china-yanfeng-automotive-interiors-2024,Yanfeng Automotive Interiors,China,Logistics,Ethics_Codes_txt_files/Logistics_China_Yanfeng Automotive Interiors_2024.txt,en,txt,code_of_conduct,completed
+logistics-indonesia-samudera-indonesia-2020,Samudera Indonesia,Indonesia,Logistics,Ethics_Codes_txt_files/Logistics_Indonesia_Samudera Indonesia_2020.txt,en,txt,code_of_conduct,completed
+logistics-japan-ana-group-2013,ANA Group,Japan,Logistics,Ethics_Codes_txt_files/Logistics_Japan_ANA Group_2013.txt,en,txt,code_of_conduct,completed
+logistics-japan-japan-airlines-2024,Japan Airlines,Japan,Logistics,Ethics_Codes_txt_files/Logistics_Japan_Japan Airlines_2024.txt,en,txt,code_of_conduct,completed
+logistics-japan-kawasaki-kisen-kaisha-2025,Kawasaki Kisen Kaisha,Japan,Logistics,Ethics_Codes_txt_files/Logistics_Japan_Kawasaki Kisen Kaisha_2025.txt,en,txt,functional_equivalent_needs_review,completed
+logistics-japan-mitsui-o-s-k-lines-2025,Mitsui O.S.K. Lines,Japan,Logistics,Ethics_Codes_txt_files/Logistics_Japan_Mitsui O.S.K. Lines_2025.txt,en,txt,functional_equivalent_needs_review,completed
+logistics-japan-yamato-holdings-2024,Yamato Holdings,Japan,Logistics,Ethics_Codes_txt_files/Logistics_Japan_Yamato Holdings_2024.txt,en,txt,code_of_conduct,completed
+manufactoring-korea-hyundai-steel-2020,Hyundai Steel,Korea,Manufactoring,Ethics_Codes_txt_files/Manufactoring_Korea_Hyundai Steel_2020.txt,ko,txt,code_of_conduct,completed
 manufactoring-korea-ls-electric-2023,LS ELECTRIC,Korea,Manufactoring,Ethics_Codes_txt_files/Manufactoring_Korea_LS ELECTRIC_2023.txt,en,txt,code_of_ethics,not_started
 manufactoring-korea-posco-future-m-2025,POSCO Future M,Korea,Manufactoring,Ethics_Codes_txt_files/Manufactoring_Korea_POSCO Future M_2025.txt,en,txt,code_of_conduct,not_started
 manufactoring-korea-poongsan-2019,Poongsan,Korea,Manufactoring,Ethics_Codes_txt_files/Manufactoring_Korea_Poongsan_2019.txt,en,txt,code_of_ethics,not_started

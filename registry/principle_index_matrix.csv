@@ -71,10 +71,11 @@ Russia,Energy,Lukoil,2016,energy-russia-lukoil-2016,4,3,6,15,6,7,4,3,1,1,0
 Russia,Energy,Rosneft,2015,energy-russia-rosneft-2015,6,4,4,4,6,0,6,1,0,0,0
 Russia,Energy,Transneft,2024,energy-russia-transneft-2024,0,9,0,9,0,6,0,3,6,9,0
 Indonesia,Entertainment,Nusantara Sejahtera Raya,2025,entertainment-indonesia-nusantara-sejahtera-raya-2025,6,13,9,12,7,10,3,6,1,7,0
-China,Finance,China Life Insurance,2004,finance-china-china-life-insurance-2004,1,6,0,9,4,0,3,0,0,0,0
 China,Finance,CITIC Limited,2023,finance-china-citic-limited-2023,1,9,7,12,4,0,3,0,0,0,0
+China,Finance,China Life Insurance,2004,finance-china-china-life-insurance-2004,1,6,0,9,4,0,3,0,0,0,0
 China,Finance,LEXINFINTECH,2017,finance-china-lexinfintech-2017,1,3,0,7,3,0,3,0,0,0,0
 China,Finance,Lufax,2020,finance-china-lufax-2020,3,6,1,9,3,3,3,1,0,6,0
+China,Finance,Ping An Group,2020,finance-china-ping-an-group-2020,0,7,0,8,0,0,10,0,0,3,0
 Indonesia,Finance,BCA,2023,finance-indonesia-bca-2023,2,9,6,13,6,0,9,4,3,8,1
 Indonesia,Finance,BNI,2026,finance-indonesia-bni-2026,0,10,4,13,0,0,1,3,0,1,0
 Indonesia,Finance,BSI,2024,finance-indonesia-bsi-2024,0,3,0,13,3,0,4,1,0,0,0
@@ -85,8 +86,7 @@ Indonesia,Finance,Bank Mandiri,2024,finance-indonesia-bank-mandiri-2024,1,6,3,12
 Indonesia,Finance,IDClear,2024,finance-indonesia-idclear-2024,0,9,1,9,3,0,0,3,0,4,0
 Japan,Finance,MUFG Group,2025,finance-japan-mufg-group-2025,0,9,0,6,0,3,9,3,3,3,0
 Japan,Finance,Resona Holdings,2025,finance-japan-resona-holdings-2025,0,12,1,6,0,1,1,0,0,0,0
-China,Finance,Ping An Group,2020,finance-china-ping-an-group-2020,absent,present,absent,present,absent,absent,present,absent,absent,present,absent
-Japan,Finance,Sumitomo Mitsui Financial Group,2024,finance-japan-sumitomo-mitsui-financial-group-2024,present,present,absent,present,absent,present,absent,present,absent,present,absent
+Japan,Finance,Sumitomo Mitsui Financial Group,2024,finance-japan-sumitomo-mitsui-financial-group-2024,4,6,0,5,0,1,0,3,0,6,0
 Japan,Finance,Sumitomo Mitsui Trust Group,2025,finance-japan-sumitomo-mitsui-trust-group-2025,0,18,0,13,4,5,15,2,1,1,0
 Korea,Finance,Hana Financial Group,2022,finance-korea-hana-financial-group-2022,4,9,4,11,7,4,12,7,0,10,0
 Korea,Finance,KB Financial Group,2024,finance-korea-kb-financial-group-2024,3,4,6,12,12,4,10,2,0,10,0
@@ -103,3 +103,13 @@ Japan,Insurance,Sompo Holdings,2025,insurance-japan-sompo-holdings-2025,4,10,6,1
 Japan,Insurance,Sumitomo Life Insurance,2022,insurance-japan-sumitomo-life-insurance-2022,1,16,4,12,5,12,16,7,10,8,2
 Japan,Insurance,Tokio Marine,2024,insurance-japan-tokio-marine-2024,5,18,6,14,7,2,8,1,0,4,2
 China,Logistics,China Airlines Group,2023,logistics-china-china-airlines-group-2023,2,7,9,6,5,12,6,3,0,9,1
+China,Logistics,China Southern Airlines,2023,logistics-china-china-southern-airlines-2023,2,1,1,10,4,0,2,0,0,0,0
+China,Logistics,Trip.com Group,2023,logistics-china-trip-com-group-2023,2,14,4,13,6,0,4,1,0,1,1
+China,Logistics,Yanfeng Automotive Interiors,2024,logistics-china-yanfeng-automotive-interiors-2024,3,14,2,7,4,0,2,3,0,6,0
+Indonesia,Logistics,Samudera Indonesia,2020,logistics-indonesia-samudera-indonesia-2020,1,3,4,13,2,0,0,3,0,6,1
+Japan,Logistics,ANA Group,2013,logistics-japan-ana-group-2013,4,0,4,7,6,9,10,4,0,3,0
+Japan,Logistics,Japan Airlines,2024,logistics-japan-japan-airlines-2024,6,2,6,10,6,9,6,3,0,7,0
+Japan,Logistics,Kawasaki Kisen Kaisha,2025,logistics-japan-kawasaki-kisen-kaisha-2025,6,6,12,9,6,7,4,3,1,7,0
+Japan,Logistics,Mitsui O.S.K. Lines,2025,logistics-japan-mitsui-o-s-k-lines-2025,6,11,6,11,1,4,0,3,3,4,1
+Japan,Logistics,Yamato Holdings,2024,logistics-japan-yamato-holdings-2024,4,3,7,10,4,7,10,4,1,7,1
+Korea,Manufactoring,Hyundai Steel,2020,manufactoring-korea-hyundai-steel-2020,6,8,5,11,4,6,12,3,1,7,0

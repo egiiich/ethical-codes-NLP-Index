@@ -1,0 +1,472 @@
+document_id: "logistics-china-trip-com-group-2023"
+company_name: "Trip.com Group"
+country: "China"
+industry: "Logistics"
+source_path: "Ethics_Codes_txt_files/Logistics_China_Trip.com Group_2023.txt"
+source_language: "en"
+document_type: "code_of_conduct"
+review_status: "completed"
+topic_analyses:
+  - topic_id: "competitor_relations"
+    principles:
+      - principle_code: "COMP01"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "COMP02"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "COMP03"
+        principle_status: "brief_mention"
+        evidence_excerpt_ids:
+          - "COMP03_brief_mention"
+      - principle_code: "COMP04"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "COMP05"
+        principle_status: "brief_mention"
+        evidence_excerpt_ids:
+          - "COMP05_brief_mention"
+      - principle_code: "COMP06"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "COMP07"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "COMP08"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "COMP09"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "COMP10"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+    key_excerpts:
+      - excerpt_id: "COMP03_brief_mention"
+        original: "Competing Business. No employee may be employed by a business that competes with Trip.com Group or deprives it of any business."
+        translated_ru: "Конкурирующий бизнес: ни один сотрудник не может работать в бизнесе, который конкурирует с Trip.com Group или лишает ее деловых возможностей."
+        section_title: "Conflicts of Interest"
+        relevance_comment: "Краткое подтверждение ограничения конфликтного конкурентного поведения."
+      - excerpt_id: "COMP05_brief_mention"
+        original: "Trip.com Group’s business conduct is founded on the principle of fair transaction."
+        translated_ru: "Деловое поведение Trip.com Group основано на принципе справедливой сделки."
+        section_title: "Gifts and Entertainment"
+        relevance_comment: "Краткая фиксация принципа добросовестной конкуренции."
+    other_principles: []
+  - topic_id: "hotline_principles"
+    principles:
+      - principle_code: "HOT01"
+        principle_status: "brief_mention"
+        evidence_excerpt_ids:
+          - "HOT01_brief_mention"
+      - principle_code: "HOT02"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "HOT02_explicit_section"
+      - principle_code: "HOT03"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "HOT03_explicit_section"
+      - principle_code: "HOT04"
+        principle_status: "brief_mention"
+        evidence_excerpt_ids:
+          - "HOT04_brief_mention"
+      - principle_code: "HOT05"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "HOT05_explicit_section"
+      - principle_code: "HOT06"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "HOT06_explicit_section"
+      - principle_code: "HOT07"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "HOT08"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "HOT09"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "HOT10"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+    key_excerpts:
+      - excerpt_id: "HOT01_brief_mention"
+        original: "If you have any questions regarding the Code or would like to report any violation of the Code, please contact the Compliance Officer via e-mail at jubao@trip.com."
+        translated_ru: "Если у вас есть вопросы по Кодексу или вы хотите сообщить о нарушении, обратитесь к Compliance Officer по e-mail jubao@trip.com."
+        section_title: "Applicability"
+        relevance_comment: "Формально определен доступ работников к каналу сообщения о нарушениях."
+      - excerpt_id: "HOT02_explicit_section"
+        original: "All questions and reports of known or suspected violations of this Code will be treated with sensitivity and discretion."
+        translated_ru: "Все вопросы и сообщения об известных или предполагаемых нарушениях Кодекса рассматриваются деликатно и конфиденциально."
+        section_title: "Violations of the Code"
+        relevance_comment: "Прямое требование конфиденциальности материалов обращения."
+      - excerpt_id: "HOT03_explicit_section"
+        original: "Trip.com Group strictly prohibits retaliation against an employee who, in good faith, seeks help or reports known or suspected violations."
+        translated_ru: "Trip.com Group строго запрещает преследование сотрудника, который добросовестно обращается за помощью или сообщает о нарушениях."
+        section_title: "Violations of the Code"
+        relevance_comment: "Прямой запрет репрессий в отношении заявителей."
+      - excerpt_id: "HOT04_brief_mention"
+        original: "The Compliance Officer and the Company will protect your confidentiality to the extent possible, consistent with the law and the Company’s need to investigate your concern."
+        translated_ru: "Compliance Officer и компания будут защищать вашу конфиденциальность в максимально возможной степени с учетом закона и необходимости расследования."
+        section_title: "Violations of the Code"
+        relevance_comment: "Краткая гарантия конфиденциальности заявителя и участников процесса."
+      - excerpt_id: "HOT05_explicit_section"
+        original: "Trip.com Group’s policy that any employee who violates this Code will be subject to appropriate discipline, including termination of employment."
+        translated_ru: "Политика Trip.com Group предусматривает, что любой сотрудник, нарушивший Кодекс, подлежит дисциплинарным мерам вплоть до увольнения."
+        section_title: "Violations of the Code"
+        relevance_comment: "Принцип обязательного реагирования на нарушения."
+      - excerpt_id: "HOT06_explicit_section"
+        original: "All employees have a duty to report any known or suspected violation of this Code."
+        translated_ru: "Все сотрудники обязаны сообщать о любом известном или предполагаемом нарушении Кодекса."
+        section_title: "Violations of the Code"
+        relevance_comment: "Прямо закреплена обязанность сообщать о нарушениях."
+    other_principles: []
+  - topic_id: "company_to_supplier"
+    principles:
+      - principle_code: "CtoS01"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoS02"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoS03"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoS04"
+        principle_status: "brief_mention"
+        evidence_excerpt_ids:
+          - "CtoS04_brief_mention"
+      - principle_code: "CtoS05"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoS06"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoS07"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "CtoS07_explicit_section"
+    key_excerpts:
+      - excerpt_id: "CtoS04_brief_mention"
+        original: "the criteria as to whether to enter into or continue the business relationship must be no less favorable to Trip.com Group compared with those that would apply to a non-relative"
+        translated_ru: "Критерии начала или продолжения деловых отношений должны быть не менее выгодны Trip.com Group, чем для неродственных контрагентов."
+        section_title: "Family Members and Work"
+        relevance_comment: "Краткий ориентир на объективность критериев отбора контрагентов."
+      - excerpt_id: "CtoS07_explicit_section"
+        original: "no employee may receive kickbacks, bribe others, or secretly receive commissions or any other personal benefits."
+        translated_ru: "Ни один сотрудник не может получать откаты, давать взятки или тайно получать комиссии либо иные личные выгоды."
+        section_title: "Gifts and Entertainment"
+        relevance_comment: "Прямой запрет манипуляций и коррупционных схем при взаимодействии с контрагентами."
+    other_principles: []
+  - topic_id: "worker_to_company"
+    principles:
+      - principle_code: "WtoC01"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "WtoC02"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "WtoC02_explicit_section"
+      - principle_code: "WtoC03"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "WtoC03_explicit_section"
+      - principle_code: "WtoC04"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "WtoC04_explicit_section"
+      - principle_code: "WtoC05"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "WtoC05_explicit_section"
+      - principle_code: "WtoC06"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "WtoC07"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "WtoC08"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "WtoC09"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "WtoC10"
+        principle_status: "brief_mention"
+        evidence_excerpt_ids:
+          - "WtoC10_brief_mention"
+    key_excerpts:
+      - excerpt_id: "WtoC02_explicit_section"
+        original: "Employees should protect Trip.com Group’s assets and ensure their efficient use for legitimate business purposes only."
+        translated_ru: "Сотрудники должны защищать активы Trip.com Group и обеспечивать их эффективное использование только в законных деловых целях."
+        section_title: "Protection and Use of Company Assets"
+        relevance_comment: "Прямое требование сохранности и корректного использования активов."
+      - excerpt_id: "WtoC03_explicit_section"
+        original: "The Company maintains a strict confidentiality policy."
+        translated_ru: "Компания придерживается строгой политики конфиденциальности."
+        section_title: "Intellectual Property and Confidentiality"
+        relevance_comment: "Прямой стандарт конфиденциальности."
+      - excerpt_id: "WtoC04_explicit_section"
+        original: "All inventions, creative works, computer software, and technical or trade secrets developed by an employee shall be the property of the Company."
+        translated_ru: "Все изобретения, результаты творчества, ПО и технические/коммерческие секреты, созданные сотрудником, являются собственностью компании."
+        section_title: "Intellectual Property and Confidentiality"
+        relevance_comment: "Прямой стандарт защиты и принадлежности ИС компании."
+      - excerpt_id: "WtoC05_explicit_section"
+        original: "Each employee has an obligation to comply with the laws of the cities, provinces, regions and countries in which Trip.com Group operates."
+        translated_ru: "Каждый сотрудник обязан соблюдать законы городов, провинций, регионов и стран, где работает Trip.com Group."
+        section_title: "Compliance with Laws and Regulations"
+        relevance_comment: "Прямое требование соблюдения законов."
+      - excerpt_id: "WtoC10_brief_mention"
+        original: "Reporting a known or suspected violation of this Code by others will not be considered an act of disloyalty, but an action to safeguard the reputation and integrity of Trip.com Group and its employees."
+        translated_ru: "Сообщение о нарушениях рассматривается как действие по защите репутации и целостности Trip.com Group и ее сотрудников."
+        section_title: "Violations of the Code"
+        relevance_comment: "Краткая фиксация требования защиты деловой репутации."
+    other_principles: []
+  - topic_id: "company_to_investors"
+    principles:
+      - principle_code: "CtoI01"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoI02"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoI03"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "CtoI03_explicit_section"
+      - principle_code: "CtoI04"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoI05"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "CtoI05_explicit_section"
+      - principle_code: "CtoI06"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoI07"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoI08"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+    key_excerpts:
+      - excerpt_id: "CtoI03_explicit_section"
+        original: "Trip.com Group is required to report its financial results and other material information about its business to the public, the SEC and Hong Kong Stock Exchange."
+        translated_ru: "Trip.com Group обязана раскрывать финансовые результаты и иную существенную информацию о бизнесе общественности, SEC и Гонконгской бирже."
+        section_title: "Accuracy of Financial Reports and Other Public Communications"
+        relevance_comment: "Прямой стандарт раскрытия существенной информации для инвесторов."
+      - excerpt_id: "CtoI05_explicit_section"
+        original: "Each employee has an obligation to comply with Trip.com Group’s Insider Trading Policy."
+        translated_ru: "Каждый сотрудник обязан соблюдать политику Trip.com Group по инсайдерской торговле."
+        section_title: "Compliance with Insider Trading Policy"
+        relevance_comment: "Прямой запрет и контроль инсайдерских практик."
+    other_principles: []
+  - topic_id: "company_to_people"
+    principles:
+      - principle_code: "CtoP01"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoP02"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoP03"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoP04"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoP05"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoP06"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoP07"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoP08"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoP09"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoP10"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+    key_excerpts: []
+    other_principles: []
+  - topic_id: "company_to_buyer"
+    principles:
+      - principle_code: "CtoB01"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoB02"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoB03"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoB04"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoB05"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "CtoB05_explicit_section"
+      - principle_code: "CtoB06"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoB07"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoB08"
+        principle_status: "brief_mention"
+        evidence_excerpt_ids:
+          - "CtoB08_brief_mention"
+      - principle_code: "CtoB09"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+    key_excerpts:
+      - excerpt_id: "CtoB05_explicit_section"
+        original: "This Code of Business Conduct and Ethics contains general guidelines for conducting the business of Trip.com Group consistent with the highest standards of business ethics."
+        translated_ru: "Кодекс делового поведения и этики содержит принципы ведения бизнеса Trip.com Group в соответствии с высочайшими стандартами деловой этики."
+        section_title: "Purpose"
+        relevance_comment: "Прямое закрепление этических и правовых стандартов поведения на рынке."
+      - excerpt_id: "CtoB08_brief_mention"
+        original: "laws covering ... information privacy"
+        translated_ru: "Сотрудники обязаны соблюдать нормы о защите конфиденциальной информации и приватности данных."
+        section_title: "Compliance with Laws and Regulations"
+        relevance_comment: "Краткое подтверждение защиты данных пользователей/клиентов."
+    other_principles: []
+  - topic_id: "worker_to_worker"
+    principles:
+      - principle_code: "WtoW01"
+        principle_status: "brief_mention"
+        evidence_excerpt_ids:
+          - "WtoW01_brief_mention"
+      - principle_code: "WtoW02"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "WtoW03"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "WtoW04"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "WtoW05"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "WtoW06"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "WtoW07"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "WtoW08"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+    key_excerpts:
+      - excerpt_id: "WtoW01_brief_mention"
+        original: "laws covering ... workplace harassment"
+        translated_ru: "Сотрудники обязаны соблюдать нормы о недопустимости harassment на рабочем месте."
+        section_title: "Compliance with Laws and Regulations"
+        relevance_comment: "Краткое подтверждение уважительного поведения между коллегами."
+    other_principles: []
+  - topic_id: "manager_to_worker"
+    principles:
+      - principle_code: "MtoW01"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "MtoW02"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "MtoW03"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "MtoW04"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "MtoW05"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "MtoW06"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+    key_excerpts: []
+    other_principles: []
+  - topic_id: "company_to_worker"
+    principles:
+      - principle_code: "CtoW01"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoW02"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoW03"
+        principle_status: "brief_mention"
+        evidence_excerpt_ids:
+          - "CtoW03_brief_mention"
+      - principle_code: "CtoW04"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoW05"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoW06"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoW07"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoW08"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoW09"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoW10"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+    key_excerpts:
+      - excerpt_id: "CtoW03_brief_mention"
+        original: "laws covering ... occupational health and safety"
+        translated_ru: "Сотрудники обязаны соблюдать нормы по охране труда и безопасности на рабочем месте."
+        section_title: "Compliance with Laws and Regulations"
+        relevance_comment: "Краткое подтверждение темы безопасных условий труда."
+    other_principles: []
+  - topic_id: "worker_to_manager"
+    principles:
+      - principle_code: "WtoM01"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "WtoM02"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "WtoM03"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "WtoM04"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "WtoM05"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "WtoM06"
+        principle_status: "brief_mention"
+        evidence_excerpt_ids:
+          - "WtoM06_brief_mention"
+    key_excerpts:
+      - excerpt_id: "WtoM06_brief_mention"
+        original: "Conduct that violates the law or this Code cannot be justified by claiming that it was ordered by a supervisor."
+        translated_ru: "Поведение, нарушающее закон или Кодекс, нельзя оправдывать тем, что оно было приказано руководителем."
+        section_title: "Conclusion"
+        relevance_comment: "Краткий стандарт отказа от неэтичных/незаконных поручений руководителя."
+    other_principles: []
+notes:
+  - "Date of analysis: 19.04.2026"
+  - "Analysis model: GPT 5.3-Codex"
+limitations: []
+analyst_summary_ru: "Проведён последовательный анализ всех 11 тем с ручной проверкой статусов и доказательств по каждому принципу."

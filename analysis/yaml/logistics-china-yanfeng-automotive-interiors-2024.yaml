@@ -1,0 +1,454 @@
+document_id: "logistics-china-yanfeng-automotive-interiors-2024"
+company_name: "Yanfeng Automotive Interiors"
+country: "China"
+industry: "Logistics"
+source_path: "Ethics_Codes_txt_files/Logistics_China_Yanfeng Automotive Interiors_2024.txt"
+source_language: "en"
+document_type: "code_of_conduct"
+review_status: "completed"
+topic_analyses:
+  - topic_id: "competitor_relations"
+    principles:
+      - principle_code: "COMP01"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "COMP02"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "COMP03"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "COMP03_explicit_section"
+      - principle_code: "COMP04"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "COMP05"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "COMP06"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "COMP07"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "COMP08"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "COMP09"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "COMP10"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+    key_excerpts:
+      - excerpt_id: "COMP03_explicit_section"
+        original: "We are committed to winning business by supplying superior value to our customers for our goods and services and without any anti-competitive agreements with our competition."
+        translated_ru: "Мы обязуемся выигрывать бизнес за счет лучшей ценности для клиентов и без антиконкурентных соглашений с конкурентами."
+        section_title: "Guiding Principles 7"
+        relevance_comment: "Подтверждение статуса explicit_section для принципа COMP03."
+    other_principles: []
+  - topic_id: "hotline_principles"
+    principles:
+      - principle_code: "HOT01"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "HOT01_explicit_section"
+      - principle_code: "HOT02"
+        principle_status: "brief_mention"
+        evidence_excerpt_ids:
+          - "HOT02_brief_mention"
+      - principle_code: "HOT03"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "HOT03_explicit_section"
+      - principle_code: "HOT04"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "HOT04_explicit_section"
+      - principle_code: "HOT05"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "HOT05_explicit_section"
+      - principle_code: "HOT06"
+        principle_status: "brief_mention"
+        evidence_excerpt_ids:
+          - "HOT06_brief_mention"
+      - principle_code: "HOT07"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "HOT08"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "HOT09"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "HOT10"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+    key_excerpts:
+      - excerpt_id: "HOT01_explicit_section"
+        original: "Yanfeng provides various ways to report a concern or ask a question."
+        translated_ru: "Yanfeng предоставляет различные способы сообщить о проблеме или задать вопрос."
+        section_title: "Our Commitment to Integrity"
+        relevance_comment: "Подтверждение статуса explicit_section для принципа HOT01."
+      - excerpt_id: "HOT02_brief_mention"
+        original: "Whether it is through the Integrity Helpline or via confidential discussion with the Legal or Compliance department..."
+        translated_ru: "Через Integrity Helpline или через конфиденциальное обсуждение с юридическим/комплаенс-подразделением."
+        section_title: "Our Commitment to Integrity"
+        relevance_comment: "Подтверждение статуса brief_mention для принципа HOT02."
+      - excerpt_id: "HOT03_explicit_section"
+        original: "We are committed to the principle that there will be no retaliation against those who report possible misconduct."
+        translated_ru: "Мы привержены принципу отсутствия репрессий против тех, кто сообщает о возможных нарушениях."
+        section_title: "The policy of non-retaliation"
+        relevance_comment: "Подтверждение статуса explicit_section для принципа HOT03."
+      - excerpt_id: "HOT04_explicit_section"
+        original: "You may choose to remain anonymous for reporting your concern."
+        translated_ru: "Вы можете выбрать анонимный формат сообщения о проблеме."
+        section_title: "Conclusion / Integrity Helpline"
+        relevance_comment: "Подтверждение статуса explicit_section для принципа HOT04."
+      - excerpt_id: "HOT05_explicit_section"
+        original: "Reports of suspected violations will be promptly and thoroughly investigated."
+        translated_ru: "Сообщения о предполагаемых нарушениях будут оперативно и тщательно расследоваться."
+        section_title: "What conduct is subject to disciplinary action?"
+        relevance_comment: "Подтверждение статуса explicit_section для принципа HOT05."
+      - excerpt_id: "HOT06_brief_mention"
+        original: "Every employee is encouraged to report actual or potential misconduct."
+        translated_ru: "Каждый сотрудник поощряется сообщать о фактических или потенциальных нарушениях."
+        section_title: "What if I observe misconduct..."
+        relevance_comment: "Подтверждение статуса brief_mention для принципа HOT06."
+    other_principles: []
+  - topic_id: "company_to_supplier"
+    principles:
+      - principle_code: "CtoS01"
+        principle_status: "brief_mention"
+        evidence_excerpt_ids:
+          - "CtoS01_brief_mention"
+      - principle_code: "CtoS02"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoS03"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoS04"
+        principle_status: "brief_mention"
+        evidence_excerpt_ids:
+          - "CtoS04_brief_mention"
+      - principle_code: "CtoS05"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoS06"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoS07"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+    key_excerpts:
+      - excerpt_id: "CtoS01_brief_mention"
+        original: "Yanfeng will evaluate the integrity of potential business partners before entering into business relations."
+        translated_ru: "Yanfeng оценивает добросовестность потенциальных бизнес-партнеров до начала сотрудничества."
+        section_title: "Guiding Principles 1"
+        relevance_comment: "Подтверждение статуса brief_mention для принципа CtoS01."
+      - excerpt_id: "CtoS04_brief_mention"
+        original: "All third parties including agents, consultants, suppliers, and contractors are also expected to comply with all applicable laws..."
+        translated_ru: "Все третьи стороны, включая поставщиков и подрядчиков, обязаны соблюдать применимое право."
+        section_title: "Guiding Principles 1"
+        relevance_comment: "Подтверждение статуса brief_mention для принципа CtoS04."
+    other_principles: []
+  - topic_id: "worker_to_company"
+    principles:
+      - principle_code: "WtoC01"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "WtoC02"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "WtoC03"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "WtoC03_explicit_section"
+      - principle_code: "WtoC04"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "WtoC05"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "WtoC05_explicit_section"
+      - principle_code: "WtoC06"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "WtoC07"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "WtoC08"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "WtoC09"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "WtoC10"
+        principle_status: "brief_mention"
+        evidence_excerpt_ids:
+          - "WtoC10_brief_mention"
+    key_excerpts:
+      - excerpt_id: "WtoC03_explicit_section"
+        original: "We treat non-public Company business information as confidential and do not share it without authorization."
+        translated_ru: "Мы рассматриваем непубличную бизнес-информацию компании как конфиденциальную и не раскрываем ее без разрешения."
+        section_title: "Guiding Principles 12"
+        relevance_comment: "Подтверждение статуса explicit_section для принципа WtoC03."
+      - excerpt_id: "WtoC05_explicit_section"
+        original: "As a Yanfeng employee, you are expected to always comply with the Code ... and applicable laws and regulations."
+        translated_ru: "Как сотрудник Yanfeng, вы обязаны всегда соблюдать Кодекс и применимые законы и регуляторные требования."
+        section_title: "What are my responsibilities as an employee?"
+        relevance_comment: "Подтверждение статуса explicit_section для принципа WtoC05."
+      - excerpt_id: "WtoC10_brief_mention"
+        original: "Our conduct – both good and bad - affects the reputation of the Company."
+        translated_ru: "Наше поведение — как хорошее, так и плохое — влияет на репутацию компании."
+        section_title: "What are my responsibilities as an employee?"
+        relevance_comment: "Подтверждение статуса brief_mention для принципа WtoC10."
+    other_principles: []
+  - topic_id: "company_to_investors"
+    principles:
+      - principle_code: "CtoI01"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoI02"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoI03"
+        principle_status: "brief_mention"
+        evidence_excerpt_ids:
+          - "CtoI03_brief_mention"
+      - principle_code: "CtoI04"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoI05"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "CtoI05_explicit_section"
+      - principle_code: "CtoI06"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoI07"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoI08"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+    key_excerpts:
+      - excerpt_id: "CtoI03_brief_mention"
+        original: "We communicate clearly and truthfully to our shareholders and the public."
+        translated_ru: "Мы коммуницируем с акционерами и общественностью ясно и правдиво."
+        section_title: "Guiding Principles 9"
+        relevance_comment: "Подтверждение статуса brief_mention для принципа CtoI03."
+      - excerpt_id: "CtoI05_explicit_section"
+        original: "Provide relevant, accurate and timely information to shareholders."
+        translated_ru: "Предоставляйте акционерам релевантную, точную и своевременную информацию."
+        section_title: "Guiding Principles 9"
+        relevance_comment: "Подтверждение статуса explicit_section для принципа CtoI05."
+    other_principles: []
+  - topic_id: "company_to_people"
+    principles:
+      - principle_code: "CtoP01"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoP02"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoP03"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoP04"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoP05"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoP06"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoP07"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoP08"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoP09"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoP10"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+    key_excerpts: []
+    other_principles: []
+  - topic_id: "company_to_buyer"
+    principles:
+      - principle_code: "CtoB01"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoB02"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoB03"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoB04"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoB05"
+        principle_status: "brief_mention"
+        evidence_excerpt_ids:
+          - "CtoB05_brief_mention"
+      - principle_code: "CtoB06"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoB07"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoB08"
+        principle_status: "brief_mention"
+        evidence_excerpt_ids:
+          - "CtoB08_brief_mention"
+      - principle_code: "CtoB09"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+    key_excerpts:
+      - excerpt_id: "CtoB05_brief_mention"
+        original: "We are committed to the safety and quality of our products and services and seek to make continuous improvements..."
+        translated_ru: "Мы привержены безопасности и качеству наших продуктов и услуг и стремимся к постоянным улучшениям."
+        section_title: "Guiding Principles 3"
+        relevance_comment: "Подтверждение статуса brief_mention для принципа CtoB05."
+      - excerpt_id: "CtoB08_brief_mention"
+        original: "Yanfeng has a legal responsibility to ensure that our products meet or exceed our customers specifications."
+        translated_ru: "Yanfeng несет юридическую ответственность за то, чтобы продукты соответствовали или превосходили требования клиентов."
+        section_title: "Guiding Principles 3"
+        relevance_comment: "Подтверждение статуса brief_mention для принципа CtoB08."
+    other_principles: []
+  - topic_id: "worker_to_worker"
+    principles:
+      - principle_code: "WtoW01"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "WtoW01_explicit_section"
+      - principle_code: "WtoW02"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "WtoW03"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "WtoW04"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "WtoW05"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "WtoW06"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "WtoW07"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "WtoW08"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+    key_excerpts:
+      - excerpt_id: "WtoW01_explicit_section"
+        original: "We treat all people equally and with tolerance, regardless of race, ethnicity, religion, gender..."
+        translated_ru: "Мы относимся ко всем людям равноправно и терпимо, независимо от расы, этнической принадлежности, религии, пола и т.д."
+        section_title: "Guiding Principles 15"
+        relevance_comment: "Подтверждение статуса explicit_section для принципа WtoW01."
+    other_principles: []
+  - topic_id: "manager_to_worker"
+    principles:
+      - principle_code: "MtoW01"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "MtoW02"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "MtoW03"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "MtoW04"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "MtoW05"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "MtoW06"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+    key_excerpts: []
+    other_principles: []
+  - topic_id: "company_to_worker"
+    principles:
+      - principle_code: "CtoW01"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoW02"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoW03"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "CtoW03_explicit_section"
+      - principle_code: "CtoW04"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoW05"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoW06"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "CtoW06_explicit_section"
+      - principle_code: "CtoW07"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoW08"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoW09"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoW10"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+    key_excerpts:
+      - excerpt_id: "CtoW03_explicit_section"
+        original: "Yanfeng is committed to providing a safe and healthy work environment for all our employees."
+        translated_ru: "Yanfeng привержена обеспечению безопасной и здоровой рабочей среды для всех сотрудников."
+        section_title: "Guiding Principles 2"
+        relevance_comment: "Подтверждение статуса explicit_section для принципа CtoW03."
+      - excerpt_id: "CtoW06_explicit_section"
+        original: "we respect differences and will not tolerate discrimination or harassment of any kind in our Company."
+        translated_ru: "Мы уважаем различия и не терпим дискриминацию или домогательства любого рода в компании."
+        section_title: "Guiding Principles 15"
+        relevance_comment: "Подтверждение статуса explicit_section для принципа CtoW06."
+    other_principles: []
+  - topic_id: "worker_to_manager"
+    principles:
+      - principle_code: "WtoM01"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "WtoM02"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "WtoM03"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "WtoM04"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "WtoM05"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "WtoM06"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+    key_excerpts: []
+    other_principles: []
+notes:
+  - "Date of analysis: 19.04.2026"
+  - "Analysis model: GPT 5.3-Codex"
+limitations: []
+analyst_summary_ru: "Проведён последовательный анализ 11 тем. Документ содержит сильный комплаенс-каркас (hotline, non-retaliation, law compliance, HSE, confidentiality), но ограниченно раскрывает блоки про менеджмент и инвесторские механики."

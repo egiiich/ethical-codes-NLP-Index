@@ -1,0 +1,466 @@
+document_id: "logistics-japan-japan-airlines-2024"
+company_name: "Japan Airlines"
+country: "Japan"
+industry: "Logistics"
+source_path: "Ethics_Codes_txt_files/Logistics_Japan_Japan Airlines_2024.txt"
+source_language: "en"
+document_type: "code_of_conduct"
+review_status: "completed"
+topic_analyses:
+  - topic_id: "competitor_relations"
+    principles:
+      - principle_code: "COMP01"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "COMP02"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "COMP03"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "COMP03_explicit_section"
+      - principle_code: "COMP04"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "COMP05"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "COMP06"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "COMP07"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "COMP07_explicit_section"
+      - principle_code: "COMP08"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "COMP09"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "COMP10"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+    key_excerpts:
+      - excerpt_id: "COMP03_explicit_section"
+        original: "The JAL Group conducts fair and transparent transactions ... based on the principle of free competition."
+        translated_ru: "JAL Group ведёт честные и прозрачные сделки ... на основе принципа свободной конкуренции."
+        section_title: "Fair business practices"
+        relevance_comment: "Подтверждение статуса explicit_section для принципа COMP03."
+      - excerpt_id: "COMP07_explicit_section"
+        original: "...respect and prohibit infringement of intellectual property of other companies."
+        translated_ru: "...уважаем и запрещаем нарушение интеллектуальной собственности других компаний."
+        section_title: "Fair business practices"
+        relevance_comment: "Подтверждение статуса explicit_section для принципа COMP07."
+    other_principles: []
+  - topic_id: "hotline_principles"
+    principles:
+      - principle_code: "HOT01"
+        principle_status: "brief_mention"
+        evidence_excerpt_ids:
+          - "HOT01_brief_mention"
+      - principle_code: "HOT02"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "HOT03"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "HOT04"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "HOT05"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "HOT06"
+        principle_status: "brief_mention"
+        evidence_excerpt_ids:
+          - "HOT06_brief_mention"
+      - principle_code: "HOT07"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "HOT08"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "HOT09"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "HOT10"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+    key_excerpts:
+      - excerpt_id: "HOT01_brief_mention"
+        original: "...act upon the advice of whistleblowers, legal departments, and others in the event of a non-compliance..."
+        translated_ru: "...действовать с учётом рекомендаций информаторов, юридических подразделений и других лиц при нарушениях/рисках нарушений..."
+        section_title: "Reinforcing compliance"
+        relevance_comment: "Подтверждение статуса brief_mention для принципа HOT01."
+      - excerpt_id: "HOT06_brief_mention"
+        original: "...act upon the advice of whistleblowers..."
+        translated_ru: "...действовать с учётом рекомендаций информаторов..."
+        section_title: "Reinforcing compliance"
+        relevance_comment: "Подтверждение статуса brief_mention для принципа HOT06."
+    other_principles: []
+  - topic_id: "company_to_supplier"
+    principles:
+      - principle_code: "CtoS01"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "CtoS01_explicit_section"
+      - principle_code: "CtoS02"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoS03"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoS04"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoS05"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoS06"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoS07"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "CtoS07_explicit_section"
+    key_excerpts:
+      - excerpt_id: "CtoS01_explicit_section"
+        original: "We conduct transactions under appropriate terms and conditions based on rational decisions..."
+        translated_ru: "Мы проводим сделки на надлежащих условиях на основе рациональных решений..."
+        section_title: "Fair business relations with business partners"
+        relevance_comment: "Подтверждение статуса explicit_section для принципа CtoS01."
+      - excerpt_id: "CtoS07_explicit_section"
+        original: "The JAL Group does not accept or provide any form of bribes..."
+        translated_ru: "JAL Group не принимает и не предоставляет взятки в какой-либо форме..."
+        section_title: "Preventing corruption"
+        relevance_comment: "Подтверждение статуса explicit_section для принципа CtoS07."
+    other_principles: []
+  - topic_id: "worker_to_company"
+    principles:
+      - principle_code: "WtoC01"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "WtoC02"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "WtoC03"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "WtoC03_explicit_section"
+      - principle_code: "WtoC04"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "WtoC04_explicit_section"
+      - principle_code: "WtoC05"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "WtoC05_explicit_section"
+      - principle_code: "WtoC06"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "WtoC07"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "WtoC08"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "WtoC09"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "WtoC10"
+        principle_status: "brief_mention"
+        evidence_excerpt_ids:
+          - "WtoC10_brief_mention"
+    key_excerpts:
+      - excerpt_id: "WtoC03_explicit_section"
+        original: "We exercise utmost precaution when handling such information and assure appropriate information management..."
+        translated_ru: "Мы проявляем максимальную осторожность при обращении с такой информацией и обеспечиваем надлежащее управление ею..."
+        section_title: "Management of personal information and intellectual property"
+        relevance_comment: "Подтверждение статуса explicit_section для принципа WtoC03."
+      - excerpt_id: "WtoC04_explicit_section"
+        original: "We take every possible means to protect intellectual property of the Company..."
+        translated_ru: "Мы предпринимаем все возможные меры для защиты интеллектуальной собственности Компании..."
+        section_title: "Management of personal information and intellectual property"
+        relevance_comment: "Подтверждение статуса explicit_section для принципа WtoC04."
+      - excerpt_id: "WtoC05_explicit_section"
+        original: "The JAL Group complies with laws and regulations and other rules..."
+        translated_ru: "JAL Group соблюдает законы, нормы и иные правила..."
+        section_title: "Reinforcing compliance"
+        relevance_comment: "Подтверждение статуса explicit_section для принципа WtoC05."
+      - excerpt_id: "WtoC10_brief_mention"
+        original: "...conduct ourselves with honesty and integrity as a member of a company that is genuinely trusted by society."
+        translated_ru: "...вести себя честно и добросовестно как часть компании, которой действительно доверяет общество."
+        section_title: "Fair business practices"
+        relevance_comment: "Подтверждение статуса brief_mention для принципа WtoC10."
+    other_principles: []
+  - topic_id: "company_to_investors"
+    principles:
+      - principle_code: "CtoI01"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoI02"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoI03"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "CtoI03_explicit_section"
+      - principle_code: "CtoI04"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoI05"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "CtoI05_explicit_section"
+      - principle_code: "CtoI06"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoI07"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoI08"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+    key_excerpts:
+      - excerpt_id: "CtoI03_explicit_section"
+        original: "The JAL Group ensures fair disclosure of information ... with a broad range of stakeholders..."
+        translated_ru: "JAL Group обеспечивает справедливое раскрытие информации ... с широким кругом стейкхолдеров..."
+        section_title: "Trust with stakeholders"
+        relevance_comment: "Подтверждение статуса explicit_section для принципа CtoI03."
+      - excerpt_id: "CtoI05_explicit_section"
+        original: "...quick and accurate information disclosures on corporate management and business activities."
+        translated_ru: "...быстрое и точное раскрытие информации о корпоративном управлении и бизнес-деятельности."
+        section_title: "Information disclosure and dialogue"
+        relevance_comment: "Подтверждение статуса explicit_section для принципа CtoI05."
+    other_principles: []
+  - topic_id: "company_to_people"
+    principles:
+      - principle_code: "CtoP01"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoP02"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "CtoP02_explicit_section"
+      - principle_code: "CtoP03"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoP04"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "CtoP04_explicit_section"
+      - principle_code: "CtoP05"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoP06"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoP07"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoP08"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoP09"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "CtoP09_explicit_section"
+      - principle_code: "CtoP10"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+    key_excerpts:
+      - excerpt_id: "CtoP02_explicit_section"
+        original: "The JAL Group contributes to the sustainable development of regions across Japan..."
+        translated_ru: "JAL Group вносит вклад в устойчивое развитие регионов по всей Японии..."
+        section_title: "Contributing to regional revitalization"
+        relevance_comment: "Подтверждение статуса explicit_section для принципа CtoP02."
+      - excerpt_id: "CtoP04_explicit_section"
+        original: "...be prepared against terrorism, cyber-attacks, natural disasters..."
+        translated_ru: "...быть готовыми к терроризму, кибератакам, стихийным бедствиям..."
+        section_title: "Responsibility as social infrastructure"
+        relevance_comment: "Подтверждение статуса explicit_section для принципа CtoP04."
+      - excerpt_id: "CtoP09_explicit_section"
+        original: "...contributes to solving social issues and promoting social development as a corporate citizen..."
+        translated_ru: "...способствует решению социальных проблем и продвижению общественного развития как корпоративный гражданин..."
+        section_title: "Responsibility as a corporate citizen"
+        relevance_comment: "Подтверждение статуса explicit_section для принципа CtoP09."
+    other_principles: []
+  - topic_id: "company_to_buyer"
+    principles:
+      - principle_code: "CtoB01"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "CtoB01_explicit_section"
+      - principle_code: "CtoB02"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoB03"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoB04"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoB05"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "CtoB05_explicit_section"
+      - principle_code: "CtoB06"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoB07"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoB08"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoB09"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+    key_excerpts:
+      - excerpt_id: "CtoB01_explicit_section"
+        original: "The JAL Group ... provides information on products and services appropriately..."
+        translated_ru: "JAL Group ... надлежащим образом предоставляет информацию о продуктах и услугах..."
+        section_title: "Pursuit of customer satisfaction"
+        relevance_comment: "Подтверждение статуса explicit_section для принципа CtoB01."
+      - excerpt_id: "CtoB05_explicit_section"
+        original: "...continuously strives to develop and provide better products and services..."
+        translated_ru: "...непрерывно стремится развивать и предоставлять более качественные продукты и услуги..."
+        section_title: "Pursuit of customer satisfaction"
+        relevance_comment: "Подтверждение статуса explicit_section для принципа CtoB05."
+    other_principles: []
+  - topic_id: "worker_to_worker"
+    principles:
+      - principle_code: "WtoW01"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "WtoW01_explicit_section"
+      - principle_code: "WtoW02"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "WtoW03"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "WtoW04"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "WtoW05"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "WtoW06"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "WtoW07"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "WtoW08"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+    key_excerpts:
+      - excerpt_id: "WtoW01_explicit_section"
+        original: "The JAL Group is committed to fulfilling its responsibility to respect the human rights of all people."
+        translated_ru: "JAL Group привержена выполнению обязанности уважать права человека всех людей."
+        section_title: "Respecting human rights and diversity"
+        relevance_comment: "Подтверждение статуса explicit_section для принципа WtoW01."
+    other_principles: []
+  - topic_id: "manager_to_worker"
+    principles:
+      - principle_code: "MtoW01"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "MtoW02"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "MtoW03"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "MtoW04"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "MtoW05"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "MtoW06"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+    key_excerpts: []
+    other_principles: []
+  - topic_id: "company_to_worker"
+    principles:
+      - principle_code: "CtoW01"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoW02"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoW03"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "CtoW03_explicit_section"
+      - principle_code: "CtoW04"
+        principle_status: "brief_mention"
+        evidence_excerpt_ids:
+          - "CtoW04_brief_mention"
+      - principle_code: "CtoW05"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoW06"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "CtoW06_explicit_section"
+      - principle_code: "CtoW07"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoW08"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoW09"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoW10"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+    key_excerpts:
+      - excerpt_id: "CtoW03_explicit_section"
+        original: "...make efforts to create safe and comfortable work environments, both mentally and physically..."
+        translated_ru: "...прилагать усилия для создания безопасной и комфортной рабочей среды, психологически и физически..."
+        section_title: "Safe and comfortable work environments"
+        relevance_comment: "Подтверждение статуса explicit_section для принципа CtoW03."
+      - excerpt_id: "CtoW04_brief_mention"
+        original: "...through healthcare management and continuous workstyle innovation."
+        translated_ru: "...через управление здоровьем и постоянные инновации в организации труда."
+        section_title: "Safe and comfortable work environments"
+        relevance_comment: "Подтверждение статуса brief_mention для принципа CtoW04."
+      - excerpt_id: "CtoW06_explicit_section"
+        original: "...do not discriminate on the basis of gender, age, ... disability..."
+        translated_ru: "...не дискриминируют по полу, возрасту, ... инвалидности..."
+        section_title: "Respecting human rights and diversity"
+        relevance_comment: "Подтверждение статуса explicit_section для принципа CtoW06."
+    other_principles: []
+  - topic_id: "worker_to_manager"
+    principles:
+      - principle_code: "WtoM01"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "WtoM02"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "WtoM03"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "WtoM04"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "WtoM05"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "WtoM06"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+    key_excerpts: []
+    other_principles: []
+notes:
+  - "Date of analysis: 19.04.2026"
+  - "Analysis model: GPT 5.3-Codex"
+limitations: []
+analyst_summary_ru: "Кодекс JAL системно покрывает безопасность, антикоррупцию, fair competition, раскрытие информации, права человека и условия труда; покрытие worker-to-manager ограничено."
