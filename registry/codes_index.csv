@@ -3,10 +3,10 @@ agriculture-indonesia-astra-agro-lestari-2023,Astra Agro Lestari,Indonesia,Agric
 agriculture-indonesia-smart-2021,SMART,Indonesia,Agriculture,Ethics_Codes_txt_files/Agriculture_Indonesia_SMART_2021.txt,en,txt,code_of_conduct,completed
 automotive-china-great-wall-motor-2024,Great Wall Motor,China,Automotive,Ethics_Codes_txt_files/Automotive_China_Great Wall Motor_2024.txt,en,txt,functional_equivalent_needs_review,completed
 automotive-china-li-auto-2024,Li Auto,China,Automotive,Ethics_Codes_txt_files/Automotive_China_Li Auto_2024.txt,en,txt,code_of_conduct,completed
-automotive-china-nio-2022,NIO,China,Automotive,Ethics_Codes_txt_files/Automotive_China_NIO_2022.txt,en,txt,code_of_conduct,not_started
-automotive-china-xpeng-2024,XPeng,China,Automotive,Ethics_Codes_txt_files/Automotive_China_XPeng_2024.txt,en,txt,code_of_conduct,not_started
-automotive-indonesia-astra-otoparts-2018,Astra Otoparts,Indonesia,Automotive,Ethics_Codes_txt_files/Automotive_Indonesia_Astra Otoparts_2018.txt,en,txt,code_of_conduct,not_started
-automotive-indonesia-selamat-sempurna-2025,Selamat Sempurna,Indonesia,Automotive,Ethics_Codes_txt_files/Automotive_Indonesia_Selamat Sempurna_2025.txt,en,txt,code_of_conduct,not_started
+automotive-china-nio-2022,NIO,China,Automotive,Ethics_Codes_txt_files/Automotive_China_NIO_2022.txt,en,txt,code_of_conduct,completed
+automotive-china-xpeng-2024,XPeng,China,Automotive,Ethics_Codes_txt_files/Automotive_China_XPeng_2024.txt,en,txt,code_of_conduct,completed
+automotive-indonesia-astra-otoparts-2018,Astra Otoparts,Indonesia,Automotive,Ethics_Codes_txt_files/Automotive_Indonesia_Astra Otoparts_2018.txt,en,txt,code_of_conduct,completed
+automotive-indonesia-selamat-sempurna-2025,Selamat Sempurna,Indonesia,Automotive,Ethics_Codes_txt_files/Automotive_Indonesia_Selamat Sempurna_2025.txt,en,txt,code_of_conduct,completed
 automotive-japan-honda-motor-2023,Honda Motor,Japan,Automotive,Ethics_Codes_txt_files/Automotive_Japan_Honda Motor_2023.txt,en,txt,code_of_conduct,not_started
 automotive-japan-mitsubishi-motors-2025,Mitsubishi Motors,Japan,Automotive,Ethics_Codes_txt_files/Automotive_Japan_Mitsubishi Motors_2025.txt,en,txt,code_of_conduct,not_started
 automotive-japan-nissan-motor-2026,Nissan Motor,Japan,Automotive,Ethics_Codes_txt_files/Automotive_Japan_Nissan Motor_2026.txt,en,txt,code_of_conduct,not_started
@@ -159,7 +159,7 @@ pharma-korea-lunit-2025,Lunit,Korea,Pharma,Ethics_Codes_txt_files/Pharma_Korea_L
 pharma-korea-sk-bioscience-2025,SK bioscience,Korea,Pharma,Ethics_Codes_txt_files/Pharma_Korea_SK bioscience_2025.txt,en,txt,code_of_ethics,completed
 pharma-korea-samsung-epis-holdings-2025,Samsung Epis Holdings,Korea,Pharma,Ethics_Codes_txt_files/Pharma_Korea_Samsung Epis Holdings_2025.txt,en,txt,code_of_conduct,completed
 pharma-russia-biocad-2022,BIOCAD,Russia,Pharma,Ethics_Codes_txt_files/Pharma_Russia_Biocad_2022.txt,ru,txt,code_of_conduct,needs_human_review
-pharma-russia-imeda-2020,Imeda,Russia,Pharma,Ethics_Codes_txt_files/Pharma_Russia_Imeda_2020.txt,ru,txt,functional_equivalent_needs_review,not_started
+pharma-russia-imeda-2020,Imeda,Russia,Pharma,Ethics_Codes_txt_files/Pharma_Russia_Imeda_2020.txt,ru,txt,functional_equivalent_needs_review,needs_human_review
 pharma-russia-pfizer-2012,Pfizer,Russia,Pharma,Ethics_Codes_txt_files/Pharma_Russia_Pfizer_2012.txt,ru,txt,code_of_conduct,completed
 pharma-russia-pharmforward-2014,ФАРМФОРВАРД,Russia,Pharma,Ethics_Codes_txt_files/Pharma_Russia_Pharmforward_2014.txt,ru,txt,code_of_conduct,needs_human_review
 real-estate-indonesia-ciputra-2018,Ciputra Development,Indonesia,Real Estate,Ethics_Codes_txt_files/Real estate_Indonesia_Ciputra_2018.txt,en,txt,code_of_conduct,completed
@@ -169,14 +169,14 @@ retail-china-tencent-music-entertainment-2019,Tencent Music Entertainment,China,
 retail-china-yum-china-2020,Yum China,China,Retail,Ethics_Codes_txt_files/Retail_China_Yum China_2020.txt,en,txt,code_of_conduct,completed
 retail-indonesia-multitrend-indo-2023,Multitrend Indo,Indonesia,Retail,Ethics_Codes_txt_files/Retail_Indonesia_Multitrend Indo_2023.txt,en,txt,code_of_conduct,completed
 retail-korea-cj-cheiljedang-2022,CJ CheilJedang,Korea,Retail,Ethics_Codes_txt_files/Retail_Korea_CJ CheilJedang_2022.txt,en,txt,code_of_conduct,completed
-retail-korea-lotte-corporation-2025,LOTTE Corporation,Korea,Retail,Ethics_Codes_txt_files/Retail_Korea_LOTTE Corporation_2025.txt,en,txt,code_of_conduct,not_started
+retail-korea-lotte-corporation-2025,LOTTE Corporation,Korea,Retail,Ethics_Codes_txt_files/Retail_Korea_LOTTE Corporation_2025.txt,en,txt,code_of_conduct,completed
 retail-korea-lotte-shopping-2025,LOTTE Shopping,Korea,Retail,Ethics_Codes_txt_files/Retail_Korea_LOTTE Shopping_2025.txt,en,txt,code_of_conduct,completed
-retail-korea-lx-pantos-2022,LX Pantos,Korea,Retail,Ethics_Codes_txt_files/Retail_Korea_LX Pantos_2022.txt,en,txt,code_of_ethics,not_started
+retail-korea-lx-pantos-2022,LX Pantos,Korea,Retail,Ethics_Codes_txt_files/Retail_Korea_LX Pantos_2022.txt,en,txt,code_of_ethics,completed
 retail-korea-sk-networks-2023,SK Networks,Korea,Retail,Ethics_Codes_txt_files/Retail_Korea_SK Networks_2023.txt,en,txt,code_of_ethics,completed
-retail-russia-lenta-2021,Lenta,Russia,Retail,Ethics_Codes_txt_files/Retail_Russia_Lenta_2021.txt,ru,txt,code_of_conduct,not_started
-retail-russia-magnit-2019,Magnit,Russia,Retail,Ethics_Codes_txt_files/Retail_Russia_Magnit_2019.txt,ru,txt,functional_equivalent_needs_review,not_started
-retail-russia-x5-2015,X5,Russia,Retail,Ethics_Codes_txt_files/Retail_Russia_X5_2015.txt,ru,txt,functional_equivalent_needs_review,not_started
-retali-russia-fixprice-2022,FixPrice,Russia,Retali,Ethics_Codes_txt_files/Retali_Russia_FixPrice_2022.txt,ru,txt,code_of_conduct,not_started
+retail-russia-lenta-2021,Lenta,Russia,Retail,Ethics_Codes_txt_files/Retail_Russia_Lenta_2021.txt,ru,txt,code_of_business_conduct,completed
+retail-russia-magnit-2019,Magnit,Russia,Retail,Ethics_Codes_txt_files/Retail_Russia_Magnit_2019.txt,ru,txt,code_of_ethics,needs_human_review
+retail-russia-x5-2015,X5,Russia,Retail,Ethics_Codes_txt_files/Retail_Russia_X5_2015.txt,ru,txt,functional_equivalent_needs_review,completed
+retali-russia-fixprice-2022,FixPrice,Russia,Retali,Ethics_Codes_txt_files/Retali_Russia_FixPrice_2022.txt,ru,txt,code_of_conduct,needs_human_review
 sogo-sosha-japan-itochu-2022,ITOCHU,Japan,Sogo Sosha,Ethics_Codes_txt_files/Sogo Sosha_Japan_ITOCHU_2022.txt,en,txt,code_of_conduct,completed
 sogo-sosha-japan-marubeni-corporation-2025,Marubeni Corporation,Japan,Sogo Sosha,Ethics_Codes_txt_files/Sogo Sosha_Japan_Marubeni Corporation_2025.txt,en,txt,functional_equivalent_needs_review,not_started
 sogo-sosha-japan-mitsubishi-corporation-2019,Mitsubishi Corporation,Japan,Sogo Sosha,Ethics_Codes_txt_files/Sogo Sosha_Japan_Mitsubishi Corporation_2019.txt,en,txt,code_of_conduct,completed
