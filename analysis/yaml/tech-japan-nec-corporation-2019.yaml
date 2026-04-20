@@ -1,0 +1,622 @@
+document_id: "tech-japan-nec-corporation-2019"
+company_name: "NEC Corporation"
+country: "Japan"
+industry: "Tech"
+source_path: "Ethics_Codes_txt_files/Tech_Japan_NEC Corporation_2019.txt"
+source_language: "en"
+document_type: "code_of_conduct"
+review_status: "completed"
+topic_analyses:
+  - topic_id: "competitor_relations"
+    principles:
+      - principle_code: "COMP01"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "COMP02"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "COMP03"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "COMP03_explicit_section"
+      - principle_code: "COMP04"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "COMP05"
+        principle_status: "brief_mention"
+        evidence_excerpt_ids:
+          - "COMP05_brief_mention"
+      - principle_code: "COMP06"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "COMP07"
+        principle_status: "implicit_scattered"
+        evidence_excerpt_ids:
+          - "COMP07_implicit_scattered"
+      - principle_code: "COMP08"
+        principle_status: "implicit_scattered"
+        evidence_excerpt_ids:
+          - "COMP08_implicit_scattered"
+      - principle_code: "COMP09"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "COMP10"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+    key_excerpts:
+      - excerpt_id: "COMP03_explicit_section"
+        original: "I will recognize the importance of fair and free competition in the market, and will not engage in any unjust restrictions on transactions, such as collusion and cartels..."
+        translated_ru: "Я буду признавать важность честной и свободной конкуренции и не вступать в сговоры и картели."
+        section_title: "Fair competition"
+        relevance_comment: "Прямой запрет антиконкурентного сговора (COMP03)."
+      - excerpt_id: "COMP05_brief_mention"
+        original: "I will maintain a fair, equitable, and transparent relationship with stakeholders..."
+        translated_ru: "Я буду поддерживать справедливые, равноправные и прозрачные отношения со стейкхолдерами, включая конкурентов."
+        section_title: "Fair relationship with stakeholders"
+        relevance_comment: "Краткое общее требование уважительно и честно взаимодействовать со стейкхолдерами (COMP05)."
+      - excerpt_id: "COMP07_implicit_scattered"
+        original: "I will respect and not infringe or illegally use third party’s legitimate intellectual property rights."
+        translated_ru: "Я буду уважать и не нарушать законные права интеллектуальной собственности третьих лиц."
+        section_title: "Protection and utilization of intellectual property rights"
+        relevance_comment: "Уважение ИС третьих лиц покрывает ИС конкурентов (COMP07)."
+      - excerpt_id: "COMP08_implicit_scattered"
+        original: "...will not use any expression that may be slanderous, libelous, or socially discriminatory."
+        translated_ru: "...не буду использовать формулировки, которые могут быть клеветническими, порочащими или дискриминационными."
+        section_title: "Sincere publicity and advertising"
+        relevance_comment: "Запрет клеветы/порочащих утверждений применим к конкурентам (COMP08)."
+    other_principles: []
+  - topic_id: "hotline_principles"
+    principles:
+      - principle_code: "HOT01"
+        principle_status: "implicit_scattered"
+        evidence_excerpt_ids:
+          - "HOT01_implicit_scattered"
+      - principle_code: "HOT02"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "HOT02_explicit_section"
+      - principle_code: "HOT03"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "HOT03_explicit_section"
+      - principle_code: "HOT04"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "HOT05"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "HOT05_explicit_section"
+      - principle_code: "HOT06"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "HOT06_explicit_section"
+      - principle_code: "HOT07"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "HOT08"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "HOT09"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "HOT10"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+    key_excerpts:
+      - excerpt_id: "HOT01_implicit_scattered"
+        original: "If I am unable to consult with my superiors or the relevant divisions, I will contact the whistleblowing system in place at the Company."
+        translated_ru: "Если я не могу обратиться к руководителю или профильному подразделению, я обращусь в систему информирования о нарушениях."
+        section_title: "Consultation and Report on Doubts and Concerns about Compliance"
+        relevance_comment: "Канал hotline доступен работникам как альтернативный механизм (HOT01)."
+      - excerpt_id: "HOT02_explicit_section"
+        original: "The Company guarantees that the confidentiality of the facts and content of consultations and reports will be strictly maintained..."
+        translated_ru: "Компания гарантирует строгое сохранение конфиденциальности фактов и содержания обращений и сообщений."
+        section_title: "Strict Maintenance of Confidentiality"
+        relevance_comment: "Прямое требование конфиденциальности по обращениям (HOT02)."
+      - excerpt_id: "HOT03_explicit_section"
+        original: "The Company prohibits any detrimental treatment of, or retaliation against any person who has consulted or reported on a matter..."
+        translated_ru: "Компания запрещает любое неблагоприятное обращение или преследование в отношении лица, подавшего обращение или сообщение."
+        section_title: "Prohibition against Retaliation"
+        relevance_comment: "Прямой запрет реталиации (HOT03)."
+      - excerpt_id: "HOT05_explicit_section"
+        original: "The Company will respond in good faith to such consultation or report."
+        translated_ru: "Компания будет добросовестно реагировать на такие обращения или сообщения."
+        section_title: "Consultation and Report on Doubts and Concerns about Compliance"
+        relevance_comment: "Закреплено обязательное реагирование на сообщения (HOT05)."
+      - excerpt_id: "HOT06_explicit_section"
+        original: "...or become aware of any act in violation thereof, I will not ignore it and will consult with my superiors or the relevant divisions..."
+        translated_ru: "...или узнав о нарушении, я не буду это игнорировать и обращусь к руководителю или в профильное подразделение."
+        section_title: "Consultation and Report on Doubts and Concerns about Compliance"
+        relevance_comment: "Закреплена обязанность сообщать о нарушениях (HOT06)."
+    other_principles: []
+  - topic_id: "company_to_supplier"
+    principles:
+      - principle_code: "CtoS01"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoS02"
+        principle_status: "implicit_scattered"
+        evidence_excerpt_ids:
+          - "CtoS02_implicit_scattered"
+      - principle_code: "CtoS03"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "CtoS03_explicit_section"
+      - principle_code: "CtoS04"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoS05"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoS06"
+        principle_status: "brief_mention"
+        evidence_excerpt_ids:
+          - "CtoS06_brief_mention"
+      - principle_code: "CtoS07"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+    key_excerpts:
+      - excerpt_id: "CtoS02_implicit_scattered"
+        original: "I will always carry out transactions in good faith with our suppliers in a fair and equal manner."
+        translated_ru: "Я всегда буду вести взаимодействие с поставщиками добросовестно, справедливо и на равных условиях."
+        section_title: "Responsible procurement"
+        relevance_comment: "Принцип равного и справедливого обращения с поставщиками (CtoS02)."
+      - excerpt_id: "CtoS03_explicit_section"
+        original: "I will not seek personal gain or carry out any transaction that causes another party to suffer an inappropriate disadvantage due to the abuse of a superior position."
+        translated_ru: "Я не буду искать личную выгоду и совершать сделки, ставящие другую сторону в невыгодное положение из-за злоупотребления доминирующей позицией."
+        section_title: "Responsible procurement"
+        relevance_comment: "Прямой запрет злоупотребления рыночной властью по отношению к поставщикам (CtoS03)."
+      - excerpt_id: "CtoS06_brief_mention"
+        original: "In addition, I will encourage our suppliers to act in accordance with this Code of Conduct."
+        translated_ru: "Кроме того, я буду побуждать поставщиков действовать в соответствии с этим Кодексом поведения."
+        section_title: "Responsible procurement"
+        relevance_comment: "Краткая ориентация на устойчивые партнерские отношения через единые стандарты (CtoS06)."
+    other_principles: []
+  - topic_id: "worker_to_company"
+    principles:
+      - principle_code: "WtoC01"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "WtoC01_explicit_section"
+      - principle_code: "WtoC02"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "WtoC02_explicit_section"
+      - principle_code: "WtoC03"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "WtoC03_explicit_section"
+      - principle_code: "WtoC04"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "WtoC04_explicit_section"
+      - principle_code: "WtoC05"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "WtoC05_explicit_section"
+      - principle_code: "WtoC06"
+        principle_status: "brief_mention"
+        evidence_excerpt_ids:
+          - "WtoC06_brief_mention"
+      - principle_code: "WtoC07"
+        principle_status: "brief_mention"
+        evidence_excerpt_ids:
+          - "WtoC07_brief_mention"
+      - principle_code: "WtoC08"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "WtoC09"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "WtoC10"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "WtoC10_explicit_section"
+    key_excerpts:
+      - excerpt_id: "WtoC01_explicit_section"
+        original: "I will always endeavor to satisfy our customers and pay full attention to the safety and quality of our products and services."
+        translated_ru: "Я всегда буду стремиться удовлетворять клиентов и уделять полное внимание безопасности и качеству наших продуктов и услуг."
+        section_title: "Safe and reliable quality for all customers"
+        relevance_comment: "Прямое требование поддерживать высокое качество работы (WtoC01)."
+      - excerpt_id: "WtoC02_explicit_section"
+        original: "I will properly manage the Company's assets (tangible and intangible) and will not use them for private purposes..."
+        translated_ru: "Я буду надлежащим образом управлять активами компании и не использовать их в личных целях."
+        section_title: "Management and proper use of the Company's assets"
+        relevance_comment: "Прямое требование сохранности и целевого использования активов (WtoC02)."
+      - excerpt_id: "WtoC03_explicit_section"
+        original: "I will strictly manage the confidential information of internal and external parties... and will not disclose or divulge such information..."
+        translated_ru: "Я буду строго управлять конфиденциальной информацией внутренних и внешних сторон и не раскрывать её ненадлежащим образом."
+        section_title: "Management of confidential information"
+        relevance_comment: "Прямое требование конфиденциальности и инфобезопасности (WtoC03)."
+      - excerpt_id: "WtoC04_explicit_section"
+        original: "I will protect and maintain the intellectual property rights... and will try to actively utilize them."
+        translated_ru: "Я буду защищать и поддерживать права интеллектуальной собственности и активно использовать их в интересах компании."
+        section_title: "Protection and utilization of intellectual property rights"
+        relevance_comment: "Прямое требование защиты ИС компании (WtoC04)."
+      - excerpt_id: "WtoC05_explicit_section"
+        original: "I will comply with international rules, applicable laws and regulations, this Code of Conduct, and in-house policies and guidelines..."
+        translated_ru: "Я буду соблюдать международные нормы, применимые законы и регламенты, данный Кодекс и внутренние политики."
+        section_title: "Acts in good faith based on high ethical standards"
+        relevance_comment: "Прямое требование соблюдения законодательства (WtoC05)."
+      - excerpt_id: "WtoC06_brief_mention"
+        original: "...I will consult with my superiors or the relevant divisions to solve the issue."
+        translated_ru: "...я буду обращаться к руководителю или профильным подразделениям для решения вопроса."
+        section_title: "Consultation and Report on Doubts and Concerns about Compliance"
+        relevance_comment: "Краткое подтверждение соблюдения служебной иерархии (WtoC06)."
+      - excerpt_id: "WtoC07_brief_mention"
+        original: "In the event of a disaster... I will endeavor to bring about the early recovery of social infrastructure..."
+        translated_ru: "В случае чрезвычайных ситуаций я буду стремиться к скорейшему восстановлению социальной инфраструктуры."
+        section_title: "Response to emergency"
+        relevance_comment: "Кратко отражена адаптивность в нестандартных условиях (WtoC07)."
+      - excerpt_id: "WtoC10_explicit_section"
+        original: "I will not perform any act... that may damage the trust or honor of the NEC Group..."
+        translated_ru: "Я не буду совершать действий, которые могут нанести ущерб доверию или репутации NEC Group."
+        section_title: "Prohibition on any act contrary to the Company's interests"
+        relevance_comment: "Прямая защита деловой репутации компании (WtoC10)."
+    other_principles: []
+  - topic_id: "company_to_investors"
+    principles:
+      - principle_code: "CtoI01"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoI02"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoI03"
+        principle_status: "implicit_scattered"
+        evidence_excerpt_ids:
+          - "CtoI03_implicit_scattered"
+      - principle_code: "CtoI04"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoI05"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "CtoI05_explicit_section"
+      - principle_code: "CtoI06"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoI07"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoI08"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+    key_excerpts:
+      - excerpt_id: "CtoI03_implicit_scattered"
+        original: "I will appropriately and actively disclose corporate information to stakeholders..."
+        translated_ru: "Я буду надлежащим образом и активно раскрывать корпоративную информацию стейкхолдерам."
+        section_title: "Information disclosure to, communication and joint creation with stakeholders"
+        relevance_comment: "Раскрытие информации стейкхолдерам включает инвесторов/кредиторов (CtoI03)."
+      - excerpt_id: "CtoI05_explicit_section"
+        original: "I will not use non-public information of the NEC Group or other companies... for the sale or purchase of marketable securities..."
+        translated_ru: "Я не буду использовать непубличную информацию NEC Group или других компаний для сделок с ценными бумагами."
+        section_title: "Prohibition on insider trading"
+        relevance_comment: "Прямой запрет инсайдерской торговли (CtoI05)."
+    other_principles: []
+  - topic_id: "company_to_people"
+    principles:
+      - principle_code: "CtoP01"
+        principle_status: "implicit_scattered"
+        evidence_excerpt_ids:
+          - "CtoP01_implicit_scattered"
+      - principle_code: "CtoP02"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "CtoP02_explicit_section"
+      - principle_code: "CtoP03"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoP04"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "CtoP04_explicit_section"
+      - principle_code: "CtoP05"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoP06"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoP07"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "CtoP07_explicit_section"
+      - principle_code: "CtoP08"
+        principle_status: "implicit_scattered"
+        evidence_excerpt_ids:
+          - "CtoP08_implicit_scattered"
+      - principle_code: "CtoP09"
+        principle_status: "brief_mention"
+        evidence_excerpt_ids:
+          - "CtoP09_brief_mention"
+      - principle_code: "CtoP10"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+    key_excerpts:
+      - excerpt_id: "CtoP01_implicit_scattered"
+        original: "...adding factors necessary for realizing a sustainable society, such as SDGs and ESG..."
+        translated_ru: "...добавлены факторы, необходимые для устойчивого общества, такие как SDGs и ESG."
+        section_title: "To all members of the NEC Group"
+        relevance_comment: "Есть ориентир на ESG, но без детализированной публичной ESG-отчетности (CtoP01)."
+      - excerpt_id: "CtoP02_explicit_section"
+        original: "I will maintain a fair, equitable, and transparent relationship with stakeholders..."
+        translated_ru: "Я буду поддерживать справедливые, равноправные и прозрачные отношения со стейкхолдерами."
+        section_title: "Fair relationship with stakeholders"
+        relevance_comment: "Прямое обязательство прозрачных отношений с обществом и стейкхолдерами (CtoP02)."
+      - excerpt_id: "CtoP04_explicit_section"
+        original: "...act so as to contribute to the development of local economies, cultures and education..."
+        translated_ru: "...действовать так, чтобы содействовать развитию местной экономики, культуры и образования."
+        section_title: "Coexistence with local communities"
+        relevance_comment: "Прямой вклад в социально-экономическое развитие регионов присутствия (CtoP04)."
+      - excerpt_id: "CtoP07_explicit_section"
+        original: "...contribute to the development of local economies, cultures and education..."
+        translated_ru: "...содействовать развитию местной экономики, культуры и образования."
+        section_title: "Coexistence with local communities"
+        relevance_comment: "Прямое содействие образованию и культуре (CtoP07)."
+      - excerpt_id: "CtoP08_implicit_scattered"
+        original: "In the event of a disaster... I will endeavor to bring about the early recovery of social infrastructure and minimize the impact on stakeholders."
+        translated_ru: "В случае бедствий я буду стремиться к быстрому восстановлению инфраструктуры и минимизации влияния на стейкхолдеров."
+        section_title: "Response to emergency"
+        relevance_comment: "Есть меры по снижению вреда населению при авариях/ЧС (CtoP08)."
+      - excerpt_id: "CtoP09_brief_mention"
+        original: "...understand the cultures and customs of countries and regions, and act in good faith..."
+        translated_ru: "...понимать культуру и обычаи стран и регионов и действовать добросовестно."
+        section_title: "Acts in good faith based on high ethical standards"
+        relevance_comment: "Краткое признание важности местных традиций (CtoP09)."
+    other_principles: []
+  - topic_id: "company_to_buyer"
+    principles:
+      - principle_code: "CtoB01"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "CtoB01_explicit_section"
+      - principle_code: "CtoB02"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "CtoB02_explicit_section"
+      - principle_code: "CtoB03"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoB04"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoB05"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "CtoB05_explicit_section"
+      - principle_code: "CtoB06"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoB07"
+        principle_status: "implicit_scattered"
+        evidence_excerpt_ids:
+          - "CtoB07_implicit_scattered"
+      - principle_code: "CtoB08"
+        principle_status: "implicit_scattered"
+        evidence_excerpt_ids:
+          - "CtoB08_implicit_scattered"
+      - principle_code: "CtoB09"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "CtoB09_explicit_section"
+    key_excerpts:
+      - excerpt_id: "CtoB01_explicit_section"
+        original: "I will always endeavor to satisfy our customers..."
+        translated_ru: "Я всегда буду стремиться удовлетворять потребности клиентов."
+        section_title: "Safe and reliable quality for all customers"
+        relevance_comment: "Прямой клиентоцентричный принцип (CtoB01)."
+      - excerpt_id: "CtoB02_explicit_section"
+        original: "I will accurately indicate the quality, performance, and specifications of products and services..."
+        translated_ru: "Я буду точно указывать качество, характеристики и спецификации продуктов и услуг."
+        section_title: "Sincere publicity and advertising"
+        relevance_comment: "Прямое требование предоставлять достоверную информацию о продукте (CtoB02)."
+      - excerpt_id: "CtoB05_explicit_section"
+        original: "I will comply with international rules, applicable laws and regulations..."
+        translated_ru: "Я буду соблюдать международные правила и применимое законодательство."
+        section_title: "Acts in good faith based on high ethical standards"
+        relevance_comment: "Прямое требование законности и этичности по отношению к потребителю (CtoB05)."
+      - excerpt_id: "CtoB07_implicit_scattered"
+        original: "I will appropriately and actively disclose corporate information to stakeholders and also communicate with them..."
+        translated_ru: "Я буду активно раскрывать информацию и вести коммуникацию со стейкхолдерами."
+        section_title: "Information disclosure to, communication and joint creation with stakeholders"
+        relevance_comment: "Поддержка каналов коммуникации со стейкхолдерами, включая клиентов (CtoB07)."
+      - excerpt_id: "CtoB08_implicit_scattered"
+        original: "I will recognize the importance of protecting personal information and appropriately obtain, use, provide and destroy personal information."
+        translated_ru: "Я буду признавать важность защиты персональных данных и корректно их получать, использовать, передавать и уничтожать."
+        section_title: "Management of personal information"
+        relevance_comment: "Принцип защиты персональных данных клиентов (CtoB08)."
+      - excerpt_id: "CtoB09_explicit_section"
+        original: "I will always endeavor to satisfy our customers and pay full attention to the safety and quality of our products and services."
+        translated_ru: "Я всегда буду стремиться удовлетворять клиентов и уделять полное внимание безопасности и качеству продуктов и услуг."
+        section_title: "Safe and reliable quality for all customers"
+        relevance_comment: "Прямое требование безопасности продукции/услуг (CtoB09)."
+    other_principles: []
+  - topic_id: "worker_to_worker"
+    principles:
+      - principle_code: "WtoW01"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "WtoW01_explicit_section"
+      - principle_code: "WtoW02"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "WtoW03"
+        principle_status: "brief_mention"
+        evidence_excerpt_ids:
+          - "WtoW03_brief_mention"
+      - principle_code: "WtoW04"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "WtoW05"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "WtoW06"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "WtoW07"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "WtoW08"
+        principle_status: "implicit_scattered"
+        evidence_excerpt_ids:
+          - "WtoW08_implicit_scattered"
+    key_excerpts:
+      - excerpt_id: "WtoW01_explicit_section"
+        original: "I will respect the diverse characteristics and values of my colleagues..."
+        translated_ru: "Я буду уважать разнообразные особенности и ценности моих коллег."
+        section_title: "Respect for each other’s way of life"
+        relevance_comment: "Прямое требование уважительного отношения между коллегами (WtoW01)."
+      - excerpt_id: "WtoW03_brief_mention"
+        original: "...thereby I will create and encourage others to create new social value and innovation."
+        translated_ru: "...тем самым я буду создавать и поощрять других к созданию новой социальной ценности и инноваций."
+        section_title: "Respect for each other’s way of life"
+        relevance_comment: "Краткое подтверждение командного взаимодействия (WtoW03)."
+      - excerpt_id: "WtoW08_implicit_scattered"
+        original: "...or become aware of any act in violation thereof, I will not ignore it and will consult with my superiors..."
+        translated_ru: "...или узнав о нарушении, я не буду игнорировать это и обращусь к руководителю..."
+        section_title: "Consultation and Report on Doubts and Concerns about Compliance"
+        relevance_comment: "Сотрудник должен сообщать о неэтичном поведении коллег (WtoW08)."
+    other_principles: []
+  - topic_id: "manager_to_worker"
+    principles:
+      - principle_code: "MtoW01"
+        principle_status: "implicit_scattered"
+        evidence_excerpt_ids:
+          - "MtoW01_implicit_scattered"
+      - principle_code: "MtoW02"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "MtoW03"
+        principle_status: "implicit_scattered"
+        evidence_excerpt_ids:
+          - "MtoW03_implicit_scattered"
+      - principle_code: "MtoW04"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "MtoW04_explicit_section"
+      - principle_code: "MtoW05"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "MtoW06"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+    key_excerpts:
+      - excerpt_id: "MtoW01_implicit_scattered"
+        original: "The officers, General Manager of each division, and managerial personnel shall... ensure that they comply with the provisions set forth in this Code of Conduct."
+        translated_ru: "Руководители обязаны обеспечивать соблюдение Кодекса, включая недискриминационные нормы, всеми сотрудниками."
+        section_title: "Compliance with the Code of Conduct"
+        relevance_comment: "Равное отношение выводится из обязанности руководителя обеспечивать соблюдение недискриминационных норм (MtoW01)."
+      - excerpt_id: "MtoW03_implicit_scattered"
+        original: "...managerial personnel shall take leadership in implementing this Code of Conduct and developing an open culture..."
+        translated_ru: "...руководители должны лидировать в применении Кодекса и развитии открытой культуры."
+        section_title: "Compliance with the Code of Conduct"
+        relevance_comment: "Косвенно закрепляет уважительную управленческую культуру без психологического давления (MtoW03)."
+      - excerpt_id: "MtoW04_explicit_section"
+        original: "...managerial personnel shall take leadership in implementing this Code of Conduct and developing an open culture in their organization..."
+        translated_ru: "...руководители должны лидировать во внедрении Кодекса и развитии открытой культуры в подразделении."
+        section_title: "Compliance with the Code of Conduct"
+        relevance_comment: "Прямое требование формировать культуру открытого диалога (MtoW04)."
+    other_principles: []
+  - topic_id: "company_to_worker"
+    principles:
+      - principle_code: "CtoW01"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoW02"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoW03"
+        principle_status: "brief_mention"
+        evidence_excerpt_ids:
+          - "CtoW03_brief_mention"
+      - principle_code: "CtoW04"
+        principle_status: "brief_mention"
+        evidence_excerpt_ids:
+          - "CtoW04_brief_mention"
+      - principle_code: "CtoW05"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoW06"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "CtoW06_explicit_section"
+      - principle_code: "CtoW07"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoW08"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoW09"
+        principle_status: "implicit_scattered"
+        evidence_excerpt_ids:
+          - "CtoW09_implicit_scattered"
+      - principle_code: "CtoW10"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+    key_excerpts:
+      - excerpt_id: "CtoW03_brief_mention"
+        original: "In addition, I will realize a work style that allows for business continuity by utilizing ICT."
+        translated_ru: "Кроме того, я буду реализовывать формат работы, обеспечивающий непрерывность бизнеса с использованием ИКТ."
+        section_title: "Response to emergency"
+        relevance_comment: "Краткое упоминание организационных условий труда при ЧС (CtoW03)."
+      - excerpt_id: "CtoW04_brief_mention"
+        original: "...I will aim to keep a balance between my work and private life..."
+        translated_ru: "...я буду стремиться сохранять баланс между работой и личной жизнью."
+        section_title: "Respect for each other’s way of life"
+        relevance_comment: "Краткое упоминание благополучия и work-life balance (CtoW04)."
+      - excerpt_id: "CtoW06_explicit_section"
+        original: "I will not allow any act that may be prejudicial on the grounds of race... gender... disability..."
+        translated_ru: "Я не допущу действий дискриминационного характера по признакам расы, пола, инвалидности и др."
+        section_title: "Respect for human rights"
+        relevance_comment: "Прямой запрет дискриминации работников (CtoW06)."
+      - excerpt_id: "CtoW09_implicit_scattered"
+        original: "...I will not ignore it and will consult with my superiors or the relevant divisions..."
+        translated_ru: "...я не буду игнорировать проблему и обращусь к руководителю или профильным подразделениям."
+        section_title: "Consultation and Report on Doubts and Concerns about Compliance"
+        relevance_comment: "Механизм обратной связи/эскалации проблем от работников (CtoW09)."
+    other_principles: []
+  - topic_id: "worker_to_manager"
+    principles:
+      - principle_code: "WtoM01"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "WtoM02"
+        principle_status: "brief_mention"
+        evidence_excerpt_ids:
+          - "WtoM02_brief_mention"
+      - principle_code: "WtoM03"
+        principle_status: "brief_mention"
+        evidence_excerpt_ids:
+          - "WtoM03_brief_mention"
+      - principle_code: "WtoM04"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "WtoM05"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "WtoM06"
+        principle_status: "implicit_scattered"
+        evidence_excerpt_ids:
+          - "WtoM06_implicit_scattered"
+    key_excerpts:
+      - excerpt_id: "WtoM02_brief_mention"
+        original: "...I will not ignore it and will consult with my superiors..."
+        translated_ru: "...я не буду это игнорировать и обращусь к руководителю..."
+        section_title: "Consultation and Report on Doubts and Concerns about Compliance"
+        relevance_comment: "Кратко закреплена открытая честная коммуникация с руководителем (WtoM02)."
+      - excerpt_id: "WtoM03_brief_mention"
+        original: "If I am requested by the Company to cooperate in investigating the matter... I will meet such request in good faith."
+        translated_ru: "Если компания просит меня содействовать расследованию, я добросовестно выполню этот запрос."
+        section_title: "Consultation and Report on Doubts and Concerns about Compliance"
+        relevance_comment: "Прямое добросовестное выполнение поручений в рамках расследований (WtoM03)."
+      - excerpt_id: "WtoM06_implicit_scattered"
+        original: "I will comply with international rules, applicable laws and regulations... at all times..."
+        translated_ru: "Я буду всегда соблюдать международные нормы, применимые законы и регламенты."
+        section_title: "Acts in good faith based on high ethical standards"
+        relevance_comment: "Норма подразумевает отказ от незаконных/неэтичных поручений (WtoM06)."
+    other_principles: []
+notes:
+  - "Анализ выполнен последовательно по всем 11 темам из topic_registry; классификация проведена вручную на основе полного чтения документа."
+limitations:
+  - "Текст извлечен OCR и содержит отдельные опечатки/разрывы, что может снижать точность формулировок в некоторых цитатах."
+analyst_summary_ru: "Кодекс NEC 2019 детально покрывает антикоррупцию, конкуренцию, защиту данных, права человека, безопасность/качество продуктов и whistleblowing-процедуры. Слабее представлены специальные HR-процедуры (найм/увольнение, профсоюзы) и корпоративное управление для акционеров (собрания, дивиденды, защита миноритариев)."

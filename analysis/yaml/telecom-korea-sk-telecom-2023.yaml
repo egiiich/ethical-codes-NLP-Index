@@ -1,0 +1,466 @@
+document_id: "telecom-korea-sk-telecom-2023"
+company_name: "SK Telecom"
+country: "Korea"
+industry: "Telecom"
+source_path: "Ethics_Codes_txt_files/Telecom_Korea_SK Telecom_2023.txt"
+source_language: "en"
+document_type: "code_of_ethics"
+review_status: "completed"
+topic_analyses:
+  - topic_id: "competitor_relations"
+    principles:
+      - principle_code: "COMP01"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "COMP02"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "COMP03"
+        principle_status: "brief_mention"
+        evidence_excerpt_ids:
+          - "COMP03_brief_mention"
+      - principle_code: "COMP04"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "COMP05"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "COMP06"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "COMP07"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "COMP08"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "COMP09"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "COMP10"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+    key_excerpts:
+      - excerpt_id: "COMP03_brief_mention"
+        original: "...respect the free market economic system and seek fair competition in observance of business ethics..."
+        translated_ru: "...уважать свободную рыночную экономику и стремиться к честной конкуренции в соответствии с деловой этикой..."
+        section_title: "Code of Ethics Preamble"
+        relevance_comment: "Краткое подтверждение принципа честной конкуренции (COMP03)."
+    other_principles: []
+  - topic_id: "hotline_principles"
+    principles:
+      - principle_code: "HOT01"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "HOT02"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "HOT03"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "HOT04"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "HOT05"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "HOT06"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "HOT07"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "HOT08"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "HOT09"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "HOT10"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+    key_excerpts: []
+    other_principles: []
+  - topic_id: "company_to_supplier"
+    principles:
+      - principle_code: "CtoS01"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoS02"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "CtoS02_explicit_section"
+      - principle_code: "CtoS03"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "CtoS03_explicit_section"
+      - principle_code: "CtoS04"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoS05"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoS06"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "CtoS06_explicit_section"
+      - principle_code: "CtoS07"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+    key_excerpts:
+      - excerpt_id: "CtoS02_explicit_section"
+        original: "The Company shall provide fair opportunities to its BPs..."
+        translated_ru: "Компания должна предоставлять своим бизнес-партнёрам справедливые возможности..."
+        section_title: "5. Relationship with Business Partners"
+        relevance_comment: "Прямое требование равного и справедливого доступа для партнеров/поставщиков (CtoS02)."
+      - excerpt_id: "CtoS03_explicit_section"
+        original: "The Company shall not engage in wrongful acts, taking advantage of its superior position..."
+        translated_ru: "Компания не должна совершать неправомерные действия, используя своё преимущественное положение..."
+        section_title: "5. Relationship with Business Partners"
+        relevance_comment: "Прямой запрет злоупотребления рыночной властью (CtoS03)."
+      - excerpt_id: "CtoS06_explicit_section"
+        original: "...support the enhancement of their competitiveness to achieve mutual growth based on trust."
+        translated_ru: "...поддерживать повышение их конкурентоспособности для достижения взаимного роста на основе доверия."
+        section_title: "5. Relationship with Business Partners"
+        relevance_comment: "Прямая ориентация на устойчивое партнерство и взаимный рост (CtoS06)."
+    other_principles: []
+  - topic_id: "worker_to_company"
+    principles:
+      - principle_code: "WtoC01"
+        principle_status: "brief_mention"
+        evidence_excerpt_ids:
+          - "WtoC01_brief_mention"
+      - principle_code: "WtoC02"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "WtoC03"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "WtoC04"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "WtoC05"
+        principle_status: "brief_mention"
+        evidence_excerpt_ids:
+          - "WtoC05_brief_mention"
+      - principle_code: "WtoC06"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "WtoC07"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "WtoC08"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "WtoC09"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "WtoC10"
+        principle_status: "brief_mention"
+        evidence_excerpt_ids:
+          - "WtoC10_brief_mention"
+    key_excerpts:
+      - excerpt_id: "WtoC01_brief_mention"
+        original: "The Employees shall be faithful to their duties and have enthusiasm..."
+        translated_ru: "Сотрудники должны добросовестно выполнять свои обязанности и работать с вовлеченностью..."
+        section_title: "2. Basic Ethics of Employees"
+        relevance_comment: "Краткое требование добросовестного выполнения работы (WtoC01)."
+      - excerpt_id: "WtoC05_brief_mention"
+        original: "The Company shall enact and practice this Code of Ethics as the foundation of its decision-making, conduct, and judgment..."
+        translated_ru: "Компания должна применять Кодекс этики как основу принятия решений, поведения и суждений..."
+        section_title: "Code of Ethics Preamble"
+        relevance_comment: "Краткое подтверждение комплаенс-ориентации сотрудников (WtoC05)."
+      - excerpt_id: "WtoC10_brief_mention"
+        original: "...shall not receive money or other valuables ... from the stakeholders in relation to work."
+        translated_ru: "...не должны получать деньги или иные ценности от стейкхолдеров в связи с работой."
+        section_title: "2.2 Fair Execution of Work"
+        relevance_comment: "Краткое требование защищать интересы компании и избегать репутационных рисков (WtoC10)."
+    other_principles: []
+  - topic_id: "company_to_investors"
+    principles:
+      - principle_code: "CtoI01"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoI02"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoI03"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "CtoI03_explicit_section"
+      - principle_code: "CtoI04"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "CtoI04_explicit_section"
+      - principle_code: "CtoI05"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoI06"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoI07"
+        principle_status: "brief_mention"
+        evidence_excerpt_ids:
+          - "CtoI07_brief_mention"
+      - principle_code: "CtoI08"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+    key_excerpts:
+      - excerpt_id: "CtoI03_explicit_section"
+        original: "...disclose them fairly, accurately, completely, and timely based on the relevant laws."
+        translated_ru: "...раскрывать их справедливо, точно, полно и своевременно на основе применимого права."
+        section_title: "4.2.2 Protection of Shareholder Rights and Interest"
+        relevance_comment: "Прямое требование полноты и своевременности раскрытия информации (CtoI03)."
+      - excerpt_id: "CtoI04_explicit_section"
+        original: "The Company shall practice transparent business management centered around the Board of Directors..."
+        translated_ru: "Компания должна практиковать прозрачное управление бизнесом, основанное на Совете директоров..."
+        section_title: "4.2.1 Protection of Shareholder Rights and Interest"
+        relevance_comment: "Прямое требование прозрачности процедур управления (CtoI04)."
+      - excerpt_id: "CtoI07_brief_mention"
+        original: "...respect the reasonable requests and suggestions of the shareholders."
+        translated_ru: "...уважать разумные запросы и предложения акционеров."
+        section_title: "4.2.1 Protection of Shareholder Rights and Interest"
+        relevance_comment: "Краткий элемент защиты прав акционеров (CtoI07)."
+    other_principles: []
+  - topic_id: "company_to_people"
+    principles:
+      - principle_code: "CtoP01"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoP02"
+        principle_status: "brief_mention"
+        evidence_excerpt_ids:
+          - "CtoP02_brief_mention"
+      - principle_code: "CtoP03"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoP04"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "CtoP04_explicit_section"
+      - principle_code: "CtoP05"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoP06"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoP07"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoP08"
+        principle_status: "brief_mention"
+        evidence_excerpt_ids:
+          - "CtoP08_brief_mention"
+      - principle_code: "CtoP09"
+        principle_status: "brief_mention"
+        evidence_excerpt_ids:
+          - "CtoP09_brief_mention"
+      - principle_code: "CtoP10"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+    key_excerpts:
+      - excerpt_id: "CtoP02_brief_mention"
+        original: "...achieve mutual growth with society by creating social values..."
+        translated_ru: "...достигать взаимного роста с обществом через создание социальных ценностей..."
+        section_title: "6. Responsibility for Society"
+        relevance_comment: "Краткое подтверждение открытого взаимодействия с обществом (CtoP02)."
+      - excerpt_id: "CtoP04_explicit_section"
+        original: "The Company shall not only contribute to economic growth but also shall use its best efforts to achieve mutual growth with society..."
+        translated_ru: "Компания должна не только содействовать экономическому росту, но и стремиться к взаимному росту с обществом..."
+        section_title: "6. Responsibility for Society"
+        relevance_comment: "Прямой вклад в социально-экономическое развитие (CtoP04)."
+      - excerpt_id: "CtoP08_brief_mention"
+        original: "...actively participate in CSR activities, including volunteer activities and disaster relief."
+        translated_ru: "...активно участвовать в CSR-активностях, включая волонтерство и помощь при бедствиях."
+        section_title: "6.4 CSR Activities"
+        relevance_comment: "Краткое подтверждение участия в помощи обществу в кризисах (CtoP08)."
+      - excerpt_id: "CtoP09_brief_mention"
+        original: "...comply with the relevant laws and regulations of the regions where it conducts business..."
+        translated_ru: "...соблюдать законы и нормы регионов присутствия..."
+        section_title: "6.1 Promotion of Sound Culture"
+        relevance_comment: "Краткий элемент уважения локальных норм и контекста (CtoP09)."
+    other_principles: []
+  - topic_id: "company_to_buyer"
+    principles:
+      - principle_code: "CtoB01"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "CtoB01_explicit_section"
+      - principle_code: "CtoB02"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "CtoB02_explicit_section"
+      - principle_code: "CtoB03"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoB04"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoB05"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoB06"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoB07"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoB08"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "CtoB08_explicit_section"
+      - principle_code: "CtoB09"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+    key_excerpts:
+      - excerpt_id: "CtoB01_explicit_section"
+        original: "The Company shall gain trust from its customers by ensuring consistent customer satisfaction..."
+        translated_ru: "Компания должна завоевывать доверие клиентов, обеспечивая устойчивую удовлетворенность клиентов..."
+        section_title: "1. Attitude Towards Customers"
+        relevance_comment: "Прямой клиентоориентированный принцип (CtoB01)."
+      - excerpt_id: "CtoB02_explicit_section"
+        original: "...provide customers with accurate information in a timely manner so that they can reasonably choose products and services..."
+        translated_ru: "...предоставлять клиентам точную и своевременную информацию для рационального выбора продуктов и услуг..."
+        section_title: "1.2 Customer-centered Business Management"
+        relevance_comment: "Прямое требование предоставления полной и своевременной информации (CtoB02)."
+      - excerpt_id: "CtoB08_explicit_section"
+        original: "The Company shall comply with the laws related to customer information protection and use its best efforts to protect customer information."
+        translated_ru: "Компания должна соблюдать законы о защите информации клиентов и прилагать максимум усилий для её защиты."
+        section_title: "1.3 Protection of Customer Information"
+        relevance_comment: "Прямое требование конфиденциальности и защиты данных клиентов (CtoB08)."
+    other_principles: []
+  - topic_id: "worker_to_worker"
+    principles:
+      - principle_code: "WtoW01"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "WtoW01_explicit_section"
+      - principle_code: "WtoW02"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "WtoW03"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "WtoW04"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "WtoW05"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "WtoW06"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "WtoW07"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "WtoW08"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+    key_excerpts:
+      - excerpt_id: "WtoW01_explicit_section"
+        original: "The Employees shall practice mutual respect, treat other colleagues fairly and reasonably under any circumstances..."
+        translated_ru: "Сотрудники должны практиковать взаимное уважение и справедливое, разумное отношение к коллегам при любых обстоятельствах..."
+        section_title: "2.1 Promotion of Sound Corporate Culture"
+        relevance_comment: "Прямое требование уважительного взаимодействия коллег (WtoW01)."
+    other_principles: []
+  - topic_id: "manager_to_worker"
+    principles:
+      - principle_code: "MtoW01"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "MtoW02"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "MtoW03"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "MtoW04"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "MtoW05"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "MtoW06"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+    key_excerpts: []
+    other_principles: []
+  - topic_id: "company_to_worker"
+    principles:
+      - principle_code: "CtoW01"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoW02"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoW03"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "CtoW03_explicit_section"
+      - principle_code: "CtoW04"
+        principle_status: "brief_mention"
+        evidence_excerpt_ids:
+          - "CtoW04_brief_mention"
+      - principle_code: "CtoW05"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoW06"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "CtoW06_explicit_section"
+      - principle_code: "CtoW07"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoW08"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoW09"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoW10"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+    key_excerpts:
+      - excerpt_id: "CtoW03_explicit_section"
+        original: "The Company shall establish systems for the safety and health of its Employees..."
+        translated_ru: "Компания должна создавать системы обеспечения безопасности и здоровья сотрудников..."
+        section_title: "3.2.1 Safety and Happiness of the Employees"
+        relevance_comment: "Прямое требование безопасных условий труда (CtoW03)."
+      - excerpt_id: "CtoW04_brief_mention"
+        original: "...use its best efforts to enable the Employees to pursue happiness..."
+        translated_ru: "...прилагать максимум усилий, чтобы сотрудники могли стремиться к благополучию..."
+        section_title: "3.2 Safety and Happiness of the Employees"
+        relevance_comment: "Краткое упоминание заботы о благополучии работников (CtoW04)."
+      - excerpt_id: "CtoW06_explicit_section"
+        original: "...shall not engage in any form of discrimination against its stakeholders such as customers and employees..."
+        translated_ru: "...не должна допускать дискриминацию в отношении стейкхолдеров, включая сотрудников..."
+        section_title: "6.2 Respect for Human Dignity"
+        relevance_comment: "Прямой запрет дискриминации работников (CtoW06)."
+    other_principles: []
+  - topic_id: "worker_to_manager"
+    principles:
+      - principle_code: "WtoM01"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "WtoM02"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "WtoM03"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "WtoM04"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "WtoM05"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "WtoM06"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+    key_excerpts: []
+    other_principles: []
+notes:
+  - "Анализ выполнен последовательно и вручную по всем темам из topic_registry.md."
+limitations:
+  - "Источник SK Telecom содержит OCR-артефакты; формулировки восстановлены по контексту."
+analyst_summary_ru: "Кодексы дают сильный каркас комплаенса, fair dealing и защиты информации; отсутствующие канонические принципы отмечены как absent без принудительного натягивания соответствий."
