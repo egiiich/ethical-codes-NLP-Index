@@ -1,0 +1,449 @@
+document_id: "retail-china-yum-china-2020"
+company_name: "Yum China Holdings, Inc."
+country: "China"
+industry: "Retail"
+source_path: "Ethics_Codes_txt_files/Retail_China_Yum China_2020.txt"
+source_language: "en"
+document_type: "code_of_conduct"
+review_status: "completed"
+topic_analyses:
+  - topic_id: "competitor_relations"
+    principles:
+      - principle_code: "COMP01"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "COMP02"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "COMP03"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "COMP04"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "COMP05"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "COMP06"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "COMP07"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "COMP08"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "COMP09"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "COMP10"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+    key_excerpts:
+    other_principles: []
+  - topic_id: "hotline_principles"
+    principles:
+      - principle_code: "HOT01"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "HOT01_explicit_section"
+      - principle_code: "HOT02"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "HOT03"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "HOT03_explicit_section"
+      - principle_code: "HOT04"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "HOT05"
+        principle_status: "brief_mention"
+        evidence_excerpt_ids:
+          - "HOT05_brief_mention"
+      - principle_code: "HOT06"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "HOT06_explicit_section"
+      - principle_code: "HOT07"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "HOT08"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "HOT09"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "HOT10"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+    key_excerpts:
+      - excerpt_id: "HOT01_explicit_section"
+        original: "you may call Yum China Ethics and Compliance Hotline ... (24 hours a day, 7 days a week)"
+        translated_ru: "Для сообщений доступна Ethics and Compliance Hotline 24/7."
+        section_title: "Application"
+        relevance_comment: "Прямой постоянно доступный канал горячей линии."
+      - excerpt_id: "HOT03_explicit_section"
+        original: "Yum China has a strict policy against retaliation for good faith reports."
+        translated_ru: "Yum China придерживается строгой политики запрета преследования за добросовестные сообщения."
+        section_title: "Application"
+        relevance_comment: "Прямой запрет преследования заявителей."
+      - excerpt_id: "HOT05_brief_mention"
+        original: "We will have designated personnel to deal with your complaints."
+        translated_ru: "Для обработки обращений назначаются ответственные сотрудники."
+        section_title: "Application"
+        relevance_comment: "Краткий признак обязательного рассмотрения жалоб."
+      - excerpt_id: "HOT06_explicit_section"
+        original: "you have a duty to raise questions and report concerns immediately."
+        translated_ru: "Участники обязаны немедленно поднимать вопросы и сообщать о нарушениях."
+        section_title: "Application"
+        relevance_comment: "Прямая обязанность сообщать о нарушениях."
+    other_principles: []
+  - topic_id: "company_to_supplier"
+    principles:
+      - principle_code: "CtoS01"
+        principle_status: "brief_mention"
+        evidence_excerpt_ids:
+          - "CtoS01_brief_mention"
+      - principle_code: "CtoS02"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoS03"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "CtoS03_explicit_section"
+      - principle_code: "CtoS04"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoS05"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoS06"
+        principle_status: "brief_mention"
+        evidence_excerpt_ids:
+          - "CtoS06_brief_mention"
+      - principle_code: "CtoS07"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "CtoS07_explicit_section"
+    key_excerpts:
+      - excerpt_id: "CtoS01_brief_mention"
+        original: "Thank you for helping us ... promoting a fair and competitive work environment."
+        translated_ru: "Компания декларирует справедливую и конкурентную среду взаимодействия с поставщиками."
+        section_title: "Application"
+        relevance_comment: "Краткий ориентир на справедливые закупочные отношения."
+      - excerpt_id: "CtoS03_explicit_section"
+        original: "You are not permitted to give cash ... gift ... to Yum China employees or their family members."
+        translated_ru: "Поставщику запрещено давать деньги/подарки сотрудникам Yum China и их родственникам."
+        section_title: "Conflict of Interest"
+        relevance_comment: "Прямой запрет злоупотреблений и неэтичных стимулов в отношениях с поставщиками."
+      - excerpt_id: "CtoS06_brief_mention"
+        original: "The business relationship with Yum China is strengthened upon full and complete compliance with this Code"
+        translated_ru: "Долгосрочность отношений с поставщиком напрямую увязана с полным соблюдением Кодекса."
+        section_title: "Audit and Inspection"
+        relevance_comment: "Краткий принцип устойчивого партнерства при комплаенсе."
+      - excerpt_id: "CtoS07_explicit_section"
+        original: "Gift giving must be occasional ... Maximum RMB 300 per occasion ... and cannot be permitted without authorization"
+        translated_ru: "Подарки/деловые взаимодействия строго лимитированы и требуют предварительного одобрения в ряде случаев."
+        section_title: "Appendix VI"
+        relevance_comment: "Прямой контроль против манипуляций условиями взаимодействия."
+    other_principles: []
+  - topic_id: "worker_to_company"
+    principles:
+      - principle_code: "WtoC01"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "WtoC02"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "WtoC03"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "WtoC04"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "WtoC05"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "WtoC05_explicit_section"
+      - principle_code: "WtoC06"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "WtoC07"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "WtoC08"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "WtoC09"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "WtoC10"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+    key_excerpts:
+      - excerpt_id: "WtoC05_explicit_section"
+        original: "Suppliers are required to abide by all applicable laws, codes or regulations"
+        translated_ru: "Поставщики обязаны соблюдать все применимые законы, кодексы и регуляторные требования."
+        section_title: "Laws and Regulations"
+        relevance_comment: "Прямой правовой комплаенс."
+    other_principles: []
+  - topic_id: "company_to_investors"
+    principles:
+      - principle_code: "CtoI01"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoI02"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoI03"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoI04"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoI05"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoI06"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoI07"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoI08"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+    key_excerpts:
+    other_principles: []
+  - topic_id: "company_to_people"
+    principles:
+      - principle_code: "CtoP01"
+        principle_status: "brief_mention"
+        evidence_excerpt_ids:
+          - "CtoP01_brief_mention"
+      - principle_code: "CtoP02"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoP03"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoP04"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoP05"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoP06"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoP07"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoP08"
+        principle_status: "brief_mention"
+        evidence_excerpt_ids:
+          - "CtoP08_brief_mention"
+      - principle_code: "CtoP09"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoP10"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+    key_excerpts:
+      - excerpt_id: "CtoP01_brief_mention"
+        original: "Suppliers should conduct audits and inspections to ensure their compliance with this Code"
+        translated_ru: "Поставщики должны проводить аудиты/инспекции для подтверждения соответствия Кодексу."
+        section_title: "Audit and Inspection"
+        relevance_comment: "Краткий признак подотчетности/прозрачности в ESG-части."
+      - excerpt_id: "CtoP08_brief_mention"
+        original: "Suppliers must comply with all applicable environmental laws and regulations on waste management and pollution control."
+        translated_ru: "Поставщики обязаны соблюдать экологические нормы по отходам и контролю загрязнений."
+        section_title: "Ethical Standards - Environmental Impact"
+        relevance_comment: "Краткий принцип снижения экологических и общественных рисков."
+    other_principles: []
+  - topic_id: "company_to_buyer"
+    principles:
+      - principle_code: "CtoB01"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoB02"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoB03"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoB04"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoB05"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "CtoB05_explicit_section"
+      - principle_code: "CtoB06"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoB07"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoB08"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoB09"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+    key_excerpts:
+      - excerpt_id: "CtoB05_explicit_section"
+        original: "Suppliers are required to abide by ... the Foreign Corrupt Practices Act (FCPA) of the U.S."
+        translated_ru: "Поставщики обязаны соблюдать применимые нормы, включая FCPA, при взаимодействии с Yum China."
+        section_title: "Laws and Regulations"
+        relevance_comment: "Прямой этико-правовой стандарт работы в цепочке поставок/обслуживания."
+    other_principles: []
+  - topic_id: "worker_to_worker"
+    principles:
+      - principle_code: "WtoW01"
+        principle_status: "brief_mention"
+        evidence_excerpt_ids:
+          - "WtoW01_brief_mention"
+      - principle_code: "WtoW02"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "WtoW03"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "WtoW04"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "WtoW05"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "WtoW06"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "WtoW07"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "WtoW08"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+    key_excerpts:
+      - excerpt_id: "WtoW01_brief_mention"
+        original: "Suppliers must treat all workers with dignity and respect."
+        translated_ru: "Поставщики обязаны относиться ко всем работникам с достоинством и уважением."
+        section_title: "Ethical Standards - Fair Treatment"
+        relevance_comment: "Краткий принцип уважительных отношений между коллегами."
+    other_principles: []
+  - topic_id: "manager_to_worker"
+    principles:
+      - principle_code: "MtoW01"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "MtoW02"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "MtoW03"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "MtoW04"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "MtoW05"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "MtoW06"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+    key_excerpts:
+    other_principles: []
+  - topic_id: "company_to_worker"
+    principles:
+      - principle_code: "CtoW01"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoW02"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoW03"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "CtoW03_explicit_section"
+      - principle_code: "CtoW04"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoW05"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoW06"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "CtoW06_explicit_section"
+      - principle_code: "CtoW07"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoW08"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoW09"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoW10"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+    key_excerpts:
+      - excerpt_id: "CtoW03_explicit_section"
+        original: "Suppliers must comply with all relevant laws and regulations on occupational health and safety and provide workers with a safe and healthy workplace."
+        translated_ru: "Поставщики обязаны соблюдать нормы охраны труда и обеспечивать безопасное и здоровое рабочее место."
+        section_title: "Ethical Standards - Health and Safety"
+        relevance_comment: "Прямой стандарт безопасных условий труда."
+      - excerpt_id: "CtoW06_explicit_section"
+        original: "Suppliers must not discriminate ... on the grounds of race, religion, age, nationality ... gender, disability"
+        translated_ru: "Запрещается дискриминация по расе, религии, возрасту, национальности, полу, инвалидности и др."
+        section_title: "Ethical Standards - Non-discrimination"
+        relevance_comment: "Прямой антидискриминационный стандарт работодателя."
+    other_principles: []
+  - topic_id: "worker_to_manager"
+    principles:
+      - principle_code: "WtoM01"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "WtoM02"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "WtoM03"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "WtoM04"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "WtoM05"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "WtoM06"
+        principle_status: "brief_mention"
+        evidence_excerpt_ids:
+          - "WtoM06_brief_mention"
+    key_excerpts:
+      - excerpt_id: "WtoM06_brief_mention"
+        original: "If uncertainty remains about the appropriate action, you should discuss the situation with the Internal Audit and / or the Legal Department"
+        translated_ru: "При сомнениях нужно обсуждать ситуацию с Internal Audit и/или Legal Department."
+        section_title: "Conflict of Interest"
+        relevance_comment: "Краткий механизм отказа от неэтичных решений через эскалацию."
+    other_principles: []
+analyst_summary_ru: "Кодекс поставщиков Yum China 2020 наиболее подробно регулирует этику и комплаенс в цепочке поставок: anti-retaliation, горячую линию, конфликты интересов, ограничения подарков, экологию, охрану труда и недискриминацию; покрытие по трудовым и supplier-темам высокое."
+principle_codes_detected:
+  - "HOT01"
+  - "HOT03"
+  - "HOT05"
+  - "HOT06"
+  - "CtoS01"
+  - "CtoS03"
+  - "CtoS06"
+  - "CtoS07"
+  - "WtoC05"
+  - "CtoP01"
+  - "CtoP08"
+  - "CtoB05"
+  - "WtoW01"
+  - "CtoW03"
+  - "CtoW06"
+  - "WtoM06"

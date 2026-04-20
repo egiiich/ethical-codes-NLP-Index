@@ -8,7 +8,7 @@
 
 ## Что внутри
 
-- `Japan_Ethics_Codes_txt_files/` — исходные тексты кодексов.
+- `Ethics_Codes_txt_files/` — исходные тексты кодексов.
 - `registry/codes_index.csv` — инвентаризация документов.
 - `registry/principle_presence_matrix_wide.csv` — широкая матрица `кодекс × принцип`.
 - `registry/principle_presence_matrix_long.csv` — длинная матрица `кодекс × принцип` (одна строка на принцип в кодексе с полями доказательства и метаданными анализа).
@@ -28,7 +28,7 @@
 5. Обновить `registry/principle_presence_matrix_wide.csv`.
 6. Обновить `registry/principle_presence_matrix_long.csv` (первые 4 столбца как в wide + поля `Principle_code`, `Principle_text`, `Presence`, `Evidence`, `Date of analysis`, `Analysis model`).
 7. Обновить `registry/principle_index_matrix.csv` на основе `registry/principle_presence_matrix_wide.csv`.
-7. Выполнять синтез по теме из агрегированных YAML/матриц.
+8. Выполнять синтез по теме из агрегированных YAML/матриц.
 
 ## Базовые правила
 

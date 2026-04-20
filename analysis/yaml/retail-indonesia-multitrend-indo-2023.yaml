@@ -1,0 +1,498 @@
+document_id: "retail-indonesia-multitrend-indo-2023"
+company_name: "PT Multitrend Indo Tbk"
+country: "Indonesia"
+industry: "Retail"
+source_path: "Ethics_Codes_txt_files/Retail_Indonesia_Multitrend Indo_2023.txt"
+source_language: "en"
+document_type: "code_of_conduct"
+review_status: "completed"
+topic_analyses:
+  - topic_id: "competitor_relations"
+    principles:
+      - principle_code: "COMP01"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "COMP02"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "COMP03"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "COMP04"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "COMP05"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "COMP06"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "COMP07"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "COMP08"
+        principle_status: "brief_mention"
+        evidence_excerpt_ids:
+          - "COMP08_brief_mention"
+      - principle_code: "COMP09"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "COMP10"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+    key_excerpts:
+      - excerpt_id: "COMP08_brief_mention"
+        original: "We should not disrespect our competitors."
+        translated_ru: "Мы не должны проявлять неуважение к конкурентам."
+        section_title: "Sales Practices"
+        relevance_comment: "Краткий запрет недобросовестной дискредитации конкурентов."
+    other_principles: []
+  - topic_id: "hotline_principles"
+    principles:
+      - principle_code: "HOT01"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "HOT01_explicit_section"
+      - principle_code: "HOT02"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "HOT02_explicit_section"
+      - principle_code: "HOT03"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "HOT03_explicit_section"
+      - principle_code: "HOT04"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "HOT05"
+        principle_status: "brief_mention"
+        evidence_excerpt_ids:
+          - "HOT05_brief_mention"
+      - principle_code: "HOT06"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "HOT06_explicit_section"
+      - principle_code: "HOT07"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "HOT08"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "HOT09"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "HOT10"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+    key_excerpts:
+      - excerpt_id: "HOT01_explicit_section"
+        original: "all employees ... must report it through lapor@kanmogroup.com."
+        translated_ru: "Все сотрудники обязаны сообщать о нарушениях через адрес lapor@kanmogroup.com."
+        section_title: "G. Whistleblowing Policy"
+        relevance_comment: "Прямой канал горячей линии."
+      - excerpt_id: "HOT02_explicit_section"
+        original: "any incoming reports, as well as investigations of reports will be treated wisely and confidentially."
+        translated_ru: "Все сообщения и расследования по ним рассматриваются с соблюдением конфиденциальности."
+        section_title: "G. Whistleblowing Policy"
+        relevance_comment: "Прямой принцип конфиденциальности."
+      - excerpt_id: "HOT03_explicit_section"
+        original: "PT Multitrend Indo Tbk vouch for a safe and fear-free environment for everyone who will report"
+        translated_ru: "Компания гарантирует безопасную среду без страха для всех, кто сообщает о нарушениях."
+        section_title: "G. Whistleblowing Policy"
+        relevance_comment: "Прямой запрет репрессий/страха преследования."
+      - excerpt_id: "HOT05_brief_mention"
+        original: "Failure to comply with Code of Conduct ... would lead to disciplinary action"
+        translated_ru: "Нарушения Кодекса ведут к дисциплинарным мерам."
+        section_title: "A. Introduction"
+        relevance_comment: "Краткий признак обязательного реагирования на нарушения."
+      - excerpt_id: "HOT06_explicit_section"
+        original: "all employees that sees, hears, and/or knows unlawful business practices ... must report it"
+        translated_ru: "Сотрудник, узнавший о незаконной практике, обязан сообщить об этом."
+        section_title: "G. Whistleblowing Policy"
+        relevance_comment: "Прямая обязанность сообщать о нарушениях."
+    other_principles: []
+  - topic_id: "company_to_supplier"
+    principles:
+      - principle_code: "CtoS01"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoS02"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoS03"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "CtoS03_explicit_section"
+      - principle_code: "CtoS04"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoS05"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoS06"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoS07"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "CtoS07_explicit_section"
+    key_excerpts:
+      - excerpt_id: "CtoS03_explicit_section"
+        original: "We should be fair and ethical while making purchasing decisions."
+        translated_ru: "При закупочных решениях компания должна действовать честно и этично."
+        section_title: "Business Ethics - Purchasing Process"
+        relevance_comment: "Прямой принцип справедливых отношений с поставщиками."
+      - excerpt_id: "CtoS07_explicit_section"
+        original: "The Company’s competitive bidding policy should be complied with."
+        translated_ru: "Требуется соблюдение политики конкурентных закупок (тендеров)."
+        section_title: "Business Ethics - Purchasing Process"
+        relevance_comment: "Прямой контроль против манипулирования условиями закупок."
+    other_principles: []
+  - topic_id: "worker_to_company"
+    principles:
+      - principle_code: "WtoC01"
+        principle_status: "brief_mention"
+        evidence_excerpt_ids:
+          - "WtoC01_brief_mention"
+      - principle_code: "WtoC02"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "WtoC03"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "WtoC03_explicit_section"
+      - principle_code: "WtoC04"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "WtoC05"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "WtoC05_explicit_section"
+      - principle_code: "WtoC06"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "WtoC07"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "WtoC08"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "WtoC09"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "WtoC10"
+        principle_status: "brief_mention"
+        evidence_excerpt_ids:
+          - "WtoC10_brief_mention"
+    key_excerpts:
+      - excerpt_id: "WtoC01_brief_mention"
+        original: "We demonstrate domain expertise and professionalism in everything we do."
+        translated_ru: "Мы демонстрируем профессионализм и экспертность во всём, что делаем."
+        section_title: "Core Values - Optimism and Excellence"
+        relevance_comment: "Краткий стандарт качественного выполнения работы."
+      - excerpt_id: "WtoC03_explicit_section"
+        original: "All employees must keep the confidentiality of company’s proprietary information"
+        translated_ru: "Сотрудники обязаны сохранять конфиденциальность служебной информации компании."
+        section_title: "D.3 Proprietary Information"
+        relevance_comment: "Прямой принцип конфиденциальности."
+      - excerpt_id: "WtoC05_explicit_section"
+        original: "We must always obey and enforce the laws and regulations prevailing in the Republic of Indonesia."
+        translated_ru: "Мы обязаны соблюдать действующие законы и нормативные требования Индонезии."
+        section_title: "D.1 Compliance with the Law"
+        relevance_comment: "Прямой правовой комплаенс."
+      - excerpt_id: "WtoC10_brief_mention"
+        original: "One of our principles ... do the right thing ... behave safely and ethically at all times."
+        translated_ru: "Кодекс требует безопасного и этичного поведения как основы репутации компании."
+        section_title: "A. Introduction"
+        relevance_comment: "Краткий принцип защиты деловой репутации."
+    other_principles: []
+  - topic_id: "company_to_investors"
+    principles:
+      - principle_code: "CtoI01"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoI02"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoI03"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoI04"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoI05"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoI06"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoI07"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoI08"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+    key_excerpts:
+    other_principles: []
+  - topic_id: "company_to_people"
+    principles:
+      - principle_code: "CtoP01"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoP02"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoP03"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoP04"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoP05"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoP06"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoP07"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoP08"
+        principle_status: "brief_mention"
+        evidence_excerpt_ids:
+          - "CtoP08_brief_mention"
+      - principle_code: "CtoP09"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "CtoP09_explicit_section"
+      - principle_code: "CtoP10"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+    key_excerpts:
+      - excerpt_id: "CtoP08_brief_mention"
+        original: "exercise good stewardship of our assets and the environment"
+        translated_ru: "Компания подчеркивает ответственное отношение к активам и окружающей среде."
+        section_title: "A. Introduction"
+        relevance_comment: "Краткий признак снижения рисков для общества и среды."
+      - excerpt_id: "CtoP09_explicit_section"
+        original: "each brand’s principal and its employees should respect the culture of the local country."
+        translated_ru: "Сотрудники и бренд обязаны уважать культуру локальной страны."
+        section_title: "D.7 Respect Local Country Culture"
+        relevance_comment: "Прямое уважение традиций местного сообщества."
+    other_principles: []
+  - topic_id: "company_to_buyer"
+    principles:
+      - principle_code: "CtoB01"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "CtoB01_explicit_section"
+      - principle_code: "CtoB02"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "CtoB02_explicit_section"
+      - principle_code: "CtoB03"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoB04"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoB05"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "CtoB05_explicit_section"
+      - principle_code: "CtoB06"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoB07"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoB08"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoB09"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+    key_excerpts:
+      - excerpt_id: "CtoB01_explicit_section"
+        original: "We commit to understand our customers, their needs and exceed expectations at all levels."
+        translated_ru: "Компания обязуется понимать потребности клиентов и превосходить их ожидания."
+        section_title: "B. Mission"
+        relevance_comment: "Прямой клиентоориентированный принцип."
+      - excerpt_id: "CtoB02_explicit_section"
+        original: "When selling the products, our communication must be truthful and accurate."
+        translated_ru: "Коммуникация при продаже должна быть правдивой и точной."
+        section_title: "Business Ethics - Sales Practices"
+        relevance_comment: "Прямой принцип точной информации о продукте."
+      - excerpt_id: "CtoB05_explicit_section"
+        original: "PT Multitrend Indo Tbk supports and respects business ethic in the workplace including stakeholder’s interaction."
+        translated_ru: "Компания поддерживает и соблюдает деловую этику во взаимодействии со стейкхолдерами."
+        section_title: "D.8 Business Ethics"
+        relevance_comment: "Прямой этико-правовой стандарт поведения с клиентами."
+    other_principles: []
+  - topic_id: "worker_to_worker"
+    principles:
+      - principle_code: "WtoW01"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "WtoW01_explicit_section"
+      - principle_code: "WtoW02"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "WtoW03"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "WtoW03_explicit_section"
+      - principle_code: "WtoW04"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "WtoW05"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "WtoW06"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "WtoW07"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "WtoW08"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+    key_excerpts:
+      - excerpt_id: "WtoW01_explicit_section"
+        original: "We respect each other and act with humility. We collaborate and value opinions."
+        translated_ru: "Мы уважаем друг друга, действуем с уважением и ценим мнения коллег."
+        section_title: "Core Values - Gracious and Humble"
+        relevance_comment: "Прямой принцип уважительной коммуникации между коллегами."
+      - excerpt_id: "WtoW03_explicit_section"
+        original: "Acts to promote good working relationships among coworkers"
+        translated_ru: "Сотрудник должен поддерживать хорошие рабочие отношения с коллегами."
+        section_title: "Work Ethics"
+        relevance_comment: "Прямой принцип командного взаимодействия."
+    other_principles: []
+  - topic_id: "manager_to_worker"
+    principles:
+      - principle_code: "MtoW01"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "MtoW01_explicit_section"
+      - principle_code: "MtoW02"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "MtoW03"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "MtoW04"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "MtoW05"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "MtoW06"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+    key_excerpts:
+      - excerpt_id: "MtoW01_explicit_section"
+        original: "PT Multitrend Indo Tbk would never allow any discrimination ..."
+        translated_ru: "Компания не допускает дискриминации по любым защищённым признакам."
+        section_title: "D.9 Discrimination"
+        relevance_comment: "Прямой принцип равного отношения."
+    other_principles: []
+  - topic_id: "company_to_worker"
+    principles:
+      - principle_code: "CtoW01"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoW02"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoW03"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "CtoW03_explicit_section"
+      - principle_code: "CtoW04"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoW05"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoW06"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "CtoW06_explicit_section"
+      - principle_code: "CtoW07"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoW08"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoW09"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoW10"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+    key_excerpts:
+      - excerpt_id: "CtoW03_explicit_section"
+        original: "We shall take effective measures to prevent workers from having accidents, injuries or illnesses."
+        translated_ru: "Компания принимает эффективные меры для предотвращения несчастных случаев, травм и заболеваний работников."
+        section_title: "D.5 Health and Safety"
+        relevance_comment: "Прямой стандарт безопасных условий труда."
+      - excerpt_id: "CtoW06_explicit_section"
+        original: "PT Multitrend Indo Tbk is committed to keep the working environment which is free from discrimination and abuse."
+        translated_ru: "Компания поддерживает рабочую среду, свободную от дискриминации и злоупотреблений."
+        section_title: "D.9 Discrimination"
+        relevance_comment: "Прямой антидискриминационный стандарт работодателя."
+    other_principles: []
+  - topic_id: "worker_to_manager"
+    principles:
+      - principle_code: "WtoM01"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "WtoM02"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "WtoM03"
+        principle_status: "brief_mention"
+        evidence_excerpt_ids:
+          - "WtoM03_brief_mention"
+      - principle_code: "WtoM04"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "WtoM05"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "WtoM06"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+    key_excerpts:
+      - excerpt_id: "WtoM03_brief_mention"
+        original: "All employees must follow this Code of Conduct."
+        translated_ru: "Все сотрудники обязаны следовать Кодексу поведения компании."
+        section_title: "A. Introduction"
+        relevance_comment: "Краткий признак добросовестного исполнения требований руководства."
+    other_principles: []
+analyst_summary_ru: "Кодекс Multitrend Indo 2023 охватывает горячую линию, защиту информаторов, закупочную этику, клиентские стандарты, конфиденциальность и HSE; социально-экологические нормы присутствуют, но менее детализированы."
+principle_codes_detected:
+  - "COMP08"
+  - "HOT01"
+  - "HOT02"
+  - "HOT03"
+  - "HOT05"
+  - "HOT06"
+  - "CtoS03"
+  - "CtoS07"
+  - "WtoC01"
+  - "WtoC03"
+  - "WtoC05"
+  - "WtoC10"
+  - "CtoP08"
+  - "CtoP09"
+  - "CtoB01"
+  - "CtoB02"
+  - "CtoB05"
+  - "WtoW01"
+  - "WtoW03"
+  - "MtoW01"
+  - "CtoW03"
+  - "CtoW06"
+  - "WtoM03"

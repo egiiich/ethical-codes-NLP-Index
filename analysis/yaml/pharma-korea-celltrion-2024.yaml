@@ -1,0 +1,490 @@
+document_id: "pharma-korea-celltrion-2024"
+company_name: "Celltrion"
+country: "Korea"
+industry: "Pharma"
+source_path: "Ethics_Codes_txt_files/Pharma_Korea_Celltrion_2024.txt"
+source_language: "en"
+document_type: "code_of_conduct"
+review_status: "completed"
+topic_analyses:
+  - topic_id: "competitor_relations"
+    principles:
+      - principle_code: "COMP01"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "COMP02"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "COMP03"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "COMP04"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "COMP05"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "COMP06"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "COMP07"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "COMP08"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "COMP09"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "COMP10"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+    key_excerpts:
+    other_principles: []
+  - topic_id: "hotline_principles"
+    principles:
+      - principle_code: "HOT01"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "HOT01_explicit_section"
+      - principle_code: "HOT02"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "HOT02_explicit_section"
+      - principle_code: "HOT03"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "HOT03_explicit_section"
+      - principle_code: "HOT04"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "HOT05"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "HOT05_explicit_section"
+      - principle_code: "HOT06"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "HOT06_explicit_section"
+      - principle_code: "HOT07"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "HOT08"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "HOT09"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "HOT10"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+    key_excerpts:
+      - excerpt_id: "HOT01_explicit_section"
+        original: "... may report the matter either anonymously or under their real name to the internal reporting department ..."
+        translated_ru: "О нарушениях можно сообщать через внутреннюю систему как анонимно, так и под своим именем."
+        section_title: "Article 40 (Reporting of Violations)"
+        relevance_comment: "Прямой доступ к каналу обращений."
+      - excerpt_id: "HOT02_explicit_section"
+        original: "The Company shall ensure the confidentiality of the identity of whistleblowers and the contents of their reports ..."
+        translated_ru: "Компания обязана обеспечивать конфиденциальность личности заявителя и содержания сообщения."
+        section_title: "Article 41 (Protection of Whistleblowers)"
+        relevance_comment: "Прямой принцип конфиденциальности."
+      - excerpt_id: "HOT03_explicit_section"
+        original: "... take appropriate measures to protect whistleblowers from any retaliation or disadvantage."
+        translated_ru: "Компания обязуется защищать информаторов от репрессий и ущерба."
+        section_title: "Article 41 (Protection of Whistleblowers)"
+        relevance_comment: "Прямой запрет реталиации."
+      - excerpt_id: "HOT05_explicit_section"
+        original: "... promptly verify the facts and commence an investigation."
+        translated_ru: "По полученному сообщению факты должны быть оперативно проверены и инициировано расследование."
+        section_title: "Article 40 (Reporting of Violations)"
+        relevance_comment: "Прямой принцип обязательного расследования."
+      - excerpt_id: "HOT06_explicit_section"
+        original: "... if Officers and Employees becomes aware of any violations ... they shall report the matter ... and shall not participate ..."
+        translated_ru: "Сотрудник обязан сообщать о нарушениях и не участвовать в них."
+        section_title: "Article 35 (Ethics and Compliance Management)"
+        relevance_comment: "Прямая обязанность эскалации нарушений."
+    other_principles: []
+  - topic_id: "company_to_supplier"
+    principles:
+      - principle_code: "CtoS01"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "CtoS01_explicit_section"
+      - principle_code: "CtoS02"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoS03"
+        principle_status: "brief_mention"
+        evidence_excerpt_ids:
+          - "CtoS03_brief_mention"
+      - principle_code: "CtoS04"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoS05"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoS06"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoS07"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+    key_excerpts:
+      - excerpt_id: "CtoS01_explicit_section"
+        original: "... shall manage and supervise all raw materials and products delivered by the suppliers to maintain appropriate quality standards."
+        translated_ru: "Компания требует управления и контроля поставок для соблюдения стандартов качества."
+        section_title: "Article 25 (Product Quality Assurance)"
+        relevance_comment: "Прямой стандарт работы с поставщиками по критерию качества/эффективности."
+      - excerpt_id: "CtoS03_brief_mention"
+        original: "... officers and Employees shall not provide gifts and benefits ... in connection with product promotion and sales."
+        translated_ru: "Запрещены подарки/выгоды, искажающие деловую добросовестность во взаимодействии с внешними сторонами."
+        section_title: "Article 28 (Ethical Marketing)"
+        relevance_comment: "Краткий антикоррупционный принцип во внешних отношениях."
+    other_principles: []
+  - topic_id: "worker_to_company"
+    principles:
+      - principle_code: "WtoC01"
+        principle_status: "brief_mention"
+        evidence_excerpt_ids:
+          - "WtoC01_brief_mention"
+      - principle_code: "WtoC02"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "WtoC03"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "WtoC03_explicit_section"
+      - principle_code: "WtoC04"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "WtoC04_explicit_section"
+      - principle_code: "WtoC05"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "WtoC05_explicit_section"
+      - principle_code: "WtoC06"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "WtoC07"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "WtoC08"
+        principle_status: "brief_mention"
+        evidence_excerpt_ids:
+          - "WtoC08_brief_mention"
+      - principle_code: "WtoC09"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "WtoC10"
+        principle_status: "brief_mention"
+        evidence_excerpt_ids:
+          - "WtoC10_brief_mention"
+    key_excerpts:
+      - excerpt_id: "WtoC01_brief_mention"
+        original: "Officers and Employees shall make their utmost effort to ensure high quality and reliability ..."
+        translated_ru: "Сотрудники обязаны обеспечивать высокое качество и надежность в работе."
+        section_title: "Article 25 (Product Quality Assurance)"
+        relevance_comment: "Краткий стандарт качества работы."
+      - excerpt_id: "WtoC03_explicit_section"
+        original: "Officers and Employees shall be familiar with and comply with the Company’s personal information protection policies."
+        translated_ru: "Сотрудники обязаны знать и соблюдать политики защиты персональных данных."
+        section_title: "Article 26 (Personal Information Protection)"
+        relevance_comment: "Прямой принцип конфиденциальности данных."
+      - excerpt_id: "WtoC04_explicit_section"
+        original: "... shall not disclose the Company’s non-public material information ... shall not use ... information to engage in financial transactions ..."
+        translated_ru: "Запрещены раскрытие и использование непубличной существенной информации в личных целях."
+        section_title: "Article 19 (Prohibition of Disclosure or Use of Non-Public Material Information)"
+        relevance_comment: "Прямой запрет злоупотребления чувствительной информацией."
+      - excerpt_id: "WtoC05_explicit_section"
+        original: "... shall comply with various regulations and restrictions stipulated in each Company regulation."
+        translated_ru: "Сотрудники обязаны соблюдать внутренние регламенты и применимые нормы."
+        section_title: "Article 35"
+        relevance_comment: "Прямой правовой и нормативный комплаенс."
+      - excerpt_id: "WtoC08_brief_mention"
+        original: "Officers and Employees shall carry out their work with a spirit of challenge, unafraid of change and failure."
+        translated_ru: "Кодекс закрепляет ориентацию на результат и инициативность в выполнении задач."
+        section_title: "Article 23 (Ideal Traits of Officers and Employees)"
+        relevance_comment: "Краткое подтверждение ориентации на результат."
+      - excerpt_id: "WtoC10_brief_mention"
+        original: "... should refrain from expressing personal views that deviate from the Company’s official position."
+        translated_ru: "Сотрудники обязаны учитывать репутационные риски при внешних коммуникациях."
+        section_title: "Article 30 (Media Response)"
+        relevance_comment: "Краткий репутационный принцип."
+    other_principles: []
+  - topic_id: "company_to_investors"
+    principles:
+      - principle_code: "CtoI01"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoI02"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoI03"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "CtoI03_explicit_section"
+      - principle_code: "CtoI04"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoI05"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "CtoI05_explicit_section"
+      - principle_code: "CtoI06"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoI07"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoI08"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+    key_excerpts:
+      - excerpt_id: "CtoI03_explicit_section"
+        original: "... guarantee the full exercise of shareholders’ legitimate rights."
+        translated_ru: "Компания гарантирует реализацию законных прав акционеров."
+        section_title: "Article 29 (Protection of Shareholder and Investor Rights)"
+        relevance_comment: "Прямой принцип защиты прав инвесторов."
+      - excerpt_id: "CtoI05_explicit_section"
+        original: "... shall not use the Company’s non-public material information to engage in financial transactions ..."
+        translated_ru: "Сотрудники не вправе использовать непубличную информацию для операций с ценными бумагами."
+        section_title: "Article 19"
+        relevance_comment: "Прямой запрет инсайдерской торговли."
+    other_principles: []
+  - topic_id: "company_to_people"
+    principles:
+      - principle_code: "CtoP01"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoP02"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoP03"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoP04"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "CtoP04_explicit_section"
+      - principle_code: "CtoP05"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoP06"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoP07"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoP08"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "CtoP08_explicit_section"
+      - principle_code: "CtoP09"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoP10"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+    key_excerpts:
+      - excerpt_id: "CtoP04_explicit_section"
+        original: "... contribute to national development by creating social wealth and improving the quality of life for the public ..."
+        translated_ru: "Компания обязуется вносить вклад в общественное развитие и повышение качества жизни населения."
+        section_title: "Article 34 (Pursuit of Social Value)"
+        relevance_comment: "Прямой общественный принцип."
+      - excerpt_id: "CtoP08_explicit_section"
+        original: "... actively contribute to prevent climate change and reduce greenhouse gas emissions."
+        translated_ru: "Компания прямо закрепляет экологические обязательства по климату и снижению выбросов."
+        section_title: "Article 37 (Environmental Management)"
+        relevance_comment: "Прямой принцип предотвращения экологического вреда."
+    other_principles: []
+  - topic_id: "company_to_buyer"
+    principles:
+      - principle_code: "CtoB01"
+        principle_status: "brief_mention"
+        evidence_excerpt_ids:
+          - "CtoB01_brief_mention"
+      - principle_code: "CtoB02"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoB03"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoB04"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoB05"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "CtoB05_explicit_section"
+      - principle_code: "CtoB06"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoB07"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoB08"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoB09"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "CtoB09_explicit_section"
+    key_excerpts:
+      - excerpt_id: "CtoB01_brief_mention"
+        original: "... deliver the best products and services."
+        translated_ru: "Сотрудники обязаны стремиться предоставлять лучшие продукты и сервисы клиентам."
+        section_title: "Article 25"
+        relevance_comment: "Краткая клиентоориентированность."
+      - excerpt_id: "CtoB05_explicit_section"
+        original: "Article 28 (Ethical Marketing) ... comply with ... laws and industry standards ..."
+        translated_ru: "Продвижение продукции должно соответствовать закону, отраслевым стандартам и научной обоснованности."
+        section_title: "Article 28"
+        relevance_comment: "Прямой принцип этичного маркетинга."
+      - excerpt_id: "CtoB09_explicit_section"
+        original: "... shall be familiar with and comply with the Company’s pharmacovigilance system and related reporting procedures."
+        translated_ru: "Сотрудники обязаны соблюдать систему фармаконадзора для безопасности продукта."
+        section_title: "Article 25"
+        relevance_comment: "Прямой принцип безопасности продукта."
+    other_principles: []
+  - topic_id: "worker_to_worker"
+    principles:
+      - principle_code: "WtoW01"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "WtoW01_explicit_section"
+      - principle_code: "WtoW02"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "WtoW03"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "WtoW04"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "WtoW05"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "WtoW06"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "WtoW07"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "WtoW08"
+        principle_status: "brief_mention"
+        evidence_excerpt_ids:
+          - "WtoW08_brief_mention"
+    key_excerpts:
+      - excerpt_id: "WtoW01_explicit_section"
+        original: "Officers and Employees shall always treat one another with respect and consideration ..."
+        translated_ru: "Сотрудники обязаны относиться друг к другу с уважением и вниманием."
+        section_title: "Article 21"
+        relevance_comment: "Прямой принцип уважительной коммуникации."
+      - excerpt_id: "WtoW08_brief_mention"
+        original: "... if Officers and Employees becomes aware of any violations ... they shall report the matter ..."
+        translated_ru: "Сотрудники должны сообщать о нарушениях коллег через внутреннюю систему."
+        section_title: "Article 35"
+        relevance_comment: "Краткий принцип взаимного этического контроля."
+    other_principles: []
+  - topic_id: "manager_to_worker"
+    principles:
+      - principle_code: "MtoW01"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "MtoW02"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "MtoW03"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "MtoW04"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "MtoW05"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "MtoW06"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+    key_excerpts:
+    other_principles: []
+  - topic_id: "company_to_worker"
+    principles:
+      - principle_code: "CtoW01"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoW02"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoW03"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "CtoW03_explicit_section"
+      - principle_code: "CtoW04"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoW05"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoW06"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "CtoW06_explicit_section"
+      - principle_code: "CtoW07"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoW08"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoW09"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoW10"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+    key_excerpts:
+      - excerpt_id: "CtoW03_explicit_section"
+        original: "The Company shall establish policies and procedures related to ... safety, health, and security ..."
+        translated_ru: "Компания обязана устанавливать и поддерживать политики по безопасности, здоровью и защищенности труда."
+        section_title: "Article 33"
+        relevance_comment: "Прямой принцип безопасных условий труда."
+      - excerpt_id: "CtoW06_explicit_section"
+        original: "The Company shall not discriminate based on race ... gender ... disability ... or any other personal characteristics protected by law."
+        translated_ru: "Компания прямо запрещает дискриминацию по защищенным признакам."
+        section_title: "Article 31"
+        relevance_comment: "Прямой антидискриминационный принцип."
+    other_principles: []
+  - topic_id: "worker_to_manager"
+    principles:
+      - principle_code: "WtoM01"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "WtoM02"
+        principle_status: "brief_mention"
+        evidence_excerpt_ids:
+          - "WtoM02_brief_mention"
+      - principle_code: "WtoM03"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "WtoM04"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "WtoM05"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "WtoM06"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+    key_excerpts:
+      - excerpt_id: "WtoM02_brief_mention"
+        original: "... they shall report the matter to their supervisor to ensure prompt action could be taken."
+        translated_ru: "Сотрудник должен открыто информировать руководителя о рисках качества/нарушениях."
+        section_title: "Article 25"
+        relevance_comment: "Краткое подтверждение честной коммуникации с руководителем."
+    other_principles: []
+notes:
+  - "Документ содержит детальный регламент этического поведения с формальными процедурами расследований и защиты информаторов."
+limitations:
+  - "Переводной OCR-текст содержит локальные опечатки, но нормы читаемы и достаточно конкретны."
+analyst_summary_ru: "Кодекс Celltrion детально и процедурно охватывает сообщения о нарушениях, защиту информаторов, качество/фармаконадзор, права инвесторов и охрану труда. Уровень определенности высокий, поэтому completed."

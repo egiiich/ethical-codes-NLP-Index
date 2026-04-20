@@ -1,0 +1,428 @@
+document_id: "retail-china-bilibili-2018"
+company_name: "Bilibili Inc."
+country: "China"
+industry: "Retail"
+source_path: "Ethics_Codes_txt_files/Retail_China_Bilibili_2018.txt"
+source_language: "en"
+document_type: "code_of_conduct"
+review_status: "completed"
+topic_analyses:
+  - topic_id: "competitor_relations"
+    principles:
+      - principle_code: "COMP01"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "COMP02"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "COMP03"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "COMP04"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "COMP05"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "COMP06"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "COMP07"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "COMP08"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "COMP09"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "COMP10"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+    key_excerpts:
+    other_principles: []
+  - topic_id: "hotline_principles"
+    principles:
+      - principle_code: "HOT01"
+        principle_status: "brief_mention"
+        evidence_excerpt_ids:
+          - "HOT01_brief_mention"
+      - principle_code: "HOT02"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "HOT03"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "HOT04"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "HOT05"
+        principle_status: "brief_mention"
+        evidence_excerpt_ids:
+          - "HOT05_brief_mention"
+      - principle_code: "HOT06"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "HOT06_explicit_section"
+      - principle_code: "HOT07"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "HOT08"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "HOT09"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "HOT10"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+    key_excerpts:
+      - excerpt_id: "HOT01_brief_mention"
+        original: "If you have any questions regarding the Code or would like to report any violation of the Code, please contact the Compliance Officer by email"
+        translated_ru: "Если у сотрудника есть вопросы по Кодексу или сообщение о нарушении, он должен обратиться к Compliance Officer по email."
+        section_title: "II. Applicability"
+        relevance_comment: "Краткий канал обращения/сообщения."
+      - excerpt_id: "HOT05_brief_mention"
+        original: "This Code is designed to deter wrongdoing"
+        translated_ru: "Кодекс прямо направлен на предотвращение нарушений."
+        section_title: "I. Purpose"
+        relevance_comment: "Краткий принцип нулевой терпимости к нарушениям."
+      - excerpt_id: "HOT06_explicit_section"
+        original: "prompt internal reporting of violations of the Code;"
+        translated_ru: "Кодекс требует оперативного внутреннего сообщения о нарушениях."
+        section_title: "I. Purpose"
+        relevance_comment: "Прямая обязанность сообщать о нарушениях."
+    other_principles: []
+  - topic_id: "company_to_supplier"
+    principles:
+      - principle_code: "CtoS01"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoS02"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoS03"
+        principle_status: "brief_mention"
+        evidence_excerpt_ids:
+          - "CtoS03_brief_mention"
+      - principle_code: "CtoS04"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoS05"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoS06"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoS07"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+    key_excerpts:
+      - excerpt_id: "CtoS03_brief_mention"
+        original: "we shall avoid doing business with others who intentionally and continually violate the law or the standards of this Code."
+        translated_ru: "Компания избегает сотрудничества с контрагентами, систематически нарушающими закон или кодекс."
+        section_title: "II. Doing Business with Others"
+        relevance_comment: "Краткий признак отказа от недобросовестных контрагентов."
+    other_principles: []
+  - topic_id: "worker_to_company"
+    principles:
+      - principle_code: "WtoC01"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "WtoC02"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "WtoC02_explicit_section"
+      - principle_code: "WtoC03"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "WtoC03_explicit_section"
+      - principle_code: "WtoC04"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "WtoC04_explicit_section"
+      - principle_code: "WtoC05"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "WtoC05_explicit_section"
+      - principle_code: "WtoC06"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "WtoC07"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "WtoC08"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "WtoC09"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "WtoC10"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "WtoC10_explicit_section"
+    key_excerpts:
+      - excerpt_id: "WtoC02_explicit_section"
+        original: "Employees should protect the Company’s assets and ensure their efficient use for legitimate business purposes only."
+        translated_ru: "Сотрудники обязаны защищать активы компании и использовать их только в законных деловых целях."
+        section_title: "V. Protection and Use of Company Assets"
+        relevance_comment: "Прямой принцип сохранности активов."
+      - excerpt_id: "WtoC03_explicit_section"
+        original: "all proprietary information should be maintained in strict confidence, except when disclosure is authorized by the Company or required by law."
+        translated_ru: "Вся конфиденциальная служебная информация должна храниться в строгой тайне, кроме случаев одобренного или обязательного раскрытия."
+        section_title: "III. Protection of Confidential Proprietary Information"
+        relevance_comment: "Прямой принцип конфиденциальности и ИБ."
+      - excerpt_id: "WtoC04_explicit_section"
+        original: "We respect the property rights of other companies and their proprietary information"
+        translated_ru: "Компания требует уважать права собственности и конфиденциальную информацию других компаний."
+        section_title: "III. Protection of Confidential Proprietary Information"
+        relevance_comment: "Прямой принцип защиты ИС."
+      - excerpt_id: "WtoC05_explicit_section"
+        original: "full compliance with all applicable laws, rules and regulations."
+        translated_ru: "Сотрудники и руководство обязаны действовать в полном соответствии с применимыми законами и нормами."
+        section_title: "I. Compliance with Laws, Rules and Regulations"
+        relevance_comment: "Прямой правовой комплаенс."
+      - excerpt_id: "WtoC10_explicit_section"
+        original: "our Company’s most valuable assets is our reputation for integrity, professionalism and fairness."
+        translated_ru: "Репутация честности, профессионализма и справедливости названа одним из ключевых активов компании."
+        section_title: "Introduction"
+        relevance_comment: "Прямой фокус на защите деловой репутации."
+    other_principles: []
+  - topic_id: "company_to_investors"
+    principles:
+      - principle_code: "CtoI01"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoI02"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoI03"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "CtoI03_explicit_section"
+      - principle_code: "CtoI04"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoI05"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoI06"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoI07"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoI08"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+    key_excerpts:
+      - excerpt_id: "CtoI03_explicit_section"
+        original: "full, fair, accurate, timely, and understandable disclosure in reports ... to the U.S. Securities and Exchange Commission"
+        translated_ru: "Компания обязуется обеспечивать полное, точное и своевременное раскрытие информации в отчетности для SEC и публичных коммуникациях."
+        section_title: "I. Purpose"
+        relevance_comment: "Прямой принцип раскрытия информации для инвесторов."
+    other_principles: []
+  - topic_id: "company_to_people"
+    principles:
+      - principle_code: "CtoP01"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoP02"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoP03"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoP04"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoP05"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoP06"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoP07"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoP08"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoP09"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoP10"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+    key_excerpts:
+    other_principles: []
+  - topic_id: "company_to_buyer"
+    principles:
+      - principle_code: "CtoB01"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoB02"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoB03"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoB04"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoB05"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "CtoB05_explicit_section"
+      - principle_code: "CtoB06"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoB07"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoB08"
+        principle_status: "brief_mention"
+        evidence_excerpt_ids:
+          - "CtoB08_brief_mention"
+      - principle_code: "CtoB09"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+    key_excerpts:
+      - excerpt_id: "CtoB05_explicit_section"
+        original: "Our commitment to the highest level of ethical conduct should be reflected in all ... relationships with ... customers, suppliers, competitors, the government, the public and our shareholders."
+        translated_ru: "Наивысший уровень этичного поведения обязателен во всех отношениях компании, включая клиентов и общество."
+        section_title: "Introduction"
+        relevance_comment: "Прямой этико-правовой стандарт взаимодействия с клиентами и стейкхолдерами."
+      - excerpt_id: "CtoB08_brief_mention"
+        original: "Proprietary information includes ... information ... that could be harmful to the Company, its customers or its suppliers if disclosed."
+        translated_ru: "Конфиденциальная информация включает данные, раскрытие которых может повредить клиентам и поставщикам."
+        section_title: "III. Protection of Confidential Proprietary Information"
+        relevance_comment: "Краткий признак защиты данных клиентов."
+    other_principles: []
+  - topic_id: "worker_to_worker"
+    principles:
+      - principle_code: "WtoW01"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "WtoW02"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "WtoW03"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "WtoW04"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "WtoW05"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "WtoW06"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "WtoW07"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "WtoW08"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+    key_excerpts:
+    other_principles: []
+  - topic_id: "manager_to_worker"
+    principles:
+      - principle_code: "MtoW01"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "MtoW02"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "MtoW03"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "MtoW04"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "MtoW05"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "MtoW06"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+    key_excerpts:
+    other_principles: []
+  - topic_id: "company_to_worker"
+    principles:
+      - principle_code: "CtoW01"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoW02"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoW03"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoW04"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoW05"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoW06"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoW07"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoW08"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoW09"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoW10"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+    key_excerpts:
+    other_principles: []
+  - topic_id: "worker_to_manager"
+    principles:
+      - principle_code: "WtoM01"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "WtoM02"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "WtoM03"
+        principle_status: "brief_mention"
+        evidence_excerpt_ids:
+          - "WtoM03_brief_mention"
+      - principle_code: "WtoM04"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "WtoM05"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "WtoM06"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+    key_excerpts:
+      - excerpt_id: "WtoM03_brief_mention"
+        original: "all directors, officers and employees ... must conduct themselves according to the language and spirit of this Code"
+        translated_ru: "Все сотрудники обязаны действовать в соответствии с буквой и духом Кодекса."
+        section_title: "Introduction"
+        relevance_comment: "Краткое подтверждение добросовестного исполнения требований руководства."
+    other_principles: []
+analyst_summary_ru: "Кодекс Bilibili 2018 в основном задаёт рамки корпоративного комплаенса, конфиденциальности, защиты активов и раскрытия для SEC. Наиболее детализированы правовой комплаенс и предотвращение конфликтов интересов; социально-трудовые и ESG-блоки раскрыты ограниченно."
+principle_codes_detected:
+  - "HOT01"
+  - "HOT05"
+  - "HOT06"
+  - "CtoS03"
+  - "WtoC02"
+  - "WtoC03"
+  - "WtoC04"
+  - "WtoC05"
+  - "WtoC10"
+  - "CtoI03"
+  - "CtoB05"
+  - "CtoB08"
+  - "WtoM03"
