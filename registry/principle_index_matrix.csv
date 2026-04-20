@@ -1,4 +1,4 @@
-Страна,Отрасль,Компания,Год,document_id,competitor_relations,hotline_principles,company_to_supplier,worker_to_company,company_to_investors,company_to_people,company_to_buyer,worker_to_worker,manager_to_worker,company_to_worker,worker_to_manager
+﻿Страна,Отрасль,Компания,Год,document_id,competitor_relations,hotline_principles,company_to_supplier,worker_to_company,company_to_investors,company_to_people,company_to_buyer,worker_to_worker,manager_to_worker,company_to_worker,worker_to_manager
 Indonesia,Agriculture,Astra Agro Lestari,2023,agriculture-indonesia-astra-agro-lestari-2023,8,0,10,6,9,9,9,0,6,3,0
 Indonesia,Agriculture,SMART,2021,agriculture-indonesia-smart-2021,10,17,6,12,12,9,14,4,6,6,6
 China,Automotive,Great Wall Motor,2024,automotive-china-great-wall-motor-2024,9,0,4,15,6,4,12,3,0,9,1
@@ -139,3 +139,13 @@ Indonesia,Mining,Petrosea,2024,mining-indonesia-petrosea-2024,0,2,3,11,1,3,1,1,1
 Indonesia,Mining,TIMAH,2021,mining-indonesia-timah-2021,1,8,5,13,6,6,4,6,3,6,2
 Indonesia,Mining,United Tractors,2023,mining-indonesia-united-tractors-2023,6,4,3,6,6,6,9,1,6,5,0
 Russia,Mining,Alrosa,2021,mining-russia-alrosa-2021,0,21,1,12,7,7,0,5,4,6,2
+Russia,Mining,Mechel,2020,mining-russia-mechel-2020,1,0,0,4,15,1,0,0,0,0,0
+Russia,Mining,Polymetal,2021,mining-russia-polymetal-2021,1,15,6,6,3,6,0,6,0,4,1
+Russia,Mining,Uralkaliy,2023,mining-russia-uralkaliy-2023,1,7,2,6,1,4,0,6,6,1,0
+Russia,Mining,YUGK,2021,mining-russia-yugk-2021,1,9,9,12,1,7,0,4,1,12,0
+China,Pharma,Shanghai Fosun Pharmaceutical,2023,pharma-china-shanghai-fosun-pharmaceutical-2023,1,6,3,9,0,0,0,0,0,1,0
+China,Pharma,Sinovac Biotech Ltd,2006,pharma-china-sinovac-biotech-ltd-2006,4,12,4,12,4,1,0,1,0,4,0
+China,Pharma,WuXi AppTec,2021,pharma-china-wuxi-apptec-2021,4,12,4,12,0,0,0,1,0,1,0
+China,Pharma,WuXi Biologics,2024,pharma-china-wuxi-biologics-2024,6,12,4,9,3,7,0,2,0,4,0
+China,Pharma,Zai Lab,2020,pharma-china-zai-lab-2020,6,9,9,12,6,2,4,1,1,9,0
+Indonesia,Pharma,Kalbe Farma,2025,pharma-indonesia-kalbe-farma-2025,3,9,6,12,6,7,6,3,0,7,0

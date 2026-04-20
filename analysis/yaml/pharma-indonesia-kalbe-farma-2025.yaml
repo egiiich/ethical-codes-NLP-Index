@@ -1,0 +1,465 @@
+document_id: "pharma-indonesia-kalbe-farma-2025"
+company_name: "Kalbe Farma"
+country: "Indonesia"
+industry: "Pharma"
+source_path: "Ethics_Codes_txt_files/Pharma_Indonesia_Kalbe Farma_2025.txt"
+source_language: "en"
+document_type: "code_of_conduct"
+review_status: "completed"
+topic_analyses:
+  - topic_id: "competitor_relations"
+    principles:
+      - principle_code: "COMP01"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "COMP02"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "COMP03"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "COMP03_explicit_section"
+      - principle_code: "COMP04"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "COMP05"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "COMP06"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "COMP07"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "COMP08"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "COMP09"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "COMP10"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+    key_excerpts:
+      - excerpt_id: "COMP03_explicit_section"
+        original: "Kalbe conducts its business based on the principles of fair business competition in accordance with the applicable laws and regulations."
+        translated_ru: "Компания прямо ведет бизнес на принципах добросовестной конкуренции в рамках закона."
+        section_title: "Business Competition"
+        relevance_comment: "Прямой конкурентный стандарт."
+    other_principles: []
+  - topic_id: "hotline_principles"
+    principles:
+      - principle_code: "HOT01"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "HOT01_explicit_section"
+      - principle_code: "HOT02"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "HOT03"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "HOT04"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "HOT05"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "HOT05_explicit_section"
+      - principle_code: "HOT06"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "HOT06_explicit_section"
+      - principle_code: "HOT07"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "HOT08"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "HOT09"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "HOT10"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+    key_excerpts:
+      - excerpt_id: "HOT01_explicit_section"
+        original: "Reporting channel: JAPRI@kalbecorp.com"
+        translated_ru: "Кодекс закрепляет формальный канал для сообщений о нарушениях."
+        section_title: "Reporting Mechanism"
+        relevance_comment: "Прямой канал сообщений."
+      - excerpt_id: "HOT05_explicit_section"
+        original: "The Company will follow up on reported issues in accordance with applicable procedures and regulations."
+        translated_ru: "Компания обязуется проводить follow-up по всем сообщениям в соответствии с процедурами."
+        section_title: "Reporting Mechanism"
+        relevance_comment: "Прямой стандарт рассмотрения обращений."
+      - excerpt_id: "HOT06_explicit_section"
+        original: "Protecting whistleblowers from any retaliatory actions."
+        translated_ru: "Компания прямо гарантирует защиту информаторов от реталиации."
+        section_title: "Whistleblower Protection"
+        relevance_comment: "Прямая защита информаторов."
+    other_principles: []
+  - topic_id: "company_to_supplier"
+    principles:
+      - principle_code: "CtoS01"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "CtoS01_explicit_section"
+      - principle_code: "CtoS02"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoS03"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoS04"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoS05"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoS06"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoS07"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "CtoS07_explicit_section"
+    key_excerpts:
+      - excerpt_id: "CtoS01_explicit_section"
+        original: "Kalbe establishes and maintains mutually beneficial business relationships with all business partners."
+        translated_ru: "Компания поддерживает взаимовыгодные отношения со всеми бизнес-партнерами."
+        section_title: "Business Partners"
+        relevance_comment: "Прямой принцип взаимодействия с партнерами/поставщиками."
+      - excerpt_id: "CtoS07_explicit_section"
+        original: "...shall not accept any form of gift that may influence decision-making."
+        translated_ru: "Кодекс прямо запрещает подарки, влияющие на деловые решения."
+        section_title: "Business Integrity"
+        relevance_comment: "Прямой антикоррупционный/антиконфликтный стандарт."
+    other_principles: []
+  - topic_id: "worker_to_company"
+    principles:
+      - principle_code: "WtoC01"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "WtoC02"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "WtoC03"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "WtoC03_explicit_section"
+      - principle_code: "WtoC04"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "WtoC05"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "WtoC05_explicit_section"
+      - principle_code: "WtoC06"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "WtoC07"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "WtoC07_explicit_section"
+      - principle_code: "WtoC08"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "WtoC09"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "WtoC10"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "WtoC10_explicit_section"
+    key_excerpts:
+      - excerpt_id: "WtoC03_explicit_section"
+        original: "Kalbe is committed to ... safeguarding the confidentiality and protecting confidential data..."
+        translated_ru: "Сотрудники обязаны соблюдать защиту конфиденциальной информации и данных компании."
+        section_title: "Data and Information Protection"
+        relevance_comment: "Прямой стандарт конфиденциальности."
+      - excerpt_id: "WtoC05_explicit_section"
+        original: "Kalbe is committed to comply with the laws and regulations applicable ..."
+        translated_ru: "Кодекс прямо требует соблюдения применимых законов и нормативов."
+        section_title: "Compliance with Laws and Regulations"
+        relevance_comment: "Прямой комплаенс-стандарт."
+      - excerpt_id: "WtoC07_explicit_section"
+        original: "Kalbe Personnel are not permitted to abuse their position to obtain personal or group benefits."
+        translated_ru: "Сотрудникам прямо запрещено злоупотреблять должностью для личной/групповой выгоды."
+        section_title: "Conflict of Interest"
+        relevance_comment: "Прямое требование по конфликту интересов."
+      - excerpt_id: "WtoC10_explicit_section"
+        original: "Report ... any violation or suspected violation ... including those involving oneself, colleagues ... or business partners."
+        translated_ru: "Сотрудник обязан немедленно сообщать о фактических/потенциальных нарушениях, включая нарушения бизнес-партнеров."
+        section_title: "Compliance and Reporting"
+        relevance_comment: "Прямое требование этической эскалации."
+    other_principles: []
+  - topic_id: "company_to_investors"
+    principles:
+      - principle_code: "CtoI01"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "CtoI01_explicit_section"
+      - principle_code: "CtoI02"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoI03"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "CtoI03_explicit_section"
+      - principle_code: "CtoI04"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoI05"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoI06"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoI07"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoI08"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+    key_excerpts:
+      - excerpt_id: "CtoI01_explicit_section"
+        original: "Kalbe consistently provides up-to-date information regarding its business activities and performance in a fair, objective, and timely manner."
+        translated_ru: "Компания обеспечивает справедливое, объективное и своевременное раскрытие информации о деятельности."
+        section_title: "Shareholders"
+        relevance_comment: "Прямой стандарт информационной открытости перед акционерами."
+      - excerpt_id: "CtoI03_explicit_section"
+        original: "Direct all communications with external parties to Corporate Secretary ... and parties authorized by the Board of Directors."
+        translated_ru: "Внешние коммуникации с инвестсообществом централизованы и регулируются уполномоченными лицами."
+        section_title: "Shareholders"
+        relevance_comment: "Прямой стандарт контролируемого раскрытия."
+    other_principles: []
+  - topic_id: "company_to_people"
+    principles:
+      - principle_code: "CtoP01"
+        principle_status: "brief_mention"
+        evidence_excerpt_ids:
+          - "CtoP01_brief_mention"
+      - principle_code: "CtoP02"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoP03"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoP04"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "CtoP04_explicit_section"
+      - principle_code: "CtoP05"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoP06"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoP07"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoP08"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoP09"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "CtoP09_explicit_section"
+      - principle_code: "CtoP10"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+    key_excerpts:
+      - excerpt_id: "CtoP01_brief_mention"
+        original: "Kalbe Sustainability in ESG Perspective"
+        translated_ru: "Кодекс кратко фиксирует ESG-подход компании к устойчивости."
+        section_title: "ESG Perspective"
+        relevance_comment: "Краткое ESG-подтверждение."
+      - excerpt_id: "CtoP04_explicit_section"
+        original: "...is committed to collaborate with Government, Academia, Business Sector, Community, and Media..."
+        translated_ru: "Компания прямо закрепляет партнерство с обществом и институтами для общественно значимых целей."
+        section_title: "Community Partnership"
+        relevance_comment: "Прямой общественный принцип."
+      - excerpt_id: "CtoP09_explicit_section"
+        original: "Kalbe is committed to implementing environmental pollution prevention and control..."
+        translated_ru: "Компания прямо закрепляет предотвращение загрязнения и экологическую устойчивость."
+        section_title: "Commitment to the Environment"
+        relevance_comment: "Прямой экологический стандарт."
+    other_principles: []
+  - topic_id: "company_to_buyer"
+    principles:
+      - principle_code: "CtoB01"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoB02"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "CtoB02_explicit_section"
+      - principle_code: "CtoB03"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoB04"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoB05"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoB06"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoB07"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoB08"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoB09"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "CtoB09_explicit_section"
+    key_excerpts:
+      - excerpt_id: "CtoB02_explicit_section"
+        original: "Kalbe provides accurate information regarding the benefits of its products and services so as not to mislead consumers."
+        translated_ru: "Компания обязуется предоставлять точную информацию о продуктах и услугах без введения потребителя в заблуждение."
+        section_title: "Products and Services"
+        relevance_comment: "Прямой стандарт информирования потребителей."
+      - excerpt_id: "CtoB09_explicit_section"
+        original: "Implement an effective ... quality control system ... to ensure the quality of products and services..."
+        translated_ru: "Кодекс требует эффективной системы контроля качества для обеспечения качества и безопасности продуктов/услуг."
+        section_title: "Products and Services"
+        relevance_comment: "Прямой стандарт безопасности и качества продукта."
+    other_principles: []
+  - topic_id: "worker_to_worker"
+    principles:
+      - principle_code: "WtoW01"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "WtoW01_explicit_section"
+      - principle_code: "WtoW02"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "WtoW03"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "WtoW04"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "WtoW05"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "WtoW06"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "WtoW07"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "WtoW08"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+    key_excerpts:
+      - excerpt_id: "WtoW01_explicit_section"
+        original: "Treat other Kalbe Personnel fairly and equally ... Establish productive cooperation..."
+        translated_ru: "Кодекс прямо закрепляет уважительное и равное отношение между сотрудниками и продуктивное сотрудничество."
+        section_title: "Commitment to Employees"
+        relevance_comment: "Прямой стандарт коллегиального взаимодействия."
+    other_principles: []
+  - topic_id: "manager_to_worker"
+    principles:
+      - principle_code: "MtoW01"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "MtoW02"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "MtoW03"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "MtoW04"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "MtoW05"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "MtoW06"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+    key_excerpts: []
+    other_principles: []
+  - topic_id: "company_to_worker"
+    principles:
+      - principle_code: "CtoW01"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoW02"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoW03"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "CtoW03_explicit_section"
+      - principle_code: "CtoW04"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoW05"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoW06"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "CtoW06_explicit_section"
+      - principle_code: "CtoW07"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoW08"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoW09"
+        principle_status: "brief_mention"
+        evidence_excerpt_ids:
+          - "CtoW09_brief_mention"
+      - principle_code: "CtoW10"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+    key_excerpts:
+      - excerpt_id: "CtoW03_explicit_section"
+        original: "...fully implement Occupational Safety and Health, Security, and Environmental Protection..."
+        translated_ru: "Компания и персонал обязаны полностью соблюдать требования охраны труда, безопасности и экологической защиты."
+        section_title: "Commitment to Employees"
+        relevance_comment: "Прямой стандарт условий труда."
+      - excerpt_id: "CtoW06_explicit_section"
+        original: "...shall not engage in ... discrimination and intimidation based on Ethnicity, Religion, Race..."
+        translated_ru: "Кодекс прямо запрещает дискриминацию и запугивание по личностным/социальным признакам."
+        section_title: "Commitment to Employees"
+        relevance_comment: "Прямой антидискриминационный стандарт."
+      - excerpt_id: "CtoW09_brief_mention"
+        original: "Participate in appropriate training, refresher programs..."
+        translated_ru: "Кодекс кратко закрепляет обязательность обучения и регулярного обновления знаний сотрудников."
+        section_title: "Standards of Conduct"
+        relevance_comment: "Краткое подтверждение развития персонала."
+    other_principles: []
+  - topic_id: "worker_to_manager"
+    principles:
+      - principle_code: "WtoM01"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "WtoM02"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "WtoM03"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "WtoM04"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "WtoM05"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "WtoM06"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+    key_excerpts: []
+    other_principles: []
+notes: []
+limitations:
+  - "Текст сформирован в формате блоков-презентации; часть процедур дана кратко."
+analyst_summary_ru: "Кодекс Kalbe детально покрывает комплаенс, конкуренцию, конфликт интересов, защиту данных, каналы whistleblowing, защиту от реталиации и ключевые HR/ESG обязательства."
