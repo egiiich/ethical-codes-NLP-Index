@@ -8,7 +8,7 @@
 
 ## Что внутри
 
-- `Japan_Ethics_Codes_txt_files/` — исходные тексты кодексов.
+- `Ethics_Codes_txt_files/` — исходные тексты кодексов.
 - `registry/codes_index.csv` — инвентаризация документов.
 - `registry/principle_presence_matrix_wide.csv` — широкая матрица `кодекс × принцип`.
 - `registry/principle_presence_matrix_long.csv` — длинная матрица `кодекс × принцип` (одна строка на принцип в кодексе с полями доказательства и метаданными анализа).
