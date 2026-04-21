@@ -1,0 +1,455 @@
+document_id: "telecom-korea-naver-2024"
+company_name: "NAVER"
+country: "Korea"
+industry: "Telecom"
+source_path: "Ethics_Codes_txt_files/Telecom_Korea_NAVER_2024.txt"
+source_language: "en"
+document_type: "integrity_code"
+review_status: "needs_human_review"
+topic_analyses:
+  - topic_id: "competitor_relations"
+    principles:
+      - principle_code: "COMP01"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "COMP02"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "COMP03"
+        principle_status: "brief_mention"
+        evidence_excerpt_ids:
+          - "COMP03_brief_mention"
+      - principle_code: "COMP04"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "COMP05"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "COMP06"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "COMP07"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "COMP08"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "COMP09"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "COMP10"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+    key_excerpts:
+      - excerpt_id: "COMP03_brief_mention"
+        original: "Code of Conduct: Partnership"
+        translated_ru: "Блок Partnership задает правила добросовестного поведения в рыночных и партнерских отношениях."
+        section_title: "Integrity code"
+        relevance_comment: "Краткое подтверждение COMP03."
+    other_principles: []
+  - topic_id: "hotline_principles"
+    principles:
+      - principle_code: "HOT01"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "HOT02"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "HOT03"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "HOT04"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "HOT05"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "HOT06"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "HOT07"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "HOT08"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "HOT09"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "HOT10"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+    key_excerpts:
+    other_principles: []
+  - topic_id: "company_to_supplier"
+    principles:
+      - principle_code: "CtoS01"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "CtoS01_explicit_section"
+      - principle_code: "CtoS02"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoS03"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "CtoS03_explicit_section"
+      - principle_code: "CtoS04"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoS05"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoS06"
+        principle_status: "brief_mention"
+        evidence_excerpt_ids:
+          - "CtoS06_brief_mention"
+      - principle_code: "CtoS07"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+    key_excerpts:
+      - excerpt_id: "CtoS01_explicit_section"
+        original: "Partner companies must be selected fairly in accordance with the purchase process."
+        translated_ru: "Компания прямо требует справедливого и процедурного отбора партнеров/поставщиков."
+        section_title: "Partnership"
+        relevance_comment: "Прямое подтверждение CtoS01."
+      - excerpt_id: "CtoS03_explicit_section"
+        original: "Do not demand unreasonable terms of business to partner companies."
+        translated_ru: "Компания прямо запрещает навязывать партнерам необоснованные условия."
+        section_title: "Partnership"
+        relevance_comment: "Прямое подтверждение CtoS03."
+      - excerpt_id: "CtoS06_brief_mention"
+        original: "Code of Conduct: Partnership"
+        translated_ru: "Кодекс закрепляет партнерскую модель взаимодействия с контрагентами."
+        section_title: "Integrity code"
+        relevance_comment: "Краткое подтверждение CtoS06."
+    other_principles: []
+  - topic_id: "worker_to_company"
+    principles:
+      - principle_code: "WtoC01"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "WtoC02"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "WtoC02_explicit_section"
+      - principle_code: "WtoC03"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "WtoC03_explicit_section"
+      - principle_code: "WtoC04"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "WtoC05"
+        principle_status: "brief_mention"
+        evidence_excerpt_ids:
+          - "WtoC05_brief_mention"
+      - principle_code: "WtoC06"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "WtoC07"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "WtoC08"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "WtoC09"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "WtoC10"
+        principle_status: "brief_mention"
+        evidence_excerpt_ids:
+          - "WtoC10_brief_mention"
+    key_excerpts:
+      - excerpt_id: "WtoC02_explicit_section"
+        original: "The expenses and assets of the Company shall not be used in violation of the regulations"
+        translated_ru: "Сотрудники обязаны использовать расходы и активы компании только по регламенту."
+        section_title: "Use of Business Assets"
+        relevance_comment: "Прямое подтверждение WtoC02."
+      - excerpt_id: "WtoC03_explicit_section"
+        original: "Do not leak company’s information without permission."
+        translated_ru: "Кодекс прямо запрещает утечку корпоративной информации без разрешения."
+        section_title: "Information Protection"
+        relevance_comment: "Прямое подтверждение WtoC03."
+      - excerpt_id: "WtoC05_brief_mention"
+        original: "Code of Conduct: Work Transparency"
+        translated_ru: "Сотрудники обязаны действовать прозрачно и в рамках внутренних норм."
+        section_title: "Work Transparency"
+        relevance_comment: "Краткое подтверждение WtoC05."
+      - excerpt_id: "WtoC10_brief_mention"
+        original: "External Communication ... holding yourself responsible for our shareholders"
+        translated_ru: "Кодекс связывает внешние коммуникации сотрудников с ответственностью за репутацию компании."
+        section_title: "External Communication"
+        relevance_comment: "Краткое подтверждение WtoC10."
+    other_principles: []
+  - topic_id: "company_to_investors"
+    principles:
+      - principle_code: "CtoI01"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoI02"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoI03"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "CtoI03_explicit_section"
+      - principle_code: "CtoI04"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoI05"
+        principle_status: "brief_mention"
+        evidence_excerpt_ids:
+          - "CtoI05_brief_mention"
+      - principle_code: "CtoI06"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoI07"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoI08"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+    key_excerpts:
+      - excerpt_id: "CtoI03_explicit_section"
+        original: "All accounting information and documents should be written accurately and completely"
+        translated_ru: "Компания прямо требует точной и полной финансовой документации."
+        section_title: "Work Transparency"
+        relevance_comment: "Прямое подтверждение CtoI03."
+      - excerpt_id: "CtoI05_brief_mention"
+        original: "Do not deliver information the company has not disclosed ... advice on the trade timing of shares"
+        translated_ru: "Кодекс запрещает передачу нераскрытой информации и советы по торговле ценными бумагами."
+        section_title: "Insider information clause"
+        relevance_comment: "Краткое подтверждение CtoI05."
+    other_principles: []
+  - topic_id: "company_to_people"
+    principles:
+      - principle_code: "CtoP01"
+        principle_status: "brief_mention"
+        evidence_excerpt_ids:
+          - "CtoP01_brief_mention"
+      - principle_code: "CtoP02"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoP03"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoP04"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoP05"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoP06"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoP07"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoP08"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoP09"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoP10"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+    key_excerpts:
+      - excerpt_id: "CtoP01_brief_mention"
+        original: "holding yourself responsible for our shareholders"
+        translated_ru: "Кодекс связывает прозрачность с общественной и ESG-ответственностью компании."
+        section_title: "Work Transparency"
+        relevance_comment: "Краткое подтверждение CtoP01."
+    other_principles: []
+  - topic_id: "company_to_buyer"
+    principles:
+      - principle_code: "CtoB01"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoB02"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoB03"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoB04"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoB05"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoB06"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoB07"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoB08"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "CtoB08_explicit_section"
+      - principle_code: "CtoB09"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+    key_excerpts:
+      - excerpt_id: "CtoB08_explicit_section"
+        original: "Customers’ personal information and data are protected safely."
+        translated_ru: "Компания прямо закрепляет защиту персональных данных клиентов."
+        section_title: "Information Protection"
+        relevance_comment: "Прямое подтверждение CtoB08."
+    other_principles: []
+  - topic_id: "worker_to_worker"
+    principles:
+      - principle_code: "WtoW01"
+        principle_status: "brief_mention"
+        evidence_excerpt_ids:
+          - "WtoW01_brief_mention"
+      - principle_code: "WtoW02"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "WtoW03"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "WtoW04"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "WtoW05"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "WtoW06"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "WtoW07"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "WtoW08"
+        principle_status: "brief_mention"
+        evidence_excerpt_ids:
+          - "WtoW08_brief_mention"
+    key_excerpts:
+      - excerpt_id: "WtoW01_brief_mention"
+        original: "Acknowledge diversity, and create a culture of fairness."
+        translated_ru: "Кодекс закрепляет уважительное и справедливое взаимодействие между коллегами."
+        section_title: "Healthy Organizational Culture"
+        relevance_comment: "Краткое подтверждение WtoW01."
+      - excerpt_id: "WtoW08_brief_mention"
+        original: "Do not abuse superior positions and the power of authority."
+        translated_ru: "Кодекс требует пресекать злоупотребления властью и нарушения этики в коллективе."
+        section_title: "Healthy Organizational Culture"
+        relevance_comment: "Краткое подтверждение WtoW08."
+    other_principles: []
+  - topic_id: "manager_to_worker"
+    principles:
+      - principle_code: "MtoW01"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "MtoW01_explicit_section"
+      - principle_code: "MtoW02"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "MtoW03"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "MtoW03_explicit_section"
+      - principle_code: "MtoW04"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "MtoW05"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "MtoW06"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+    key_excerpts:
+      - excerpt_id: "MtoW01_explicit_section"
+        original: "Employment opportunities are provided, based on occupational capabilities"
+        translated_ru: "Руководители обязаны обеспечивать справедливые кадровые решения по профессиональным критериям."
+        section_title: "Healthy Organizational Culture"
+        relevance_comment: "Прямое подтверждение MtoW01."
+      - excerpt_id: "MtoW03_explicit_section"
+        original: "It is prohibited to cause other workers physical and mental distress"
+        translated_ru: "Прямой запрет на унижение и психологическое давление со стороны руководителей."
+        section_title: "Healthy Organizational Culture"
+        relevance_comment: "Прямое подтверждение MtoW03."
+    other_principles: []
+  - topic_id: "company_to_worker"
+    principles:
+      - principle_code: "CtoW01"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoW02"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoW03"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "CtoW03_explicit_section"
+      - principle_code: "CtoW04"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoW05"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoW06"
+        principle_status: "brief_mention"
+        evidence_excerpt_ids:
+          - "CtoW06_brief_mention"
+      - principle_code: "CtoW07"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoW08"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoW09"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoW10"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+    key_excerpts:
+      - excerpt_id: "CtoW03_explicit_section"
+        original: "Create a stable and healthy working environment."
+        translated_ru: "Компания прямо обязуется поддерживать стабильную и здоровую рабочую среду."
+        section_title: "Healthy Organizational Culture"
+        relevance_comment: "Прямое подтверждение CtoW03."
+      - excerpt_id: "CtoW06_brief_mention"
+        original: "Acknowledge diversity, and create a culture of fairness."
+        translated_ru: "Компания декларирует принципы равенства и недискриминации."
+        section_title: "Healthy Organizational Culture"
+        relevance_comment: "Краткое подтверждение CtoW06."
+    other_principles: []
+  - topic_id: "worker_to_manager"
+    principles:
+      - principle_code: "WtoM01"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "WtoM02"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "WtoM03"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "WtoM04"
+        principle_status: "brief_mention"
+        evidence_excerpt_ids:
+          - "WtoM04_brief_mention"
+      - principle_code: "WtoM05"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "WtoM06"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+    key_excerpts:
+      - excerpt_id: "WtoM04_brief_mention"
+        original: "Please make sure to discuss with your organization's head"
+        translated_ru: "Сотрудник должен обсуждать внешние активности и спорные вопросы с руководителем."
+        section_title: "External Communication"
+        relevance_comment: "Краткое подтверждение WtoM04."
+    other_principles: []
+notes:
+  - "Date of analysis: 19.04.2026"
+  - "Analysis model: GPT 5.3-Codex"
+limitations:
+  - "OCR-текст частично поврежден спецсимволами, но основные блоки integrity code читаемы не полностью."
+analyst_summary_ru: "Проведен последовательный анализ по всем темам; из-за OCR-ограничений выставлен needs_human_review."

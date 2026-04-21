@@ -178,33 +178,33 @@ retail-russia-magnit-2019,Magnit,Russia,Retail,Ethics_Codes_txt_files/Retail_Rus
 retail-russia-x5-2015,X5,Russia,Retail,Ethics_Codes_txt_files/Retail_Russia_X5_2015.txt,ru,txt,functional_equivalent_needs_review,completed
 retali-russia-fixprice-2022,FixPrice,Russia,Retali,Ethics_Codes_txt_files/Retali_Russia_FixPrice_2022.txt,ru,txt,code_of_conduct,needs_human_review
 sogo-sosha-japan-itochu-2022,ITOCHU,Japan,Sogo Sosha,Ethics_Codes_txt_files/Sogo Sosha_Japan_ITOCHU_2022.txt,en,txt,code_of_conduct,completed
-sogo-sosha-japan-marubeni-corporation-2025,Marubeni Corporation,Japan,Sogo Sosha,Ethics_Codes_txt_files/Sogo Sosha_Japan_Marubeni Corporation_2025.txt,en,txt,functional_equivalent_needs_review,not_started
+sogo-sosha-japan-marubeni-corporation-2025,Marubeni Corporation,Japan,Sogo Sosha,Ethics_Codes_txt_files/Sogo Sosha_Japan_Marubeni Corporation_2025.txt,en,txt,functional_equivalent_needs_review,completed
 sogo-sosha-japan-mitsubishi-corporation-2019,Mitsubishi Corporation,Japan,Sogo Sosha,Ethics_Codes_txt_files/Sogo Sosha_Japan_Mitsubishi Corporation_2019.txt,en,txt,code_of_conduct,completed
-sogo-sosha-japan-mitsui-co-2024,Mitsui & Co.,Japan,Sogo Sosha,Ethics_Codes_txt_files/Sogo Sosha_Japan_Mitsui & Co._2024.txt,en,txt,code_of_conduct,not_started
-sogo-sosha-japan-sumitomo-corporation-2024,Sumitomo Corporation,Japan,Sogo Sosha,Ethics_Codes_txt_files/Sogo Sosha_Japan_Sumitomo Corporation_2024.txt,en,txt,functional_equivalent_needs_review,not_started
-tech-japan-hitachi-ltd-2023,"Hitachi, Ltd.",Japan,Tech,"Ethics_Codes_txt_files/Tech_Japan_Hitachi, Ltd._2023.txt",en,txt,code_of_conduct,not_started
+sogo-sosha-japan-mitsui-co-2024,Mitsui & Co.,Japan,Sogo Sosha,Ethics_Codes_txt_files/Sogo Sosha_Japan_Mitsui & Co._2024.txt,en,txt,code_of_conduct,needs_human_review
+sogo-sosha-japan-sumitomo-corporation-2024,Sumitomo Corporation,Japan,Sogo Sosha,Ethics_Codes_txt_files/Sogo Sosha_Japan_Sumitomo Corporation_2024.txt,en,txt,functional_equivalent_needs_review,needs_human_review
+tech-japan-hitachi-ltd-2023,"Hitachi, Ltd.",Japan,Tech,"Ethics_Codes_txt_files/Tech_Japan_Hitachi, Ltd._2023.txt",en,txt,code_of_conduct,completed
 tech-japan-nec-corporation-2019,NEC Corporation,Japan,Tech,Ethics_Codes_txt_files/Tech_Japan_NEC Corporation_2019.txt,en,txt,code_of_conduct,completed
-tech-japan-panasonic-2025,Panasonic,Japan,Tech,Ethics_Codes_txt_files/Tech_Japan_Panasonic_2025.txt,en,txt,code_of_ethics,not_started
-tech-japan-sony-group-2025,Sony Group,Japan,Tech,Ethics_Codes_txt_files/Tech_Japan_Sony Group_2025.txt,en,txt,code_of_conduct,not_started
-tech-korea-db-hitek-2024,DB HiTek,Korea,Tech,Ethics_Codes_txt_files/Tech_Korea_DB HiTek_2024.txt,en,txt,code_of_conduct,not_started
-tech-korea-lg-display-2025,LG Display,Korea,Tech,Ethics_Codes_txt_files/Tech_Korea_LG Display_2025.txt,en,txt,code_of_conduct,not_started
-tech-korea-sk-siltron-2017,SK siltron,Korea,Tech,Ethics_Codes_txt_files/Tech_Korea_SK siltron_2017.txt,en,txt,code_of_ethics,not_started
-tech-korea-samsung-electro-mechanics-2017,Samsung Electro-Mechanics,Korea,Tech,Ethics_Codes_txt_files/Tech_Korea_Samsung Electro-Mechanics_2017.txt,en,txt,code_of_conduct,not_started
-tech-korea-samsung-electronics-2020,Samsung Electronics,Korea,Tech,Ethics_Codes_txt_files/Tech_Korea_Samsung Electronics_2020.txt,en,txt,code_of_conduct,not_started
-telecom-china-china-telecom-2024,China Telecom,China,Telecom,Ethics_Codes_txt_files/Telecom_China_China Telecom_2024.txt,en,txt,code_of_conduct,not_started
-telecom-china-china-unicom-2023,China Unicom,China,Telecom,Ethics_Codes_txt_files/Telecom_China_China Unicom_2023.txt,en,txt,code_of_conduct,not_started
+tech-japan-panasonic-2025,Panasonic,Japan,Tech,Ethics_Codes_txt_files/Tech_Japan_Panasonic_2025.txt,en,txt,code_of_ethics,needs_human_review
+tech-japan-sony-group-2025,Sony Group,Japan,Tech,Ethics_Codes_txt_files/Tech_Japan_Sony Group_2025.txt,en,txt,code_of_conduct,needs_human_review
+tech-korea-db-hitek-2024,DB HiTek,Korea,Tech,Ethics_Codes_txt_files/Tech_Korea_DB HiTek_2024.txt,en,txt,code_of_conduct,needs_human_review
+tech-korea-lg-display-2025,LG Display,Korea,Tech,Ethics_Codes_txt_files/Tech_Korea_LG Display_2025.txt,en,txt,code_of_conduct,needs_human_review
+tech-korea-sk-siltron-2017,SK siltron,Korea,Tech,Ethics_Codes_txt_files/Tech_Korea_SK siltron_2017.txt,en,txt,code_of_ethics,needs_human_review
+tech-korea-samsung-electro-mechanics-2017,Samsung Electro-Mechanics,Korea,Tech,Ethics_Codes_txt_files/Tech_Korea_Samsung Electro-Mechanics_2017.txt,en,txt,code_of_conduct,needs_human_review
+tech-korea-samsung-electronics-2020,Samsung Electronics,Korea,Tech,Ethics_Codes_txt_files/Tech_Korea_Samsung Electronics_2020.txt,en,txt,code_of_conduct,needs_human_review
+telecom-china-china-telecom-2024,China Telecom,China,Telecom,Ethics_Codes_txt_files/Telecom_China_China Telecom_2024.txt,en,txt,code_of_conduct,needs_human_review
+telecom-china-china-unicom-2023,China Unicom,China,Telecom,Ethics_Codes_txt_files/Telecom_China_China Unicom_2023.txt,en,txt,code_of_conduct,needs_human_review
 telecom-china-huawei-2025,Huawei,China,Telecom,Ethics_Codes_txt_files/Telecom_China_Huawei_2025.txt,en,txt,code_of_conduct,not_started
 telecom-china-zte-2025,ZTE,China,Telecom,Ethics_Codes_txt_files/Telecom_China_ZTE_2025.txt,en,txt,code_of_conduct,not_started
-telecom-china-ztt-2020,ZTT,China,Telecom,Ethics_Codes_txt_files/Telecom_China_ZTT_2020.txt,en,txt,code_of_conduct,not_started
+telecom-china-ztt-2020,ZTT,China,Telecom,Ethics_Codes_txt_files/Telecom_China_ZTT_2020.txt,en,txt,code_of_conduct,needs_human_review
 telecom-japan-internet-initiative-japan-2025,Internet Initiative Japan,Japan,Telecom,Ethics_Codes_txt_files/Telecom_Japan_Internet Initiative Japan_2025.txt,en,txt,code_of_conduct,completed
 telecom-japan-kddi-2023,KDDI,Japan,Telecom,Ethics_Codes_txt_files/Telecom_Japan_KDDI_2023.txt,en,txt,code_of_conduct,completed
 telecom-japan-ly-corporation-2025,LY Corporation,Japan,Telecom,Ethics_Codes_txt_files/Telecom_Japan_LY Corporation_2025.txt,en,txt,code_of_conduct,needs_human_review
 telecom-japan-ntt-docomo-2024,NTT DOCOMO,Japan,Telecom,Ethics_Codes_txt_files/Telecom_Japan_NTT DOCOMO_2024.txt,en,txt,code_of_ethics,completed
-telecom-korea-kt-corp-2019,KT Corp,Korea,Telecom,Ethics_Codes_txt_files/Telecom_Korea_KT Corp_2019.txt,en,txt,functional_equivalent_needs_review,not_started
-telecom-korea-kakao-2012,Kakao,Korea,Telecom,Ethics_Codes_txt_files/Telecom_Korea_Kakao_2012.txt,en,txt,code_of_conduct,not_started
-telecom-korea-naver-2024,NAVER,Korea,Telecom,Ethics_Codes_txt_files/Telecom_Korea_NAVER_2024.txt,en,txt,functional_equivalent_needs_review,not_started
+telecom-korea-kt-corp-2019,KT Corp,Korea,Telecom,Ethics_Codes_txt_files/Telecom_Korea_KT Corp_2019.txt,en,txt,functional_equivalent_needs_review,needs_human_review
+telecom-korea-kakao-2012,Kakao,Korea,Telecom,Ethics_Codes_txt_files/Telecom_Korea_Kakao_2012.txt,en,txt,code_of_conduct,needs_human_review
+telecom-korea-naver-2024,NAVER,Korea,Telecom,Ethics_Codes_txt_files/Telecom_Korea_NAVER_2024.txt,en,txt,functional_equivalent_needs_review,needs_human_review
 telecom-korea-sk-telecom-2023,SK Telecom,Korea,Telecom,Ethics_Codes_txt_files/Telecom_Korea_SK Telecom_2023.txt,en,txt,code_of_ethics,completed
-telecom-korea-samsung-sds-2021,Samsung SDS,Korea,Telecom,Ethics_Codes_txt_files/Telecom_Korea_Samsung SDS_2021.txt,en,txt,code_of_conduct,not_started
+telecom-korea-samsung-sds-2021,Samsung SDS,Korea,Telecom,Ethics_Codes_txt_files/Telecom_Korea_Samsung SDS_2021.txt,en,txt,code_of_conduct,needs_human_review
 telecom-russia-mts-2022,MTS,Russia,Telecom,Ethics_Codes_txt_files/Telecom_Russia_MTS_2022.txt,ru,txt,functional_equivalent_needs_review,not_started
 telecom-russia-megafon-2018,Megafon,Russia,Telecom,Ethics_Codes_txt_files/Telecom_Russia_Megafon_2018.txt,ru,txt,functional_equivalent_needs_review,completed
 telecom-russia-rtk-2019,RTK,Russia,Telecom,Ethics_Codes_txt_files/Telecom_Russia_RTK_2019.txt,ru,txt,functional_equivalent_needs_review,not_started

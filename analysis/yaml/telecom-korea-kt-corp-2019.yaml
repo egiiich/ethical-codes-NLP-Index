@@ -1,0 +1,437 @@
+document_id: "telecom-korea-kt-corp-2019"
+company_name: "KT Corp"
+country: "Korea"
+industry: "Telecom"
+source_path: "Ethics_Codes_txt_files/Telecom_Korea_KT Corp_2019.txt"
+source_language: "en"
+document_type: "ethics_guidelines"
+review_status: "needs_human_review"
+topic_analyses:
+  - topic_id: "competitor_relations"
+    principles:
+      - principle_code: "COMP01"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "COMP02"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "COMP03"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "COMP04"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "COMP05"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "COMP06"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "COMP07"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "COMP08"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "COMP09"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "COMP10"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+    key_excerpts:
+    other_principles: []
+  - topic_id: "hotline_principles"
+    principles:
+      - principle_code: "HOT01"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "HOT01_explicit_section"
+      - principle_code: "HOT02"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "HOT03"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "HOT03_explicit_section"
+      - principle_code: "HOT04"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "HOT04_explicit_section"
+      - principle_code: "HOT05"
+        principle_status: "brief_mention"
+        evidence_excerpt_ids:
+          - "HOT05_brief_mention"
+      - principle_code: "HOT06"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "HOT06_explicit_section"
+      - principle_code: "HOT07"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "HOT08"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "HOT09"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "HOT10"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+    key_excerpts:
+      - excerpt_id: "HOT01_explicit_section"
+        original: "Operation of the system of whistleblowing unethical acts, where all directors/employees and external stakeholders ..."
+        translated_ru: "Система whistleblowing доступна сотрудникам и внешним стейкхолдерам."
+        section_title: "Chapter 6"
+        relevance_comment: "Прямое подтверждение HOT01."
+      - excerpt_id: "HOT03_explicit_section"
+        original: "the whistleblower ... shall not be subject to any unfair treatment ... and his/her identity shall remain undisclosed"
+        translated_ru: "Кодекс прямо запрещает преследование заявителя и требует защиты его личности."
+        section_title: "Chapter 1/6"
+        relevance_comment: "Прямое подтверждение HOT03."
+      - excerpt_id: "HOT04_explicit_section"
+        original: "his/her identity shall remain undisclosed"
+        translated_ru: "Кодекс закрепляет конфиденциальность и неразглашение личности заявителя."
+        section_title: "Whistleblower protection"
+        relevance_comment: "Прямое подтверждение HOT04."
+      - excerpt_id: "HOT05_brief_mention"
+        original: "manager shall immediately communicate it to the Office of Ethical Management"
+        translated_ru: "Сообщения подлежат обязательной передаче и дальнейшему реагированию внутри системы."
+        section_title: "Reporting channel"
+        relevance_comment: "Краткое подтверждение HOT05."
+      - excerpt_id: "HOT06_explicit_section"
+        original: "To refuse to follow superiors’ unfair instruction and to report such a case ... to the Office of Ethical Management"
+        translated_ru: "Сотрудник обязан сообщать о неэтичных распоряжениях руководителя."
+        section_title: "Chapter 4"
+        relevance_comment: "Прямое подтверждение HOT06."
+    other_principles: []
+  - topic_id: "company_to_supplier"
+    principles:
+      - principle_code: "CtoS01"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoS02"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoS03"
+        principle_status: "brief_mention"
+        evidence_excerpt_ids:
+          - "CtoS03_brief_mention"
+      - principle_code: "CtoS04"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoS05"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoS06"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoS07"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+    key_excerpts:
+      - excerpt_id: "CtoS03_brief_mention"
+        original: "rewarding of special favors ... signing a double contract ... purchasing an item at a price higher"
+        translated_ru: "Кодекс запрещает злоупотребления и несправедливые условия в договорной работе с контрагентами."
+        section_title: "Chapter 5"
+        relevance_comment: "Краткое подтверждение CtoS03."
+    other_principles: []
+  - topic_id: "worker_to_company"
+    principles:
+      - principle_code: "WtoC01"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "WtoC02"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "WtoC02_explicit_section"
+      - principle_code: "WtoC03"
+        principle_status: "brief_mention"
+        evidence_excerpt_ids:
+          - "WtoC03_brief_mention"
+      - principle_code: "WtoC04"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "WtoC05"
+        principle_status: "brief_mention"
+        evidence_excerpt_ids:
+          - "WtoC05_brief_mention"
+      - principle_code: "WtoC06"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "WtoC07"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "WtoC08"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "WtoC09"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "WtoC10"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+    key_excerpts:
+      - excerpt_id: "WtoC02_explicit_section"
+        original: "To use Company property solely for a purpose related to Company business"
+        translated_ru: "Сотрудники обязаны использовать имущество компании только в служебных целях."
+        section_title: "Chapter 3"
+        relevance_comment: "Прямое подтверждение WtoC02."
+      - excerpt_id: "WtoC03_brief_mention"
+        original: "not to discuss any Company-related business ... with a third party"
+        translated_ru: "Кодекс ограничивает разглашение служебной информации третьим лицам."
+        section_title: "Chapter 3"
+        relevance_comment: "Краткое подтверждение WtoC03."
+      - excerpt_id: "WtoC05_brief_mention"
+        original: "All directors/employees shall make judgements and engage in acts based on ethical management principles"
+        translated_ru: "Сотрудники обязаны действовать в рамках этических и правовых норм компании."
+        section_title: "Chapter 1"
+        relevance_comment: "Краткое подтверждение WtoC05."
+    other_principles: []
+  - topic_id: "company_to_investors"
+    principles:
+      - principle_code: "CtoI01"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoI02"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoI03"
+        principle_status: "brief_mention"
+        evidence_excerpt_ids:
+          - "CtoI03_brief_mention"
+      - principle_code: "CtoI04"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoI05"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoI06"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoI07"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoI08"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+    key_excerpts:
+      - excerpt_id: "CtoI03_brief_mention"
+        original: "accounting processed in a way different from the way budget is actually ... [prohibited]"
+        translated_ru: "Кодекс запрещает искажение бюджетного/учетного отражения операций."
+        section_title: "Chapter 3"
+        relevance_comment: "Краткое подтверждение CtoI03."
+    other_principles: []
+  - topic_id: "company_to_people"
+    principles:
+      - principle_code: "CtoP01"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoP02"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoP03"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoP04"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoP05"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoP06"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoP07"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoP08"
+        principle_status: "brief_mention"
+        evidence_excerpt_ids:
+          - "CtoP08_brief_mention"
+      - principle_code: "CtoP09"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoP10"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+    key_excerpts:
+      - excerpt_id: "CtoP08_brief_mention"
+        original: "Safety & Health ... observe relevant laws and regulations, strive to prevent"
+        translated_ru: "Компания закрепляет обязательства по безопасности и предотвращению несчастных случаев."
+        section_title: "5-8 Safety & Health"
+        relevance_comment: "Краткое подтверждение CtoP08."
+    other_principles: []
+  - topic_id: "company_to_buyer"
+    principles:
+      - principle_code: "CtoB01"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoB02"
+        principle_status: "brief_mention"
+        evidence_excerpt_ids:
+          - "CtoB02_brief_mention"
+      - principle_code: "CtoB03"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoB04"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoB05"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoB06"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoB07"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoB08"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "CtoB08_explicit_section"
+      - principle_code: "CtoB09"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+    key_excerpts:
+      - excerpt_id: "CtoB02_brief_mention"
+        original: "Disclosure of Customer Information ... unauthorized acquisition, possession, use, or disclosure ... [prohibited]"
+        translated_ru: "Кодекс требует корректного обращения с данными клиента и исключает несанкционированное раскрытие."
+        section_title: "2-2"
+        relevance_comment: "Краткое подтверждение CtoB02."
+      - excerpt_id: "CtoB08_explicit_section"
+        original: "An act of unauthorized acquisition, possession, use, or disclosure of customer information"
+        translated_ru: "Прямой запрет несанкционированного доступа и раскрытия клиентской информации."
+        section_title: "2-2"
+        relevance_comment: "Прямое подтверждение CtoB08."
+    other_principles: []
+  - topic_id: "worker_to_worker"
+    principles:
+      - principle_code: "WtoW01"
+        principle_status: "brief_mention"
+        evidence_excerpt_ids:
+          - "WtoW01_brief_mention"
+      - principle_code: "WtoW02"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "WtoW03"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "WtoW04"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "WtoW05"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "WtoW06"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "WtoW07"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "WtoW08"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+    key_excerpts:
+      - excerpt_id: "WtoW01_brief_mention"
+        original: "Relations among Directors/Employees"
+        translated_ru: "Кодекс отдельно регулирует этичное взаимодействие между сотрудниками."
+        section_title: "Chapter 4"
+        relevance_comment: "Краткое подтверждение WtoW01."
+    other_principles: []
+  - topic_id: "manager_to_worker"
+    principles:
+      - principle_code: "MtoW01"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "MtoW02"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "MtoW03"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "MtoW04"
+        principle_status: "brief_mention"
+        evidence_excerpt_ids:
+          - "MtoW04_brief_mention"
+      - principle_code: "MtoW05"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "MtoW06"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+    key_excerpts:
+      - excerpt_id: "MtoW04_brief_mention"
+        original: "To refuse to follow superiors’ unfair instruction and to report such a case"
+        translated_ru: "Культура открытого диалога закрепляет право подчиненного возразить неэтичному указанию руководителя."
+        section_title: "Chapter 4"
+        relevance_comment: "Краткое подтверждение MtoW04."
+    other_principles: []
+  - topic_id: "company_to_worker"
+    principles:
+      - principle_code: "CtoW01"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoW02"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoW03"
+        principle_status: "brief_mention"
+        evidence_excerpt_ids:
+          - "CtoW03_brief_mention"
+      - principle_code: "CtoW04"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoW05"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoW06"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoW07"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoW08"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoW09"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoW10"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+    key_excerpts:
+      - excerpt_id: "CtoW03_brief_mention"
+        original: "Safety & Health"
+        translated_ru: "Компания закрепляет обязательства по охране труда и безопасности на рабочем месте."
+        section_title: "5-8"
+        relevance_comment: "Краткое подтверждение CtoW03."
+    other_principles: []
+  - topic_id: "worker_to_manager"
+    principles:
+      - principle_code: "WtoM01"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "WtoM02"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "WtoM03"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "WtoM04"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "WtoM05"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "WtoM06"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+    key_excerpts:
+    other_principles: []
+notes:
+  - "Date of analysis: 19.04.2026"
+  - "Analysis model: GPT 5.3-Codex"
+limitations:
+  - "Документ объемный, но OCR-слои смешаны с таблицами санкций и фрагментами; часть пунктов требует ручной валидации."
+analyst_summary_ru: "Проведен последовательный анализ по всем темам; из-за OCR-ограничений выставлен needs_human_review."

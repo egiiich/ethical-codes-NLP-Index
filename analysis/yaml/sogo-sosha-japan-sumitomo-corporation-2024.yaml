@@ -1,0 +1,455 @@
+document_id: "sogo-sosha-japan-sumitomo-corporation-2024"
+company_name: "Sumitomo Corporation"
+country: "Japan"
+industry: "Sogo Sosha"
+source_path: "Ethics_Codes_txt_files/Sogo Sosha_Japan_Sumitomo Corporation_2024.txt"
+source_language: "en"
+document_type: "compliance_policy"
+review_status: "needs_human_review"
+topic_analyses:
+  - topic_id: "competitor_relations"
+    principles:
+      - principle_code: "COMP01"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "COMP02"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "COMP03"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "COMP04"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "COMP05"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "COMP06"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "COMP07"
+        principle_status: "brief_mention"
+        evidence_excerpt_ids:
+          - "COMP07_brief_mention"
+      - principle_code: "COMP08"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "COMP09"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "COMP10"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+    key_excerpts:
+      - excerpt_id: "COMP07_brief_mention"
+        original: "we must also respect the IP rights of others."
+        translated_ru: "Кодекс требует уважать интеллектуальные права других компаний, включая конкурентов."
+        section_title: "Intellectual Property Rights"
+        relevance_comment: "Краткое подтверждение COMP07."
+    other_principles: []
+  - topic_id: "hotline_principles"
+    principles:
+      - principle_code: "HOT01"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "HOT01_explicit_section"
+      - principle_code: "HOT02"
+        principle_status: "brief_mention"
+        evidence_excerpt_ids:
+          - "HOT02_brief_mention"
+      - principle_code: "HOT03"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "HOT04"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "HOT05"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "HOT06"
+        principle_status: "brief_mention"
+        evidence_excerpt_ids:
+          - "HOT06_brief_mention"
+      - principle_code: "HOT07"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "HOT08"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "HOT09"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "HOT10"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+    key_excerpts:
+      - excerpt_id: "HOT01_explicit_section"
+        original: "Who can use SC Global Speak-Up? All Employees ..."
+        translated_ru: "Система SC Global Speak-Up доступна всем категориям работников группы."
+        section_title: "SC Global Speak-Up System"
+        relevance_comment: "Прямое подтверждение равного доступа."
+      - excerpt_id: "HOT02_brief_mention"
+        original: "Confidentiality ... SC Global Speak-Up"
+        translated_ru: "Кодекс фиксирует конфиденциальность как принцип работы speak-up системы."
+        section_title: "SC Global Speak-Up System"
+        relevance_comment: "Краткое подтверждение HOT02."
+      - excerpt_id: "HOT06_brief_mention"
+        original: "SC Global Speak-Up ... provide guidance to all people working in any of the Sumitomo Corporation Group."
+        translated_ru: "Сотрудники должны использовать speak-up механизм для сигнализации о нарушениях."
+        section_title: "About this Group Compliance Policy"
+        relevance_comment: "Краткое подтверждение обязанности сообщать."
+    other_principles: []
+  - topic_id: "company_to_supplier"
+    principles:
+      - principle_code: "CtoS01"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoS02"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoS03"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoS04"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoS05"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoS06"
+        principle_status: "brief_mention"
+        evidence_excerpt_ids:
+          - "CtoS06_brief_mention"
+      - principle_code: "CtoS07"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+    key_excerpts:
+      - excerpt_id: "CtoS06_brief_mention"
+        original: "creates new value, and contributes broadly to society"
+        translated_ru: "Компания ориентируется на устойчивые отношения и совместное создание ценности со стейкхолдерами."
+        section_title: "Corporate Vision"
+        relevance_comment: "Краткая ориентация на партнерство."
+    other_principles: []
+  - topic_id: "worker_to_company"
+    principles:
+      - principle_code: "WtoC01"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "WtoC02"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "WtoC03"
+        principle_status: "brief_mention"
+        evidence_excerpt_ids:
+          - "WtoC03_brief_mention"
+      - principle_code: "WtoC04"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "WtoC04_explicit_section"
+      - principle_code: "WtoC05"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "WtoC05_explicit_section"
+      - principle_code: "WtoC06"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "WtoC07"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "WtoC08"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "WtoC09"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "WtoC10"
+        principle_status: "brief_mention"
+        evidence_excerpt_ids:
+          - "WtoC10_brief_mention"
+    key_excerpts:
+      - excerpt_id: "WtoC03_brief_mention"
+        original: "Accuracy of Company Books and Records ... properly retain all related documents."
+        translated_ru: "Сотрудники обязаны корректно обращаться с корпоративной информацией и документами."
+        section_title: "Group Compliance Principles"
+        relevance_comment: "Краткое подтверждение информационной дисциплины."
+      - excerpt_id: "WtoC04_explicit_section"
+        original: "We must protect the intellectual property (\"IP\") rights of the Sumitomo Corporation Group"
+        translated_ru: "Кодекс прямо требует защищать ИС компании."
+        section_title: "Intellectual Property Rights"
+        relevance_comment: "Прямое покрытие WtoC04."
+      - excerpt_id: "WtoC05_explicit_section"
+        original: "We must comply with all applicable laws and regulations"
+        translated_ru: "Сотрудники обязаны соблюдать применимые законы и регуляторные требования."
+        section_title: "International Trade Regulations including Security Trade Control"
+        relevance_comment: "Прямое требование комплаенса."
+      - excerpt_id: "WtoC10_brief_mention"
+        original: "company’s first priority is compliance"
+        translated_ru: "Кодекс связывает поведение сотрудников с сохранением доверия и репутации компании."
+        section_title: "Management responsibilities"
+        relevance_comment: "Краткое подтверждение репутационного принципа."
+    other_principles: []
+  - topic_id: "company_to_investors"
+    principles:
+      - principle_code: "CtoI01"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoI02"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoI03"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "CtoI03_explicit_section"
+      - principle_code: "CtoI04"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoI05"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoI06"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoI07"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoI08"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+    key_excerpts:
+      - excerpt_id: "CtoI03_explicit_section"
+        original: "We must maintain true and accurate books and records in a timely manner"
+        translated_ru: "Компания обязуется к своевременной и точной отчетности."
+        section_title: "Accuracy of Company Books and Records; Tax Compliance"
+        relevance_comment: "Прямое подтверждение прозрачного учета/раскрытия."
+    other_principles: []
+  - topic_id: "company_to_people"
+    principles:
+      - principle_code: "CtoP01"
+        principle_status: "brief_mention"
+        evidence_excerpt_ids:
+          - "CtoP01_brief_mention"
+      - principle_code: "CtoP02"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoP03"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoP04"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoP05"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoP06"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoP07"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoP08"
+        principle_status: "brief_mention"
+        evidence_excerpt_ids:
+          - "CtoP08_brief_mention"
+      - principle_code: "CtoP09"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoP10"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+    key_excerpts:
+      - excerpt_id: "CtoP01_brief_mention"
+        original: "striving to achieve sustainable development"
+        translated_ru: "Кодекс закрепляет экологическую и ESG-направленность через устойчивое развитие."
+        section_title: "Environmental Protection"
+        relevance_comment: "Краткое подтверждение ESG."
+      - excerpt_id: "CtoP08_brief_mention"
+        original: "place great importance on protecting the global environment"
+        translated_ru: "Компания признает необходимость предотвращения экологического вреда для общества."
+        section_title: "Environmental Protection"
+        relevance_comment: "Краткое подтверждение CtoP08."
+    other_principles: []
+  - topic_id: "company_to_buyer"
+    principles:
+      - principle_code: "CtoB01"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoB02"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoB03"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoB04"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoB05"
+        principle_status: "brief_mention"
+        evidence_excerpt_ids:
+          - "CtoB05_brief_mention"
+      - principle_code: "CtoB06"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoB07"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoB08"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoB09"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+    key_excerpts:
+      - excerpt_id: "CtoB05_brief_mention"
+        original: "first priority is compliance"
+        translated_ru: "Отношения с рынком и клиентами должны строиться в рамках комплаенса и этики."
+        section_title: "Management responsibilities"
+        relevance_comment: "Краткое подтверждение CtoB05."
+    other_principles: []
+  - topic_id: "worker_to_worker"
+    principles:
+      - principle_code: "WtoW01"
+        principle_status: "brief_mention"
+        evidence_excerpt_ids:
+          - "WtoW01_brief_mention"
+      - principle_code: "WtoW02"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "WtoW03"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "WtoW04"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "WtoW05"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "WtoW06"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "WtoW07"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "WtoW08"
+        principle_status: "brief_mention"
+        evidence_excerpt_ids:
+          - "WtoW08_brief_mention"
+    key_excerpts:
+      - excerpt_id: "WtoW01_brief_mention"
+        original: "not tolerate any discrimination or harassment"
+        translated_ru: "Кодекс требует уважительного взаимодействия коллег и запрета травли/дискриминации."
+        section_title: "Respect for Human Rights and Prevention of Discrimination and Harassment"
+        relevance_comment: "Краткое подтверждение WtoW01."
+      - excerpt_id: "WtoW08_brief_mention"
+        original: "SC Global Speak-Up"
+        translated_ru: "Сотрудники должны использовать канал speak-up при выявлении нарушений коллег."
+        section_title: "SC Global Speak-Up System"
+        relevance_comment: "Краткое подтверждение WtoW08."
+    other_principles: []
+  - topic_id: "manager_to_worker"
+    principles:
+      - principle_code: "MtoW01"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "MtoW02"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "MtoW03"
+        principle_status: "brief_mention"
+        evidence_excerpt_ids:
+          - "MtoW03_brief_mention"
+      - principle_code: "MtoW04"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "MtoW05"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "MtoW06"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+    key_excerpts:
+      - excerpt_id: "MtoW03_brief_mention"
+        original: "not tolerate any discrimination or harassment"
+        translated_ru: "Руководители обязаны поддерживать уважение достоинства работников и недопускать унижения."
+        section_title: "Respect for Human Rights and Prevention of Discrimination and Harassment"
+        relevance_comment: "Краткое подтверждение MtoW03."
+    other_principles: []
+  - topic_id: "company_to_worker"
+    principles:
+      - principle_code: "CtoW01"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoW02"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoW03"
+        principle_status: "brief_mention"
+        evidence_excerpt_ids:
+          - "CtoW03_brief_mention"
+      - principle_code: "CtoW04"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoW05"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoW06"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "CtoW06_explicit_section"
+      - principle_code: "CtoW07"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoW08"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoW09"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoW10"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+    key_excerpts:
+      - excerpt_id: "CtoW03_brief_mention"
+        original: "03 Commitment to Health & Safety"
+        translated_ru: "Компания закрепляет обязательства по охране здоровья и безопасности труда."
+        section_title: "Part I contents"
+        relevance_comment: "Краткое подтверждение CtoW03."
+      - excerpt_id: "CtoW06_explicit_section"
+        original: "not tolerate any discrimination or harassment"
+        translated_ru: "Компания прямо запрещает дискриминацию и харассмент."
+        section_title: "Respect for Human Rights and Prevention of Discrimination and Harassment"
+        relevance_comment: "Прямое подтверждение CtoW06."
+    other_principles: []
+  - topic_id: "worker_to_manager"
+    principles:
+      - principle_code: "WtoM01"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "WtoM02"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "WtoM03"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "WtoM04"
+        principle_status: "brief_mention"
+        evidence_excerpt_ids:
+          - "WtoM04_brief_mention"
+      - principle_code: "WtoM05"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "WtoM06"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+    key_excerpts:
+      - excerpt_id: "WtoM04_brief_mention"
+        original: "provide guidance to all people working in any of the Sumitomo Corporation Group"
+        translated_ru: "Сотрудник должен открыто обращаться к руководству/каналам за разъяснениями и выражать проблемы."
+        section_title: "About this Group Compliance Policy"
+        relevance_comment: "Краткое подтверждение WtoM04."
+    other_principles: []
+notes:
+  - "Date of analysis: 19.04.2026"
+  - "Analysis model: GPT 5.3-Codex"
+limitations:
+  - "OCR-представление содержит фрагментированные разделы и краткие выжимки; часть классификаций требует ручной проверки."
+analyst_summary_ru: "Проведен последовательный анализ по всем темам; из-за ограничений OCR выставлен needs_human_review."

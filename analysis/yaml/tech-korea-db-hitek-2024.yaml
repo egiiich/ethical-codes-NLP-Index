@@ -1,0 +1,443 @@
+document_id: "tech-korea-db-hitek-2024"
+company_name: "DB HiTek"
+country: "Korea"
+industry: "Tech"
+source_path: "Ethics_Codes_txt_files/Tech_Korea_DB HiTek_2024.txt"
+source_language: "en"
+document_type: "code_of_conduct"
+review_status: "needs_human_review"
+topic_analyses:
+  - topic_id: "competitor_relations"
+    principles:
+      - principle_code: "COMP01"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "COMP02"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "COMP03"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "COMP04"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "COMP05"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "COMP06"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "COMP07"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "COMP08"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "COMP09"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "COMP10"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+    key_excerpts:
+    other_principles: []
+  - topic_id: "hotline_principles"
+    principles:
+      - principle_code: "HOT01"
+        principle_status: "brief_mention"
+        evidence_excerpt_ids:
+          - "HOT01_brief_mention"
+      - principle_code: "HOT02"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "HOT02_explicit_section"
+      - principle_code: "HOT03"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "HOT03_explicit_section"
+      - principle_code: "HOT04"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "HOT04_explicit_section"
+      - principle_code: "HOT05"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "HOT06"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "HOT07"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "HOT08"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "HOT09"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "HOT10"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+    key_excerpts:
+      - excerpt_id: "HOT01_brief_mention"
+        original: "DB HiTek operates a cyber audit room and other programs to help employees and stakeholders raise issues"
+        translated_ru: "Компания поддерживает каналы для сообщений о нарушениях сотрудников и стейкхолдеров."
+        section_title: "D. ETHICS"
+        relevance_comment: "Краткое подтверждение HOT01."
+      - excerpt_id: "HOT02_explicit_section"
+        original: "DB HiTek maintains the confidentiality and anonymity of its reporting programs"
+        translated_ru: "Кодекс прямо закрепляет конфиденциальность каналов сообщений."
+        section_title: "D. ETHICS"
+        relevance_comment: "Прямое подтверждение HOT02."
+      - excerpt_id: "HOT03_explicit_section"
+        original: "raise issues without fear of retaliation"
+        translated_ru: "Кодекс прямо запрещает преследование за сообщения о нарушениях."
+        section_title: "D. ETHICS"
+        relevance_comment: "Прямой запрет реталиации."
+      - excerpt_id: "HOT04_explicit_section"
+        original: "maintains the confidentiality and anonymity of its reporting programs"
+        translated_ru: "Кодекс прямо закрепляет анонимность заявителя."
+        section_title: "D. ETHICS"
+        relevance_comment: "Прямое подтверждение HOT04."
+    other_principles: []
+  - topic_id: "company_to_supplier"
+    principles:
+      - principle_code: "CtoS01"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoS02"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoS03"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoS04"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoS05"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoS06"
+        principle_status: "brief_mention"
+        evidence_excerpt_ids:
+          - "CtoS06_brief_mention"
+      - principle_code: "CtoS07"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+    key_excerpts:
+      - excerpt_id: "CtoS06_brief_mention"
+        original: "Supplier Responsibility ... communicates the requirements of this Code to suppliers while monitoring their compliance."
+        translated_ru: "Компания строит устойчивые отношения с поставщиками через единые комплаенс-требования и мониторинг."
+        section_title: "Supplier Responsibility"
+        relevance_comment: "Краткое подтверждение CtoS06."
+    other_principles: []
+  - topic_id: "worker_to_company"
+    principles:
+      - principle_code: "WtoC01"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "WtoC02"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "WtoC03"
+        principle_status: "brief_mention"
+        evidence_excerpt_ids:
+          - "WtoC03_brief_mention"
+      - principle_code: "WtoC04"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "WtoC05"
+        principle_status: "brief_mention"
+        evidence_excerpt_ids:
+          - "WtoC05_brief_mention"
+      - principle_code: "WtoC06"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "WtoC07"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "WtoC08"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "WtoC09"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "WtoC10"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+    key_excerpts:
+      - excerpt_id: "WtoC03_brief_mention"
+        original: "Any and all confidential information shall be appropriately managed ... prevent the divulging of such confidential information."
+        translated_ru: "Сотрудники обязаны предотвращать утечки конфиденциальной информации."
+        section_title: "Information security provisions"
+        relevance_comment: "Краткое подтверждение WtoC03."
+      - excerpt_id: "WtoC05_brief_mention"
+        original: "understand and adhere to the following ethical standards to maintain corporate sustainability and fulfill social responsibilities."
+        translated_ru: "Сотрудники обязаны следовать этическим и правовым стандартам компании."
+        section_title: "D. ETHICS"
+        relevance_comment: "Краткое подтверждение WtoC05."
+    other_principles: []
+  - topic_id: "company_to_investors"
+    principles:
+      - principle_code: "CtoI01"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoI02"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoI03"
+        principle_status: "brief_mention"
+        evidence_excerpt_ids:
+          - "CtoI03_brief_mention"
+      - principle_code: "CtoI04"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoI05"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoI06"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoI07"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoI08"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+    key_excerpts:
+      - excerpt_id: "CtoI03_brief_mention"
+        original: "structure, financial state, and performance to the interested parties in accordance with applicable regulations"
+        translated_ru: "Компания раскрывает информацию о структуре, финансовом состоянии и результатах по правилам."
+        section_title: "Disclosure clause"
+        relevance_comment: "Краткое подтверждение CtoI03."
+    other_principles: []
+  - topic_id: "company_to_people"
+    principles:
+      - principle_code: "CtoP01"
+        principle_status: "brief_mention"
+        evidence_excerpt_ids:
+          - "CtoP01_brief_mention"
+      - principle_code: "CtoP02"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoP03"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoP04"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoP05"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoP06"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoP07"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoP08"
+        principle_status: "brief_mention"
+        evidence_excerpt_ids:
+          - "CtoP08_brief_mention"
+      - principle_code: "CtoP09"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoP10"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+    key_excerpts:
+      - excerpt_id: "CtoP01_brief_mention"
+        original: "minimize the negative effect on the local community, environment, and natural resources"
+        translated_ru: "Компания фиксирует ESG-ориентацию и снижение негативного воздействия."
+        section_title: "Environment section"
+        relevance_comment: "Краткое подтверждение CtoP01."
+      - excerpt_id: "CtoP08_brief_mention"
+        original: "protecting the public health and safety"
+        translated_ru: "Компания обязуется защищать общественное здоровье и безопасность при операциях."
+        section_title: "Environment section"
+        relevance_comment: "Краткое подтверждение CtoP08."
+    other_principles: []
+  - topic_id: "company_to_buyer"
+    principles:
+      - principle_code: "CtoB01"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoB02"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoB03"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoB04"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoB05"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoB06"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoB07"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoB08"
+        principle_status: "brief_mention"
+        evidence_excerpt_ids:
+          - "CtoB08_brief_mention"
+      - principle_code: "CtoB09"
+        principle_status: "brief_mention"
+        evidence_excerpt_ids:
+          - "CtoB09_brief_mention"
+    key_excerpts:
+      - excerpt_id: "CtoB08_brief_mention"
+        original: "communicating clear and accurate information"
+        translated_ru: "Компания обязуется давать точную информацию, включая значимые данные для потребителей."
+        section_title: "Communications"
+        relevance_comment: "Краткое подтверждение CtoB08."
+      - excerpt_id: "CtoB09_brief_mention"
+        original: "Administration of Product Safety"
+        translated_ru: "Кодекс закрепляет управление безопасностью продукции."
+        section_title: "Product safety"
+        relevance_comment: "Краткое подтверждение CtoB09."
+    other_principles: []
+  - topic_id: "worker_to_worker"
+    principles:
+      - principle_code: "WtoW01"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "WtoW02"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "WtoW03"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "WtoW04"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "WtoW05"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "WtoW06"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "WtoW07"
+        principle_status: "brief_mention"
+        evidence_excerpt_ids:
+          - "WtoW07_brief_mention"
+      - principle_code: "WtoW08"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+    key_excerpts:
+      - excerpt_id: "WtoW07_brief_mention"
+        original: "Machine Safeguarding ... physical protection"
+        translated_ru: "Сотрудники обязаны соблюдать меры безопасности, защищающие коллег от травм."
+        section_title: "Machine Safeguarding"
+        relevance_comment: "Краткое подтверждение WtoW07."
+    other_principles: []
+  - topic_id: "manager_to_worker"
+    principles:
+      - principle_code: "MtoW01"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "MtoW02"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "MtoW03"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "MtoW04"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "MtoW05"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "MtoW06"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+    key_excerpts:
+    other_principles: []
+  - topic_id: "company_to_worker"
+    principles:
+      - principle_code: "CtoW01"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoW02"
+        principle_status: "brief_mention"
+        evidence_excerpt_ids:
+          - "CtoW02_brief_mention"
+      - principle_code: "CtoW03"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "CtoW03_explicit_section"
+      - principle_code: "CtoW04"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoW05"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoW06"
+        principle_status: "brief_mention"
+        evidence_excerpt_ids:
+          - "CtoW06_brief_mention"
+      - principle_code: "CtoW07"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoW08"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoW09"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoW10"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "CtoW10_explicit_section"
+    key_excerpts:
+      - excerpt_id: "CtoW02_brief_mention"
+        original: "timely and understandable wage statement ... verify accurate compensation"
+        translated_ru: "Компания обеспечивает прозрачную информацию по оплате труда."
+        section_title: "Labor section"
+        relevance_comment: "Краткое подтверждение CtoW02."
+      - excerpt_id: "CtoW03_explicit_section"
+        original: "Preparation for Emergencies ... preparing a proper emergency response"
+        translated_ru: "Компания прямо требует готовности к ЧС и безопасным условиям труда."
+        section_title: "Preparation for Emergencies"
+        relevance_comment: "Прямое подтверждение CtoW03."
+      - excerpt_id: "CtoW06_brief_mention"
+        original: "DB HiTek does not provide personal loans to employees to prevent bonded labor or forced labor"
+        translated_ru: "Кодекс предусматривает защиту работников от практик принудительного труда и дискриминации."
+        section_title: "Labor protections"
+        relevance_comment: "Краткое подтверждение CtoW06."
+      - excerpt_id: "CtoW10_explicit_section"
+        original: "form and join trade unions of their own choosing, to bargain collectively and to engage in peaceful assembly"
+        translated_ru: "Компания прямо признает свободу объединения и коллективные переговоры."
+        section_title: "Labor rights"
+        relevance_comment: "Прямое подтверждение CtoW10."
+    other_principles: []
+  - topic_id: "worker_to_manager"
+    principles:
+      - principle_code: "WtoM01"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "WtoM02"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "WtoM03"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "WtoM04"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "WtoM05"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "WtoM06"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+    key_excerpts:
+    other_principles: []
+notes:
+  - "Date of analysis: 19.04.2026"
+  - "Analysis model: GPT 5.3-Codex"
+limitations:
+  - "OCR-версия документа содержит обрывы строк и фрагменты разделов без полного контекста."
+analyst_summary_ru: "Проведен последовательный анализ по всем темам; из-за фрагментированного OCR выставлен needs_human_review."
