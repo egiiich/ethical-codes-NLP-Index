@@ -1,0 +1,509 @@
+document_id: "tech-japan-sony-group-2025"
+company_name: "Sony Group"
+country: "Japan"
+industry: "Tech"
+source_path: "Ethics_Codes_txt_files/Tech_Japan_Sony Group_2025.txt"
+source_language: "en"
+document_type: "code_of_conduct"
+review_status: "needs_human_review"
+topic_analyses:
+  - topic_id: "competitor_relations"
+    principles:
+      - principle_code: "COMP01"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "COMP02"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "COMP03"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "COMP03_explicit_section"
+      - principle_code: "COMP04"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "COMP05"
+        principle_status: "brief_mention"
+        evidence_excerpt_ids:
+          - "COMP05_brief_mention"
+      - principle_code: "COMP06"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "COMP07"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "COMP07_explicit_section"
+      - principle_code: "COMP08"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "COMP09"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "COMP10"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+    key_excerpts:
+      - excerpt_id: "COMP03_explicit_section"
+        original: "Sony competes vigorously, fairly, and complies with all applicable antitrust and competition laws."
+        translated_ru: "Sony прямо закрепляет честную конкуренцию и соблюдение антимонопольных требований."
+        section_title: "Strive to Create and Deliver Kando 4-4"
+        relevance_comment: "Прямой запрет антиконкурентных практик."
+      - excerpt_id: "COMP05_brief_mention"
+        original: "Market Honestly Compete Fairly"
+        translated_ru: "Кодекс кратко фиксирует честное поведение на рынке и уважительный формат конкуренции."
+        section_title: "Strive to Create and Deliver Kando"
+        relevance_comment: "Краткое ценностное подтверждение уважительной конкуренции."
+      - excerpt_id: "COMP07_explicit_section"
+        original: "Sony vigorously defends its intellectual property rights and respects the rights of others."
+        translated_ru: "Sony требует защищать свою ИС и уважать права ИС других сторон, включая конкурентов."
+        section_title: "Embrace Creativity and Technology 6-2"
+        relevance_comment: "Прямое покрытие уважения ИС конкурентов."
+    other_principles: []
+  - topic_id: "hotline_principles"
+    principles:
+      - principle_code: "HOT01"
+        principle_status: "implicit_scattered"
+        evidence_excerpt_ids:
+          - "HOT01_implicit_scattered"
+      - principle_code: "HOT02"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "HOT03"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "HOT03_explicit_section"
+      - principle_code: "HOT04"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "HOT05"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "HOT06"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "HOT06_explicit_section"
+      - principle_code: "HOT07"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "HOT08"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "HOT09"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "HOT10"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+    key_excerpts:
+      - excerpt_id: "HOT01_implicit_scattered"
+        original: "You will be treated fairly and respectfully if you make a report or participate in an investigation."
+        translated_ru: "Сообщающий сотрудник получает справедливое и уважительное отношение при рассмотрении обращения."
+        section_title: "Speak Up"
+        relevance_comment: "Имплицитное подтверждение равного доступа и справедливого рассмотрения."
+      - excerpt_id: "HOT03_explicit_section"
+        original: "Sony does not allow any form of retaliation against anyone for making a good faith report."
+        translated_ru: "Sony прямо запрещает любую реталиацию за добросовестное сообщение."
+        section_title: "Speak Up"
+        relevance_comment: "Прямой запрет преследования заявителей."
+      - excerpt_id: "HOT06_explicit_section"
+        original: "If we think that someone has engaged in misconduct, we have a duty to speak up."
+        translated_ru: "При подозрении на нарушение сотрудник обязан сообщить о нем."
+        section_title: "Speak Up"
+        relevance_comment: "Прямая обязанность сообщения о нарушениях."
+    other_principles: []
+  - topic_id: "company_to_supplier"
+    principles:
+      - principle_code: "CtoS01"
+        principle_status: "brief_mention"
+        evidence_excerpt_ids:
+          - "CtoS01_brief_mention"
+      - principle_code: "CtoS02"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoS03"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoS04"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoS05"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoS06"
+        principle_status: "brief_mention"
+        evidence_excerpt_ids:
+          - "CtoS06_brief_mention"
+      - principle_code: "CtoS07"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+    key_excerpts:
+      - excerpt_id: "CtoS01_brief_mention"
+        original: "Sony engages third parties who share our commitment to ethics and compliance."
+        translated_ru: "Sony отбирает контрагентов по критерию соответствия этике и комплаенсу."
+        section_title: "Collaborate with Business Partners 5-1"
+        relevance_comment: "Краткий критерий выбора поставщиков/партнеров."
+      - excerpt_id: "CtoS06_brief_mention"
+        original: "Sony works with third parties to help us achieve our business goals responsibly."
+        translated_ru: "Sony подчеркивает ответственное долгосрочное сотрудничество с бизнес-партнерами."
+        section_title: "Collaborate with Business Partners 5-1"
+        relevance_comment: "Краткая ориентация на устойчивое партнерство."
+    other_principles: []
+  - topic_id: "worker_to_company"
+    principles:
+      - principle_code: "WtoC01"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "WtoC02"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "WtoC02_explicit_section"
+      - principle_code: "WtoC03"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "WtoC03_explicit_section"
+      - principle_code: "WtoC04"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "WtoC04_explicit_section"
+      - principle_code: "WtoC05"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "WtoC05_explicit_section"
+      - principle_code: "WtoC06"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "WtoC07"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "WtoC08"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "WtoC09"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "WtoC10"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "WtoC10_explicit_section"
+    key_excerpts:
+      - excerpt_id: "WtoC02_explicit_section"
+        original: "Protect Sony’s Assets"
+        translated_ru: "Кодекс прямо требует защищать активы Sony."
+        section_title: "Safeguard Sony’s Integrity 7-3"
+        relevance_comment: "Прямой принцип сохранности активов компании."
+      - excerpt_id: "WtoC03_explicit_section"
+        original: "Safeguard Confidential Information"
+        translated_ru: "Кодекс прямо требует защищать конфиденциальную информацию."
+        section_title: "Embrace Creativity and Technology 6-3"
+        relevance_comment: "Прямой принцип конфиденциальности и ИБ."
+      - excerpt_id: "WtoC04_explicit_section"
+        original: "Create and Protect Intellectual Property"
+        translated_ru: "Сотрудники обязаны создавать и защищать интеллектуальную собственность компании."
+        section_title: "Embrace Creativity and Technology 6-2"
+        relevance_comment: "Прямой принцип защиты ИС компании."
+      - excerpt_id: "WtoC05_explicit_section"
+        original: "Follow Trade Control Laws Follow Tax Laws"
+        translated_ru: "Кодекс требует соблюдения применимых законов, включая экспортный и налоговый контроль."
+        section_title: "Safeguard Sony’s Integrity 7-7/7-8"
+        relevance_comment: "Прямое требование соблюдения законодательства."
+      - excerpt_id: "WtoC10_explicit_section"
+        original: "Earn Trust for the Sony Brand"
+        translated_ru: "Сотрудники обязаны укреплять доверие к бренду Sony и не вредить репутации компании."
+        section_title: "Earn Trust 1-1"
+        relevance_comment: "Прямой репутационный принцип."
+    other_principles: []
+  - topic_id: "company_to_investors"
+    principles:
+      - principle_code: "CtoI01"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoI02"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoI03"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "CtoI03_explicit_section"
+      - principle_code: "CtoI04"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoI05"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "CtoI05_explicit_section"
+      - principle_code: "CtoI06"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoI07"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoI08"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+    key_excerpts:
+      - excerpt_id: "CtoI03_explicit_section"
+        original: "Sony ensures that our public disclosures are fair, timely, accurate and understandable."
+        translated_ru: "Компания обязуется делать публичные раскрытия справедливыми, своевременными и точными."
+        section_title: "Make Appropriate Public Disclosures 7-6"
+        relevance_comment: "Прямое требование к прозрачному раскрытию."
+      - excerpt_id: "CtoI05_explicit_section"
+        original: "No Insider Trading"
+        translated_ru: "Кодекс прямо запрещает инсайдерскую торговлю."
+        section_title: "Safeguard Sony’s Integrity 7-5"
+        relevance_comment: "Прямой инвесторский комплаенс-принцип."
+    other_principles: []
+  - topic_id: "company_to_people"
+    principles:
+      - principle_code: "CtoP01"
+        principle_status: "brief_mention"
+        evidence_excerpt_ids:
+          - "CtoP01_brief_mention"
+      - principle_code: "CtoP02"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoP03"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoP04"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoP05"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoP06"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoP07"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoP08"
+        principle_status: "brief_mention"
+        evidence_excerpt_ids:
+          - "CtoP08_brief_mention"
+      - principle_code: "CtoP09"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoP10"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+    key_excerpts:
+      - excerpt_id: "CtoP01_brief_mention"
+        original: "Contribute to a Sustainable Society"
+        translated_ru: "Кодекс кратко фиксирует устойчивое развитие и общественную ответственность (ESG-направленность)."
+        section_title: "Contribute to the World 2-1"
+        relevance_comment: "Краткая ESG-ориентация."
+      - excerpt_id: "CtoP08_brief_mention"
+        original: "Sony recognizes the importance of preserving the natural environment and sustaining the earth for future generations."
+        translated_ru: "Sony признает приоритет предотвращения экологического ущерба для населения и будущих поколений."
+        section_title: "Live with Planet Earth 2-2"
+        relevance_comment: "Краткий общественный принцип по снижению рисков для людей."
+    other_principles: []
+  - topic_id: "company_to_buyer"
+    principles:
+      - principle_code: "CtoB01"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "CtoB01_explicit_section"
+      - principle_code: "CtoB02"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoB03"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoB04"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoB05"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "CtoB05_explicit_section"
+      - principle_code: "CtoB06"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoB07"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoB08"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "CtoB08_explicit_section"
+      - principle_code: "CtoB09"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+    key_excerpts:
+      - excerpt_id: "CtoB01_explicit_section"
+        original: "Sony delivers life-enhancing products, services and entertainment experiences to inspire and fulfill our customers."
+        translated_ru: "Компания прямо ориентирована на удовлетворение потребностей клиентов."
+        section_title: "Deliver Kando Experiences 4-2"
+        relevance_comment: "Прямой клиентоориентированный принцип."
+      - excerpt_id: "CtoB05_explicit_section"
+        original: "Market Honestly Compete Fairly"
+        translated_ru: "Кодекс закрепляет честный маркетинг и этичное поведение на рынке."
+        section_title: "Strive to Create and Deliver Kando"
+        relevance_comment: "Прямое требование этичного ведения бизнеса с клиентами."
+      - excerpt_id: "CtoB08_explicit_section"
+        original: "Sony respects the privacy of individuals and safeguards personal information."
+        translated_ru: "Sony обязуется защищать персональные данные и приватность клиентов."
+        section_title: "Respect Privacy 6-4"
+        relevance_comment: "Прямой принцип защиты данных клиентов."
+    other_principles: []
+  - topic_id: "worker_to_worker"
+    principles:
+      - principle_code: "WtoW01"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "WtoW01_explicit_section"
+      - principle_code: "WtoW02"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "WtoW03"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "WtoW04"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "WtoW05"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "WtoW06"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "WtoW07"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "WtoW08"
+        principle_status: "brief_mention"
+        evidence_excerpt_ids:
+          - "WtoW08_brief_mention"
+    key_excerpts:
+      - excerpt_id: "WtoW01_explicit_section"
+        original: "Sony is committed to a workplace culture based on diversity, respect and equity."
+        translated_ru: "Кодекс прямо закрепляет уважительную культуру взаимодействия между коллегами."
+        section_title: "Embrace Diversity of People and Foster Respect 3-2"
+        relevance_comment: "Прямой принцип уважительной коммуникации."
+      - excerpt_id: "WtoW08_brief_mention"
+        original: "If we think that someone has engaged in misconduct, we have a duty to speak up."
+        translated_ru: "Сотрудники должны указывать на нарушения этики со стороны коллег через механизм speak up."
+        section_title: "Speak Up 1-3"
+        relevance_comment: "Краткое подтверждение взаимного этического контроля."
+    other_principles: []
+  - topic_id: "manager_to_worker"
+    principles:
+      - principle_code: "MtoW01"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "MtoW02"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "MtoW03"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "MtoW03_explicit_section"
+      - principle_code: "MtoW04"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "MtoW04_explicit_section"
+      - principle_code: "MtoW05"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "MtoW06"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+    key_excerpts:
+      - excerpt_id: "MtoW03_explicit_section"
+        original: "all human beings should be treated with dignity and respect"
+        translated_ru: "Запрещаются унижения и неуважительное обращение с подчиненными."
+        section_title: "Respect Human Rights 3-1"
+        relevance_comment: "Прямой принцип уважения достоинства работников."
+      - excerpt_id: "MtoW04_explicit_section"
+        original: "Speaking up is important for us to build an ethical work environment."
+        translated_ru: "Руководители обязаны поддерживать открытую среду, где подчиненные могут высказываться без страха."
+        section_title: "Speak Up 1-3"
+        relevance_comment: "Прямое покрытие культуры открытого диалога."
+    other_principles: []
+  - topic_id: "company_to_worker"
+    principles:
+      - principle_code: "CtoW01"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoW02"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoW03"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "CtoW03_explicit_section"
+      - principle_code: "CtoW04"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoW05"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoW06"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "CtoW06_explicit_section"
+      - principle_code: "CtoW07"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoW08"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoW09"
+        principle_status: "brief_mention"
+        evidence_excerpt_ids:
+          - "CtoW09_brief_mention"
+      - principle_code: "CtoW10"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+    key_excerpts:
+      - excerpt_id: "CtoW03_explicit_section"
+        original: "Maintain a Healthy and Safe Workplace"
+        translated_ru: "Компания прямо обязуется поддерживать безопасные и здоровые условия труда."
+        section_title: "Empower and Respect People 3-4"
+        relevance_comment: "Прямой принцип безопасных условий труда."
+      - excerpt_id: "CtoW06_explicit_section"
+        original: "Sony is committed to a workplace culture based on diversity, respect and equity."
+        translated_ru: "Компания прямо закрепляет недискриминацию и равное отношение в трудовой среде."
+        section_title: "Embrace Diversity of People and Foster Respect 3-2"
+        relevance_comment: "Прямой принцип недискриминации."
+      - excerpt_id: "CtoW09_brief_mention"
+        original: "Speak Up"
+        translated_ru: "Кодекс формирует канал обратной связи от работников о проблемах и нарушениях."
+        section_title: "Earn Trust 1-3"
+        relevance_comment: "Краткое подтверждение обратной связи."
+    other_principles: []
+  - topic_id: "worker_to_manager"
+    principles:
+      - principle_code: "WtoM01"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "WtoM02"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "WtoM03"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "WtoM04"
+        principle_status: "brief_mention"
+        evidence_excerpt_ids:
+          - "WtoM04_brief_mention"
+      - principle_code: "WtoM05"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "WtoM06"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+    key_excerpts:
+      - excerpt_id: "WtoM04_brief_mention"
+        original: "Speaking up is important"
+        translated_ru: "Сотрудник должен выражать несогласие и замечания открыто и уважительно через speak up."
+        section_title: "Speak Up 1-3"
+        relevance_comment: "Краткое подтверждение конструктивного несогласия."
+    other_principles: []
+notes:
+  - "Date of analysis: 19.04.2026"
+  - "Analysis model: GPT 5.3-Codex"
+limitations:
+  - "OCR-текст местами фрагментирован; выводы по части формулировок требуют ручной верификации."
+analyst_summary_ru: "Проведен последовательный анализ по всем 11 темам; из-за ограничений OCR выставлен статус needs_human_review."

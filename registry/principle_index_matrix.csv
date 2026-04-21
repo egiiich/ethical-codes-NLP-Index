@@ -159,6 +159,7 @@ Korea,Pharma,Lunit Inc.,2025,pharma-korea-lunit-2025,3,13,8,14,3,5,15,10,9,7,4
 Korea,Pharma,"SK bioscience Co., Ltd.",2025,pharma-korea-sk-bioscience-2025,6,18,10,16,4,7,18,3,7,7,4
 Korea,Pharma,"Samsung Epis Holdings Co., Ltd.",2025,pharma-korea-samsung-epis-holdings-2025,6,13,4,13,6,4,10,3,7,7,4
 Russia,Pharma,BIOCAD,2022,pharma-russia-biocad-2022,0,11,2,15,0,9,11,7,3,9,1
+Russia,Pharma,Imeda,2020,pharma-russia-imeda-2020,1,0,0,1,0,2,9,0,0,0,0
 Russia,Pharma,Pfizer,2012,pharma-russia-pfizer-2012,4,15,1,13,6,2,7,5,2,6,2
 Russia,Pharma,ФАРМФОРВАРД,2014,pharma-russia-pharmforward-2014,10,16,11,19,0,3,7,5,10,8,2
 Indonesia,Real Estate,Ciputra Development,2018,real-estate-indonesia-ciputra-2018,0,15,9,14,2,3,10,10,7,10,2
@@ -168,21 +169,42 @@ China,Retail,Tencent Music Entertainment Group,2019,retail-china-tencent-music-e
 China,Retail,"Yum China Holdings, Inc.",2020,retail-china-yum-china-2020,0,10,8,3,0,2,3,1,0,6,1
 Indonesia,Retail,PT Multitrend Indo Tbk,2023,retail-indonesia-multitrend-indo-2023,1,13,6,8,0,4,9,6,3,6,1
 Korea,Retail,CJ CheilJedang,2022,retail-korea-cj-cheiljedang-2022,4,0,12,10,6,7,12,0,0,3,1
-Japan,Tech,NEC Corporation,2019,tech-japan-nec-corporation-2019,8,14,6,20,5,14,16,6,7,7,4
-Japan,Telecom,KDDI,2023,telecom-japan-kddi-2023,6,0,4,12,6,4,7,0,0,9,0
-Korea,Retail,SK Networks,2023,retail-korea-sk-networks-2023,3,0,9,2,7,6,10,5,0,1,0
-Japan,Sogo Sosha,ITOCHU,2022,sogo-sosha-japan-itochu-2022,6,16,1,13,6,9,12,4,0,7,2
-Japan,Telecom,LY Corporation,2025,telecom-japan-ly-corporation-2025,0,16,1,4,1,1,0,0,0,0,1
-Japan,Sogo Sosha,Mitsubishi Corporation,2019,sogo-sosha-japan-mitsubishi-corporation-2019,6,17,4,15,3,5,0,3,0,3,2
-Japan,Telecom,NTT DOCOMO,2024,telecom-japan-ntt-docomo-2024,4,9,3,8,7,13,18,3,0,11,1
-Korea,Telecom,SK Telecom,2023,telecom-korea-sk-telecom-2023,1,0,9,3,7,6,9,3,0,7,0
-Japan,Telecom,Internet Initiative Japan,2025,telecom-japan-internet-initiative-japan-2025,4,18,5,12,6,1,6,0,0,0,1
-Korea,Retail,LOTTE Shopping,2025,retail-korea-lotte-shopping-2025,3,18,13,15,7,10,21,7,1,9,1
-Russia,Telecom,МегаФон,2018,telecom-russia-megafon-2018,4,13,7,15,6,5,15,6,0,7,1
-Russia,Pharma,Imeda,2020,pharma-russia-imeda-2020,1,0,0,1,0,2,9,0,0,0,0
 Korea,Retail,LOTTE Corporation,2025,retail-korea-lotte-corporation-2025,14,16,14,13,15,10,20,8,7,8,3
+Korea,Retail,LOTTE Shopping,2025,retail-korea-lotte-shopping-2025,3,18,13,15,7,10,21,7,1,9,1
 Korea,Retail,LX Pantos,2022,retail-korea-lx-pantos-2022,13,4,13,9,13,1,21,1,7,7,2
+Korea,Retail,SK Networks,2023,retail-korea-sk-networks-2023,3,0,9,2,7,6,10,5,0,1,0
 Russia,Retail,Lenta,2021,retail-russia-lenta-2021,9,16,11,8,2,0,21,5,5,7,2
 Russia,Retail,Magnit,2019,retail-russia-magnit-2019,2,11,2,7,1,1,0,4,2,3,2
 Russia,Retail,X5,2015,retail-russia-x5-2015,12,11,5,10,1,1,4,4,4,4,2
 Russia,Retali,FixPrice,2022,retali-russia-fixprice-2022,4,3,3,7,1,1,1,3,2,6,1
+Japan,Sogo Sosha,ITOCHU,2022,sogo-sosha-japan-itochu-2022,6,16,1,13,6,9,12,4,0,7,2
+Japan,Sogo Sosha,Marubeni Corporation,2025,sogo-sosha-japan-marubeni-corporation-2025,7,19,2,13,6,3,7,5,5,7,5
+Japan,Sogo Sosha,Mitsubishi Corporation,2019,sogo-sosha-japan-mitsubishi-corporation-2019,6,17,4,15,3,5,0,3,0,3,2
+Japan,Sogo Sosha,Mitsui & Co.,2024,sogo-sosha-japan-mitsui-co-2024,2,7,1,4,3,2,1,2,3,4,1
+Japan,Sogo Sosha,Sumitomo Corporation,2024,sogo-sosha-japan-sumitomo-corporation-2024,1,5,1,8,3,2,1,2,1,4,1
+Japan,Tech,"Hitachi, Ltd.",2023,tech-japan-hitachi-ltd-2023,7,16,2,16,6,3,9,7,7,8,5
+Japan,Tech,NEC Corporation,2019,tech-japan-nec-corporation-2019,8,14,6,20,5,14,16,6,7,7,4
+Japan,Tech,Panasonic,2025,tech-japan-panasonic-2025,4,4,5,13,4,2,9,7,5,7,3
+Japan,Tech,Sony Group,2025,tech-japan-sony-group-2025,7,8,2,15,6,2,9,4,6,7,1
+Korea,Tech,DB HiTek,2024,tech-korea-db-hitek-2024,0,10,1,2,1,2,2,1,0,8,0
+Korea,Tech,LG Display,2025,tech-korea-lg-display-2025,13,2,2,6,1,2,10,3,2,5,0
+Korea,Tech,SK siltron,2017,tech-korea-sk-siltron-2017,1,3,1,5,1,0,1,2,1,2,1
+Korea,Tech,Samsung Electro-Mechanics,2017,tech-korea-samsung-electro-mechanics-2017,0,0,0,2,1,2,2,1,0,3,0
+Korea,Tech,Samsung Electronics,2020,tech-korea-samsung-electronics-2020,5,2,3,9,2,2,7,1,2,5,0
+China,Telecom,China Telecom,2024,telecom-china-china-telecom-2024,1,2,1,4,1,0,7,1,0,1,0
+China,Telecom,China Unicom,2023,telecom-china-china-unicom-2023,2,1,1,4,0,0,4,1,1,1,0
+China,Telecom,Huawei,2025,telecom-china-huawei-2025,1,11,5,11,0,0,4,2,0,6,0
+China,Telecom,ZTE,2025,telecom-china-zte-2025,0,14,3,7,6,5,8,3,7,8,0
+China,Telecom,ZTT,2020,telecom-china-ztt-2020,0,2,1,5,1,0,1,1,1,0,1
+Japan,Telecom,Internet Initiative Japan,2025,telecom-japan-internet-initiative-japan-2025,4,18,5,12,6,1,6,0,0,0,1
+Japan,Telecom,KDDI,2023,telecom-japan-kddi-2023,6,0,4,12,6,4,7,0,0,9,0
+Japan,Telecom,LY Corporation,2025,telecom-japan-ly-corporation-2025,0,16,1,4,1,1,0,0,0,0,1
+Japan,Telecom,NTT DOCOMO,2024,telecom-japan-ntt-docomo-2024,4,9,3,8,7,13,18,3,0,11,1
+Korea,Telecom,KT Corp,2019,telecom-korea-kt-corp-2019,0,13,1,5,1,1,4,1,1,1,0
+Korea,Telecom,Kakao,2012,telecom-korea-kakao-2012,1,3,0,4,1,0,2,3,0,4,0
+Korea,Telecom,NAVER,2024,telecom-korea-naver-2024,1,0,7,8,4,1,3,2,6,4,1
+Korea,Telecom,SK Telecom,2023,telecom-korea-sk-telecom-2023,1,0,9,3,7,6,9,3,0,7,0
+Korea,Telecom,Samsung SDS,2021,telecom-korea-samsung-sds-2021,0,0,1,4,1,4,4,1,1,3,1
+Russia,Telecom,MTS,2022,telecom-russia-mts-2022,0,3,0,6,0,2,2,1,0,2,0
+Russia,Telecom,МегаФон,2018,telecom-russia-megafon-2018,4,13,7,15,6,5,15,6,0,7,1
+Russia,Telecom,RTK,2019,telecom-russia-rtk-2019,0,4,1,4,1,1,0,1,1,4,0

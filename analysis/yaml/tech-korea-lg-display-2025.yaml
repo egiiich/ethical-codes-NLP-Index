@@ -1,0 +1,497 @@
+document_id: "tech-korea-lg-display-2025"
+company_name: "LG Display"
+country: "Korea"
+industry: "Tech"
+source_path: "Ethics_Codes_txt_files/Tech_Korea_LG Display_2025.txt"
+source_language: "en"
+document_type: "code_of_conduct"
+review_status: "needs_human_review"
+topic_analyses:
+  - topic_id: "competitor_relations"
+    principles:
+      - principle_code: "COMP01"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "COMP01_explicit_section"
+      - principle_code: "COMP02"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "COMP03"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "COMP03_explicit_section"
+      - principle_code: "COMP04"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "COMP05"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "COMP05_explicit_section"
+      - principle_code: "COMP06"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "COMP07"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "COMP07_explicit_section"
+      - principle_code: "COMP08"
+        principle_status: "brief_mention"
+        evidence_excerpt_ids:
+          - "COMP08_brief_mention"
+      - principle_code: "COMP09"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "COMP10"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+    key_excerpts:
+      - excerpt_id: "COMP01_explicit_section"
+        original: "Responsibly Gathering Competitive Information"
+        translated_ru: "Кодекс выделяет отдельный раздел о корректном сборе конкурентной информации."
+        section_title: "Section 23"
+        relevance_comment: "Прямое подтверждение COMP01."
+      - excerpt_id: "COMP03_explicit_section"
+        original: "Fair Competition"
+        translated_ru: "Кодекс прямо закрепляет честную конкуренцию как отдельный блок требований."
+        section_title: "Section 26"
+        relevance_comment: "Прямое подтверждение COMP03."
+      - excerpt_id: "COMP05_explicit_section"
+        original: "We want to be respectful of our competitors"
+        translated_ru: "Компания прямо требует уважительного отношения к конкурентам."
+        section_title: "Section 27"
+        relevance_comment: "Прямое подтверждение COMP05."
+      - excerpt_id: "COMP07_explicit_section"
+        original: "Respect for Other’s Intellectual Property"
+        translated_ru: "Кодекс прямо требует уважать интеллектуальную собственность других компаний."
+        section_title: "Section 33"
+        relevance_comment: "Прямое подтверждение COMP07."
+      - excerpt_id: "COMP08_brief_mention"
+        original: "Careful Communication ... do not use terms that may give the wrong impression"
+        translated_ru: "Кодекс ограничивает недобросовестные коммуникации, способные дискредитировать конкурентов."
+        section_title: "Section 31-32"
+        relevance_comment: "Краткое подтверждение COMP08."
+    other_principles: []
+  - topic_id: "hotline_principles"
+    principles:
+      - principle_code: "HOT01"
+        principle_status: "brief_mention"
+        evidence_excerpt_ids:
+          - "HOT01_brief_mention"
+      - principle_code: "HOT02"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "HOT03"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "HOT04"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "HOT05"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "HOT06"
+        principle_status: "brief_mention"
+        evidence_excerpt_ids:
+          - "HOT06_brief_mention"
+      - principle_code: "HOT07"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "HOT08"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "HOT09"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "HOT10"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+    key_excerpts:
+      - excerpt_id: "HOT01_brief_mention"
+        original: "contact the regulatory authority"
+        translated_ru: "Кодекс предусматривает каналы сообщения/эскалации вопросов через менеджера и регулятора."
+        section_title: "Section 12"
+        relevance_comment: "Краткое подтверждение HOT01."
+      - excerpt_id: "HOT06_brief_mention"
+        original: "Ask your manager"
+        translated_ru: "Сотрудник обязан поднимать вопросы и сообщать о рисках через руководителя."
+        section_title: "Multiple BE AWARE sections"
+        relevance_comment: "Краткое подтверждение HOT06."
+    other_principles: []
+  - topic_id: "company_to_supplier"
+    principles:
+      - principle_code: "CtoS01"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoS02"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoS03"
+        principle_status: "brief_mention"
+        evidence_excerpt_ids:
+          - "CtoS03_brief_mention"
+      - principle_code: "CtoS04"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoS05"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoS06"
+        principle_status: "brief_mention"
+        evidence_excerpt_ids:
+          - "CtoS06_brief_mention"
+      - principle_code: "CtoS07"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+    key_excerpts:
+      - excerpt_id: "CtoS03_brief_mention"
+        original: "Predatory pricing – Setting unfairly low prices to channel partners or customers"
+        translated_ru: "Кодекс запрещает несправедливые практики в отношении партнеров и каналов."
+        section_title: "Section 30"
+        relevance_comment: "Краткое подтверждение CtoS03."
+      - excerpt_id: "CtoS06_brief_mention"
+        original: "Fair Dealing for Our Business Partners & the Market"
+        translated_ru: "Компания подчеркивает долгосрочное честное взаимодействие с партнерами и поставщиками."
+        section_title: "Section 29"
+        relevance_comment: "Краткое подтверждение CtoS06."
+    other_principles: []
+  - topic_id: "worker_to_company"
+    principles:
+      - principle_code: "WtoC01"
+        principle_status: "brief_mention"
+        evidence_excerpt_ids:
+          - "WtoC01_brief_mention"
+      - principle_code: "WtoC02"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "WtoC03"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "WtoC03_explicit_section"
+      - principle_code: "WtoC04"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "WtoC05"
+        principle_status: "brief_mention"
+        evidence_excerpt_ids:
+          - "WtoC05_brief_mention"
+      - principle_code: "WtoC06"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "WtoC07"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "WtoC08"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "WtoC09"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "WtoC10"
+        principle_status: "brief_mention"
+        evidence_excerpt_ids:
+          - "WtoC10_brief_mention"
+    key_excerpts:
+      - excerpt_id: "WtoC01_brief_mention"
+        original: "High Product Standards"
+        translated_ru: "Сотрудники обязаны поддерживать высокие стандарты качества продукции."
+        section_title: "Section 11"
+        relevance_comment: "Краткое подтверждение WtoC01."
+      - excerpt_id: "WtoC03_explicit_section"
+        original: "Information Security"
+        translated_ru: "Кодекс прямо закрепляет обязанности по информационной безопасности."
+        section_title: "Table of Contents"
+        relevance_comment: "Прямое подтверждение WtoC03."
+      - excerpt_id: "WtoC05_brief_mention"
+        original: "What is Expected of Us"
+        translated_ru: "От сотрудников ожидается соблюдение норм кодекса и применимых правил."
+        section_title: "Getting Started"
+        relevance_comment: "Краткое подтверждение WtoC05."
+      - excerpt_id: "WtoC10_brief_mention"
+        original: "LG Display’s Code of Conduct - Creating Value for our Stakeholders"
+        translated_ru: "Кодекс связывает поведение сотрудника с поддержанием доверия стейкхолдеров и репутации."
+        section_title: "Cover"
+        relevance_comment: "Краткое подтверждение WtoC10."
+    other_principles: []
+  - topic_id: "company_to_investors"
+    principles:
+      - principle_code: "CtoI01"
+        principle_status: "brief_mention"
+        evidence_excerpt_ids:
+          - "CtoI01_brief_mention"
+      - principle_code: "CtoI02"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoI03"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoI04"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoI05"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoI06"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoI07"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoI08"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+    key_excerpts:
+      - excerpt_id: "CtoI01_brief_mention"
+        original: "Superior Returns for Our Shareholders"
+        translated_ru: "Кодекс прямо выделяет ответственность перед акционерами."
+        section_title: "Table of Contents"
+        relevance_comment: "Краткое подтверждение CtoI01."
+    other_principles: []
+  - topic_id: "company_to_people"
+    principles:
+      - principle_code: "CtoP01"
+        principle_status: "brief_mention"
+        evidence_excerpt_ids:
+          - "CtoP01_brief_mention"
+      - principle_code: "CtoP02"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoP03"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoP04"
+        principle_status: "brief_mention"
+        evidence_excerpt_ids:
+          - "CtoP04_brief_mention"
+      - principle_code: "CtoP05"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoP06"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoP07"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoP08"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoP09"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoP10"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+    key_excerpts:
+      - excerpt_id: "CtoP01_brief_mention"
+        original: "Environmental Protection"
+        translated_ru: "Кодекс закрепляет экологическую ответственность компании."
+        section_title: "Section 37"
+        relevance_comment: "Краткое подтверждение CtoP01."
+      - excerpt_id: "CtoP04_brief_mention"
+        original: "Caring for Our Communities"
+        translated_ru: "Компания декларирует вклад в развитие локальных сообществ."
+        section_title: "Section 45"
+        relevance_comment: "Краткое подтверждение CtoP04."
+    other_principles: []
+  - topic_id: "company_to_buyer"
+    principles:
+      - principle_code: "CtoB01"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "CtoB01_explicit_section"
+      - principle_code: "CtoB02"
+        principle_status: "brief_mention"
+        evidence_excerpt_ids:
+          - "CtoB02_brief_mention"
+      - principle_code: "CtoB03"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoB04"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoB05"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoB06"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoB07"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoB08"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "CtoB08_explicit_section"
+      - principle_code: "CtoB09"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "CtoB09_explicit_section"
+    key_excerpts:
+      - excerpt_id: "CtoB01_explicit_section"
+        original: "“Customer first” is at the heart of everything we do."
+        translated_ru: "Компания прямо ставит клиента в центр управленческих решений."
+        section_title: "Section 6"
+        relevance_comment: "Прямое подтверждение CtoB01."
+      - excerpt_id: "CtoB02_brief_mention"
+        original: "Do not allow any Company marketing materials to contain information that is deceptive, misleading or that omits important information"
+        translated_ru: "Кодекс требует полной и недвусмысленной информации о продукте в маркетинговых материалах."
+        section_title: "Section 8"
+        relevance_comment: "Краткое подтверждение CtoB02."
+      - excerpt_id: "CtoB08_explicit_section"
+        original: "Privacy and Data Protection"
+        translated_ru: "Кодекс прямо закрепляет защиту персональных данных и приватности."
+        section_title: "Section 13"
+        relevance_comment: "Прямое подтверждение CtoB08."
+      - excerpt_id: "CtoB09_explicit_section"
+        original: "Product safety is a critical concern for us ... The safety of our customers overrides any other consideration."
+        translated_ru: "Безопасность продукта и клиентов объявлена приоритетом компании."
+        section_title: "Section 9-10"
+        relevance_comment: "Прямое подтверждение CtoB09."
+    other_principles: []
+  - topic_id: "worker_to_worker"
+    principles:
+      - principle_code: "WtoW01"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "WtoW01_explicit_section"
+      - principle_code: "WtoW02"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "WtoW03"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "WtoW04"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "WtoW05"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "WtoW06"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "WtoW07"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "WtoW08"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+    key_excerpts:
+      - excerpt_id: "WtoW01_explicit_section"
+        original: "We value a workplace where all employees are considerate of others and where each person shows respect for one another"
+        translated_ru: "Кодекс прямо закрепляет уважительную коммуникацию между коллегами."
+        section_title: "Section 18"
+        relevance_comment: "Прямое подтверждение WtoW01."
+    other_principles: []
+  - topic_id: "manager_to_worker"
+    principles:
+      - principle_code: "MtoW01"
+        principle_status: "brief_mention"
+        evidence_excerpt_ids:
+          - "MtoW01_brief_mention"
+      - principle_code: "MtoW02"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "MtoW03"
+        principle_status: "brief_mention"
+        evidence_excerpt_ids:
+          - "MtoW03_brief_mention"
+      - principle_code: "MtoW04"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "MtoW05"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "MtoW06"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+    key_excerpts:
+      - excerpt_id: "MtoW01_brief_mention"
+        original: "fair and equitable employment decisions"
+        translated_ru: "Руководители обязаны обеспечивать справедливые кадровые решения без дискриминации."
+        section_title: "Section 16"
+        relevance_comment: "Краткое подтверждение MtoW01."
+      - excerpt_id: "MtoW03_brief_mention"
+        original: "respect-based management extends equally to all with whom we work"
+        translated_ru: "Руководители обязаны уважать достоинство подчиненных."
+        section_title: "Section 16"
+        relevance_comment: "Краткое подтверждение MtoW03."
+    other_principles: []
+  - topic_id: "company_to_worker"
+    principles:
+      - principle_code: "CtoW01"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoW02"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoW03"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "CtoW03_explicit_section"
+      - principle_code: "CtoW04"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoW05"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoW06"
+        principle_status: "brief_mention"
+        evidence_excerpt_ids:
+          - "CtoW06_brief_mention"
+      - principle_code: "CtoW07"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoW08"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoW09"
+        principle_status: "brief_mention"
+        evidence_excerpt_ids:
+          - "CtoW09_brief_mention"
+      - principle_code: "CtoW10"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+    key_excerpts:
+      - excerpt_id: "CtoW03_explicit_section"
+        original: "A Healthy and Safe Workplace"
+        translated_ru: "Кодекс прямо закрепляет безопасные условия труда."
+        section_title: "Section 20"
+        relevance_comment: "Прямое подтверждение CtoW03."
+      - excerpt_id: "CtoW06_brief_mention"
+        original: "equal employment opportunities"
+        translated_ru: "Компания декларирует равные возможности и недискриминацию."
+        section_title: "Section 16-17"
+        relevance_comment: "Краткое подтверждение CtoW06."
+      - excerpt_id: "CtoW09_brief_mention"
+        original: "What is Expected of Us"
+        translated_ru: "Кодекс предполагает регулярную обратную связь по комплаенс-вопросам через управленческие каналы."
+        section_title: "Getting Started"
+        relevance_comment: "Краткое подтверждение CtoW09."
+    other_principles: []
+  - topic_id: "worker_to_manager"
+    principles:
+      - principle_code: "WtoM01"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "WtoM02"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "WtoM03"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "WtoM04"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "WtoM05"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "WtoM06"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+    key_excerpts:
+    other_principles: []
+notes:
+  - "Date of analysis: 19.04.2026"
+  - "Analysis model: GPT 5.3-Codex"
+limitations:
+  - "OCR-текст объемный, но местами искажен; часть формулировок обрывочная."
+analyst_summary_ru: "Проведен последовательный анализ по всем темам; из-за OCR-ограничений выставлен needs_human_review."
