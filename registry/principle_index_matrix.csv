@@ -112,11 +112,11 @@ Japan,Logistics,Japan Airlines,2024,logistics-japan-japan-airlines-2024,6,2,6,10
 Japan,Logistics,Kawasaki Kisen Kaisha,2025,logistics-japan-kawasaki-kisen-kaisha-2025,6,6,12,9,6,7,4,3,1,7,0
 Japan,Logistics,Mitsui O.S.K. Lines,2025,logistics-japan-mitsui-o-s-k-lines-2025,6,11,6,11,1,4,0,3,3,4,1
 Japan,Logistics,Yamato Holdings,2024,logistics-japan-yamato-holdings-2024,4,3,7,10,4,7,10,4,1,7,1
-Korea,Manufactoring,Hyundai Steel,2020,manufactoring-korea-hyundai-steel-2020,6,8,5,11,4,6,12,3,1,7,0
-Korea,Manufactoring,LS ELECTRIC,2023,manufactoring-korea-ls-electric-2023,6,6,9,9,6,0,12,1,6,9,3
-Korea,Manufactoring,POSCO Future M,2025,manufactoring-korea-posco-future-m-2025,6,15,9,9,3,6,12,6,9,9,4
-Korea,Manufactoring,Poongsan,2019,manufactoring-korea-poongsan-2019,1,0,7,13,4,9,10,5,6,7,1
-Korea,Manufactoring,SeAH Holdings,2022,manufactoring-korea-seah-holdings-2022,3,9,15,15,3,6,10,8,10,10,7
+Korea,Manufacturing,Hyundai Steel,2020,Manufacturing-korea-hyundai-steel-2020,6,8,5,11,4,6,12,3,1,7,0
+Korea,Manufacturing,LS ELECTRIC,2023,Manufacturing-korea-ls-electric-2023,6,6,9,9,6,0,12,1,6,9,3
+Korea,Manufacturing,POSCO Future M,2025,Manufacturing-korea-posco-future-m-2025,6,15,9,9,3,6,12,6,9,9,4
+Korea,Manufacturing,Poongsan,2019,Manufacturing-korea-poongsan-2019,1,0,7,13,4,9,10,5,6,7,1
+Korea,Manufacturing,SeAH Holdings,2022,Manufacturing-korea-seah-holdings-2022,3,9,15,15,3,6,10,8,10,10,7
 China,Manufacturing,CATL,2023,manufacturing-china-catl-2023,6,15,7,15,6,11,11,1,1,6,1
 China,Manufacturing,Haier,2022,manufacturing-china-haier-2022,6,10,13,15,6,4,10,8,7,7,7
 China,Manufacturing,Hikvision,2023,manufacturing-china-hikvision-2023,4,7,10,13,3,7,10,5,5,6,2
