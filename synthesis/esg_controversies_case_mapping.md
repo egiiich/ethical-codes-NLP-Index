@@ -184,3 +184,71 @@
 1. Считать не только уровни, но и **дельты по компаниям** (если есть несколько версий кодекса одной компании).
 2. Добавить внешний слой «год громких кейсов по стране/отрасли» и проверить лаги 0/1/2 года на панельной модели.
 3. Контролировать эффект состава выборки (изменение набора компаний по годам) через взвешивание или matched-samples.
+
+---
+
+## 10) Дополнительные релевантные кейсы (расширение набора)
+
+Ниже — дополнительные крупные ESG/ethics-контроверсии, чтобы расширить базу «внешних шоков» для проверки на вашем корпусе.
+
+### 10.1. Finance / Investor governance
+
+#### F) Goldman Sachs и 1MDB (2020)
+- **Событие:** DOJ объявил урегулирование с Goldman Sachs по 1MDB (октябрь 2020).
+- **Связь с принципами:** `company_to_investors`, `hotline_principles`, `competitor_relations`.
+- **Сигнал в корпусе:** в Finance после 2020 виден резкий всплеск total и hotline в 2021 (total: 31.5→86.5; hotline: 6.5→15.0), затем откат — паттерн «шоковая реакция + нормализация».
+- **Источник:** https://www.justice.gov/archives/opa/pr/goldman-sachs-charged-foreign-bribery-case-and-agrees-pay-over-29-billion
+
+#### G) Wirecard (2020, collapse/accounting fraud)
+- **Событие:** крах компании после раскрытия мошенничества в отчетности.
+- **Связь с принципами:** `company_to_investors`, `worker_to_manager`, `hotline_principles`.
+- **Сигнал в корпусе:** finance-сегмент в 2023–2025 показывает повышенную волатильность investor/hotline блоков, что совместимо с длительным давлением на качество disclosure/контролей.
+- **Источник (регуляторный контекст ESMA):** https://www.esma.europa.eu/press-news/esma-news/esma-publishes-final-report-lessons-wirecard-case
+
+### 10.2. Mining / Energy / Community impact
+
+#### H) Vale / Brumadinho (SEC, 2022)
+- **Событие:** SEC обвинила Vale в ESG-related misstatements по рискам безопасности дамб.
+- **Связь с принципами:** `company_to_people`, `company_to_investors`, `hotline_principles`, `company_to_supplier`.
+- **Сигнал в корпусе:** в Mining после 2020 наблюдался подъем hotline и people-блоков (особенно 2021), что соответствует усилению social-risk разделов после крупных катастроф и расследований.
+- **Источник:** https://www.sec.gov/newsroom/press-releases/2022-27
+
+#### I) Glencore bribery & market manipulation cases (DOJ, 2022)
+- **Событие:** масштабные дела по коррупции и манипулированию товарными рынками.
+- **Связь с принципами:** `competitor_relations`, `company_to_investors`, `hotline_principles`.
+- **Сигнал в корпусе:** в сырьевых сегментах (Mining/Energy/Logistics) после 2022 чаще встречаются обновления с фокусом на competition/compliance-формулировки, но эффект неоднороден по отраслям.
+- **Источник:** https://www.justice.gov/opa/pr/glencore-entered-guilty-pleas-foreign-bribery-and-market-manipulation-schemes
+
+### 10.3. Digital / Data ethics / Consumer harm
+
+#### J) Meta (FTC settlement, 2019, Cambridge Analytica aftermath)
+- **Событие:** FTC settlement на $5 млрд по нарушениям приватности.
+- **Связь с принципами:** `company_to_people`, `company_to_buyer`, `company_to_investors`, `hotline_principles`.
+- **Сигнал в корпусе:** в Digital наблюдается высокий, но во многом шаблонный уровень кодексов; для этой отрасли полезнее проверять не уровень total, а появление конкретных privacy/data-governance принципов в wide-матрице.
+- **Источник:** https://www.ftc.gov/news-events/news/press-releases/2019/07/ftc-imposes-5-billion-penalty-sweeping-new-privacy-restrictions-facebook
+
+#### K) Equifax (FTC settlement, 2019)
+- **Событие:** урегулирование с FTC/CFPB/штатами после утечки данных.
+- **Связь с принципами:** `company_to_people`, `company_to_buyer`, `company_to_investors`.
+- **Сигнал в корпусе:** подтверждает, что consumer/data incidents особенно критичны для усиления блоков внешней ответственности, а не только employee-дисциплины.
+- **Источник:** https://www.ftc.gov/news-events/news/press-releases/2019/07/equifax-pay-575-million-part-settlement-ftc-cfpb-states-related-2017-data-breach
+
+### 10.4. Pharma / Product integrity / Social responsibility
+
+#### L) Purdue Pharma (DOJ settlement, 2020)
+- **Событие:** урегулирование по уголовным/гражданским претензиям, связанным с маркетингом опиоидов.
+- **Связь с принципами:** `company_to_buyer`, `company_to_people`, `company_to_investors`, `hotline_principles`.
+- **Сигнал в корпусе:** в Pharma после 2023 видно усиление total и buyer/supplier/hotline к 2024–2025, что совместимо с повышением требований к product-ethics и patient-risk коммуникациям.
+- **Источник:** https://www.justice.gov/opa/pr/purdue-pharma-and-civil-settlement-agreement
+
+### 10.5. Telecom / Anti-corruption / Third-party risk
+
+#### M) Ericsson FCPA case (2019)
+- **Событие:** SEC/DOJ санкции за длительную коррупционную практику в нескольких странах.
+- **Связь с принципами:** `competitor_relations`, `company_to_supplier`, `hotline_principles`, `company_to_investors`.
+- **Сигнал в корпусе:** telecom после низкой базы 2020 (total 13) показывает рост к 2021 и 2024–2025, но без устойчивого тренда по всем метрикам — признак фрагментарных обновлений.
+- **Источники:**
+  - SEC: https://www.sec.gov/newsroom/press-releases/2019-254
+  - DOJ: https://www.justice.gov/opa/pr/ericsson-agrees-pay-over-1-billion-resolve-fcpa-case
+
+
