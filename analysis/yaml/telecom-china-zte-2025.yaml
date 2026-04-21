@@ -1,0 +1,515 @@
+document_id: "telecom-china-zte-2025"
+company_name: "ZTE"
+country: "China"
+industry: "Telecom"
+source_path: "Ethics_Codes_txt_files/Telecom_China_ZTE_2025.txt"
+source_language: "en"
+document_type: "code_of_conduct"
+review_status: "needs_human_review"
+topic_analyses:
+  - topic_id: "competitor_relations"
+    principles:
+      - principle_code: "COMP01"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "COMP02"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "COMP03"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "COMP04"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "COMP05"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "COMP06"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "COMP07"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "COMP08"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "COMP09"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "COMP10"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+    key_excerpts:
+    other_principles: []
+  - topic_id: "hotline_principles"
+    principles:
+      - principle_code: "HOT01"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "HOT01_explicit_section"
+      - principle_code: "HOT02"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "HOT02_explicit_section"
+      - principle_code: "HOT03"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "HOT03_explicit_section"
+      - principle_code: "HOT04"
+        principle_status: "brief_mention"
+        evidence_excerpt_ids:
+          - "HOT04_brief_mention"
+      - principle_code: "HOT05"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "HOT05_explicit_section"
+      - principle_code: "HOT06"
+        principle_status: "brief_mention"
+        evidence_excerpt_ids:
+          - "HOT06_brief_mention"
+      - principle_code: "HOT07"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "HOT08"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "HOT09"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "HOT10"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+    key_excerpts:
+      - excerpt_id: "HOT01_explicit_section"
+        original: "We encourage all employees to promptly report any suspected or actual violations of this Code"
+        translated_ru: "Компания предоставляет сотрудникам формальный доступ к каналам сообщения о нарушениях."
+        section_title: "Whistleblowing"
+        relevance_comment: "Прямое подтверждение HOT01."
+      - excerpt_id: "HOT02_explicit_section"
+        original: "The Company is committed to maintaining strict confidentiality of the whistleblower's identity and report details"
+        translated_ru: "Закреплена конфиденциальность сведений по сообщению."
+        section_title: "Whistleblowing"
+        relevance_comment: "Прямое подтверждение HOT02."
+      - excerpt_id: "HOT03_explicit_section"
+        original: "Under our anti-retaliation policy, we provide robust protection for whistleblowers"
+        translated_ru: "Кодекс прямо запрещает преследование заявителей."
+        section_title: "Whistleblowing"
+        relevance_comment: "Прямое подтверждение HOT03."
+      - excerpt_id: "HOT04_brief_mention"
+        original: "Anonymous reporting is also respected"
+        translated_ru: "Анонимные сообщения допускаются и признаются."
+        section_title: "Whistleblowing"
+        relevance_comment: "Краткое подтверждение HOT04."
+      - excerpt_id: "HOT05_explicit_section"
+        original: "ZTE maintains zero tolerance for violations of the Code"
+        translated_ru: "За нарушения предусмотрено обязательное реагирование и дисциплинарные меры."
+        section_title: "Disciplinary Actions for Violations"
+        relevance_comment: "Прямое подтверждение HOT05."
+      - excerpt_id: "HOT06_brief_mention"
+        original: "we encourage all employees to speak up boldly when they witness or suspect misconduct"
+        translated_ru: "Сотрудников призывают сообщать о замеченных нарушениях."
+        section_title: "Message from the CEO"
+        relevance_comment: "Краткое подтверждение HOT06."
+    other_principles: []
+  - topic_id: "company_to_supplier"
+    principles:
+      - principle_code: "CtoS01"
+        principle_status: "brief_mention"
+        evidence_excerpt_ids:
+          - "CtoS01_brief_mention"
+      - principle_code: "CtoS02"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoS03"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoS04"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoS05"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoS06"
+        principle_status: "brief_mention"
+        evidence_excerpt_ids:
+          - "CtoS06_brief_mention"
+      - principle_code: "CtoS07"
+        principle_status: "brief_mention"
+        evidence_excerpt_ids:
+          - "CtoS07_brief_mention"
+    key_excerpts:
+      - excerpt_id: "CtoS01_brief_mention"
+        original: "Maintaining a Responsible Supply Chain"
+        translated_ru: "Заявлен подход к ответственному управлению поставщиками."
+        section_title: "Maintaining a Responsible Supply Chain"
+        relevance_comment: "Краткое подтверждение CtoS01."
+      - excerpt_id: "CtoS06_brief_mention"
+        original: "fostering a transparent and ethical procurement environment"
+        translated_ru: "Компания ориентируется на устойчивую и этичную модель взаимодействия с поставщиками."
+        section_title: "Maintaining a Responsible Supply Chain"
+        relevance_comment: "Краткое подтверждение CtoS06."
+      - excerpt_id: "CtoS07_brief_mention"
+        original: "We maintain zero tolerance for violations, fostering a transparent and ethical procurement environment"
+        translated_ru: "Закреплен запрет на неэтичные практики в закупочной цепочке."
+        section_title: "Maintaining a Responsible Supply Chain"
+        relevance_comment: "Краткое подтверждение CtoS07."
+    other_principles: []
+  - topic_id: "worker_to_company"
+    principles:
+      - principle_code: "WtoC01"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "WtoC02"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "WtoC03"
+        principle_status: "brief_mention"
+        evidence_excerpt_ids:
+          - "WtoC03_brief_mention"
+      - principle_code: "WtoC04"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "WtoC05"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "WtoC05_explicit_section"
+      - principle_code: "WtoC06"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "WtoC07"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "WtoC08"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "WtoC09"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "WtoC10"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "WtoC10_explicit_section"
+    key_excerpts:
+      - excerpt_id: "WtoC03_brief_mention"
+        original: "must strictly adhere to the company's established external communication policies"
+        translated_ru: "Сотрудники обязаны сохранять конфиденциальность и следовать правилам распространения информации."
+        section_title: "Lawful Information Dissemination"
+        relevance_comment: "Краткое подтверждение WtoC03."
+      - excerpt_id: "WtoC05_explicit_section"
+        original: "employees must strictly comply with securities laws"
+        translated_ru: "Прямо закреплено требование соблюдения законодательства сотрудниками."
+        section_title: "Avoiding Insider Trading"
+        relevance_comment: "Прямое подтверждение WtoC05."
+      - excerpt_id: "WtoC10_explicit_section"
+        original: "Each of us bears a critical responsibility to uphold the Company's reputation"
+        translated_ru: "Сотрудники несут прямую ответственность за защиту репутации компании."
+        section_title: "Lawful Information Dissemination"
+        relevance_comment: "Прямое подтверждение WtoC10."
+    other_principles: []
+  - topic_id: "company_to_investors"
+    principles:
+      - principle_code: "CtoI01"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoI02"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoI03"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "CtoI03_explicit_section"
+      - principle_code: "CtoI04"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoI05"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "CtoI05_explicit_section"
+      - principle_code: "CtoI06"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoI07"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoI08"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+    key_excerpts:
+      - excerpt_id: "CtoI03_explicit_section"
+        original: "Ensure comprehensive, accurate, and timely disclosure in public reports, documents, and statements"
+        translated_ru: "Кодекс требует полного и своевременного раскрытия существенной информации."
+        section_title: "Lawful Information Dissemination"
+        relevance_comment: "Прямое подтверждение CtoI03."
+      - excerpt_id: "CtoI05_explicit_section"
+        original: "As employees of a listed company, we must strictly comply with securities laws to prevent insider trading risks"
+        translated_ru: "Прямой запрет инсайдерской торговли и раскрытия инсайдерской информации."
+        section_title: "Avoiding Insider Trading"
+        relevance_comment: "Прямое подтверждение CtoI05."
+    other_principles: []
+  - topic_id: "company_to_people"
+    principles:
+      - principle_code: "CtoP01"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "CtoP01_explicit_section"
+      - principle_code: "CtoP02"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoP03"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoP04"
+        principle_status: "brief_mention"
+        evidence_excerpt_ids:
+          - "CtoP04_brief_mention"
+      - principle_code: "CtoP05"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoP06"
+        principle_status: "brief_mention"
+        evidence_excerpt_ids:
+          - "CtoP06_brief_mention"
+      - principle_code: "CtoP07"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoP08"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoP09"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoP10"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+    key_excerpts:
+      - excerpt_id: "CtoP01_explicit_section"
+        original: "reporting greenhouse gas emissions, reduction targets, and annual progress in its Sustainability Report"
+        translated_ru: "Компания декларирует ESG-прозрачность через регулярную публичную отчетность."
+        section_title: "Addressing Climate Change"
+        relevance_comment: "Прямое подтверждение CtoP01."
+      - excerpt_id: "CtoP04_brief_mention"
+        original: "strives to set a positive example for sustainable community development"
+        translated_ru: "Декларируется содействие устойчивому развитию сообществ."
+        section_title: "Engaging in Philanthropy"
+        relevance_comment: "Краткое подтверждение CtoP04."
+      - excerpt_id: "CtoP06_brief_mention"
+        original: "encourages employees to participate in global philanthropy"
+        translated_ru: "Компания поддерживает социальные и благотворительные инициативы."
+        section_title: "Engaging in Philanthropy"
+        relevance_comment: "Краткое подтверждение CtoP06."
+    other_principles: []
+  - topic_id: "company_to_buyer"
+    principles:
+      - principle_code: "CtoB01"
+        principle_status: "brief_mention"
+        evidence_excerpt_ids:
+          - "CtoB01_brief_mention"
+      - principle_code: "CtoB02"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "CtoB02_explicit_section"
+      - principle_code: "CtoB03"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoB04"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoB05"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "CtoB05_explicit_section"
+      - principle_code: "CtoB06"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoB07"
+        principle_status: "brief_mention"
+        evidence_excerpt_ids:
+          - "CtoB07_brief_mention"
+      - principle_code: "CtoB08"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoB09"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+    key_excerpts:
+      - excerpt_id: "CtoB01_brief_mention"
+        original: "creating value for our customers through relentless technological innovation"
+        translated_ru: "Компания заявляет ориентацию на ценность для клиентов."
+        section_title: "Message from the CEO"
+        relevance_comment: "Краткое подтверждение CtoB01."
+      - excerpt_id: "CtoB02_explicit_section"
+        original: "Ensure advertisements and promotional materials are truthful and free of false claims"
+        translated_ru: "Требуется правдивость и полнота продуктовой информации для клиентов."
+        section_title: "Lawful Information Dissemination"
+        relevance_comment: "Прямое подтверждение CtoB02."
+      - excerpt_id: "CtoB05_explicit_section"
+        original: "All external communications must be fact-based, free of false statements, misleading claims, or material omissions"
+        translated_ru: "Закреплено требование законного и этичного информирования рынка."
+        section_title: "Lawful Information Dissemination"
+        relevance_comment: "Прямое подтверждение CtoB05."
+      - excerpt_id: "CtoB07_brief_mention"
+        original: "Actively listen to feedback and concerns from investors and stakeholders"
+        translated_ru: "Фиксируется обязанность учитывать обратную связь заинтересованных сторон."
+        section_title: "Lawful Information Dissemination"
+        relevance_comment: "Краткое подтверждение CtoB07."
+    other_principles: []
+  - topic_id: "worker_to_worker"
+    principles:
+      - principle_code: "WtoW01"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "WtoW01_explicit_section"
+      - principle_code: "WtoW02"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "WtoW03"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "WtoW04"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "WtoW05"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "WtoW06"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "WtoW07"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "WtoW08"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+    key_excerpts:
+      - excerpt_id: "WtoW01_explicit_section"
+        original: "Respecting each other"
+        translated_ru: "Уважительное взаимодействие между сотрудниками закреплено как базовая ценность."
+        section_title: "Our Values"
+        relevance_comment: "Прямое подтверждение WtoW01."
+    other_principles: []
+  - topic_id: "manager_to_worker"
+    principles:
+      - principle_code: "MtoW01"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "MtoW01_explicit_section"
+      - principle_code: "MtoW02"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "MtoW03"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "MtoW03_explicit_section"
+      - principle_code: "MtoW04"
+        principle_status: "brief_mention"
+        evidence_excerpt_ids:
+          - "MtoW04_brief_mention"
+      - principle_code: "MtoW05"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "MtoW06"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+    key_excerpts:
+      - excerpt_id: "MtoW01_explicit_section"
+        original: "ZTE prohibits employment discrimination, including gender-based or family-status-based disparities"
+        translated_ru: "Руководителям запрещено дискриминировать подчиненных по личным признакам."
+        section_title: "Safeguarding Employee Rights"
+        relevance_comment: "Прямое подтверждение MtoW01."
+      - excerpt_id: "MtoW03_explicit_section"
+        original: "Zero tolerance is required ... persistent derogatory remarks, isolation, or unreasonable work pressure"
+        translated_ru: "Кодекс прямо запрещает унижения и психологическое давление в отношении сотрудников."
+        section_title: "Safeguarding Employee Rights"
+        relevance_comment: "Прямое подтверждение MtoW03."
+      - excerpt_id: "MtoW04_brief_mention"
+        original: "foster a simple, transparent, and honest communication environment"
+        translated_ru: "Декларируется поддержка открытой и честной коммуникации в коллективе."
+        section_title: "Safeguarding Employee Rights"
+        relevance_comment: "Краткое подтверждение MtoW04."
+    other_principles: []
+  - topic_id: "company_to_worker"
+    principles:
+      - principle_code: "CtoW01"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoW02"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoW03"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "CtoW03_explicit_section"
+      - principle_code: "CtoW04"
+        principle_status: "brief_mention"
+        evidence_excerpt_ids:
+          - "CtoW04_brief_mention"
+      - principle_code: "CtoW05"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoW06"
+        principle_status: "explicit_section"
+        evidence_excerpt_ids:
+          - "CtoW06_explicit_section"
+      - principle_code: "CtoW07"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoW08"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "CtoW09"
+        principle_status: "brief_mention"
+        evidence_excerpt_ids:
+          - "CtoW09_brief_mention"
+      - principle_code: "CtoW10"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+    key_excerpts:
+      - excerpt_id: "CtoW03_explicit_section"
+        original: "ZTE is committed to creating a health and safety culture"
+        translated_ru: "Компания прямо закрепляет обязательство обеспечивать безопасные условия труда."
+        section_title: "Protecting Employee Health"
+        relevance_comment: "Прямое подтверждение CtoW03."
+      - excerpt_id: "CtoW04_brief_mention"
+        original: "offering an EAP with face-to-face, phone, video, and external counseling"
+        translated_ru: "Компания поддерживает благополучие работников через программы помощи."
+        section_title: "Protecting Employee Health"
+        relevance_comment: "Краткое подтверждение CtoW04."
+      - excerpt_id: "CtoW06_explicit_section"
+        original: "provide equal employment opportunities"
+        translated_ru: "Кодекс прямо закрепляет равные возможности трудоустройства без дискриминации."
+        section_title: "Safeguarding Employee Rights"
+        relevance_comment: "Прямое подтверждение CtoW06."
+      - excerpt_id: "CtoW09_brief_mention"
+        original: "value employee feedback"
+        translated_ru: "Компания заявляет значимость обратной связи работников."
+        section_title: "Safeguarding Employee Rights"
+        relevance_comment: "Краткое подтверждение CtoW09."
+    other_principles: []
+  - topic_id: "worker_to_manager"
+    principles:
+      - principle_code: "WtoM01"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "WtoM02"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "WtoM03"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "WtoM04"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "WtoM05"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+      - principle_code: "WtoM06"
+        principle_status: "absent"
+        evidence_excerpt_ids: []
+    key_excerpts:
+    other_principles: []
+notes:
+  - "Date of analysis: 19.04.2026"
+  - "Analysis model: GPT 5.3-Codex"
+limitations:
+  - "Исходный OCR-текст содержит артефакты и фрагментарные блоки; часть формулировок требует ручной верификации по PDF."
+analyst_summary_ru: "Проведен последовательный анализ по всем 11 темам; из-за OCR-артефактов выставлен needs_human_review."
