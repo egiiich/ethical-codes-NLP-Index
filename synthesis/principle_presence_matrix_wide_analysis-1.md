@@ -11,8 +11,8 @@
 |---|---:|---:|
 | absent | 14900 | 75.48% |
 | explicit_section | 3398 | 17.21% |
-| brief_mention | 1393 | 7.06% |
-| implicit_scattered | 49 | 0.25% |
+| brief_mention | 1442 | 7.31% |
+| implicit_scattered | 0 | 0.00% |
 
 Вывод: корпус сильно разреженный: доминирует `absent` (около 3/4 всех ячеек), при этом `unclear` фактически не используется.
 
@@ -21,17 +21,17 @@
 
 | Тема (index column) | Средний индекс | Диапазон | Макс. возможный | Нормированный средний |
 |---|---:|---:|---:|---:|
-| worker_to_company | 10.65 | 1–20 | 30 | 35.5% |
-| hotline_principles | 8.10 | 0–21 | 30 | 27.0% |
-| company_to_buyer | 6.93 | 0–21 | 27 | 25.7% |
-| company_to_supplier | 4.80 | 0–18 | 21 | 22.9% |
+| worker_to_company | 10.63 | 1–20 | 30 | 35.4% |
+| hotline_principles | 8.03 | 0–21 | 30 | 26.8% |
+| company_to_buyer | 6.91 | 0–21 | 27 | 25.6% |
+| company_to_supplier | 4.79 | 0–18 | 21 | 22.8% |
 | company_to_worker | 6.09 | 0–13 | 30 | 20.3% |
-| company_to_investors | 4.29 | 0–15 | 24 | 17.9% |
+| company_to_investors | 4.28 | 0–15 | 24 | 17.8% |
 | worker_to_worker | 3.61 | 0–15 | 24 | 15.0% |
-| company_to_people | 4.47 | 0–15 | 30 | 14.9% |
-| manager_to_worker | 2.36 | 0–10 | 18 | 13.1% |
-| competitor_relations | 3.32 | 0–14 | 30 | 11.1% |
-| worker_to_manager | 1.02 | 0–7 | 18 | 5.7% |
+| company_to_people | 4.44 | 0–15 | 30 | 14.8% |
+| manager_to_worker | 2.34 | 0–10 | 18 | 13.0% |
+| competitor_relations | 3.30 | 0–14 | 30 | 11.0% |
+| worker_to_manager | 1.01 | 0–7 | 18 | 5.6% |
 
 Ключевой паттерн: самые «проработанные» темы — `worker_to_company` и `hotline_principles`; самые слабые — `competitor_relations`, `manager_to_worker`, `worker_to_manager`.
 
@@ -40,11 +40,11 @@
 ### По странам (средний суммарный score документа)
 | Страна | Средний score | N |
 |---|---:|---:|
-| Korea | 62.40 | 45 |
-| Japan | 58.95 | 44 |
-| Indonesia | 56.20 | 40 |
-| Russia | 50.56 | 36 |
-| China | 49.22 | 45 |
+| Korea | 62.36 | 45 |
+| Japan | 58.41 | 44 |
+| Indonesia | 56.08 | 40 |
+| Russia | 50.22 | 36 |
+| China | 49.09 | 45 |
 
 ### По отраслям (крайние значения)
 > Важно: отдельные отрасли имеют очень маленький N, что делает экстремумы менее устойчивыми.
@@ -52,9 +52,9 @@
 | Top отрасли | Средний score | N |
 |---|---:|---:|
 | IT | 126.00 | 1 |
-| Insurance | 83.00 | 4 |
+| Insurance | 82.75 | 4 |
 | Real Estate | 82.00 | 1 |
-| Agriculture | 81.00 | 2 |
+| Agriculture | 79.50 | 2 |
 | Entertainment | 74.00 | 1 |
 | Manufacturing | 71.89 | 18 |
 | Defense | 67.00 | 4 |
@@ -63,16 +63,16 @@
 | Bottom отрасли | Средний score | N |
 |---|---:|---:|
 | Chemicals | 16.00 | 1 |
-| Telecom | 38.17 | 18 |
-| Finance | 42.46 | 26 |
+| Telecom | 37.83 | 18 |
+| Finance | 42.19 | 26 |
 | Logistics | 47.10 | 10 |
 | Mining | 47.62 | 13 |
-| Tech | 51.44 | 9 |
-| Sogo Sosha | 54.40 | 5 |
+| Tech | 49.78 | 9 |
+| Sogo Sosha | 53.60 | 5 |
 | Energy | 55.10 | 20 |
 
 ## 4) Временной профиль
-- Корреляция Пирсона между годом и суммарным score: **0.169** (слабая, ближе к нулю).
+- Корреляция Пирсона между годом и суммарным score: **0.172** (слабая, ближе к нулю).
 - То есть устойчивого линейного тренда «чем новее кодекс, тем выше индекс» в этом срезе не видно.
 
 | Год | Средний score | N |
@@ -82,19 +82,19 @@
 | 2009 | 41.00 | 1 |
 | 2012 | 40.50 | 2 |
 | 2013 | 47.00 | 1 |
-| 2014 | 91.00 | 1 |
+| 2014 | 90.00 | 1 |
 | 2015 | 50.33 | 3 |
 | 2016 | 45.75 | 4 |
 | 2017 | 29.60 | 5 |
 | 2018 | 59.22 | 9 |
-| 2019 | 50.55 | 11 |
+| 2019 | 49.18 | 11 |
 | 2020 | 46.61 | 18 |
-| 2021 | 66.15 | 20 |
-| 2022 | 62.91 | 23 |
-| 2023 | 52.97 | 37 |
-| 2024 | 52.51 | 37 |
-| 2025 | 64.64 | 33 |
-| 2026 | 48.00 | 3 |
+| 2021 | 65.50 | 20 |
+| 2022 | 62.61 | 23 |
+| 2023 | 52.84 | 37 |
+| 2024 | 52.41 | 37 |
+| 2025 | 64.55 | 33 |
+| 2026 | 47.67 | 3 |
 
 ## 5) Принципы-лидеры и принципы-пробелы
 Показатели:
@@ -104,15 +104,15 @@
 ### Топ-12 по Strength
 | Принцип | Strength | Coverage | explicit | implicit | brief |
 |---|---:|---:|---:|---:|---:|
-| WtoC05 | 92.9% | 98.1% | 189 | 1 | 16 |
+| WtoC05 | 92.7% | 98.1% | 189 | 0 | 17 |
 | WtoC03 | 86.3% | 89.5% | 178 | 0 | 10 |
 | CtoW06 | 76.3% | 84.3% | 152 | 0 | 25 |
 | WtoW01 | 73.3% | 85.7% | 141 | 0 | 39 |
-| CtoW03 | 71.1% | 81.4% | 138 | 1 | 32 |
+| CtoW03 | 71.0% | 81.4% | 138 | 0 | 33 |
 | HOT06 | 68.6% | 82.9% | 129 | 0 | 45 |
-| CtoI03 | 63.7% | 71.4% | 125 | 1 | 24 |
+| CtoI03 | 63.5% | 71.4% | 125 | 0 | 25 |
 | WtoC02 | 63.3% | 67.1% | 129 | 0 | 12 |
-| COMP03 | 60.6% | 71.0% | 116 | 1 | 32 |
+| COMP03 | 60.5% | 71.0% | 116 | 0 | 33 |
 | CtoB01 | 60.2% | 67.1% | 119 | 0 | 22 |
 | HOT03 | 60.0% | 61.9% | 124 | 0 | 6 |
 | CtoB05 | 56.8% | 63.8% | 112 | 0 | 22 |
@@ -131,7 +131,7 @@
 | COMP09 | 0.2% | 0.5% | 0 | 0 | 1 |
 | COMP10 | 0.5% | 1.4% | 0 | 0 | 3 |
 | WtoC06 | 0.5% | 1.4% | 0 | 0 | 3 |
-| CtoW07 | 0.5% | 1.4% | 0 | 0 | 3 |
+| CtoP05 | 0.3% | 1.0% | 0 | 0 | 2 |
 
 - Принципов с coverage ≤10%: **39**.
 - Полностью отсутствующих (ни одного non-absent): **7** — HOT07, HOT10, WtoW02, MtoW05, CtoW05, CtoW08, WtoM05.
@@ -150,28 +150,28 @@
 |---|---|---|---:|---:|
 | retail-korea-lotte-corporation-2025 | Korea | Retail | 2025 | 128 |
 | it-indonesia-astra-graphia-2022 | Indonesia | IT | 2022 | 126 |
-| tech-japan-nec-corporation-2019 | Japan | Tech | 2019 | 107 |
-| retail-korea-lotte-shopping-2025 | Korea | Retail | 2025 | 105 |
-| agriculture-indonesia-smart-2021 | Indonesia | Agriculture | 2021 | 102 |
+| retail-korea-lotte-shopping-2025 | Korea | Retail | 2025 | 104 |
 | insurance-japan-dai-ichi-life-holdings-2024 | Japan | Insurance | 2024 | 102 |
+| agriculture-indonesia-smart-2021 | Indonesia | Agriculture | 2021 | 100 |
 | pharma-korea-sk-bioscience-2025 | Korea | Pharma | 2025 | 100 |
 | Manufacturing-korea-seah-holdings-2022 | Korea | Manufacturing | 2022 | 96 |
-| insurance-japan-sumitomo-life-insurance-2022 | Japan | Insurance | 2022 | 93 |
 | manufacturing-china-haier-2022 | China | Manufacturing | 2022 | 93 |
+| tech-japan-nec-corporation-2019 | Japan | Tech | 2019 | 93 |
+| insurance-japan-sumitomo-life-insurance-2022 | Japan | Insurance | 2022 | 92 |
 
 ### Bottom-10
 | document_id | country | industry | year | score |
 |---|---|---|---:|---:|
-| energy-indonesia-tbs-energi-utama-2023 | Indonesia | Energy | 2023 | 11 |
-| tech-korea-samsung-electro-mechanics-2017 | Korea | Tech | 2017 | 11 |
-| pharma-russia-imeda-2020 | Russia | Pharma | 2020 | 13 |
-| telecom-china-ztt-2020 | China | Telecom | 2020 | 13 |
-| telecom-china-china-unicom-2023 | China | Telecom | 2023 | 15 |
-| chemicals-indonesia-lautan-luas-2023 | Indonesia | Chemicals | 2023 | 16 |
-| telecom-russia-mts-2022 | Russia | Telecom | 2022 | 16 |
+| telecom-korea-kakao-2012 | Korea | Telecom | 2012 | 18 |
 | finance-china-lexinfintech-2017 | China | Finance | 2017 | 17 |
 | telecom-russia-rtk-2019 | Russia | Telecom | 2019 | 17 |
-| tech-korea-sk-siltron-2017 | Korea | Tech | 2017 | 18 |
+| chemicals-indonesia-lautan-luas-2023 | Indonesia | Chemicals | 2023 | 16 |
+| telecom-russia-mts-2022 | Russia | Telecom | 2022 | 16 |
+| telecom-china-china-unicom-2023 | China | Telecom | 2023 | 15 |
+| pharma-russia-imeda-2020 | Russia | Pharma | 2020 | 13 |
+| telecom-china-ztt-2020 | China | Telecom | 2020 | 13 |
+| energy-indonesia-tbs-energi-utama-2023 | Indonesia | Energy | 2023 | 11 |
+| tech-korea-samsung-electro-mechanics-2017 | Korea | Tech | 2017 | 11 |
 
 ## 8) Практические интерпретации
 1. **Матрица пригодна для выявления «базовой зрелости»**, но хуже для тонкой дифференциации компаний в сегментах с шаблонными кодексами.
@@ -201,7 +201,7 @@
 По текущим данным:
 - Breadth в среднем по странам колеблется примерно от 0.215 до 0.270 (т.е. обычно покрывается около четверти принципов).
 - Depth у большинства стран держится около 0.79–0.81, а у России ниже (около 0.75), что сигнализирует о потенциале апгрейда формулировок с `brief_mention` в `explicit_section`.
-- Самая системная «дыра» корпуса — `worker_to_manager` (нормированный средний ~5.7%), что указывает на слабую формализацию обратной ответственности сотрудников по отношению к руководству.
+- Самая системная «дыра» корпуса — `worker_to_manager` (нормированный средний ~5.6%), что указывает на слабую формализацию обратной ответственности сотрудников по отношению к руководству.
 
 ## 10) Риски и управленческие приоритеты (на языке бизнеса)
 
