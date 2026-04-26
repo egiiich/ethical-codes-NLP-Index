@@ -157,23 +157,49 @@ In the fully adjusted OLS (country + year + industry dummies), none of the indiv
 
 **H3 decision:** **Confirmed** for unadjusted between-industry mean differences; **not confirmed at individual-coefficient level in the fully adjusted model**.
 
-### H4: Worker-to-company dimension exceeds hotline dimension
+### H4: Company-centered orientation versus employee-protection orientation
 
-**H4 statement:** The worker-to-company index is higher than hotline principles.
+**H4 statement:** Ethical codes revolve more around the interests of the company rather than protect the rights and needs of employees.
 
-Paired test across documents:
+To test this, two composite scores were defined at the document level:
 
-- Mean difference = +2.55
-- t ≈ 7.17
+- **Company-interest orientation** = competitor_relations + company_to_supplier + company_to_investors + company_to_buyer + worker_to_company
+- **Employee-protection orientation** = company_to_worker + manager_to_worker + worker_to_manager + worker_to_worker + hotline_principles
+
+Descriptive comparison:
+
+- Mean company-interest orientation = **30.00**
+- Mean employee-protection orientation = **21.18**
+- Mean paired difference = **+8.82** points
+
+Paired mean-difference test across documents:
+
+- t ≈ 11.31
 - p < 0.001
 
 **H4 decision:** **Confirmed**.
 
-### H5: Worker-to-manager dimension is the least represented relational axis
+### H5: Institutionalization of compliance over time
 
-**H5 statement:** Worker-to-manager has the lowest average score among dimensions.
+**H5 statement:** The institutionalization of compliance is increasing over time.
 
-Observed means identify worker_to_manager as lowest (1.02), and the paired check against manager_to_worker is significantly negative (mean difference −1.34; p < 0.001).
+A compliance institutionalization proxy index was constructed as:
+
+- **Compliance institutionalization index** = hotline_principles + manager_to_worker + worker_to_manager + company_to_worker
+
+This captures formal reporting architecture and vertical accountability/response channels in the coded matrix.
+
+Two tests were estimated:
+
+1. Bivariate correlation with year:
+   - r = **0.1402**
+   - p = **0.0411**
+
+2. OLS with country and industry controls (HC3 robust SE):
+   - Year coefficient = **0.423**
+   - Robust SE = 0.165
+   - p = **0.0101**
+   - Adjusted R² = 0.190
 
 **H5 decision:** **Confirmed**.
 
@@ -279,8 +305,8 @@ Across winsorized, outlier-trimmed, and bootstrap checks, the year effect remain
 - **H1 (positive time trend): Confirmed** in baseline and most robustness tests; weakened significance in narrower subsamples/specifications.
 - **H2 (country differences): Confirmed** by global country ANOVA; Japan and Korea significantly above China in adjusted model.
 - **H3 (industry differences): Partially confirmed** — significant unadjusted cross-industry variation, but no single industry coefficient significant after full controls.
-- **H4 (worker_to_company > hotline): Confirmed**.
-- **H5 (worker_to_manager lowest): Confirmed**.
+- **H4 (company-interest orientation exceeds employee-protection orientation): Confirmed**.
+- **H5 (compliance institutionalization increases over time): Confirmed**.
 - **H6 (composite reliability acceptable): Confirmed**.
 
 ## 8. Objective synthesis of observed patterns
