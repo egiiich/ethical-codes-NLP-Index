@@ -2,7 +2,7 @@
 
 ## 1. Sample and variable structure
 
-The empirical dataset contains 210 corporate documents included in `registry/principle_index_matrix.csv`. Each observation represents one company-level code document with country, industry, and year metadata, plus 11 numeric principle indices. The observed years range from 2004 to 2026. Country coverage includes China (45 documents), Korea (45), Japan (44), Indonesia (40), and Russia (36). 
+The empirical dataset contains 210 corporate documents included in `registry/principle_index_matrix.csv`. Each observation represents one company-level code document with country, industry, and year metadata, plus 11 numeric principle indices. The observed years range from 2004 to 2026. Country coverage includes China (45 documents), Korea (45), Japan (44), Indonesia (40), and Russia (36).
 
 For the purposes of this Results section, the dependent aggregate quality measure is defined as:
 
@@ -20,6 +20,8 @@ Across all 210 observations, the Total Ethics Quality Index has:
 - Maximum = **128**
 
 This indicates substantial dispersion in measured code comprehensiveness across firms and sectors.
+
+To clarify variable meaning, each component index should be interpreted as the **intensity of coded ethical content** in a specific relational domain. For example, `worker_to_company` captures the degree to which documents codify employee duties toward the organization, while `company_to_worker` captures organizational commitments and obligations toward employees. `hotline_principles` reflects institutionalized reporting architecture (whistleblowing channels, reporting procedures, and associated safeguards), whereas `competitor_relations` captures competition-facing principles. This interpretation matters because statistical tests in subsequent subsections compare both total intensity and how intensity is distributed across domains.
 
 ## 2. Descriptive distribution of component indices
 
@@ -45,6 +47,10 @@ Two planned paired mean-difference checks were estimated:
 - Difference (worker_to_manager − manager_to_worker) = **−1.34**, t ≈ −9.23, p < 0.001.
 
 Both differences are statistically significant at conventional thresholds.
+
+The rationale for these paired tests is straightforward: each pair compares two dimensions measured in the **same document**, so a paired design removes document-level scale effects (e.g., some documents are generally longer and score higher across most indices). A significant positive paired difference means the first dimension is systematically more emphasized than the second within documents, not merely across different subsets of firms.
+
+The statistical meaning of the two paired findings is therefore as follows. First, `worker_to_company` content is not only high in absolute mean terms but also consistently exceeds `hotline_principles` within documents. Second, upward-direction norms (`worker_to_manager`) are significantly weaker than downward-direction managerial norms (`manager_to_worker`). These findings are presented descriptively here and then integrated into hypothesis testing where relevant.
 
 ## 3. Principle-level coverage results using the wide matrix
 
@@ -78,6 +84,8 @@ By principle family (using item prefixes):
 
 The item-level profile is consistent with the index-level ranking: worker-to-company and hotline-related coverage are highest, while worker-to-manager and competitor-related coverage are substantially lower.
 
+The statistical relevance of this item-level table is that it serves as a **measurement consistency check**. The numeric indices in `principle_index_matrix.csv` summarize coded detail; the wide matrix shows the underlying item statuses. If high-index domains also show higher `explicit_section` prevalence and low-index domains show higher `absent` prevalence, this supports internal coherence between item coding and aggregated indices. In this sample, that consistency is present.
+
 ## 4. Hypothesis testing results
 
 The following hypotheses were tested ex ante.
@@ -99,6 +107,10 @@ Two tests were run:
    - p = **0.0280**
 
 **H1 decision:** **Confirmed** (significant positive association at 5% level in both bivariate and multivariate specifications).
+
+Why these tests are used: the Pearson correlation provides the unconditional linear association between publication year and total score. OLS with country and industry controls then estimates the **partial** year effect, holding observable composition differences constant. If both are significant and positive, the trend is less likely to be purely compositional.
+
+Meaning of the result: the positive year coefficient in the controlled model implies that, on average, each one-year increase in document year is associated with an increase of about 0.86 points in total index score under the model specification. The p-value below 0.05 indicates that this positive association is statistically distinguishable from zero at conventional significance levels.
 
 ### H2: Country-level differences
 
@@ -126,6 +138,10 @@ In the multivariate OLS with controls, relative to China (reference):
 - Russia: +2.77 (p = 0.599)
 
 **H2 decision:** **Confirmed** (overall country effect significant). In adjusted regression, only Japan and Korea differ significantly from the China reference category.
+
+Why these tests are used: ANOVA evaluates whether **any** group mean differs across countries; it is a global omnibus test. The permutation-based p-value is reported to reduce reliance on strict parametric distributional assumptions for the F-statistic. Controlled OLS then translates country differences into coefficient contrasts under simultaneous adjustment for year and industry composition.
+
+Meaning of the result: eta-squared of 0.049 indicates a modest but non-trivial share of total variance attributable to country grouping in unadjusted analysis. In adjusted analysis, significant positive coefficients for Japan and Korea indicate higher expected total scores relative to China within this sample and model. Non-significant Indonesia/Russia coefficients indicate those contrasts are not statistically distinguishable from zero after controls.
 
 ### H3: Industry-level differences
 
@@ -157,6 +173,10 @@ In the fully adjusted OLS (country + year + industry dummies), none of the indiv
 
 **H3 decision:** **Confirmed** for unadjusted between-industry mean differences; **not confirmed at individual-coefficient level in the fully adjusted model**.
 
+Why these tests are used: as with H2, ANOVA and regression play complementary roles. ANOVA tests broad heterogeneity in means across sectors, while regression tests sector contrasts conditional on country and time controls.
+
+Meaning of the result: the very small ANOVA p-value and eta-squared of 0.286 indicate substantial unadjusted industry stratification. However, loss of individual-industry significance under full controls indicates that part of unadjusted sector differences overlaps with country/time structure and/or limited per-sector sample sizes.
+
 ### H4: Company-centered orientation versus employee-protection orientation
 
 **H4 statement:** Ethical codes revolve more around the interests of the company rather than protect the rights and needs of employees.
@@ -178,6 +198,10 @@ Paired mean-difference test across documents:
 - p < 0.001
 
 **H4 decision:** **Confirmed**.
+
+Why this test is used: H4 is inherently a **within-document comparison** between two orientations derived from the same text. A paired test is the appropriate inferential approach because each document contributes both scores, and the hypothesis concerns their difference.
+
+Meaning of the result: the positive and highly significant paired difference indicates that the company-interest composite is systematically larger than the employee-protection composite in this dataset. The test result therefore supports the directional hypothesis at very strong statistical confidence.
 
 ### H5: Institutionalization of compliance over time
 
@@ -203,6 +227,10 @@ Two tests were estimated:
 
 **H5 decision:** **Confirmed**.
 
+Why these tests are used: the bivariate correlation establishes whether the compliance institutionalization proxy moves upward with time without controls; the controlled OLS tests whether the upward association remains after accounting for country and sector composition.
+
+Meaning of the result: both tests show positive and statistically significant year association. Under the controlled model, a one-year increase is associated with approximately +0.42 points in the compliance institutionalization proxy, indicating measurable temporal strengthening of codified compliance structures in the sample.
+
 ### H6: Composite index reliability is acceptable for model use
 
 **H6 statement:** The 11-dimensional composite has acceptable internal consistency.
@@ -214,6 +242,10 @@ Cronbach’s alpha across the 11 components:
 A principal-component concentration check found first component eigenvalue ≈ 4.297, explaining about **39.1%** of standardized total variance.
 
 **H6 decision:** **Confirmed** (alpha above common reliability threshold of 0.70; first latent component is substantial).
+
+Why these diagnostics are used: when multiple component indices are aggregated into one total score, reliability checks are needed to justify treating the sum as a coherent construct. Cronbach’s alpha evaluates internal consistency of component covariance structure. The first-component concentration check evaluates whether substantial shared variance exists across components.
+
+Meaning of the result: alpha above 0.8 indicates strong internal consistency for this type of composite index. First-component variance near 39% indicates a meaningful common factor structure rather than purely unrelated dimensions. Together, these support model validity for using the total index in inferential regressions.
 
 ## 5. Empirical framework and core model output
 
@@ -243,6 +275,10 @@ Significant coefficients (p < 0.05):
 
 No individual industry dummy was significant in the controlled model at the 5% threshold.
 
+Why OLS with HC3 was selected: the dependent variable is continuous and approximately interval-scaled as an aggregated index. OLS offers interpretable coefficient estimates in score units. HC3 robust errors are used to make inference less sensitive to heteroskedasticity and leverage. Including country and industry dummies adjusts for structural differences that could confound the year coefficient.
+
+Meaning of the model-level results: R² of 0.358 indicates that about 35.8% of observed variation in total scores is explained by included covariates. Adjusted R² of 0.275 accounts for model complexity and indicates moderate explanatory power. The statistically significant year coefficient aligns with H1, while significant Japan/Korea contrasts align with H2. The absence of individually significant industry coefficients under controls should be interpreted jointly with H3’s significant omnibus ANOVA finding: unadjusted heterogeneity exists, but individual adjusted contrasts are less stable at p < 0.05.
+
 ## 6. Model validity and robustness checks
 
 To justify model validity, multiple robustness checks were conducted. The objective here is to evaluate result stability across alternative samples and specifications.
@@ -257,6 +293,10 @@ The total index was winsorized at the 5th and 95th percentiles (cut points: 18 a
 
 The year effect remains positive and statistically significant.
 
+Why this check is used: winsorization dampens potential influence of extreme tails while preserving all observations. If key coefficients remain similar, inference is less likely to depend on a few extreme records.
+
+Meaning: the positive significant year coefficient after winsorization supports the baseline temporal association under reduced tail sensitivity.
+
 ### 6.2 Robustness check B: Outlier-trimmed sample
 
 Observations with total index outside ±3 standard deviations from the mean were removed (n reduced from 210 to 208), and the model was re-estimated.
@@ -266,6 +306,10 @@ Observations with total index outside ±3 standard deviations from the mean were
 - Adjusted R² = **0.244**
 
 The sign and significance status of the year effect remains unchanged.
+
+Why this check is used: unlike winsorization (which retains all rows), trimming fully excludes extreme outliers. Concordance between trimmed and baseline results indicates robustness to influential extremes.
+
+Meaning: the time trend remains positive and significant even after dropping extreme observations, reinforcing result stability.
 
 ### 6.3 Robustness check C: Post-2015 subsample
 
@@ -277,6 +321,10 @@ The model was estimated on observations from 2015 onward (n = 203):
 
 In this reduced time-window subsample, the year coefficient remains positive but is not significant at 5%.
 
+Why this check is used: restricting to recent years tests whether long-run trend significance is driven by broader historical span versus short-window dynamics.
+
+Meaning: sign consistency remains, but reduced significance indicates less statistical precision in the narrow window. This may reflect reduced year variation or lower effective signal-to-noise over the restricted range.
+
 ### 6.4 Robustness check D: Median-split linear probability model
 
 A binary outcome (1 if total index ≥ sample median; 0 otherwise) was modeled with the same predictors.
@@ -287,6 +335,10 @@ A binary outcome (1 if total index ≥ sample median; 0 otherwise) was modeled w
 
 The direction remains positive, with marginal significance at 10% and not at 5%.
 
+Why this check is used: this converts the outcome into a threshold event (above-median quality) and tests whether predictors are associated with category crossing, not just continuous increments.
+
+Meaning: positive coefficient indicates higher year values are associated with higher probability of being in the upper half of quality scores, but significance is weaker than in continuous OLS.
+
 ### 6.5 Robustness check E: Bootstrap confidence interval for year effect
 
 Bootstrap resampling (296 valid draws in the implemented run) produced:
@@ -295,6 +347,10 @@ Bootstrap resampling (296 valid draws in the implemented run) produced:
 - 95% bootstrap interval: [0.074, 1.659]
 
 The interval is fully above zero.
+
+Why this check is used: bootstrap inference relies on empirical resampling rather than only asymptotic normal assumptions; it provides an additional distribution-sensitive uncertainty assessment for the key coefficient.
+
+Meaning: a strictly positive 95% bootstrap interval supports the positive year effect from an alternative inferential lens.
 
 ### 6.6 Summary of robustness evidence
 
@@ -309,8 +365,11 @@ Across winsorized, outlier-trimmed, and bootstrap checks, the year effect remain
 - **H5 (compliance institutionalization increases over time): Confirmed**.
 - **H6 (composite reliability acceptable): Confirmed**.
 
+Interpreting this table statistically: “Confirmed” denotes that the corresponding null hypothesis of no effect/difference was rejected at conventional significance levels under the predefined test framework. “Partially confirmed” denotes that an omnibus condition was satisfied (overall heterogeneity), while stricter coefficient-level conditional contrasts were not all individually significant in the fully adjusted model.
+
 ## 8. Objective synthesis of observed patterns
 
 The results indicate that measured ethics-code quality is heterogeneous across firms (range 11 to 128), with moderate explanatory power from observable temporal and structural covariates (adjusted R² near 0.275 in baseline). The strongest consistently measured dimensions are worker-to-company and hotline principles, while worker-to-manager representation is systematically limited. Country-level differences are statistically detectable, with higher adjusted outcomes for Japan and Korea relative to China in this sample. Industry means differ substantially in unadjusted comparisons, but those contrasts are attenuated after controlling for country and publication year. Reliability diagnostics support use of the 11-index composite for inferential modeling.
 
 No interpretive claims beyond statistical description are introduced in this section.
+
