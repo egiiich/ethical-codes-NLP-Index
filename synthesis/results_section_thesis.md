@@ -6,9 +6,11 @@ The empirical dataset contains 210 corporate documents included in `registry/pri
 
 For the purposes of this Results section, the dependent aggregate quality measure is defined as:
 
-\[
-\text{Total Ethics Quality Index}_i = \sum_{k=1}^{11} \text{PrincipleIndex}_{ik}
-\]
+Total Ethics Quality Index for document *i* = the sum of all 11 principle index scores for that same document.
+
+In plain text form:
+
+`Total Ethics Quality Index (document i) = PrincipleIndex_1i + PrincipleIndex_2i + ... + PrincipleIndex_11i`
 
 where the 11 component indices are: competitor relations, hotline principles, company-to-supplier, worker-to-company, company-to-investors, company-to-people, company-to-buyer, worker-to-worker, manager-to-worker, company-to-worker, and worker-to-manager.
 
@@ -250,6 +252,18 @@ Meaning of the result: alpha above 0.8 indicates strong internal consistency for
 ## 5. Empirical framework and core model output
 
 The main empirical model estimated was:
+
+In plain text form, the baseline regression model is:
+
+`TotalIndex_i = intercept + (year effect * Year_i) + sum of country dummy effects + sum of industry dummy effects + error_i`
+
+Equivalent expanded interpretation:
+
+- `intercept` (`beta_0`) is the baseline expected score for the reference groups.
+- `year effect` (`beta_1`) is the expected score change for a one-year increase.
+- `country dummy effects` (`gamma_c`) are score shifts relative to the reference country.
+- `industry dummy effects` (`delta_s`) are score shifts relative to the reference industry.
+- `error_i` (`epsilon_i`) is the unexplained residual part for document *i*.
 
 \[
 \text{TotalIndex}_i = \beta_0 + \beta_1\text{Year}_i + \sum_c \gamma_c\text{Country}_{ic} + \sum_s \delta_s\text{Industry}_{is} + \varepsilon_i
