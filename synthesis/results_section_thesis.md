@@ -265,10 +265,6 @@ Equivalent expanded interpretation:
 - `industry dummy effects` (`delta_s`) are score shifts relative to the reference industry.
 - `error_i` (`epsilon_i`) is the unexplained residual part for document *i*.
 
-\[
-\text{TotalIndex}_i = \beta_0 + \beta_1\text{Year}_i + \sum_c \gamma_c\text{Country}_{ic} + \sum_s \delta_s\text{Industry}_{is} + \varepsilon_i
-\]
-
 Estimation details:
 
 - Method: OLS with HC3 heteroskedasticity-robust standard errors.
