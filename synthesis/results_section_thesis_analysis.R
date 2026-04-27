@@ -72,9 +72,15 @@ perm_anova <- function(y, group, B = 5000, seed = 42) {
 }
 
 hc3_coef <- function(model, term) {
-  vc <- sandwich::vcovHC(model, type = "HC3")
+  vc <- robust_vcov(model)
   ct <- lmtest::coeftest(model, vcov. = vc)
+  if (!(term %in% rownames(ct))) {
+    stop(sprintf("Requested term '%s' not found in model coefficients.", term))
+  }
   out <- ct[term, , drop = FALSE]
+  if (!all(is.finite(out))) {
+    warning(sprintf("Non-finite inference for term '%s' after robust vcov fallback.", term))
+  }
   list(
     estimate = as.numeric(out[1, 1]),
     se = as.numeric(out[1, 2]),
@@ -83,6 +89,23 @@ hc3_coef <- function(model, term) {
 }
 
 fmt <- function(x, d = 3) format(round(x, d), nsmall = d, trim = TRUE)
+
+robust_vcov <- function(model) {
+  # Preferred: HC3 (as used in the Results section)
+  # Fallback to HC1 if HC3 is non-finite (can happen in high-leverage designs),
+  # and finally to classical vcov to avoid NaN standard errors.
+  vc3 <- tryCatch(sandwich::vcovHC(model, type = "HC3"), error = function(e) NULL)
+  if (!is.null(vc3) && all(is.finite(diag(vc3)))) return(vc3)
+
+  vc1 <- tryCatch(sandwich::vcovHC(model, type = "HC1"), error = function(e) NULL)
+  if (!is.null(vc1) && all(is.finite(diag(vc1)))) {
+    warning("HC3 produced non-finite variances; using HC1 fallback for inference.")
+    return(vc1)
+  }
+
+  warning("HC3 and HC1 produced non-finite variances; using classical vcov fallback.")
+  stats::vcov(model)
+}
 
 # -----------------------------
 # Read data
@@ -272,7 +295,7 @@ country_sds <- aggregate(total_index ~ country, data = idx, FUN = sd)
 country_tbl <- merge(country_means, country_sds, by = "country", suffixes = c("_mean", "_sd"))
 print(country_tbl[order(-country_tbl$total_index_mean), ], row.names = FALSE)
 
-ct <- lmtest::coeftest(base_model, vcov. = sandwich::vcovHC(base_model, type = "HC3"))
+ct <- lmtest::coeftest(base_model, vcov. = robust_vcov(base_model))
 country_rows <- grep("^factor\\(country\\)", rownames(ct))
 cat("\nCountry coefficients (vs reference country):\n")
 print(ct[country_rows, , drop = FALSE])
