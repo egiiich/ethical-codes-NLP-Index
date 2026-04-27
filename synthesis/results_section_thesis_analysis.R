@@ -32,7 +32,11 @@ library(psych)
 # -----------------------------
 # Helpers
 # -----------------------------
-`%||%` <- function(a, b) if (!is.null(a)) a else b
+safe_tab_value <- function(tab, key) {
+  # table() returns NA when indexing a missing key by name; convert to 0
+  if (!(key %in% names(tab))) return(0)
+  as.numeric(tab[[key]])
+}
 
 perm_anova <- function(y, group, B = 5000, seed = 42) {
   set.seed(seed)
@@ -118,6 +122,19 @@ components <- c(
 # Ensure numerics
 for (v in c("year", components)) idx[[v]] <- as.numeric(idx[[v]])
 
+# Guard against accidental NA coercion from parsing
+analysis_vars <- c("year", components)
+na_rows <- !stats::complete.cases(idx[, analysis_vars])
+if (any(na_rows)) {
+  warning(
+    sprintf(
+      "Dropping %d row(s) with NA in required analysis variables after numeric parsing.",
+      sum(na_rows)
+    )
+  )
+  idx <- idx[!na_rows, , drop = FALSE]
+}
+
 # -----------------------------
 # Construct indices used in the document
 # -----------------------------
@@ -198,7 +215,9 @@ print(data.frame(status = names(status_tab), n = as.integer(status_tab),
 
 # Prefix family summary (e.g., COMP, HOT, CtoS...)
 get_prefix <- function(x) {
-  sub("([A-Za-z]+[0-9]*).*", "\\1", x)
+  # Principle columns are like HOT01, CtoW03, COMP10, etc.
+  # Group by family prefix (HOT, CtoW, COMP, ...), not by full item code.
+  sub("[0-9]+$", "", x)
 }
 prefix <- vapply(principle_cols, get_prefix, character(1))
 
@@ -210,9 +229,9 @@ family_summary <- do.call(rbind, lapply(unique(prefix), function(px) {
   data.frame(
     family = px,
     total = total,
-    explicit_section = as.numeric(tb["explicit_section"] %||% 0) / total,
-    brief_mention = as.numeric(tb["brief_mention"] %||% 0) / total,
-    absent = as.numeric(tb["absent"] %||% 0) / total
+    explicit_section = safe_tab_value(tb, "explicit_section") / total,
+    brief_mention = safe_tab_value(tb, "brief_mention") / total,
+    absent = safe_tab_value(tb, "absent") / total
   )
 }))
 
