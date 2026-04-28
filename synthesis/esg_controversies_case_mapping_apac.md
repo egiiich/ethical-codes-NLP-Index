@@ -13,6 +13,7 @@ The Juukan Gorge destruction case illustrates how gaps in stakeholder-sensitive 
 ## Case 3: Toshiba accounting scandal (Japan, 2015) — governance pressure and speak-up constraints
 
 The Toshiba case is a reference point for how pressure-driven management culture can distort reporting and suppress challenge behavior. In matrix logic, this is most relevant to `worker_to_manager`, `manager_to_worker`, `company_to_investors`, and `hotline_principles`. The core lesson is that formal compliance language must be paired with credible managerial accountability and upward voice protection.
+- **Source:** https://www.bbc.com/news/business-33663322
 
 ## Case 4: POSCO governance controversies (Korea, 2021–2022 context) — anti-corruption and board-accountability signals
 
@@ -59,7 +60,7 @@ For the APAC-focused corpus, controversy interpretation should emphasize directi
 - **Что произошло:** в 2017–2021 в Южной Корее развивались громкие судебные процессы, связанные с руководством группы и вопросами governance/комплаенса.
 - **Почему это важно для матриц:** даже при развитых формальных кодексах качество «тона сверху» и реальная управленческая подотчётность остаются критичными (`manager_to_worker`, `company_to_people`, `company_to_investors`).
 - **Связанные блоки:** `manager_to_worker`, `company_to_investors`, `hotline_principles`.
-- **Источник (контекст):** https://www.reuters.com/world/asia-pacific/samsung-heir-lee-jae-yong-paroled-2021-08-09/
+- **Источник (контекст):** https://apnews.com/article/ec012d7d7d171971810e27bd76528d86
 
 ---
 
@@ -69,7 +70,7 @@ For the APAC-focused corpus, controversy interpretation should emphasize directi
 - **Что произошло:** в разные годы компания сталкивалась с крупными волнами отзывов, а в 2024 публично обсуждались вопросы тестирования/сертификационных практик в автосекторе Японии.
 - **Почему это важно для матриц:** показывает, что сбои в `worker_to_manager` и `manager_to_worker` (передача «плохих новостей» вверх и корректирующих сигналов вниз) напрямую влияют на безопасность продукта и доверие покупателей.
 - **Связанные блоки:** `worker_to_manager`, `manager_to_worker`, `company_to_buyer`, `company_to_people`.
-- **Источник (контекст):** https://global.toyota/en/newsroom/corporate/ 
+- **Источник (контекст):** https://apnews.com/article/26585a96df2a32f7d67a4011a0a98772 
 
 ---
 
@@ -79,7 +80,7 @@ For the APAC-focused corpus, controversy interpretation should emphasize directi
 - **Что произошло:** в 2019–2025 компания находилась под сильным санкционным и регуляторным давлением на разных рынках.
 - **Почему это важно для матриц:** при внешнем комплаенс-давлении резко возрастает важность документированной цепочки решений, точности внешних заявлений и качества внутренних каналов эскалации.
 - **Связанные блоки:** `company_to_investors`, `company_to_people`, `hotline_principles`, `competitor_relations`.
-- **Источник (регуляторный контекст BIS):** https://www.bis.gov/
+- **Источник (регуляторный контекст BIS):** https://www.bis.gov/press-release/commerce-department-adds-huawei-technologies-co-ltd-entity-list
 
 ---
 
